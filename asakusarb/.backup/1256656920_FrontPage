@@ -1,0 +1,47 @@
+* Asakusa.rb
+Asakusa.rbは、東京下町周辺のRuby技術者たちが集まって何かをハックする地域Rubyistコミュニティです。~
+また、[[Seattle.rb|http://seattlerb.rubyforge.org/]]のように、活動を通して少しでもRubyコミュニティ全体に還元できるようなプロダクトやノウハウ等の成果を残していくことができたらいいなぁ、と考えています。じっさいに、Seattle.rbのdrbrainにどんなふうにやっているのか[[訊いてみました|000_Log]]。
+
+念のため補足しておきますと「下町周辺とか浅草界隈に在住・通勤している人でなければ参加できない」というわけではありません。どなたでも参加は歓迎です。
+
+* FAQ
+
+** なにやってんの?
+
+特にこれ、ということはなくて、集まった人たちでRubyに関する何か(ハックとか雑談とか)をやってます。お気軽にお立ち寄りください。
+
+2009年9月頃から'''[[RubySpec]]を触ろうキャンペーン中です!!!!'''
+
+asakusa.rbの集まりへの参加方法は[[MeetUp]]のページを参照してください。これまでの開催の雰囲気は[[History]]が参考になるかもしれません。また、ときどきRuby関連のイベントでの発表なんかもやってます。
+
+** うちの近所に浅草はないんですけど……
+
+港区赤坂方面には[[Akasaka.rb|http://akasakarb.org/]]が、東急沿線には[[Tokyu.rb|http://qwik.jp/tokyurb/]]があります。西のほうには[[Miataka.rb|http://groups.google.co.jp/group/mitakarb]]もあります。
+
+** 公式サイトはないの?
+
+ここは qwik.jp なのですが、公式URLは http://asakusa.rubyist.net/ です(qwik.jpにリダイレクトされてくるけど)
+
+* Asakusa.rb に加入するには
+以下のようなメールを、当ML宛てに送信してください。
+- To: asakusarb あっと qwik.jp
+- Cc: ronnie あっと dio.jp
+- Subject: 「参加します」 とかそんな感じで。
+- Body: 何かてきとうにひとこと。
+加入手続きはたったのこれだけです！みなさまどうぞ奮ってご参加ください！
+
+* 公式タグ
+
+** Twitterでのハッシュタグ
+
+TwitterでAsakusa.rb関連で何かつぶやくときは [[#asakusarb|http://search.twitter.com/search?q=asakusarb]] をつけてもらえるとうれしいです。
+
+** ソーシャルブックマーク
+
+ブログの記事などは asakusarb でブクマしてもらえるとうれしいです。
+
+* IRC
+以下のチャンネルで、だらだらと IRCチャットが開かれています。
+ #asakusa.rb @ IRCnet (ISO-2022-JP)
+
+

@@ -1,0 +1,120 @@
+* 第31回Asakusa.rb(2009-1-19)
+{{mail(shintaro.kakutani@gmail.com,1263352296)
+昨日の浅草jpmobile会議01にお越しいただいた皆さまありがとうございました。
+盛況だったと思います :)
+
+さて来週の[[Meetup]]ですが、
+上野御徒町の永和で開催するなら、誰か永和の人、インターホン係やってもらえませんか?
+(わたしはオフィスには居るんですけど19:00から来客なので……)
+
+開催場所候補もお待ちしております :<
+
+meetupについては、http://qwik.jp/asakusarb/Meetup.html も参照してください。
+}}
+{{mail(ko1@atdot.net,1263354008)
+(2010/01/13 12:11), KAKUTANI Shintaro wrote::
+> 開催場所候補もお待ちしております :<
+
+　来週は20時くらいまで本郷にいそうな感じです．しんどい．
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(shintaro.kakutani@gmail.com,1263358480)
+2010/1/13 SASADA Koichi <ko1@atdot.net>:
+> (2010/01/13 12:11), KAKUTANI Shintaro wrote::
+>> 開催場所候補もお待ちしております :<
+>
+> 来週は20時くらいまで本郷にいそうな感じです．しんどい．
+
+おつかれさまです!
+}}
+{{mail(shintaro.kakutani@gmail.com,1263802613)
+あした、私はインターホン係ができなくて、ko1さんは本郷なんだけど、
+どーしましょ。今日じゅうにやる/やらないを决めたいです。
+
+2010/1/13 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> 2010/1/13 SASADA Koichi <ko1@atdot.net>:
+>> (2010/01/13 12:11), KAKUTANI Shintaro wrote::
+>>> 開催場所候補もお待ちしております :<
+>>
+>> 来週は20時くらいまで本郷にいそうな感じです．しんどい．
+>
+> おつかれさまです!
+>
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(takkanm@gmail.com,1263803645)
+あ、わたしでれるはずです。
+
+そういや、昨日のRails勉強会の後に、松田さんが浅草にもjpmobileのコミッターが量産されたので、
+2回目やりますかみたいな話をされてました。
+
+2010年1月18日17:16 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> あした、私はインターホン係ができなくて、ko1さんは本郷なんだけど、
+> どーしましょ。今日じゅうにやる/やらないを决めたいです。
+>
+> 2010/1/13 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+>> 2010/1/13 SASADA Koichi <ko1@atdot.net>:
+>>> (2010/01/13 12:11), KAKUTANI Shintaro wrote::
+>>>> 開催場所候補もお待ちしております :<
+>>>
+>>> 来週は20時くらいまで本郷にいそうな感じです．しんどい．
+>>
+>> おつかれさまです!
+>>
+>
+>
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack031.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ronnie@dio.jp,1263804442)
+On Mon, 18 Jan 2010 17:34:02 +0900
+takkanm@gmail.com wrote:
+
+> あ、わたしでれるはずです。
+
+お。じゃあ参加します。
+よろしくお願いします。
+
+> そういや、昨日のRails勉強会の後に、松田さんが浅草にもjpmobileのコミッターが量産されたので、
+> 2回目やりますかみたいな話をされてました。
+
+いや、ああいう形の2回目っていうのは、だらさんの都合も考えて
+いずれそのうち、ということになると思うんですが、
+さしあたって当面はjpmobile強化月間ということで、
+普段の火曜日でもjpmobileをあれこれいじったりする
+「jpmobile分科会」みたいなのをやっても面白いかもね、
+というようなことを思っただけです。
+
+とはいえ、肝心のjpmobile-rackのリポジトリが空っぽなので
+明日はまだっぽいかな？
+http://github.com/darashi/jpmobile-rack
+
+-- 
+Akira Matsuda <ronnie@dio.jp>
+}}
+{{mail(sakuro@2238club.org,1263823406)
+出席します。
+
+2010年1月18日17:47 Akira Matsuda <ronnie@dio.jp>:
+
+> とはいえ、肝心のjpmobile-rackのリポジトリが空っぽなので
+
+空っぽのうちに初期設計に声を上げてみたい気持ちもありますねぇ。
+
+-- 
+OZAWA Sakuro
+
+"The future will be better tomorrow." --Dan Quayle
+}}

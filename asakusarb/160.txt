@@ -1,0 +1,280 @@
+* 大江戸Ruby会議懇親会参加費
+{{mail(kukodeu@gmail.com,1301637966)
+久保＠万葉です。
+
+懇親会の登録をして、
+カードで支払いもしたのですが
+
+Asakusa.rbからのお知らせ：大江戸Ruby会議01 懇親会の参加費は前払いとなっております
+
+というメールが2通きてしまいました。
+支払いが失敗してるのでしょうか～？
+
+-- 
+◇ 株式会社万葉 ◇
+専務取締役　久保優子
+y.kubo@everyleaf.com
+http://everyleaf.com/
+}}
+{{mail(shintaro.kakutani@gmail.com,1301639078)
+かくたにです。
+
+Doorkeeperの管理画面では「未払い」になってますねえ。
+hsbtのPayPalアカウントのtransaction historyではどうなってます??
+
+久保さんのPayPalからのReceiptメールみたいなのがあれば、
+hsbt 宛に送ってもらってよいでしょうか。
+shibata dot hiroshi at gmail dot com でいいのかな。
+
+
+On 2011年4月1日金曜日 at 15:05, yuko kubo wrote:
+久保＠万葉です。
+> 
+> 懇親会の登録をして、
+> カードで支払いもしたのですが
+> 
+> Asakusa.rbからのお知らせ：大江戸Ruby会議01 懇親会の参加費は前払いとなっております
+> 
+> というメールが2通きてしまいました。
+> 支払いが失敗してるのでしょうか～？
+
+}}
+{{mail(paul@mobalean.com,1301639411)
+Doorkeeperのポールです。
+
+大変なことすみませんでした。
+
+logを調べてみましたが、Paypalから久保さんのtransactionがありません。
+残念ながら、hsbtさんだけがPaypalの側で確認できます。
+
+2011/4/1 Shintaro Kakutani <shintaro.kakutani@gmail.com>:
+> かくたにです。
+>
+> Doorkeeperの管理画面では「未払い」になってますねえ。
+> hsbtのPayPalアカウントのtransaction historyではどうなってます??
+>
+> 久保さんのPayPalからのReceiptメールみたいなのがあれば、
+> hsbt 宛に送ってもらってよいでしょうか。
+> shibata dot hiroshi at gmail dot com でいいのかな。
+>
+>
+> On 2011年4月1日金曜日 at 15:05, yuko kubo wrote:
+> 久保＠万葉です。
+>>
+>> 懇親会の登録をして、
+>> カードで支払いもしたのですが
+>>
+>> Asakusa.rbからのお知らせ：大江戸Ruby会議01 懇親会の参加費は前払いとなっております
+>>
+>> というメールが2通きてしまいました。
+>> 支払いが失敗してるのでしょうか～？
+>
+>
+>
+}}
+{{mail(shibata.hiroshi@gmail.com,1301639798)
+柴田です。
+
+> Doorkeeperの管理画面では「未払い」になってますねえ。
+> hsbtのPayPalアカウントのtransaction historyではどうなってます??
+>
+> 久保さんのPayPalからのReceiptメールみたいなのがあれば、
+> hsbt 宛に送ってもらってよいでしょうか。
+> shibata dot hiroshi at gmail dot com でいいのかな。
+
+私の paypal でも transaction は見当たりませんでした。
+
+角谷さんのメールと前後してしまいましたが、久保さんに直接連絡を
+して返事をもらったところでした。
+
+paypal アカウントではなくクレジットカードで支払いという処理との
+ことで、時間差があるのかもしれません。
+もう少し待つと paypal に入金結果が出てくる?
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(kukodeu@gmail.com,1301639991)
+久保です。
+
+色々とお手数をおかけしてしまい申し訳ありません。
+m(_ _)m
+
+2011年4月1日15:36 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 柴田です。
+>
+>> Doorkeeperの管理画面では「未払い」になってますねえ。
+>> hsbtのPayPalアカウントのtransaction historyではどうなってます??
+>>
+>> 久保さんのPayPalからのReceiptメールみたいなのがあれば、
+>> hsbt 宛に送ってもらってよいでしょうか。
+>> shibata dot hiroshi at gmail dot com でいいのかな。
+>
+> 私の paypal でも transaction は見当たりませんでした。
+>
+> 角谷さんのメールと前後してしまいましたが、久保さんに直接連絡を
+> して返事をもらったところでした。
+>
+> paypal アカウントではなくクレジットカードで支払いという処理との
+> ことで、時間差があるのかもしれません。
+> もう少し待つと paypal に入金結果が出てくる?
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/160.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+◇ 株式会社万葉 ◇
+専務取締役　久保優子
+y.kubo@everyleaf.com
+http://everyleaf.com/
+}}
+{{mail(paul@mobalean.com,1301642748)
+ポールです。
+
+2011/4/1 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> もう少し待つと paypal に入金結果が出てくる?
+
+Paypalの方と話しましたが、６０秒以内レスポンスがあると聞きました。
+ですので、もう一度クレジットカードを入力したほうがいいと思います。
+もしかして、Paypalの方が間違えったら、３ヶ月以内無料で払い戻しが出来るので、安心してください。
+}}
+{{mail(shibata.hiroshi@gmail.com,1301702679)
+柴田です。
+
+今朝見ると久保さんのステータスがキャンセルになっていましたが
+paypal 側も含めてもう一度申し込んでいただけないでしょうか?
+
+色々お手数をおかけしていますがよろしくお願いします。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(shintaro.kakutani@gmail.com,1301705035)
+まあ、久保さんなら面も割れてるので ;)、
+paypalでうまくいかないなら現金でもいいかなあ、という気もきます。
+
+On Saturday, April 2, 2011, SHIBATA Hiroshi <shibata.hiroshi@gmail.com> wrote:
+> 柴田です。
+>
+> 今朝見ると久保さんのステータスがキャンセルになっていましたが
+> paypal 側も含めてもう一度申し込んでいただけないでしょうか?
+>
+> 色々お手数をおかけしていますがよろしくお願いします。
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/160.html
+> ML-> asakusarb@qwik.jp
+>
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(kukodeu@gmail.com,1301886749)
+久保です。
+色々とご迷惑をおかけして申し訳ありません。
+
+再度申し込みしようとしたら
+締め切られていましたorz
+
+現金で参加お願いできたら嬉しいですが
+だめでしょうか～(;_;)
+
+2011年4月2日9:43 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> まあ、久保さんなら面も割れてるので ;)、
+> paypalでうまくいかないなら現金でもいいかなあ、という気もきます。
+>
+> On Saturday, April 2, 2011, SHIBATA Hiroshi <shibata.hiroshi@gmail.com> wrote:
+>> 柴田です。
+>>
+>> 今朝見ると久保さんのステータスがキャンセルになっていましたが
+>> paypal 側も含めてもう一度申し込んでいただけないでしょうか?
+>>
+>> 色々お手数をおかけしていますがよろしくお願いします。
+>>
+>> --
+>> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+>> http://www.hsbt.org/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/160.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/160.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+◇ 株式会社万葉 ◇
+専務取締役　久保優子
+y.kubo@everyleaf.com
+http://everyleaf.com/
+}}
+{{mail(shintaro.kakutani@gmail.com,1301886903)
+2011/4/4 yuko kubo <y.kubo@everyleaf.com>:
+> 現金で参加お願いできたら嬉しいですが
+> だめでしょうか～(;_;)
+
+よいと思います!!
+ドタキャンされたら神保町に取りたてにいけばいいのかな :)
+}}
+{{mail(kukodeu@gmail.com,1301887077)
+ありがとうございます！
+ぜひ神保町に取り立てに来てください:)
+(いや、ドタキャンしませんが！)
+
+2011年4月4日12:14 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 2011/4/4 yuko kubo <y.kubo@everyleaf.com>:
+>> 現金で参加お願いできたら嬉しいですが
+>> だめでしょうか～(;_;)
+>
+> よいと思います!!
+> ドタキャンされたら神保町に取りたてにいけばいいのかな :)
+>
+> --
+> archive-> http://qwik.jp/asakusarb/160.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+◇ 株式会社万葉 ◇
+専務取締役　久保優子
+y.kubo@everyleaf.com
+http://everyleaf.com/
+}}
+{{mail(shibata.hiroshi@gmail.com,1301891868)
+柴田です。
+
+> 再度申し込みしようとしたら
+> 締め切られていましたorz
+>
+> 現金で参加お願いできたら嬉しいですが
+> だめでしょうか～(;_;)
+
+何か色々すみません。
+現金で大丈夫ですのでお待ちしております!
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}

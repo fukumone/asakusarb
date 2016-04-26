@@ -1,0 +1,42 @@
+* History
+最近のものから順番に並んでます。参加希望のかたは[[Meetup]]のページを参照してください。
+
+- [[hack311]]
+- [[hack310]]
+- [[hack309]]
+- [[hack308]]
+- [[hack307]]
+- [[hack306]]
+- [[hack305]]
+- [[hack304]]
+- [[hack303]]
+- [[hack302]] * 花見
+- [[hack301]]
+- [[hack300]]
+- [[hack299]]
+- [[hack298]]
+- [[hack297]]
+- [[hack296]]
+- [[hack295]]
+- [[hack294]]
+- [[hack293]]
+- [[hack292]]
+- [[hack291]]
+- [[hack290]] → 2015/01/06 新年会
+
+* 前年までの活動履歴
+
+- [[History2014]]
+- [[History2013]]
+- [[History2012]]
+- [[History2011]]
+- [[History2010]]
+- [[History2009]]
+- [[History2008]]
+
+* 活動履歴テンプレのつくりかた
+
+- まず、このページに [[hackNNN]] のリンクをつくる
+- リンク先 のページに「* 第NNN回Asakusa.rb(YYYY-MM-DD)」という見出しをつける
+- asakusarb at qwik dot jp に↑と同じSubject(第NNN回Asakusa.rb(YYYY-MM-DD))のメールを出す
+- 本文には「参加希望者はこのメールに返信してください」というお願いと、会場の情報を含めるとよいでしょう

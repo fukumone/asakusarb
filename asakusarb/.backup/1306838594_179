@@ -1,0 +1,104 @@
+* お勧めRailsアプリ
+{{mail(nakahiro@gmail.com,1306831726)
+どなたか今日、以下のようなRailsアプリのお勧めをお願いできませんでしょうか。
+
+・機能は少なめ（ベンチマークが簡単）
+・依存ライブラリ多め（シンプル過ぎないw）
+・新しいRails: 3系 + bundler（古いと開発者が見捨てるのが早そう）
+・C拡張を使っていない（JRubyでも動く）
+・作りが標準的（ベンチマークとして使うため）
+・ライセンスが面倒でない（発表で使ったりするので）
+
+すぐに欲しいのはrequireのベンチマークとしての利用ですが、いずれメモリ使用量や性能も見てみたいと思っています。何がよいでしょう？
+}}
+{{mail(shibata.hiroshi@gmail.com,1306832769)
+弊社のCMSで rubyagile というものがあります。
+
+https://github.com/esminc/rubyagile
+
+JRuby で動くかはわかりませんが、割と素朴な作りです。
+つい最近 Rails3 にバージョンアップしました。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(gunjisatoshi@rikuga.me,1306837331)
+郡司です。
+
+BlogCastとかどうでしょうか。
+MIT Licenseのようですね。
+
+https://github.com/hkairi/BlogCast
+
+依存ライブラリはあんまりなさそうですが‥‥。
+
+
+From: Hiroshi Nakamura <nakahiro@gmail.com>
+Subject: [asakusarb:2210] お勧めRailsアプリ
+Date: Tue, 31 May 2011 17:48:25 +0900
+
+> どなたか今日、以下のようなRailsアプリのお勧めをお願いできませんでしょうか。
+> 
+> ・機能は少なめ（ベンチマークが簡単）
+> ・依存ライブラリ多め（シンプル過ぎないw）
+> ・新しいRails: 3系 + bundler（古いと開発者が見捨てるのが早そう）
+> ・C拡張を使っていない（JRubyでも動く）
+> ・作りが標準的（ベンチマークとして使うため）
+> ・ライセンスが面倒でない（発表で使ったりするので）
+> 
+> すぐに欲しいのはrequireのベンチマークとしての利用ですが、いずれメモリ使用量や性能も見てみたいと思っています。何がよいでしょう？
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/179.html 
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(hotchpotch@gmail.com,1306837604)
+secondlife です。
+
+typo (blog ツール)とかどうでしょう。
+https://github.com/fdv/typo/blob/master/Gemfile
+そこそこのGemfile で、MITライセンスで、今後も開発が続きそうな感じです。
+
+作りが標準的かどうかはソース追ってないのでわかりませんが…。
+
+2011年5月31日19:20 Satoshi GUNJI <gunjisatoshi@rikuga.me>:
+> 郡司です。
+>
+> BlogCastとかどうでしょうか。
+> MIT Licenseのようですね。
+>
+> https://github.com/hkairi/BlogCast
+>
+> 依存ライブラリはあんまりなさそうですが‥‥。
+>
+>
+> From: Hiroshi Nakamura <nakahiro@gmail.com>
+> Subject: [asakusarb:2210] お勧めRailsアプリ
+> Date: Tue, 31 May 2011 17:48:25 +0900
+>
+>> どなたか今日、以下のようなRailsアプリのお勧めをお願いできませんでしょうか。
+>>
+>> ・機能は少なめ（ベンチマークが簡単）
+>> ・依存ライブラリ多め（シンプル過ぎないw）
+>> ・新しいRails: 3系 + bundler（古いと開発者が見捨てるのが早そう）
+>> ・C拡張を使っていない（JRubyでも動く）
+>> ・作りが標準的（ベンチマークとして使うため）
+>> ・ライセンスが面倒でない（発表で使ったりするので）
+>>
+>> すぐに欲しいのはrequireのベンチマークとしての利用ですが、いずれメモリ使用量や性能も見てみたいと思っています。何がよいでしょう？
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/179.html
+>> ML-> asakusarb@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/asakusarb/179.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(nakahiro@gmail.com,1306838594)
+みなさんありがとうございます。確認は私がやりますので、気にせずどうぞ。
+すでに会場入りしているんですが（素晴らしい環境です。。。）、CRuby
+1.9.3向けの駆け込みpatchを思い出したので、そちらを優先しようと思います。すいません。
+}}

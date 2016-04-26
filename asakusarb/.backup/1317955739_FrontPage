@@ -1,0 +1,66 @@
+[[http://qwik.jp/asakusarb/FrontPage.download/asakusarb-m.png]]
+
+* About (English)
+
+Asakusa.rb is probably the most active regional Rubyist group in Japan. We're having weekly meetup on every '''Ruby Tuesday''' evening at somewhere around Asakusa.~
+So, if you have a chance to spend a day on Tuesday in Tokyo, come and join our meetup (or drink up)! We're always welcoming foreign guest :)~
+To take a contact to us, please tweet with a hashtag '#asakusarb', or send [[@a_matsuda|https://twitter.com/a_matsuda]] a message.
+
+** News
+- 2011-10-06(JST): '''Akira Matsuda([[@a_matsuda|http://twitter.com/a_matsuda]]), one of the founders of Asakusa.rb will be a new Ruby committer!!!!'''  see also. [[[ruby-dev:44580]|http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/44580]]
+- 2011-10-02(CST): Asakusa.rb meets Seattle.rb @ RubyConf 2011 !!! http://qwik.jp/asakusarb/hack126.html (Japanese)
+- on RubyConf 2009, Akira Matsuda, founder of Askausa.rb gave a short talk about Asakusa.rb on RubyConf 2009! -> http://www.slideshare.net/a_matsuda/asakusarb-rocks
+- on RubyKaigi2010: Yey!! Now Asakusa.rb and [[SF Ruby|http://www.meetup.com/sfruby]] are [[sister meetup!!|http://www.sarahmei.com/blog/2010/09/01/asakusa-rb/]]
+
+If you're looking for a Rubyist meetup with Non-Japanese in Tokyo, Don't miss [[Tokyo Rubyist Meetup|http://www.tokyorubyistmeetup.org/]]
+
+* Asakusa.rbとは
+
+Asakusa.rbは、東京下町周辺のRuby技術者たちが集まって何かをハックする地域Rubyistコミュニティです。~
+また、[[Seattle.rb|http://seattlerb.rubyforge.org/]]のように、活動を通して少しでもRubyコミュニティ全体に還元できるようなプロダクトやノウハウ等の成果を残していくことができたらいいなぁ、と考えています。じっさいに、Seattle.rbのdrbrainにどんなふうにやっているのか[[訊いてみました|000_Log]]。
+
+念のため補足しておきますと「下町周辺とか浅草界隈に在住・通勤通学している人でなければ参加できない」というわけではありません。どなたでも参加は歓迎です。
+
+- 発起人: [[@a_matsuda|http://twitter.com/a_matsuda]], [[@kakutani|http://twitter.com/kakutani]], [[@_ko1|http://twitter.com/_ko1]]
+- 公式URL: http://asakusa.rubyist.net/ ( qwik.jpのこのページへのリダイレクトだったりする)
+- 公式twitterアカウント: http://twitter.com/asakusarb
+- 公式タグ: asakusarb ([[B!|http://b.hatena.ne.jp/t/asakusarb?sort=eid]])
+- 公式ハッシュタグ:  [[#asakusarb|http://search.twitter.com/search?q=asakusarb]]
+- Asakusa.rbメンバー一覧(Twitterリスト): [[http://twitter.com/a_matsuda/asakusa-rb]]
+
+* Asakusa.rbに参加したい！
+
+Rubyistならどなたでも歓迎します。まずは、メーリングリストに参加してください。参加方法は「[[HowToJoin]]」のページの要領でメールを1通だすだけです!~
+IRCやTwitterでもコンタクトできますので、[[Contacts]]のページも参照してください。~
+それから、Asakusa.rbはオンラインコミュニティではなくてあくまで地域密着型ユーザーグループなので、MLに参加したらぜひ毎週火曜日のmeetupにも足をお運びください!
+
+* Asakusa.rbってなにやってんの?
+
+特にこれ、ということはなくて、集まった人たちでRubyに関する何か(ハックとか雑談とか)をやってます。お気軽にお立ち寄りください。~
+Asakusa.rbの集まりへの参加方法は[[Meetup]]のページを参照してください。これまでの開催の雰囲気は[[History]]が参考になるかもしれません。~
+ときどきRuby関連のイベントでの発表なんかもやってます。
+
+オンラインでの連絡手段は[[Contacts]]にまとめてます。
+
+* 重要なお知らせ
+- '''2010-12-04 [[札幌Ruby会議03|http://regional.rubykaigi.org/sapporo03]] にfounderの @a_matsuda をはじめ、たくさんの Asakusa.rb メンバーが登壇したり参加したりしました! ごちそうさまでした!'''
+- 2010-08-29 Asakusa.rbは[[SF Ruby|http://www.meetup.com/sfruby]]と[[姉妹.rb|http://www.sarahmei.com/blog/2010/09/01/asakusa-rb/]]になりました
+- 2010-08-27から始まるRubyKaigi2010にAsakusa.rbも企画で参加しました!! 待て続報!!'''
+- [[2010-06-01に第50回Asakusa.rb|hack050]]を開催します!!
+- Asakusa.rbは4/19, 4/20のQConTokyo 2010のコミュニティBOFに参加します。RubyやRails、Rubyコミュニティにまつわる最新トピックを参加者の皆さんと気軽にディスカッションしたいと思ってます。くわしくは、 http://qcontokyo.com/conferenceparty.html を。
+- 2010年もAsakusa.rbは花見をやります!!! 候補日は、3/27～4/4の週末です。くわしくは、 http://tweetvite.com/event/asakusarb_hanami2010 を。
+
+* FAQ
+
+** 「Asakusa.rbから来ました」的なスライドをプレゼンで使いたいんだけど?
+
+どうぞ:
+
+- http://qwik.jp/asakusarb/FrontPage.download/asakusarb-takkanm.png
+- http://qwik.jp/asakusarb/FrontPage.download/asakusarb-takkanm.tiff
+
+takkanm撮影のオリジナル画像は[[Flickrにあります|http://www.flickr.com/photos/takkanm/3978417669/]]。
+
+** うちの近所に浅草はないんですけど……
+
+港区赤坂方面には[[Akasaka.rb|http://akasakarb.org/]]が、東急沿線には[[Tokyu.rb|http://qwik.jp/tokyurb/]]があります。西のほうには[[Mitaka.rb|http://groups.google.co.jp/group/mitakarb]]もあります。

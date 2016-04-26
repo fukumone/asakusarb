@@ -1,0 +1,10 @@
+* prefetch-rspecのリリースについて
+{{mail(takkanm@gmail.com,1318943143)
+secondlife さん
+
+takkanmです。prefetch-rspecをRails3で使っているとでるwarningを修正していたりします。
+https://github.com/asakusarb/prefetch-rspec/pull/3
+
+修正していて気になったですが、
+Gemのアップデートはいつやるとか構想はありますでしょうか?
+}}

@@ -1,0 +1,75 @@
+* Fwd: [swopp-announce:139572] The 1st IST Christmas lectures ウェブの情報科学
+{{mail(ko1@atdot.net,1260775519)
+　ささだです．
+
+　Asakusa.rb にはこういうのに興味がある人もいるかと思って転送します．行
+きたかったんだけど，私は用事があって行けないのです．残念．
+
+　twitter の偉い人が来るらしいですよ．
+
+
+-------- Original Message --------
+Subject: [swopp-announce:139572] The 1st IST Christmas lectures ウェブの
+情報科学
+Date: Sun, 13 Dec 2009 21:37:35 +0900
+From: Fuyuko Kido <kido@is.s.u-tokyo.ac.jp>
+Reply-To: swopp-announce-admin@hpcc.jp
+To: swopp-announce <swopp-announce@hpcc.jp>
+CC: Fuyuko Kido <kido@is.s.u-tokyo.ac.jp>
+
+SWoPP MLの皆様
+
+東大情報理工の木戸です。
+MLをお借りして，The 1st IST Christmas lectures
+ウェブの情報科学のご案内をさせていただきます．
+
+事前申し込み不要となっておりますので，
+奮ってご参加くださいますよう、 よろしくお願い申し上げます．
+
+==================================
+The 1st IST Christmas lectures
+「ウェブの情報科学」
+
+The 1st IST Christmas lectures ウェブの情報科学は、
+東京大学情報理工学系研究科の「情報理工学英語コース」の
+開講を記念して開催するクリスマス特別講義です。
+紫綬褒章を受勲した米澤明憲教授の記念講義を中心に、
+米澤教授が拓いた並列オブジェクト指向技術とその応用分野の一つであり、
+ウェブの最先端のサービスを有するTwitter、さらにGoogleの講師により、
+ウェブの情報処理技術を紹介します。
+
+          ＜記＞
+
+日時：2009年12月22日（火）15:00－18:20 （開場14:30）
+会場：東京大学 本郷キャンパス 工学部2号館 1階213大講堂
+http://www.u-tokyo.ac.jp/campusmap/cam01_04_03_j.html
+使用言語：英語
+参加費：無料，事前申し込み不要
+URL: http://www.i.u-tokyo.ac.jp/news/event/091203_1.shtml
+
+司会：萩谷昌己（東京大学大学院情報理工学系研究科・副研究科長・教授）
+
+15:00-15:05 開会の挨拶
+下山勲 （東京大学大学院情報理工学系研究科・研究科長・教授）
+
+15:05-15:45 招待講義#1：Discovery & Emergence
+Dr. Abdur CHOWDHURY (Chief Scientist, Twitter)
+15:45-16:25 招待講義#2：Ideas about Innovation
+徳生健太郎（製品本部長, Google）
+
+<16:25-16:35 Coffee Break>
+
+16:25-17:15 紫綬褒章受勲記念講義：
+Large Scale Applications of Concurrent Objects
+- Second Life, Twitter Systems, and Molecular Dynamics Computing -
+米澤明憲（東京大学 情報基盤センター長・教授）
+17:15-18:15 パネルディスカッション「Web サービスの未来」
+Panelist:
+Abdur CHOWDHURY（Twitter） / 徳生健太郎（Google）/ 米澤明憲（東京大学）
+Moderator:
+岡野原大輔（Preferred Infrastructure）
+18:15-18:20 閉会の挨拶
+萩谷昌己（東京大学大学院情報理工学系研究科・副研究科長・教授）
+
+19:00-21:00 交流会（工学部2号館 3階電気系会議室 1A-1C（部屋番号：33A））
+}}

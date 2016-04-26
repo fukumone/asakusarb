@@ -1,0 +1,52 @@
+* RubySpec作業中
+
+[[RubySpec]]で調査してみたもののリスト。[[RedMine|http://rubyspec.org/projects/rubyspec/issues]]に登録したものは消していこう。
+
+** ターゲット: 1.8.7
+
+FとEは区別してません。
+
+*** WIP
+-core/binding/eval_spec.rb
+-- 単にHashの実行順のもんだいだと思う-> (redmineに報告する), kakutani
+
+-core/kernel/__method__spec.rb
+-- __method__ の仕様なんてサッパリわからんwww http://github.com/kakutani/rubyspec/commit/2a7058a06b44828aa57ab8b7ff98600a7b7931db
+
+-library/bigdecimal/to_i_spec.rb
+-- ちょっとしらべた。1.8.6から1.8.7とtrunkで挙動かわってる気がする(kakutani) http://gist.github.com/202048
+
+-library/bigdecimal/to_int_spec.rb
+-- to_intと同じ問題だと思う(kakutani)
+
+-library/enumerator/next_spec.rb
+-- Enumerator#next で StopIteration 例外が発生している enum に対してさらに next を呼ぶと最初に戻ってる。これはtrunkの未バックポート? それとも仕様?
+-- ↑ 勇気を出して聞いてみたよ! -> [[[ruby-dev:39413]|http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/39413]]
+
+-library/parsedate/parsedate_spec.rb
+-- これも仕様を勘違いしている気がする(kakutani) (もうちょっと詳しい人にききたい)
+
+以下3つは、
+
+-library/complex/numeric/angle_spec.rb
+-library/complex/numeric/arg_spec.rb
+-library/complex/numeric/polar_spec.rb
+
+redmineの http://redmine.ruby-lang.org/issues/show/1715 と関係あるっぽいけどわかんない。
+
+↑これが1.8.7p174でも修正されてない(というかチケット閉じられてる)のでスキップしても、
+
+http://github.com/rubyspec/rubyspec/blob/master/shared/complex/numeric/arg.rb
+
+の35行目で止まる("This was established in r23960"だそうな)。
+
+
+*** 未着手
+
+-library/conditionvariable/broadcast_spec.rb
+-library/mathn/bignum/exponent_spec.rb
+-library/mathn/fixnum/exponent_spec.rb
+
+** ターゲット: 1.9
+
+(勇者求ム)

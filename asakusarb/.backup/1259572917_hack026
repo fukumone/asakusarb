@@ -1,0 +1,102 @@
+* 第26回Asakusa.rb(2009-12-01)
+
+{{mail(shintaro.kakutani@gmail.com,1259542347)
+特にご意見なければ [[esm_ueno]] で開催ですかねえ。
+
+せっかく RubyConf で @brixen と仲良くなったので、RubySpec 回りをやってみたいですね。
+}}
+{{mail(ronnie@dio.jp,1259562351)
+On Mon, 30 Nov 2009 09:52:25 +0900
+KAKUTANI Shintaro <shintaro.kakutani@gmail.com> wrote:
+
+> 特にご意見なければ [[esm_ueno]] で開催ですかねえ。
+> 
+> せっかく RubyConf で @brixen と仲良くなったので、RubySpec 回りをやってみたいですね。
+
+賛成ー。
+@brixen にtagの使い方とか色々教わったので、
+忘れないうちにやっときたいです。
+
+あと、個人的にはrvmをやっと入れたので、ベストプラクティスとか
+あったら誰か教えてくださいー。
+
+-- 
+Akira Matsuda <ronnie@dio.jp>
+
+}}
+{{mail(takkanm@gmail.com,1259565615)
+ミムラです。明日は午後から会社を離れるので、間にあいそうだったら行きます。
+
+rvm は未だにわからないので、誰かおしえてください。
+# 手元でrbxとmacrubyのインストールがこけるんですけど、僕だけでしょうか?
+
+2009年11月30日15:25 Akira Matsuda <ronnie@dio.jp>:
+> On Mon, 30 Nov 2009 09:52:25 +0900
+> KAKUTANI Shintaro <shintaro.kakutani@gmail.com> wrote:
+>
+>> 特にご意見なければ [[esm_ueno]] で開催ですかねえ。
+>>
+>> せっかく RubyConf で @brixen と仲良くなったので、RubySpec 回りをやってみたいですね。
+>
+> 賛成ー。
+> @brixen にtagの使い方とか色々教わったので、
+> 忘れないうちにやっときたいです。
+>
+> あと、個人的にはrvmをやっと入れたので、ベストプラクティスとか
+> あったら誰か教えてくださいー。
+>
+> --
+> Akira Matsuda <ronnie@dio.jp>
+>
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack026.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1259572917)
+しまった! あしたは先約があるのでした……。すみません。
+
+2009/11/30  <takkanm@gmail.com>:
+> ミムラです。明日は午後から会社を離れるので、間にあいそうだったら行きます。
+>
+> rvm は未だにわからないので、誰かおしえてください。
+> # 手元でrbxとmacrubyのインストールがこけるんですけど、僕だけでしょうか?
+>
+> 2009年11月30日15:25 Akira Matsuda <ronnie@dio.jp>:
+>> On Mon, 30 Nov 2009 09:52:25 +0900
+>> KAKUTANI Shintaro <shintaro.kakutani@gmail.com> wrote:
+>>
+>>> 特にご意見なければ [[esm_ueno]] で開催ですかねえ。
+>>>
+>>> せっかく RubyConf で @brixen と仲良くなったので、RubySpec 回りをやってみたいですね。
+>>
+>> 賛成ー。
+>> @brixen にtagの使い方とか色々教わったので、
+>> 忘れないうちにやっときたいです。
+>>
+>> あと、個人的にはrvmをやっと入れたので、ベストプラクティスとか
+>> あったら誰か教えてくださいー。
+>>
+>> --
+>> Akira Matsuda <ronnie@dio.jp>
+>>
+>>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack026.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack026.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+KAKUTANI Shintaro
+http://kakutani.com
+}}

@@ -1,0 +1,94 @@
+* 第129回Asakusa.rb (2011-10-18)
+{{mail(takkanm@gmail.com,1318845702)
+さて、明日は129回目のMeetupです。
+
+明日も他にやりたいという場所がないようでしたら、上野で着席業ができます。
+
+明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+}}
+{{mail(shibata.hiroshi@gmail.com,1318897416)
+柴田です。
+
+参加します。
+
+> 明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+
+stdlib の gem 化の方も含めて絡もうと思います。
+}}
+{{mail(shintaro.kakutani@gmail.com,1318900199)
+2011/10/17  <takkanm@gmail.com>:
+>
+> 明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+
+これはどこのwiki? Asakusaのqwikのこと?
+
+私のステータスは:
+- github drinkup でぼっちのnahiメンバーに話を聞いた
+- それを踏まえてredmineのwikiにあるnahiメンバーの経緯と提案を読んだ
+
+です。ruby-devとかruby-coreで読むべき議論は特にないのかな(redmineのwikiがよくまとまっている)
+}}
+{{mail(takkanm@gmail.com,1318900704)
+2011年10月18日10:09 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 2011/10/17  <takkanm@gmail.com>:
+>>
+>> 明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+>
+> これはどこのwiki? Asakusaのqwikのこと?
+あー、ここでいっているredmineは、るびまのインタビューでAsakusa.rbが引きとることになった、
+redmineのことです。
+先週、松田さんに状況を少し聞いたので、そこらへんをqwikにまとめていこうと思います。
+}}
+{{mail(takumi.aki@gmail.com,1318900779)
+秋田です。参加します～
+
+たのしいRubyの練習問題やるか、railsいじるかします。
+
+2011年10月18日10:09 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 2011/10/17  <takkanm@gmail.com>:
+>>
+>> 明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+>
+> これはどこのwiki? Asakusaのqwikのこと?
+>
+> 私のステータスは:
+> - github drinkup でぼっちのnahiメンバーに話を聞いた
+> - それを踏まえてredmineのwikiにあるnahiメンバーの経緯と提案を読んだ
+>
+> です。ruby-devとかruby-coreで読むべき議論は特にないのかな(redmineのwikiがよくまとまっている)
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack129.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1318900823)
+2011/10/18  <takkanm@gmail.com>:
+> 先週、松田さんに状況を少し聞いたので、そこらへんをqwikにまとめていこうと思います。
+
+おおなるほど。redmineはおまかせします……
+}}
+{{mail(sakuro@2238club.org,1318901515)
+さくです。参加します。
+
+rails edgeに手を出してしまったので、自作コードを対応させる業務をやろうかな。
+
+2011年10月17日19:01  <takkanm@gmail.com>:
+> さて、明日は129回目のMeetupです。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(ken97531@gmail.com,1318914175)
+西村です。
+
+本日、参加します。
+
+Ruby 2.0で検討されていること、決まってる感じのことを、あれこれとブログに
+まとめるための調べ物（というかメーリングリストあさり）をしたいと思ったりしています。
+
+それに絡んでstdlib gemifyのことに言及するために、松田さんの盗撮もできればと
+思ったり、、、あっ、カメラ忘れた……（がっくし）
+}}

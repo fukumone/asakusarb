@@ -1,0 +1,118 @@
+* 第53回 Asakusa.rb(2010-06-22)
+{{mail(shibata.hiroshi@gmail.com,1276907259)
+来週はいつもの場所でしょうか。
+今週は待機できると思います。
+
+私は asakusa.rb 開催告知 on Heroku について構想をまとめてようと思います。
+
+アイティメディアさんの件もあって、金曜までに連絡しなきゃなーと
+思っていたのですが土曜日になってしまいました。ごめんなさい。
+}}
+{{mail(shintaro.kakutani@gmail.com,1276908322)
+待機できそうであれば永和でやりますかね。
+私はまたもや客先からの移動なのでちと遅れます。
+
+開催告知は数少ないオレのHeroku練習ネタだったんですが手がまわってないので助かるなぁ。期待
+
+On Saturday, June 19, 2010, SHIBATA Hiroshi <shibata.hiroshi@gmail.com> wrote:
+> 来週はいつもの場所でしょうか。
+> 今週は待機できると思います。
+>
+> 私は asakusa.rb 開催告知 on Heroku について構想をまとめてようと思います。
+>
+> アイティメディアさんの件もあって、金曜までに連絡しなきゃなーと
+> 思っていたのですが土曜日になってしまいました。ごめんなさい。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack053.html
+> ML-> asakusarb@qwik.jp
+>
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(igaiga@gmail.com,1277162067)
+いがいがです。
+
+今日は参加したいです。
+RubyKaigi Sub-event の活動をするか、
+タイマーのtwitter接続OAuth対応をします。
+
+いじょ。
+
+On 2010/06/19, at 9:45, KAKUTANI Shintaro wrote:
+
+> 待機できそうであれば永和でやりますかね。
+> 私はまたもや客先からの移動なのでちと遅れます。
+> 
+> 開催告知は数少ないオレのHeroku練習ネタだったんですが手がまわってないので助かるなぁ。期待
+> 
+> On Saturday, June 19, 2010, SHIBATA Hiroshi <shibata.hiroshi@gmail.com> wrote:
+>> 来週はいつもの場所でしょうか。
+>> 今週は待機できると思います。
+>> 
+>> 私は asakusa.rb 開催告知 on Heroku について構想をまとめてようと思います。
+>> 
+>> アイティメディアさんの件もあって、金曜までに連絡しなきゃなーと
+>> 思っていたのですが土曜日になってしまいました。ごめんなさい。
+>> 
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack053.html
+>> ML-> asakusarb@qwik.jp
+>> 
+> 
+> -- 
+> Kakutani Shintaro
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack053.html 
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(nakahiro@gmail.com,1277174770)
+行きます。今回はHeroku（オーローク）特集ですか？！
+}}
+{{mail(ken97531@gmail.com,1277175474)
+西村です。
+
+きょう参加します。Her-OH-kooという発音らしいですよね、、、
+
+Herokuがプチ話題（？）なので、私も昨日1つ、部内で使いたいアプリの
+プロトタイプをgit push herokuしてみました。それを突っつきながら
+Railsの勉強したいなぁと思っています。
+
+2010/6/22 NAKAMURA, Hiroshi <nakahiro@gmail.com>:
+> 行きます。今回はHeroku（オーローク）特集ですか？！
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack053.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1277175602)
+空前のはーおーくーブーム!
+
+いろいろあって行けるかもです。
+ただちょっと体調不良気味……。
+-- 
+Kakutani Shintaro
+}}
+{{mail(nakahiro@gmail.com,1277176171)
+Herokuと言えば、無料だとThreadひとつ、とからしいじゃないですか。あれってtimeoutはどうなってるんでしょう。自前で再実装してあるのかな。1.8標準のは遅いから（httpclientやWEBrick、1.9、Rubinius、JRubyのは速い）。
+
+標準のままだったら、Thread.current#raiseを再定義して、スレッドをたくさん作るズルができそう。絶対お金払ったほうが安く済むけど。
+
+Rubyでsandbox作るのは難しいよ、というお話です。ズル推奨じゃなくてw
+}}
+{{mail(ryoqun@gmail.com,1277183985)
+小野寺です。
+
+久々になります。今日は参加の予定です。よろしくお願いします。
+
+2010/6/22 NAKAMURA, Hiroshi <nakahiro@gmail.com>:
+> Herokuと言えば、無料だとThreadひとつ、とからしいじゃないですか。あれってtimeoutはどうなってるんでしょう。自前で再実装してあるのかな。1.8標準のは遅いから（httpclientやWEBrick、1.9、Rubinius、JRubyのは速い）。
+>
+> 標準のままだったら、Thread.current#raiseを再定義して、スレッドをたくさん作るズルができそう。絶対お金払ったほうが安く済むけど。
+>
+> Rubyでsandbox作るのは難しいよ、というお話です。ズル推奨じゃなくてw
+>
+}}

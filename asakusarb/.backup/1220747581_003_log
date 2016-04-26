@@ -1,0 +1,25 @@
+* 第3回ログ
+
+* 日時
+2008年9月5日(Fri.) 19:30～
+
+* 場所
+フィレンツェ
+http://gourmet.livedoor.com/restaurant/11302/
+
+* 参加者
+11名。第1回、第2回に引き続き、超豪華メンバー。
+
+* やったこと
+
+** YARV on Rails (その3)
+
+* メモ
+
+** Ubuntu LinuxでRubyのBuild環境を一気に整えるには
+
+ # apt-get build-dep ruby1.8
+
+** git関係
+
+- gitは「ぎっと」と読む

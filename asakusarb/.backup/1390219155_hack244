@@ -1,0 +1,566 @@
+* 第244回Asakusa.rb (2014-01-21)
+{{mail(takkanm@gmail.com,1389589277)
+明日は 244 回目のミートアップです。
+
+たぶん、上野 E 和にてドアマンできると思うので、
+上野 E 和でやりたいと思います。
+
+大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+}}
+{{mail(shibata.hiroshi@gmail.com,1389590788)
+福岡出張中なので天神で一人 asakusarb することにします。
+bugs で動いてない部分を直したりしています。
+
+2014/1/13  <takkanm@gmail.com>:
+> 明日は 244 回目のミートアップです。
+>
+> たぶん、上野 E 和にてドアマンできると思うので、
+> 上野 E 和でやりたいと思います。
+>
+> 大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(shintaro.kakutani@gmail.com,1389687546)
+すびばせん、今晩参加できない感じなんですけど、ほかに来る人いらっしゃいますか?????
+
+2014/1/13 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+> 福岡出張中なので天神で一人 asakusarb することにします。
+> bugs で動いてない部分を直したりしています。
+>
+> 2014/1/13  <takkanm@gmail.com>:
+>> 明日は 244 回目のミートアップです。
+>>
+>> たぶん、上野 E 和にてドアマンできると思うので、
+>> 上野 E 和でやりたいと思います。
+>>
+>> 大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+>
+>
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack244.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(her@sorah.jp,1389687873)
+ゆきます。
+
+2014/1/14 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> すびばせん、今晩参加できない感じなんですけど、ほかに来る人いらっしゃいますか?????
+
+-- 
+Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+}}
+{{mail(murokaco@gmail.com,1389688199)
+かくたにさん
+
+むろです。
+体調が悪いですか？
+
+今日は私は不参加のつもりです。
+デザテロについての続きはweb(github)で！
+
+
+
+2014年1月14日 17:18 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> すびばせん、今晩参加できない感じなんですけど、ほかに来る人いらっしゃいますか?????
+>
+> 2014/1/13 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+>> 福岡出張中なので天神で一人 asakusarb することにします。
+>> bugs で動いてない部分を直したりしています。
+>>
+>> 2014/1/13  <takkanm@gmail.com>:
+>>> 明日は 244 回目のミートアップです。
+>>>
+>>> たぶん、上野 E 和にてドアマンできると思うので、
+>>> 上野 E 和でやりたいと思います。
+>>>
+>>> 大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+>>
+>>
+>>
+>> --
+>> SHIBATA Hiroshi hsbt@ruby-lang.org
+>> http://www.hsbt.org/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack244.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack244.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(kakyoin.hierophant@gmail.com,1389688299)
+橋立です。
+
+本日、体調がよろしくないので、欠席します…。
+
+
+2014年1月14日 17:29 Muro Kazuko <murokaco@gmail.com>:
+
+> かくたにさん
+>
+> むろです。
+> 体調が悪いですか？
+>
+> 今日は私は不参加のつもりです。
+> デザテロについての続きはweb(github)で！
+>
+>
+>
+> 2014年1月14日 17:18 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> > すびばせん、今晩参加できない感じなんですけど、ほかに来る人いらっしゃいますか?????
+> >
+> > 2014/1/13 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+> >> 福岡出張中なので天神で一人 asakusarb することにします。
+> >> bugs で動いてない部分を直したりしています。
+> >>
+> >> 2014/1/13  <takkanm@gmail.com>:
+> >>> 明日は 244 回目のミートアップです。
+> >>>
+> >>> たぶん、上野 E 和にてドアマンできると思うので、
+> >>> 上野 E 和でやりたいと思います。
+> >>>
+> >>> 大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+> >>
+> >>
+> >>
+> >> --
+> >> SHIBATA Hiroshi hsbt@ruby-lang.org
+> >> http://www.hsbt.org/
+> >>
+> >> --
+> >> archive-> http://qwik.jp/asakusarb/hack244.html
+> >> ML-> asakusarb@qwik.jp
+> >
+> >
+> >
+> > --
+> > Kakutani Shintaro
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack244.html
+> > ML-> asakusarb@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack244.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(mayumi.emori@gmail.com,1389688654)
+emorimaです。
+
+すびばせん、本日まだ作業が残っているため、
+欠席します...。
+
+
+2014年1月14日 17:18 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+
+> すびばせん、今晩参加できない感じなんですけど、ほかに来る人いらっしゃいますか?????
+>
+> 2014/1/13 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+> > 福岡出張中なので天神で一人 asakusarb することにします。
+> > bugs で動いてない部分を直したりしています。
+> >
+> > 2014/1/13  <takkanm@gmail.com>:
+> >> 明日は 244 回目のミートアップです。
+> >>
+> >> たぶん、上野 E 和にてドアマンできると思うので、
+> >> 上野 E 和でやりたいと思います。
+> >>
+> >> 大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+> >
+> >
+> >
+> > --
+> > SHIBATA Hiroshi hsbt@ruby-lang.org
+> > http://www.hsbt.org/
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack244.html
+> > ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack244.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+Mayumi EMORI
+mayumi.emori@gmail.com
+}}
+{{mail(nekoget@gmail.com,1389689067)
+NEKOGETです。
+今日は体調があまりよくないので欠席の予定です.....   orz
+
+
+2014年1月14日 17:37 mayumi emori <mayumi.emori@gmail.com>:
+
+> emorimaです。
+>
+> すびばせん、本日まだ作業が残っているため、
+> 欠席します...。
+>
+>
+> 2014年1月14日 17:18 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>
+>> すびばせん、今晩参加できない感じなんですけど、ほかに来る人いらっしゃいますか?????
+>>
+>>
+>> 2014/1/13 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+>> > 福岡出張中なので天神で一人 asakusarb することにします。
+>> > bugs で動いてない部分を直したりしています。
+>> >
+>> > 2014/1/13  <takkanm@gmail.com>:
+>> >> 明日は 244 回目のミートアップです。
+>> >>
+>> >> たぶん、上野 E 和にてドアマンできると思うので、
+>> >> 上野 E 和でやりたいと思います。
+>> >>
+>> >> 大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+>> >
+>> >
+>> >
+>> > --
+>> > SHIBATA Hiroshi hsbt@ruby-lang.org
+>> > http://www.hsbt.org/
+>> >
+>> > --
+>> > archive-> http://qwik.jp/asakusarb/hack244.html
+>> > ML-> asakusarb@qwik.jp
+>>
+>>
+>>
+>> --
+>> Kakutani Shintaro
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack244.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+> Mayumi EMORI
+> mayumi.emori@gmail.com
+>
+}}
+{{mail(her@sorah.jp,1389691020)
+みんな欠席のながれでキャンセルになるのならそれはそれで。
+どうしましょう。
+
+2014/1/14 宮川 貴子 <info@nekoget.net>:
+> NEKOGETです。
+> 今日は体調があまりよくないので欠席の予定です.....   orz
+>
+>
+> 2014年1月14日 17:37 mayumi emori <mayumi.emori@gmail.com>:
+>
+>> emorimaです。
+>>
+>> すびばせん、本日まだ作業が残っているため、
+>> 欠席します...。
+>>
+>>
+>> 2014年1月14日 17:18 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>>>
+>>> すびばせん、今晩参加できない感じなんですけど、ほかに来る人いらっしゃいますか?????
+>>>
+>>>
+>>> 2014/1/13 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+>>> > 福岡出張中なので天神で一人 asakusarb することにします。
+>>> > bugs で動いてない部分を直したりしています。
+>>> >
+>>> > 2014/1/13  <takkanm@gmail.com>:
+>>> >> 明日は 244 回目のミートアップです。
+>>> >>
+>>> >> たぶん、上野 E 和にてドアマンできると思うので、
+>>> >> 上野 E 和でやりたいと思います。
+>>> >>
+>>> >> 大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+>>> >
+>>> >
+>>> >
+>>> > --
+>>> > SHIBATA Hiroshi hsbt@ruby-lang.org
+>>> > http://www.hsbt.org/
+>>> >
+>>> > --
+>>> > archive-> http://qwik.jp/asakusarb/hack244.html
+>>> > ML-> asakusarb@qwik.jp
+>>>
+>>>
+>>>
+>>> --
+>>> Kakutani Shintaro
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/hack244.html
+>>> ML-> asakusarb@qwik.jp
+>>
+>>
+>>
+>>
+>> --
+>> Mayumi EMORI
+>> mayumi.emori@gmail.com
+>
+>
+
+
+
+-- 
+Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+}}
+{{mail(silentsilent433@gmail.com,1389691323)
+小林せかいです。。
+先週のお土産を持っていきたいのですが、
+割と本気で体調不良で、お家にいようとおもいます。
+残念です！
+
+2014/01/14 18:16、Shota Fukumori (sora_h) <her@sorah.jp> のメール：
+
+> みんな欠席のながれでキャンセルになるのならそれはそれで。
+> どうしましょう。
+> 
+> 2014/1/14 宮川 貴子 <info@nekoget.net>:
+>> NEKOGETです。
+>> 今日は体調があまりよくないので欠席の予定です.....   orz
+>> 
+>> 
+>> 2014年1月14日 17:37 mayumi emori <mayumi.emori@gmail.com>:
+>> 
+>>> emorimaです。
+>>> 
+>>> すびばせん、本日まだ作業が残っているため、
+>>> 欠席します...。
+>>> 
+>>> 
+>>> 2014年1月14日 17:18 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>>>> 
+>>>> すびばせん、今晩参加できない感じなんですけど、ほかに来る人いらっしゃいますか?????
+>>>> 
+>>>> 
+>>>> 2014/1/13 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+>>>>> 福岡出張中なので天神で一人 asakusarb することにします。
+>>>>> bugs で動いてない部分を直したりしています。
+>>>>> 
+>>>>> 2014/1/13  <takkanm@gmail.com>:
+>>>>>> 明日は 244 回目のミートアップです。
+>>>>>> 
+>>>>>> たぶん、上野 E 和にてドアマンできると思うので、
+>>>>>> 上野 E 和でやりたいと思います。
+>>>>>> 
+>>>>>> 大江戸の話と、新年会の進捗どうですか話をしようかなぁ
+>>>>> 
+>>>>> 
+>>>>> 
+>>>>> --
+>>>>> SHIBATA Hiroshi hsbt@ruby-lang.org
+>>>>> http://www.hsbt.org/
+>>>>> 
+>>>>> --
+>>>>> archive-> http://qwik.jp/asakusarb/hack244.html
+>>>>> ML-> asakusarb@qwik.jp
+>>>> 
+>>>> 
+>>>> 
+>>>> --
+>>>> Kakutani Shintaro
+>>>> 
+>>>> --
+>>>> archive-> http://qwik.jp/asakusarb/hack244.html
+>>>> ML-> asakusarb@qwik.jp
+>>> 
+>>> 
+>>> 
+>>> 
+>>> --
+>>> Mayumi EMORI
+>>> mayumi.emori@gmail.com
+>> 
+>> 
+> 
+> 
+> 
+> -- 
+> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack244.html 
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(her@sorah.jp,1389693037)
+みんな欠席の流れがつづいていますが、どうしましょうか?
+takkanm + わたしだけならキャンセルでもいいのではないかと思っているのだけど…
+(他に行く人いないならわたしもお休みしようかなぁという)
+
+2014/1/14 a <silentsilent433@gmail.com>:
+> 小林せかいです。。
+> 先週のお土産を持っていきたいのですが、
+> 割と本気で体調不良で、お家にいようとおもいます。
+> 残念です！
+
+
+-- 
+Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+}}
+{{mail(takkanm@gmail.com,1389693992)
+じゃあ、残念だけど流しますか～
+
+みなさん、お大事にしてください。
+
+
+2014年1月14日 18:50 Shota Fukumori (sora_h) <her@sorah.jp>:
+
+> みんな欠席の流れがつづいていますが、どうしましょうか?
+> takkanm + わたしだけならキャンセルでもいいのではないかと思っているのだけど…
+> (他に行く人いないならわたしもお休みしようかなぁという)
+>
+> 2014/1/14 a <silentsilent433@gmail.com>:
+> > 小林せかいです。。
+> > 先週のお土産を持っていきたいのですが、
+> > 割と本気で体調不良で、お家にいようとおもいます。
+> > 残念です！
+>
+>
+> --
+> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack244.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(mrkn@mrkn.jp,1389694081)
+村田です
+
+みなさん、お大事に～
+
+On Tuesday, January 14, 2014, wrote:
+
+> じゃあ、残念だけど流しますか～
+>
+> みなさん、お大事にしてください。
+>
+>
+> 2014年1月14日 18:50 Shota Fukumori (sora_h) <her@sorah.jp <javascript:_e({},
+> 'cvml', 'her@sorah.jp');>>:
+>
+>> みんな欠席の流れがつづいていますが、どうしましょうか?
+>> takkanm + わたしだけならキャンセルでもいいのではないかと思っているのだけど…
+>> (他に行く人いないならわたしもお休みしようかなぁという)
+>>
+>> 2014/1/14 a <silentsilent433@gmail.com <javascript:_e({}, 'cvml',
+>> 'silentsilent433@gmail.com');>>:
+>> > 小林せかいです。。
+>> > 先週のお土産を持っていきたいのですが、
+>> > 割と本気で体調不良で、お家にいようとおもいます。
+>> > 残念です！
+>>
+>>
+>> --
+>> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack244.html
+>> ML-> asakusarb@qwik.jp <javascript:_e({}, 'cvml', 'asakusarb@qwik.jp');>
+>>
+>
+>
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(kakyoin.hierophant@gmail.com,1389694759)
+急に寒くなったせいか、やたら体調悪い人が多いですね。
+気合を入れなければ…。
+
+
+2014年1月14日 19:07 Kenta Murata <mrkn@mrkn.jp>:
+
+> 村田です
+>
+> みなさん、お大事に～
+>
+>
+> On Tuesday, January 14, 2014, wrote:
+>
+>> じゃあ、残念だけど流しますか～
+>>
+>> みなさん、お大事にしてください。
+>>
+>>
+>> 2014年1月14日 18:50 Shota Fukumori (sora_h) <her@sorah.jp>:
+>>
+>>> みんな欠席の流れがつづいていますが、どうしましょうか?
+>>> takkanm + わたしだけならキャンセルでもいいのではないかと思っているのだけど…
+>>> (他に行く人いないならわたしもお休みしようかなぁという)
+>>>
+>>> 2014/1/14 a <silentsilent433@gmail.com>:
+>>> > 小林せかいです。。
+>>> > 先週のお土産を持っていきたいのですが、
+>>> > 割と本気で体調不良で、お家にいようとおもいます。
+>>> > 残念です！
+>>>
+>>>
+>>> --
+>>> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/hack244.html
+>>> ML-> asakusarb@qwik.jp
+>>>
+>>
+>>
+>
+> --
+> Kenta Murata
+> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>
+> 本を書きました!!
+> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>
+> E-mail: mrkn@mrkn.jp
+> http://mrkn.jp/
+>
+>
+}}
+{{mail(ronnie@dio.jp,1389697253)
+反応遅れましたが、家族の体調不良のため僕も不参加だったのでした。
+ちょうどよかったというかなんというか、皆さんもお大事に。
+}}

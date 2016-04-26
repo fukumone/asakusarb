@@ -1,0 +1,74 @@
+* 第105回Asakusa.rb(2011-05-17)
+{{mail(shintaro.kakutani@gmail.com,1305549158)
+松田さんがRailsConfに登壇しにいったので今回は欠席ですね。
+http://en.oreilly.com/rails2011/public/schedule/detail/20218
+> 1:50pm Thursday, 05/19/2011
+ってことは、金曜日の未明頃?
+
+それはそれとして、
+私はRubyKaigi2011の個人スポンサーを販売開始しなきゃいけないので、
+永和で開催されるなら参加します。
+}}
+{{mail(shibata.hiroshi@gmail.com,1305552574)
+柴田です。
+
+現地時間だと早朝っぽいので松田さんのリモート参加は難しいですかねえ。
+
+Rails3アプリの開発か色々貯まっているテスト補充業をやろうと思います。
+そういえば Jenkins 勉強会で Rails + CI な環境の発表をすることになったので
+資料作成をやるかも。
+
+http://kokucheese.com/event/index/10622/
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(nakahiro@gmail.com,1305591117)
+参加予定です。Jenkins勉強会に備えて、Jenkuns/JRubyについて調べます。
+}}
+{{mail(celluloid.key@gmail.com,1305591490)
+hibariyaです。参加します。
+rubykaigi.orgで着手できそうな作業を進めたりします。
+}}
+{{mail(irohiroki@gmail.com,1305591627)
+参加します。
+github.com/asakusarbを全然追えていなかったので追いつきます。
+
+irohiroki
+}}
+{{mail(mail@ssig33.com,1305591712)
+参加します。 Facebook IRC Gateway あたりをいじったりします
+
+2011/5/17 Hiroki Yoshioka <irohiroki@gmail.com>:
+> 参加します。
+> github.com/asakusarbを全然追えていなかったので追いつきます。
+>
+> irohiroki
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack105.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(paul@mobalean.com,1305623157)
+ポールです。
+
+今日参加します。
+capybara+ruby 1.9+jsについて、相談したいんです。
+
+On May 16, 2011, at 9:32 PM, Kakutani Shintaro wrote:
+
+> 松田さんがRailsConfに登壇しにいったので今回は欠席ですね。
+> http://en.oreilly.com/rails2011/public/schedule/detail/20218
+>> 1:50pm Thursday, 05/19/2011
+> ってことは、金曜日の未明頃?
+> 
+> それはそれとして、
+> 私はRubyKaigi2011の個人スポンサーを販売開始しなきゃいけないので、
+> 永和で開催されるなら参加します。
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack105.html 
+> ML-> asakusarb@qwik.jp
+}}

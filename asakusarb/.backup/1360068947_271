@@ -1,0 +1,33 @@
+* 大江戸Ruby会議03の申し込みを開始しました!!1
+{{mail(shintaro.kakutani@gmail.com,1360068947)
+登壇者のかたは、以下を編集して保存してください!!!
+
+https://github.com/asakusarb/oedo03/edit/master/app/views/top/show.html.erb
+
+保存したら数分後にKoi deployがherokuに置いてくれるはず…。
+
+2013/2/5 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> ---------- Forwarded message ----------
+> From: Kakutani Shintaro <shintaro.kakutani@gmail.com>
+> Date: 2013/2/5
+> Subject: 大江戸Ruby会議03の申し込みを開始しました!!1
+> To: rk13op@qwik.jp
+>
+>
+> お早めにどうぞ!
+>
+> http://regional.rubykaigi.org/oedo03
+>
+> スタッフ、登壇者のかたは登録不要
+> --
+> Kakutani Shintaro
+>
+>
+> --
+> Kakutani Shintaro
+
+
+
+-- 
+Kakutani Shintaro
+}}

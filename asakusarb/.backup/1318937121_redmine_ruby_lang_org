@@ -1,0 +1,14 @@
+* ruby.lang.orgのRedmine
+** 今ここ
+- Yuguiさんにgithubに全部いれてくれた
+-- https://github.com/asakusarb/redmine4ruby-lang
+--https://github.com/asakusarb/redmine_rd_formatter
+-- https://github.com/asakusarb/redmine_mailing_list_integration_imap_supplement
+-- https://github.com/asakusarb/redmine_mailing_list_integration
+-- https://github.com/asakusarb/redmine_ruby_lang_mailing_list_customization
+-- https://github.com/asakusarb/redmine_link_to_root
+- 動かし方は聞いた
+
+** 何したい
++ まずはどう動かすか理解する
++ イシューがどこかにあるのでたおす

@@ -1,0 +1,229 @@
+* FYI: asakusarbからの退会方法
+{{mail(shintaro.kakutani@gmail.com,1433862464)
+かくたにです。MLから削除しました。
+もしまだメールが届いていたらご一報ください > Araiさん
+
+退会方法については、下記リンク先にもある通り:
+http://qwik.jp/Unsubscribe.html
+
+asakuasrb@qwik.jp 宛に「本文に何も書かないメールを送ってください」。
+
+「何も書かない」なので、メールに署名が付いていると退会できません
+(ちょっとむずかしいですね)。
+
+ソフトウェアが処理しますので「退会します」と本文に書くと
+退会できないのでした。
+気づいたら削除するようにしますので、よくわかんなかったから
+「退会します」と本文に書いていただければ対応します。
+
+これまでの「退会します」が処理されてない方は
+お手数ですが上記の手順(完全空メール or 退会しますメール)を
+いま一度お試しください。
+
+よろしくお願いいたします。
+
+2015-06-09 23:08 GMT+09:00 Tatsuya Arai <sunday.is.over@gmail.com>:
+> 退会します
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(gunjisatoshi@gmail.com,1433895308)
+郡司です。
+
+補足ですが「メール本文が空のメール」を送れないという人は、
+「本文にunsubscribeとだけ書いたメール」でもOKです。
+
+余談ですが qwik はソースが公開されているので、
+
+https://github.com/eto/qwik/
+
+「退会メールとして認識される条件」を詳しく知りたい方は、
+以下のソースコードを見てください。
+
+https://github.com/eto/qwik/blob/master/lib/qwik/ml-processor.rb
+
+126行目あたりから
+
+--------
+    UNSUBSCRIBE_THRESHOLD = 500
+    UNSUBSCRIBE_RE = /\A\s*(unsubscribe|bye|#\s*bye|quit|退会|脱退)\s*$/s
+    def self.unsubscribe_requested?(body)
+      return true if body.empty?
+      return true if Mail.empty_body?(body)
+      return false if UNSUBSCRIBE_THRESHOLD <= body.length
+      return true if UNSUBSCRIBE_RE.match(body.tosjis)
+      return false
+    end
+--------
+
+って書いてあるので、まあそんな感じです。
+
+
+2015年6月10日 0:07 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> かくたにです。MLから削除しました。
+> もしまだメールが届いていたらご一報ください > Araiさん
+>
+> 退会方法については、下記リンク先にもある通り:
+> http://qwik.jp/Unsubscribe.html
+>
+> asakuasrb@qwik.jp 宛に「本文に何も書かないメールを送ってください」。
+>
+> 「何も書かない」なので、メールに署名が付いていると退会できません
+> (ちょっとむずかしいですね)。
+>
+> ソフトウェアが処理しますので「退会します」と本文に書くと
+> 退会できないのでした。
+> 気づいたら削除するようにしますので、よくわかんなかったから
+> 「退会します」と本文に書いていただければ対応します。
+>
+> これまでの「退会します」が処理されてない方は
+> お手数ですが上記の手順(完全空メール or 退会しますメール)を
+> いま一度お試しください。
+>
+> よろしくお願いいたします。
+>
+> 2015-06-09 23:08 GMT+09:00 Tatsuya Arai <sunday.is.over@gmail.com>:
+>> 退会します
+>
+>
+>
+> --
+> Kakutani Shintaro
+}}
+{{mail(shintaro.kakutani@gmail.com,1433895657)
+> 「本文にunsubscribeとだけ書いたメール」でもOKです
+
+しらなかった…
+
+2015-06-10 9:15 GMT+09:00 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> 郡司です。
+>
+> 補足ですが「メール本文が空のメール」を送れないという人は、
+> 「本文にunsubscribeとだけ書いたメール」でもOKです。
+>
+> 余談ですが qwik はソースが公開されているので、
+>
+> https://github.com/eto/qwik/
+>
+> 「退会メールとして認識される条件」を詳しく知りたい方は、
+> 以下のソースコードを見てください。
+>
+> https://github.com/eto/qwik/blob/master/lib/qwik/ml-processor.rb
+>
+> 126行目あたりから
+>
+> --------
+>     UNSUBSCRIBE_THRESHOLD = 500
+>     UNSUBSCRIBE_RE = /\A\s*(unsubscribe|bye|#\s*bye|quit|退会|脱退)\s*$/s
+>     def self.unsubscribe_requested?(body)
+>       return true if body.empty?
+>       return true if Mail.empty_body?(body)
+>       return false if UNSUBSCRIBE_THRESHOLD <= body.length
+>       return true if UNSUBSCRIBE_RE.match(body.tosjis)
+>       return false
+>     end
+> --------
+>
+> って書いてあるので、まあそんな感じです。
+>
+>
+> 2015年6月10日 0:07 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>> かくたにです。MLから削除しました。
+>> もしまだメールが届いていたらご一報ください > Araiさん
+>>
+>> 退会方法については、下記リンク先にもある通り:
+>> http://qwik.jp/Unsubscribe.html
+>>
+>> asakuasrb@qwik.jp 宛に「本文に何も書かないメールを送ってください」。
+>>
+>> 「何も書かない」なので、メールに署名が付いていると退会できません
+>> (ちょっとむずかしいですね)。
+>>
+>> ソフトウェアが処理しますので「退会します」と本文に書くと
+>> 退会できないのでした。
+>> 気づいたら削除するようにしますので、よくわかんなかったから
+>> 「退会します」と本文に書いていただければ対応します。
+>>
+>> これまでの「退会します」が処理されてない方は
+>> お手数ですが上記の手順(完全空メール or 退会しますメール)を
+>> いま一度お試しください。
+>>
+>> よろしくお願いいたします。
+>>
+>> 2015-06-09 23:08 GMT+09:00 Tatsuya Arai <sunday.is.over@gmail.com>:
+>>> 退会します
+>>
+>>
+>>
+>> --
+>> Kakutani Shintaro
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(sakuro@2238club.org,1433899492)
+さくです。
+
+>       return true if UNSUBSCRIBE_RE.match(body.tosjis)
+
+なんだと……
+
+-- 
+OZAWA Sakuro
+}}
+{{mail(gunjisatoshi@gmail.com,1433912975)
+郡司です。
+
+さらに補足ですが、HTML メールではダメです！
+GMailなら「プレーンテキストモード」にして送ってください！
+（GMailをプレーンテキストモードに設定する方法はググってください）
+
+>>       return true if UNSUBSCRIBE_RE.match(body.tosjis)
+>
+> なんだと……
+
+ソースコードが CP932 なので‥‥。
+
+2015-06-10 10:24 GMT+09:00 OZAWA Sakuro <sakuro@2238club.org>:
+> さくです。
+>
+>>       return true if UNSUBSCRIBE_RE.match(body.tosjis)
+>
+> なんだと……
+>
+> --
+> OZAWA Sakuro
+}}
+{{mail(daisuke.mori9@gmail.com,1434444051)
+すいません、これでも退会できなかったのですがどうしたらよいですか？
+
+2015年6月10日(水) 14:09 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+
+> 郡司です。
+>
+> さらに補足ですが、HTML メールではダメです！
+> GMailなら「プレーンテキストモード」にして送ってください！
+> （GMailをプレーンテキストモードに設定する方法はググってください）
+>
+> >>       return true if UNSUBSCRIBE_RE.match(body.tosjis)
+> >
+> > なんだと……
+>
+> ソースコードが CP932 なので‥‥。
+>
+> 2015-06-10 10:24 GMT+09:00 OZAWA Sakuro <sakuro@2238club.org>:
+> > さくです。
+> >
+> >>       return true if UNSUBSCRIBE_RE.match(body.tosjis)
+> >
+> > なんだと……
+> >
+> > --
+> > OZAWA Sakuro
+>
+}}

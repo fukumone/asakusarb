@@ -1,0 +1,153 @@
+* 第17回Asakusa.rb(2009-09-09)
+
+松田さん抜きで決行された、記念すべき回でした :)
+
+** 日時
+2009/09/08 19:30～22:00ぐらい
+
+** 場所
+永和システムマネジメント 東京支社
+http://www.esm.co.jp/company/map_tokyo.html
+
+** 内容
+>> 特にテーマがなければ、個人的にはSinatraで遊んでみたいです。
+> ursmは本業が盛り上ってるので参加はむつかしいと教えてもらいました。
+> アーリーアダプターだったので、参加してもらえると面白くなったと思うのですが。
+
+** 参加者
+- 三村さん @takkanm
+- ウラシマさん @ursm
+- ヨシオリさん @yoshiori
+- 郡司さん @gunjisatoshi
+
+** Sinatraで書かれたブログツールScantyのソースを読む＆動かす＆Herokuにデプロイしてみる
+- 次のエントリを参考に
+-- [[Sinatra ベースの軽量アプリいろいろ Scanty 編|http://blog.designrecipe.jp/2009/7/24/sinatra-scanty]]
+- ソースはどこ？
+-- http://github.com/adamwiggins/scanty/tree/master
+- とりあえず git cloneしよう！
+-- git clone git://github.com/adamwiggins/scanty.git
+
+
+
+{{mail(shintaro@kakutani.com,1251821810)
+かくたにです。
+
+来週のAsakusa.rbの当日、私は http://www.rubyworld-conf.org/ で
+松江にいっている(というか戻りの機内)ので、参加できません。
+松田さんも参加予定のはずで、ささださんは講演者です。
+
+場所については、takkanmかursmが何とかしてくれれば何とかなると
+思うのですが、いかがでしょう？
+
+個人的には、毎週火曜日はAsakusa.rbの日、とゆーことで
+開催してもらえるといいなー、と思ってます :)
+
+自分の課題を黙々とやったり相談したり雑談したり、
+という時間の過ごしかたでもよいと思うのですが。
+
+ご意見お待ちしております。
+--
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro.kakutani@gmail.com, :website: http://kakutani.com/ }
+}}
+{{mail(gunjisatoshi@gmail.com,1251892418)
+郡司です。
+
+来週も参加希望です！
+特にテーマがなければ、個人的にはSinatraで遊んでみたいです。
+
+場所についてはご迷惑でなければ引き続きお世話になりたいところですが、
+新規開拓もしたいところですねえ。
+
+
+2009年9月2日1:16 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> かくたにです。
+>
+> 来週のAsakusa.rbの当日、私は http://www.rubyworld-conf.org/ で
+> 松江にいっている(というか戻りの機内)ので、参加できません。
+> 松田さんも参加予定のはずで、ささださんは講演者です。
+>
+> 場所については、takkanmかursmが何とかしてくれれば何とかなると
+> 思うのですが、いかがでしょう？
+>
+> 個人的には、毎週火曜日はAsakusa.rbの日、とゆーことで
+> 開催してもらえるといいなー、と思ってます :)
+>
+> 自分の課題を黙々とやったり相談したり雑談したり、
+> という時間の過ごしかたでもよいと思うのですが。
+>
+> ご意見お待ちしております。
+> --
+> { :name: ["KAKUTANI", "Shintaro"],
+>  :email: shintaro.kakutani@gmail.com, :website: http://kakutani.com/ }
+>
+> --
+> archive-> http://qwik.jp/asakusarb/68.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1252030217)
+かくたにです。
+
+郡司さんが参加希望なんだけど、来週の火曜日ってどうですかね? > takkanm
+
+ursmは本業が盛り上ってるので参加はむつかしいと教えてもらいました。
+アーリーアダプターだったので、参加してもらえると面白くなったと思うのですが。
+
+2009/9/2 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> 郡司です。
+>
+> 来週も参加希望です！
+> 特にテーマがなければ、個人的にはSinatraで遊んでみたいです。
+>
+> 場所についてはご迷惑でなければ引き続きお世話になりたいところですが、
+> 新規開拓もしたいところですねえ。
+>
+>
+> 2009年9月2日1:16 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+>> かくたにです。
+>>
+>> 来週のAsakusa.rbの当日、私は http://www.rubyworld-conf.org/ で
+>> 松江にいっている(というか戻りの機内)ので、参加できません。
+>> 松田さんも参加予定のはずで、ささださんは講演者です。
+>>
+>> 場所については、takkanmかursmが何とかしてくれれば何とかなると
+>> 思うのですが、いかがでしょう？
+>>
+>> 個人的には、毎週火曜日はAsakusa.rbの日、とゆーことで
+>> 開催してもらえるといいなー、と思ってます :)
+>>
+>> 自分の課題を黙々とやったり相談したり雑談したり、
+>> という時間の過ごしかたでもよいと思うのですが。
+>>
+>> ご意見お待ちしております。
+>> --
+>> { :name: ["KAKUTANI", "Shintaro"],
+>>  :email: shintaro.kakutani@gmail.com, :website: http://kakutani.com/ }
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/68.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/68.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+KAKUTANI Shintaro
+http://kakutani.com
+}}
+{{mail(takkanm@gmail.com,1252033343)
+ミムラ aka takkanm です。
+
+2009年9月4日11:10 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> 郡司さんが参加希望なんだけど、来週の火曜日ってどうですかね? > takkanm
+今のところ、問題ないです。sinatraは初心者です。
+
+以上です。
+}}

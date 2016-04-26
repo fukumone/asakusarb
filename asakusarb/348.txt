@@ -1,0 +1,20 @@
+* asakusa.rbへの参加を希望します
+{{mail(takeshi.diadochos@gmail.com,1423332752)
+Asakusa.rbご担当者様
+
+こんにちは!はじめまして。
+東京都文京区本郷在住の，手嶋毅志(てしまたけし)と申します。
+
+私は大学の2年生で，2013年の秋ごろからRubyを使い始め，現在もRails, Sinatraを使うWeb開発などで使わせていただいています。
+
+ぜひ，Asakusa.rbに加入させていただければと思いご連絡させていただきました。
+よろしくお願いいたします。
+
+    手嶋毅志
+
+-- 
+Takeshi Teshima
+Phone:09076937225
+Skype:diadochos94
+
+}}

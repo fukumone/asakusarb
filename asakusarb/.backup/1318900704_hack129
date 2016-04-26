@@ -1,0 +1,41 @@
+* 第129回Asakusa.rb (2011-10-18)
+{{mail(takkanm@gmail.com,1318845702)
+さて、明日は129回目のMeetupです。
+
+明日も他にやりたいという場所がないようでしたら、上野で着席業ができます。
+
+明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+}}
+{{mail(shibata.hiroshi@gmail.com,1318897416)
+柴田です。
+
+参加します。
+
+> 明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+
+stdlib の gem 化の方も含めて絡もうと思います。
+}}
+{{mail(shintaro.kakutani@gmail.com,1318900199)
+2011/10/17  <takkanm@gmail.com>:
+>
+> 明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+
+これはどこのwiki? Asakusaのqwikのこと?
+
+私のステータスは:
+- github drinkup でぼっちのnahiメンバーに話を聞いた
+- それを踏まえてredmineのwikiにあるnahiメンバーの経緯と提案を読んだ
+
+です。ruby-devとかruby-coreで読むべき議論は特にないのかな(redmineのwikiがよくまとまっている)
+}}
+{{mail(takkanm@gmail.com,1318900704)
+2011年10月18日10:09 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 2011/10/17  <takkanm@gmail.com>:
+>>
+>> 明日は、redmineについてを少し整理してwikiにページを作りたいとおもいます
+>
+> これはどこのwiki? Asakusaのqwikのこと?
+あー、ここでいっているredmineは、るびまのインタビューでAsakusa.rbが引きとることになった、
+redmineのことです。
+先週、松田さんに状況を少し聞いたので、そこらへんをqwikにまとめていこうと思います。
+}}

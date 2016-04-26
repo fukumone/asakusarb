@@ -1,0 +1,164 @@
+* 第86回Asakusa.rb(2011-01-18) 
+{{mail(shibata.hiroshi@gmail.com,1295307806)
+柴田です。
+
+久しぶりの開催通知係です。
+今日は永和で待機可能ですが、私だけの場合22時までになります。
+
+ちょっと tDiary 業を最近放置しすぎていたので、issue 消化を
+しようと思います。
+
+-- 
+SHIBATA Hiroshi
+mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(takkanm@gmail.com,1295316197)
+参加します。
+
+そろそろ100回目に向けて火曜日が足りない問題を解決したいです。
+案としては、
+- 一日二回開催
+- 日本Rubyの会でおさえているっぽいOSC Tokyoの枠が空いていれば a_matsuda さんを展示
+とかでしょうか
+
+あとは、なんかからみます
+
+2011年1月18日8:43 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 柴田です。
+>
+> 久しぶりの開催通知係です。
+> 今日は永和で待機可能ですが、私だけの場合22時までになります。
+>
+> ちょっと tDiary 業を最近放置しすぎていたので、issue 消化を
+> しようと思います。
+>
+> --
+> SHIBATA Hiroshi
+> mailto:shibata.hiroshi@gmail.com
+> URL:http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack086.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1295316747)
+2011/1/18  <takkanm@gmail.com>:
+> - 日本Rubyの会でおさえているっぽいOSC Tokyoの枠が空いていれば a_matsuda さんを展示
+> とかでしょうか
+
+日本Rubyの会はそんなことをやっているの?
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(takkanm@gmail.com,1295316987)
+> 日本Rubyの会はそんなことをやっているの?
+[ruby:2451] で、他のコミュニティーが何も反応していないので、
+おさえるだけおさえているのかなーと思っていたのですが、違うのかなぁ。。
+}}
+{{mail(snoozer.05@gmail.com,1295318443)
+しまだです。
+
+2011/1/18  <takkanm@gmail.com>:
+>> 日本Rubyの会はそんなことをやっているの?
+> [ruby:2451] で、他のコミュニティーが何も反応していないので、
+> おさえるだけおさえているのかなーと思っていたのですが、違うのかなぁ。。
+
+反応がもらえなかったので、申し込みはしてなかったです。
+(少なくともぼくの方で申し込みはしていません)
+
+-- 
+SHIMADA Koji
+http://iddy.jp/profile/snoozer05/
+}}
+{{mail(nakahiro@gmail.com,1295319154)
+娘が風邪なので、立場上(?)今日もお休みです！次回参加予定は2/1。
+}}
+{{mail(takahashimm@gmail.com,1295319785)
+高橋征義です。
+
+2011年1月18日11:03  <takkanm@gmail.com>:
+> そろそろ100回目に向けて火曜日が足りない問題を解決したいです。
+> 案としては、
+> - 一日二回開催
+> - 日本Rubyの会でおさえているっぽいOSC Tokyoの枠が空いていれば a_matsuda さんを展示
+> とかでしょうか
+
+いやー、別にasakusaはOSCにはやる気なさそうだし大江戸近いので出なくて
+いいんじゃないですかねえ。
+
+-- 
+高橋征義 (takahashimm@gmail.com)
+}}
+{{mail(koichiro.eto@gmail.com,1295319846)
+> そろそろ100回目に向けて火曜日が足りない問題を解決したいです。
+> 案としては、
+> - 一日二回開催
+
+ぜひみなさんと一緒にランチを食べるというAsakusa.rbを開催してほしいです。
+夜は早く帰れる時は早く帰りたいので…。
+}}
+{{mail(takkanm@gmail.com,1295320358)
+> 反応がもらえなかったので、申し込みはしてなかったです。
+> (少なくともぼくの方で申し込みはしていません)
+なるほど。ありがとうございます。
+
+> ぜひみなさんと一緒にランチを食べるというAsakusa.rbを開催してほしいです。
+> 夜は早く帰れる時は早く帰りたいので…。
+ランチいいですねー。ランチして、みんなで会場下見をAsakusa.rbとしてしまえばいいっぽい気がしますねぇ。
+}}
+{{mail(ronnie@dio.jp,1295320540)
+2011/1/18  <takkanm@gmail.com>:
+>> 反応がもらえなかったので、申し込みはしてなかったです。
+>> (少なくともぼくの方で申し込みはしていません)
+> なるほど。ありがとうございます。
+>
+>> ぜひみなさんと一緒にランチを食べるというAsakusa.rbを開催してほしいです。
+>> 夜は早く帰れる時は早く帰りたいので…。
+> ランチいいですねー。ランチして、みんなで会場下見をAsakusa.rbとしてしまえばいいっぽい気がしますねぇ。
+
++1
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(gunjisatoshi@rikuga.me,1295320615)
+郡司です。
+
+参加します。
+
+DNSキャッシュサーバを実装してみたいので、
+dnsrubyについて調べてみたいと思います。
+
+http://rubygems.org/gems/dnsruby
+
+あとは、他に面白そうなことをしている人がいればそれに絡みます。
+}}
+{{mail(mayumi.emori@gmail.com,1295322498)
+江森です。
+
+少し遅れるかもしれませんが、参加します。
+
+大江戸ネタのご相談をさせていただければなと思っています。
+
+＃人前で話したことなく、かなり「ビビり」状態なので、
+＃これから少し時間をかけて取り組んでいこうと、思ってます。
+
+---
+Mayumi EMORI
+mayumi.emori@gmail.com
+}}
+{{mail(shimura-hir@obun.jp,1295325140)
+またせんべ持って行きます。ちょっと遅れるかもしれません
+		志村 弘之
+
+In message "[asakusarb:1647] Re: 第86回Asakusa.rb(2011-01-18)", 
+<20110118.121556.737004071327878632.gunjisatoshi@rikuga.me>, 
+ >あとは、他に面白そうなことをしている人がいればそれに絡みます。
+
+---------------------------------------+---------+---------+以上 2011/1/18
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}

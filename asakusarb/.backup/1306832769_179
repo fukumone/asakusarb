@@ -1,0 +1,25 @@
+* お勧めRailsアプリ
+{{mail(nakahiro@gmail.com,1306831726)
+どなたか今日、以下のようなRailsアプリのお勧めをお願いできませんでしょうか。
+
+・機能は少なめ（ベンチマークが簡単）
+・依存ライブラリ多め（シンプル過ぎないw）
+・新しいRails: 3系 + bundler（古いと開発者が見捨てるのが早そう）
+・C拡張を使っていない（JRubyでも動く）
+・作りが標準的（ベンチマークとして使うため）
+・ライセンスが面倒でない（発表で使ったりするので）
+
+すぐに欲しいのはrequireのベンチマークとしての利用ですが、いずれメモリ使用量や性能も見てみたいと思っています。何がよいでしょう？
+}}
+{{mail(shibata.hiroshi@gmail.com,1306832769)
+弊社のCMSで rubyagile というものがあります。
+
+https://github.com/esminc/rubyagile
+
+JRuby で動くかはわかりませんが、割と素朴な作りです。
+つい最近 Rails3 にバージョンアップしました。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}

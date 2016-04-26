@@ -1,0 +1,53 @@
+* 第114回Asakusa.rb(2011-07-19)
+
+** Ruby Hacking Night w/ Asakusa.rb!
+
+*** The Event
+This event will be held at '''the 4th day''' of RubyKaigi.
+Firstly, some of our members in the Ruby Core will give short but '''super-deep''' presentations on their specialized fields, and then let's have some group discussions (or hack) on these topics.
+
+*** Speakers
+:ko1: ruby-1.9.4 and beyond
+:nahi: require, autoload, and thread
+:yhara: ruby-dev translation, http://ruby-dev.route477.net/ (tentative)
+(and more!)
+
+*** Place
+
+Akihabara Daibiru Bldg. 13F(tentative)
+
+http://www.i.u-tokyo.ac.jp/map/index_e.shtml#aki 
+
+
+*** Time
+19:00-22:00 (tentative)
+
+*** People
+
+~40 (tentative)
+
+{{mail(shibata.hiroshi@gmail.com,1309259202)
+こんにちは、柴田です。
+
+English announce:
+
+http://qwik.jp/asakusarb/hack114.html
+
+にほんご:
+asakusa.rb のRuby会議第4日目 の meetup のお知らせです。
+海外から来日する予定の皆さんもご都合がよろしければご参加ください!
+
+内容:
+ruby-core チームの方にRubyの内部の話をして頂き、後半はワークショップの
+ような形で交流を深めたいと考えています。
+
+日時:
+7/19(Tue) 19:00-22:00
+
+場所:
+秋葉原ダイビル13F(仮)
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}

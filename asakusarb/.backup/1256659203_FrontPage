@@ -1,0 +1,34 @@
+* Asakusa.rb
+
+[[http://qwik.jp/asakusarb/FrontPage.download/asakusarb-m.png]]
+
+Asakusa.rbは、東京下町周辺のRuby技術者たちが集まって何かをハックする地域Rubyistコミュニティです。~
+また、[[Seattle.rb|http://seattlerb.rubyforge.org/]]のように、活動を通して少しでもRubyコミュニティ全体に還元できるようなプロダクトやノウハウ等の成果を残していくことができたらいいなぁ、と考えています。じっさいに、Seattle.rbのdrbrainにどんなふうにやっているのか[[訊いてみました|000_Log]]。
+
+念のため補足しておきますと「下町周辺とか浅草界隈に在住・通勤している人でなければ参加できない」というわけではありません。どなたでも参加は歓迎です。
+
+- 公式URL: http://asakusa.rubyist.net ( qwik.jpのこのページへのリダイレクトだったりする)
+- 公式タグ: asakusarb ([[B!|http://b.hatena.ne.jp/t/asakusarb?sort=eid]])
+- 公式ハッシュタグ:  [[#asakusarb|http://search.twitter.com/search?q=asakusarb]]
+
+* FAQ
+
+** どうやって参加すんの?
+
+まずは、メーリングリストに参加してください。参加方法は「[[HowToJoin]]」のページの要領でメールを1通だすだけです!~
+[[IRC]]もあります。Twitterではハッシュタグ  [[#asakusarb|http://search.twitter.com/search?q=asakusarb]] でおねがいします。
+
+** なにやってんの?
+
+特にこれ、ということはなくて、集まった人たちでRubyに関する何か(ハックとか雑談とか)をやってます。お気軽にお立ち寄りください。~
+asakusa.rbの集まりへの参加方法は[[MeetUp]]のページを参照してください。これまでの開催の雰囲気は[[History]]が参考になるかもしれません。~
+ときどきRuby関連のイベントでの発表なんかもやってます。
+
+オンラインでの連絡手段は[[Contacts]]にまとめてます。
+
+[[MeetUp]]では、2009年9月頃から'''[[RubySpec]]を触ろうキャンペーン中です!!!!'''
+
+
+** うちの近所に浅草はないんですけど……
+
+港区赤坂方面には[[Akasaka.rb|http://akasakarb.org/]]が、東急沿線には[[Tokyu.rb|http://qwik.jp/tokyurb/]]があります。西のほうには[[Miataka.rb|http://groups.google.co.jp/group/mitakarb]]もあります。

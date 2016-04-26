@@ -1,0 +1,148 @@
+* 東京Ruby会議01に応募してください > 松田さん
+{{mail(shintaro@kakutani.com,1217513335)
+かくたにです。
+
+松田さん、「Asaksa.rb設立のおしらせ」を応募してください。
+http://rubykaigi.tdiary.net/20080728.html#p01
+
+# Tokyu.rbからは応募きたよ :-)
+-- 
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}
+{{mail(ronnie@dio.jp,1217566656)
+かくたにさん
+
+もろもろ対応遅くなっててすみません。
+
+> 松田さん、「Asaksa.rb設立のおしらせ」を応募してください。
+> http://rubykaigi.tdiary.net/20080728.html#p01
+
+たった今送りましたー。
+
+--
+松田 明<ronnie@dio.jp>
+}}
+{{mail(nobu@ruby-lang.org,1218955347)
+なかだです。
+
+At Fri, 1 Aug 2008 13:57:35 +0900,
+松田 明 wrote in [asakusarb:70]:
+> > 松田さん、「Asaksa.rb設立のおしらせ」を応募してください。
+> > http://rubykaigi.tdiary.net/20080728.html#p01
+> 
+> たった今送りましたー。
+
+ちなみに、どなたが参加されるのでしょうか。
+
+-- 
+--- 僕の前にBugはない。
+--- 僕の後ろにBugはできる。
+    中田 伸悦
+}}
+{{mail(ronnie@dio.jp,1219126354)
+松田です。
+
+On 2008/08/17, at 15:42, Nobuyoshi Nakada wrote:
+
+> なかだです。
+>
+> At Fri, 1 Aug 2008 13:57:35 +0900,
+> 松田 明 wrote in [asakusarb:70]:
+>>> 松田さん、「Asaksa.rb設立のおしらせ」を応募してくだ 
+>>> さい。
+>>> http://rubykaigi.tdiary.net/20080728.html#p01
+>>
+>> たった今送りましたー。
+>
+> ちなみに、どなたが参加されるのでしょうか。
+
+Asakusa.rbについてしゃべる人、という意味でしょうか？
+たぶん僕が何か喋ることになるのかなぁ、と思ってはいたのですが、
+まだ準備はまったくなんにも1文字も1秒もしてません。
+というか、MacPortsで入れたRabbitが、起動したらい 
+きなり落ちちゃう
+感じでうまく動いてくれなくて泣きそうです・・・
+
+% rabbit rabbit-0.5.7/sample/lightning- 
+talk 
+.rd                                                                   
+[~/tmp]
+/opt/local/lib/ruby/vendor_ruby/1.8/rabbit/renderer/engine/gdk.rb:  
+line 164
+   Gdk-CRITICAL **:gdk_gc_new: assertion `drawable != NULL' failed
+/opt/local/lib/ruby/vendor_ruby/1.8/rabbit/renderer/engine/gdk.rb: 
+164:in `initialize': failed to initialize (RuntimeError)
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/renderer/engine/ 
+gdk.rb:164:in `new'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/renderer/engine/ 
+gdk.rb:164:in `init_engine_color'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/renderer/display/ 
+drawing-area.rb:22:in `init_color'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/renderer/base.rb: 
+222:in `clear_theme'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/canvas.rb:695:in  
+`clear_theme'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/canvas.rb:633:in  
+`_apply_theme'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/canvas.rb:293:in  
+`apply_theme'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/canvas.rb:309:in  
+`reload_theme'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/canvas.rb:323:in  
+`parse'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/canvas.rb:703:in  
+`keep_index'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/canvas.rb:318:in  
+`parse'
+	from /opt/local/lib/ruby/vendor_ruby/1.8/rabbit/frame.rb:55:in `parse'
+	from /opt/local/bin/rabbit:536:in `parse'
+	from /opt/local/bin/rabbit:679:in `do_display'
+	from /opt/local/bin/rabbit:743:in `main'
+	from /opt/local/bin/rabbit:748
+
+まぁそんな状況なので、何か発表したいとかみんなで何か出し物でもとか
+いう方がいらっしゃったりするのであれば是非どうぞ、というところ
+ではあるのですが、きっとそんな暇人は居ないだろうな、と思いつつ、
+「どなたが参加されるのでしょうか」というのが、当日会場に
+いらっしゃる方という意味であれば、僕が思い出せる限りでは、
+
+かくたにさん
+t-wadaさん
+ogijunさん
+瀧内さん
+レオさん
+naoya_tさん
+志村さん
+
+あたりは主催者 or スピーカー or 参加者として来られるよう 
+な
+気がしています。
+当日お会いしましょう。 > 上記の方々
+
+あれ、そういえば、東京KaigiFreaksの人もいらっしゃるのかな？
+
+--
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(l.g.chin@gmail.com,1219128688)
+レオです
+
+2008/8/19 松田 明 <ronnie@dio.jp>:
+>> ちなみに、どなたが参加されるのでしょうか。
+> かくたにさん
+> t-wadaさん
+> ogijunさん
+> 瀧内さん
+> レオさん
+> naoya_tさん
+> 志村さん
+>
+> あたりは主催者 or スピーカー or 参加者として来られるような
+> 気がしています。
+
+あれ、参加リストって公開された?それとも、個人情報の漏洩?
+;)
+
+一応(一般参加者として)参加する予定ですけど。
+}}

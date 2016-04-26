@@ -1,0 +1,30 @@
+* rvm
+
+Ruby Version Manager。rvm use mput!
+
+- http://rvm.beginrescueend.com/
+- http://github.com/wayneeseguin/rvm
+
+* rubyの先っちょを持ってくる
+
+ rvm install 1.9.2 --head -C ...
+
+(rvm install 1.9.2 --rev head だと、1.9.1 preview1 がやってくる気がする)
+
+作者さんによると、1.9.1-head == 1.9.2-headだそうですので、
+
+ rvm install 1.9.1-head
+ rvm install 1.9.2-head
+
+は同じものと考えてよいそうです。(Ruby的に正しいかはわかんないです)
+
+* shyouhei/ruby の先っちょを持ってくる
+
+(TODO)
+
+
+* さんこう
+
+- http://d.hatena.ne.jp/takkan_m/20091006/1254834355
+- http://d.hatena.ne.jp/Yoshiori/20090929/1254231207
+- http://twitter.com/wayneeseguin/statuses/6048490750

@@ -1,0 +1,128 @@
+* RubySpec
+
+Yuguiさんが[[[ruby-core:25707|http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/25707]]]で、RubySpecについて"Ruby 1.9.2 must pass before release"とアナウンスしていたので、Rubyの開発に何か絡みたいasakusa.rbは興味と関心を持ってみました。
+
+公式サイトは http://rubyspec.org/ です。それなりにまとまっているので参考になる。
+
+* RubySpecを動かすための準備
+
+動かし方は、http://rubyspec.org/wiki/rubyspec/Getting_Started に書かれているんだけれど、以下でも補足しながら説明します。
+
+RubySpecを必要なものは、だいたい3つ。
+
+- mspec
+- rubyspec
+- [[rvm]] (オプション)
+
+[[rvm]]は2009年8月頃にリリースされた、複数のRuby実装やバージョンを動かすためのgem。
+
+** mspecのインストール
+
+'''gemでインストールするのではなく'''、githubからcloneする。
+
+ $ git clone git://github.com/rubyspec/mspec.git
+ $ cd mspec
+ $ rake package
+ $ gem install pkg/mspec-x.y.z.gem
+ $ mspec -v
+ mspec x.y.z
+
+** rubyspecをclone
+
+実行対象となるrubyspecをgithubからcloneします。
+
+ $ git clone git://github.com/rubyspec/rubyspec.git
+ 
+前掲のGetting Startedのドキュメントには安定板はタグをチェックアウトすると書いてあるけれど、masterブランチを対象に動かしちゃえばいいと思う。
+
+** rvm の準備 (オプション)
+
+(かくたにはまだ使えてないので、誰か! -> [[rvm]])
+
+* RubySpecを動かす
+
+ $ cd /path/to/rubyspec
+ $ mspec
+
+デフォルトだと、PATHに入っているrubyコマンドを実行します。
+
+--target(-t) オプションを与えると、他の実装を試せます。フルパスを渡せば指定したrubyをターゲットにrubyspcを実行します。詳細は mspec --help。
+
+** Ruby 1.9 をターゲットにしてrubyspecを実行する
+
+http://rubyspec.org/wiki/rubyspec/Ruby_19_Issues を一読したほうがよい。
+
+1.9はまだまだspecの整備が足りてないので、いろいろ落ちる。で、そういうものを tag として記録している。
+そのため、以下のように 1.8 気分で rubyspec を実行すると盛大に落ちて心が折れそうになる。
+
+ $ mspec -tr19 # PATHにある、'ruby1.9'という名前の実行ファイルをターゲットにする
+ $ mspec --target /path/to/your/ruby19 # $HOMEにruby19みたいな名前でインストールしてる場合など
+
+ci サブコマンドで実行すると、「落ちないはずのスペック」(fatalとかcritialとかのtagが指定されてない)だけが実行されるようになる。
+
+ $ mspec ci -tr19 # PATHにある、'ruby1.9'という名前の実行ファイルをターゲットにする
+ $ mspec ci --target /path/to/your/ruby19 # $HOMEにruby19みたいな名前でインストールしてる場合など
+
+これで落ちるものは、タグをつけて脇に置いとくか、specを直すか、Rubyl 1.9のバグか、ということを判断するーーと、ここまで書いて、仕様って何だwwww という思いに駆られてきた -- kakutani
+
+タグをつけたものは、rubyspecのtagsディレクトリの下に保存されてる。
+ちなみに 2009/09/30時点では:
+
+ 13:26 kakutani: $ find tags/1.8 -type f| wc -l                               master[~/git/rubyspec]
+ 13:26 kakutani:       1
+ 13:27 kakutani: find tags/1.9 -type f| wc -l                               master[~/git/rubyspec]
+ 13:27 kakutani:     390
+
+これはwwwww
+
+* テストを通るようにしたら報告する
+
+IRCやMLでRubyの仕様に詳しいひとに相談したりするといいと思う。ruby-devデビュー(場合によってはruby-core :)のチャンス!
+
+** rubyspecを修正するにあたって
+
+ひと通りのドキュメントは http://rubyspec.org/wiki/rubyspec にまとまっているので、目を通しておくとよい。以下は、読んでみたり、やってみた感想などをつらつらと。
+
+読んでおいたほうが良さそうなもの：
+
+*** 1.8 と 1.9 の
+
+- http://rubyspec.org/wiki/rubyspec/Ruby_19_Issues ... いちばん最後に1.8と1.9とで仕様が異なる場合のspecの書きかたが載ってる
+- http://rubyspec.org/wiki/rubyspec/Guards ... specを実行する条件について。あとでもうちょっと補足。'''ruby_version_is に注意''' -- kakutani
+- http://rubyspec.org/wiki/rubyspec/Style_Guide -- コーディング規約とか。あとで読む
+
+** 報告する
+
+http://rubyspec.org/wiki/rubyspec/Contributing
+
+- githubからpull requestは'''しない'''
+- rubyspecの[[RedMineのチケット|http://rubyspec.org/projects/rubyspec/issues]]に、git format-patch 形式でつくったパッチをファイル添付する
+
+*** 報告例
+
+英語とか気にしない!!
+
+- http://rubyspec.org/issues/show/149
+- http://rubyspec.org/issues/show/150
+
+* commit [ba96762] 時点で失敗するテスト
+
+FとEは区別してません。ターゲットは1.8
+
+-language/file_spec.rb
+-- これでいいのかな? http://github.com/kakutani/rubyspec/commit/a5b8b9e2ffd3c56460bafeceeb5ebf2f540f2034
+-core/binding/eval_spec.rb
+-- __method__ の仕様なんてサッパリわからんwww http://github.com/kakutani/rubyspec/commit/157f54299872c5ac59faa637b8313fc1f316c39b
+-core/io/binmode_spec.rb
+-core/kernel/load_spec.rb
+-- file_specと一緒だた http://github.com/kakutani/rubyspec/commit/8d215384a4fb9c7535335a7c0d38782b14210654
+-library/bigdecimal/to_i_spec.rb
+-library/bigdecimal/to_int_spec.rb
+-library/complex/numeric/angle_spec.rb
+-library/complex/numeric/arg_spec.rb
+-library/complex/numeric/polar_spec.rb
+-library/enumerator/next_spec.rb
+-- Enumerator#next で StopIteration 例外が発生している enum に対してさらに next を呼ぶと最初に戻ってる。これはバグ? 仕様?
+-library/mathn/bignum/exponent_spec.rb
+-library/parsedate/parsedate_spec.rb
+

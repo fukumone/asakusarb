@@ -1,0 +1,97 @@
+* 第128回Asakusa.rb (2011-10-11)
+{{mail(takkanm@gmail.com,1318218617)
+今日はお休みですが、明日は火曜日なのでMeetupです。
+
+明日もよければ、E和にて着席できます。
+
+今週はRubyConf帰りの人たちの話を聞く感じですかねぇ。
+でも隙あらば、先週できなかった標準ライブラリのGem化の話をしたいです。
+
+あとは松田さんに余裕があれば、redmineの話の整理をしたいです。
+先週は、郡司さんと、githubに追加されていたredmine系のレポジトリを確認したり、
+郡司さんがredmineを動かしたりしてました。
+}}
+{{mail(cesare@mayverse.jp,1318228734)
+沢田です。久しぶりに参加します。
+RubyConf の話聞きたいです。
+
+
+On Oct 10, 2011, at 12:50, takkanm@gmail.com wrote:
+
+> 今日はお休みですが、明日は火曜日なのでMeetupです。
+> 
+> 明日もよければ、E和にて着席できます。
+> 
+> 今週はRubyConf帰りの人たちの話を聞く感じですかねぇ。
+> でも隙あらば、先週できなかった標準ライブラリのGem化の話をしたいです。
+> 
+> あとは松田さんに余裕があれば、redmineの話の整理をしたいです。
+> 先週は、郡司さんと、githubに追加されていたredmine系のレポジトリを確認したり、
+> 郡司さんがredmineを動かしたりしてました。
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack128.html 
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(shibata.hiroshi@gmail.com,1318292132)
+柴田です。
+
+参加します。
+rubyconf の話を聞きながら tDiary 業か coffeescript を書くだけの簡単なお仕事を
+やろうと思います。
+ko1 さんがいらっしゃるのであれば、アメリカ滞在記も聞きたいです。
+}}
+{{mail(nakahiro@gmail.com,1318294531)
+今日は都合により自宅警備員で行けません。さらに来週もCloudFoundry輪読会[1]なのでした。
+2011/10/10  <takkanm@gmail.com>:
+> でも隙あらば、先週できなかった標準ライブラリのGem化の話をしたいです。
+
+Gem化は、[2]（AaronのkeynoteおよびRubyKaigiでの議論）と話がすれ違ってる可能性が高いと思っていて、RubyConfで皆さんがどういう話をしたのか、実はしてなくて勢いなのか、聞いてみたいです。でもまあ、Gem化については、議論をオンラインで進められないとキビシイはずなので、頑張りましょう！
+
+個人的には[2]をお任せできると[3]に注力できて嬉しいですが、それでポシャりそうであれば引き続き[2]も関わるでしょう。
+
+[1] http://atnd.org/events/20477
+[2] https://redmine.ruby-lang.org/projects/ruby/wiki/StdlibGem
+[3] https://redmine.ruby-lang.org/projects/ruby/wiki/CryptoProject
+}}
+{{mail(sakuro@2238club.org,1318296063)
+さくです。
+
+参加します。Rails edgeに欲しかった機能が入ったので嬉々として導入したら
+関係ないところでバグを踏んでしまったので潰したいなー。
+
+2011年10月10日12:50  <takkanm@gmail.com>:
+> 今日はお休みですが、明日は火曜日なのでMeetupです。
+>
+> 明日もよければ、E和にて着席できます。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(shintaro.kakutani@gmail.com,1318297725)
+2011/10/11 Hiroshi Nakamura <nahi@ruby-lang.org>:
+> Gem化は、[2]（AaronのkeynoteおよびRubyKaigiでの議論）と話がすれ違ってる可能性が高いと思っていて、RubyConfで皆さんがどういう話をしたのか、実はしてなくて勢いなのか、聞いてみたいです。でもまあ、Gem化については、議論をオンラインで進められないとキビシイはずなので、頑張りましょう！
+
+NOLAでは「nahiさんの話をちゃんと聞かないとなあ」ぐらいまでしか話をできてない感じなので、
+今日はまずは居る人達で話をする感じになると思います。
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(ken97531@gmail.com,1318314924)
+西村です。
+
+参加します。Gem化やRubyConfの話を聞いてみたいなと思いつつ、
+なぜか今日はゲットーから解放されたMongrel2を読んだり調べたりしてみたいと
+思っています。Mongrel2ってRails界隈では使われていないのでしょうか？
+}}
+{{mail(ronnie@dio.jp,1318319973)
+参加しまーす。
+nahiさんがいらっしゃらないようで残念ではありますが、Gem化の話をしたいですね。
+あとRedmine。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}

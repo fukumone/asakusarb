@@ -1,0 +1,386 @@
+* 第212回Asakusa.rb (2013-05-21)
+{{mail(takkanm@gmail.com,1369057430)
+明日は 212 回目の Asakusa.rb です。
+
+場所は、浅草渋谷のヒカリエでよいのでしょうか?
+
+よければ、入館方法等返信してもらえるとたすかります
+}}
+{{mail(sunao.tanabe@gmail.com,1369086588)
+たなべです。
+
+はい、浅草渋谷のヒカリエで大丈夫です。
+19時くらいから受付します。
+
+以下、入り方手順テンプレ。
+- ヒカリエにたどり着く
+- 11F で入館受付
+- 21F でセミナールーム 2 の部屋へ (看板が出てると思います)
+の順になります。
+
+* ヒカリエの場所 (地上駅直結だと 2F、地下鉄直結だと B3 へ着きます)
+http://www.hikarie.jp/access/index.html
+
+* 入館受付
+ドアマン業では入れてくれないヒカリエ開催なので、11F で受付します。
+館内図のオフィスエントランスのあたり (カフェ・レストランの対面) で
+19 時～ 20 時すぎあたりの時間受付します。
+http://www.hikarie.jp/floormap/11F.html
+
+そこから 21F へ上がって、セミナールーム 2 が会場です。
+21F へ着いたら案内板を見て会場へ来られるようになってる予定です。
+11F のエントランスに人がいなければ twitter や ML で連絡ください。
+
+以下、11F までの入館方法。
+いずれも商業施設に入らず水色のゾーンのエレベータで
+11F 直通で来るのがスムーズです。
+2F はエレベータがやや奥まってるので難易度高めです。
+
+地上から
+http://www.hikarie.jp/floormap/1F.html
+
+JR、東急直結 (2F)
+http://www.hikarie.jp/floormap/2F.html
+
+地下鉄直結から (B3F)
+http://www.hikarie.jp/floormap/B3.html
+}}
+{{mail(shibata.hiroshi@gmail.com,1369096796)
+参加します。
+
+RubyKaigi と RedDotRubyConf の発表内容を誰かに相談したり
+来週(!!!)の Welcome Party どうすんのみたいな話をしにいきます。
+
+2013年5月21日 6:49 sunao tanabe <sunao.tanabe@gmail.com>:
+> たなべです。
+>
+> はい、浅草渋谷のヒカリエで大丈夫です。
+> 19時くらいから受付します。
+>
+> 以下、入り方手順テンプレ。
+> - ヒカリエにたどり着く
+> - 11F で入館受付
+> - 21F でセミナールーム 2 の部屋へ (看板が出てると思います)
+> の順になります。
+>
+> * ヒカリエの場所 (地上駅直結だと 2F、地下鉄直結だと B3 へ着きます)
+> http://www.hikarie.jp/access/index.html
+>
+> * 入館受付
+> ドアマン業では入れてくれないヒカリエ開催なので、11F で受付します。
+> 館内図のオフィスエントランスのあたり (カフェ・レストランの対面) で
+> 19 時～ 20 時すぎあたりの時間受付します。
+> http://www.hikarie.jp/floormap/11F.html
+>
+> そこから 21F へ上がって、セミナールーム 2 が会場です。
+> 21F へ着いたら案内板を見て会場へ来られるようになってる予定です。
+> 11F のエントランスに人がいなければ twitter や ML で連絡ください。
+>
+> 以下、11F までの入館方法。
+> いずれも商業施設に入らず水色のゾーンのエレベータで
+> 11F 直通で来るのがスムーズです。
+> 2F はエレベータがやや奥まってるので難易度高めです。
+>
+> 地上から
+> http://www.hikarie.jp/floormap/1F.html
+>
+> JR、東急直結 (2F)
+> http://www.hikarie.jp/floormap/2F.html
+>
+> 地下鉄直結から (B3F)
+> http://www.hikarie.jp/floormap/B3.html
+>
+
+
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(mrkn@mrkn.jp,1369097718)
+むらたです。
+
+今日は20時過ぎまで会社に居る必要があるので、一人 Asakusa.rb やります。
+
+2013年5月21日 9:39 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 参加します。
+>
+> RubyKaigi と RedDotRubyConf の発表内容を誰かに相談したり
+> 来週(!!!)の Welcome Party どうすんのみたいな話をしにいきます。
+>
+> 2013年5月21日 6:49 sunao tanabe <sunao.tanabe@gmail.com>:
+>> たなべです。
+>>
+>> はい、浅草渋谷のヒカリエで大丈夫です。
+>> 19時くらいから受付します。
+>>
+>> 以下、入り方手順テンプレ。
+>> - ヒカリエにたどり着く
+>> - 11F で入館受付
+>> - 21F でセミナールーム 2 の部屋へ (看板が出てると思います)
+>> の順になります。
+>>
+>> * ヒカリエの場所 (地上駅直結だと 2F、地下鉄直結だと B3 へ着きます)
+>> http://www.hikarie.jp/access/index.html
+>>
+>> * 入館受付
+>> ドアマン業では入れてくれないヒカリエ開催なので、11F で受付します。
+>> 館内図のオフィスエントランスのあたり (カフェ・レストランの対面) で
+>> 19 時～ 20 時すぎあたりの時間受付します。
+>> http://www.hikarie.jp/floormap/11F.html
+>>
+>> そこから 21F へ上がって、セミナールーム 2 が会場です。
+>> 21F へ着いたら案内板を見て会場へ来られるようになってる予定です。
+>> 11F のエントランスに人がいなければ twitter や ML で連絡ください。
+>>
+>> 以下、11F までの入館方法。
+>> いずれも商業施設に入らず水色のゾーンのエレベータで
+>> 11F 直通で来るのがスムーズです。
+>> 2F はエレベータがやや奥まってるので難易度高めです。
+>>
+>> 地上から
+>> http://www.hikarie.jp/floormap/1F.html
+>>
+>> JR、東急直結 (2F)
+>> http://www.hikarie.jp/floormap/2F.html
+>>
+>> 地下鉄直結から (B3F)
+>> http://www.hikarie.jp/floormap/B3.html
+>>
+>
+>
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack212.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(shintaro.kakutani@gmail.com,1369097802)
+今日はRubyKaigiの準備ではない別件が入ってしまったので止むなく不参加です……
+}}
+{{mail(ryopeko@gmail.com,1369097831)
+ryopekoです。
+
+久しぶりに参加します。
+
+主に会場係をしつつRubyのウラシマ状態を解消するべくもにょもにょやります。
+
+
+2013年5月21日 9:39 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+
+> 参加します。
+>
+> RubyKaigi と RedDotRubyConf の発表内容を誰かに相談したり
+> 来週(!!!)の Welcome Party どうすんのみたいな話をしにいきます。
+>
+> 2013年5月21日 6:49 sunao tanabe <sunao.tanabe@gmail.com>:
+> > たなべです。
+> >
+> > はい、浅草渋谷のヒカリエで大丈夫です。
+> > 19時くらいから受付します。
+> >
+> > 以下、入り方手順テンプレ。
+> > - ヒカリエにたどり着く
+> > - 11F で入館受付
+> > - 21F でセミナールーム 2 の部屋へ (看板が出てると思います)
+> > の順になります。
+> >
+> > * ヒカリエの場所 (地上駅直結だと 2F、地下鉄直結だと B3 へ着きます)
+> > http://www.hikarie.jp/access/index.html
+> >
+> > * 入館受付
+> > ドアマン業では入れてくれないヒカリエ開催なので、11F で受付します。
+> > 館内図のオフィスエントランスのあたり (カフェ・レストランの対面) で
+> > 19 時～ 20 時すぎあたりの時間受付します。
+> > http://www.hikarie.jp/floormap/11F.html
+> >
+> > そこから 21F へ上がって、セミナールーム 2 が会場です。
+> > 21F へ着いたら案内板を見て会場へ来られるようになってる予定です。
+> > 11F のエントランスに人がいなければ twitter や ML で連絡ください。
+> >
+> > 以下、11F までの入館方法。
+> > いずれも商業施設に入らず水色のゾーンのエレベータで
+> > 11F 直通で来るのがスムーズです。
+> > 2F はエレベータがやや奥まってるので難易度高めです。
+> >
+> > 地上から
+> > http://www.hikarie.jp/floormap/1F.html
+> >
+> > JR、東急直結 (2F)
+> > http://www.hikarie.jp/floormap/2F.html
+> >
+> > 地下鉄直結から (B3F)
+> > http://www.hikarie.jp/floormap/B3.html
+> >
+>
+>
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack212.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+-------------------------------
+関口 亮一
+ryopeko@gmail.com
+-------------------------------
+}}
+{{mail(usa@garbagecollect.jp,1369097865)
+こんにちは、なかむら(う)です。
+
+参加します。初ヒカリエ。
+RubyKaigiの準備とか、unagi.rbについて誰かに相談とかしに行きます。
+
+
+In message "[asakusarb:4304] Re: 第212回Asakusa.rb (2013-05-21)"
+    on May.21,2013 06:49:24, <sunao.tanabe@gmail.com> wrote:
+> たなべです。
+> 
+> はい、浅草渋谷のヒカリエで大丈夫です。
+> 19時くらいから受付します。
+> 
+> 以下、入り方手順テンプレ。
+> - ヒカリエにたどり着く
+> - 11F で入館受付
+> - 21F でセミナールーム 2 の部屋へ (看板が出てると思います)
+> の順になります。
+> 
+> * ヒカリエの場所 (地上駅直結だと 2F、地下鉄直結だと B3 へ着きます)
+> http://www.hikarie.jp/access/index.html
+> 
+> * 入館受付
+> ドアマン業では入れてくれないヒカリエ開催なので、11F で受付します。
+> 館内図のオフィスエントランスのあたり (カフェ・レストランの対面) で
+> 19 時～ 20 時すぎあたりの時間受付します。
+> http://www.hikarie.jp/floormap/11F.html
+> 
+> そこから 21F へ上がって、セミナールーム 2 が会場です。
+> 21F へ着いたら案内板を見て会場へ来られるようになってる予定です。
+> 11F のエントランスに人がいなければ twitter や ML で連絡ください。
+> 
+> 以下、11F までの入館方法。
+> いずれも商業施設に入らず水色のゾーンのエレベータで
+> 11F 直通で来るのがスムーズです。
+> 2F はエレベータがやや奥まってるので難易度高めです。
+> 
+> 地上から
+> http://www.hikarie.jp/floormap/1F.html
+> 
+> JR、東急直結 (2F)
+> http://www.hikarie.jp/floormap/2F.html
+> 
+> 地下鉄直結から (B3F)
+> http://www.hikarie.jp/floormap/B3.html
+> 
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack212.html 
+> ML-> asakusarb@qwik.jp
+
+
+それでは。
+-- 
+U.Nakamura <usa@garbagecollect.jp>
+}}
+{{mail(paul@mobalean.com,1369099631)
+2013/5/21 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 来週(!!!)の Welcome Party どうすんのみたいな話をしにいきます。
+
+残念ですが、今日のイベントに参加出来ないので、今の状態を伝えます。
+
+発表：
+@josevalim - elixir
+@chatgri - パリのRubyコミュニティ
+@neocsr - ロサンゼルスのRubyコミュニティ
+
+参加者：
+60人
+20人ぐらいは海外のかた（日本に住んでいる外国人は含んでません）
+
+キャンセル待ち：
+22人
+8人ぐらいは海外のかた
+
+キャンセル待ちの海外のかたは参加出来なかったら、ちょっと寂しいと思いますが、会場のキャパ考えるとしょうがないですよね。
+}}
+{{mail(shintaro.kakutani@gmail.com,1369099863)
+2013/5/21 Paul McMahon <paul@mobalean.com>:
+>
+> キャンセル待ちの海外のかたは参加出来なかったら、ちょっと寂しいと思いますが、会場のキャパ考えるとしょうがないですよね。
+
+そうですね……。代わりにはならないかもしれないですが、
+meetupみたいなものとしては http://rubyhiroba.org/2013 もあるので、
+そちらも案内してもらえるとありがたいなーと思ってます!!
+交流の機会には使えると思うので。
+-- 
+Kakutani Shintaro
+}}
+{{mail(ko1@atdot.net,1369105387)
+(2013/05/21 10:27), Paul McMahon wrote:
+> キャンセル待ちの海外のかたは参加出来なかったら、ちょっと寂しいと思いますが、会場のキャパ考えるとしょうがないですよね。
+
+歩留まりを多めに見積もって個別に招待しちゃうのはどうでしょうかね。
+甘いかなあ。
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(haruna00horizon@gmail.com,1369112881)
+先日参加表明した平野と申します。
+
+本日のasakusa.rb参加します！
+初参加ですが、よろしくお願い致します。
+
+20時位に浅草渋谷ヒカリエに着くと思います。
+
+
+平野
+}}
+{{mail(mail@ssig33.com,1369119839)
+ssig33 です、久々に参加します。
+}}
+{{mail(amanattou4649@gmail.com,1369119888)
+天野と申します。
+本日のasakusa.rb参加します。
+初参加ですが宜しくお願いします。
+
+
+2013年5月21日 14:07 平野 優 <haruna00horizon@gmail.com>:
+
+> 先日参加表明した平野と申します。
+>
+> 本日のasakusa.rb参加します！
+> 初参加ですが、よろしくお願い致します。
+>
+> 20時位に浅草渋谷ヒカリエに着くと思います。
+>
+>
+> 平野
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack212.html
+> ML-> asakusarb@qwik.jp
+>
+}}

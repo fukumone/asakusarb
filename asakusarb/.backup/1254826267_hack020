@@ -1,0 +1,191 @@
+* 第20回Asakusa.rb(2009-10-06)
+
+{{mail(shintaro.kakutani@gmail.com,1254409377)
+かくたにです。20回ですよ!!
+
+** 日時
+2009/10/06 19:30 -
+
+** 場所
+永和システムマネジメント 東京支社
+http://www.esm.co.jp/company/map_tokyo.html
+
+** ネタ
+
+ささださんが1.9でRailsのベンチマークを取りたいとのことなので、
+それに向いたアプリをどうにかしたくありませんか?
+
+メモリをいっぱい使うようなのがいいんですよね? > ささださん
+
+1.9で動いたほうがいいだろうから、シンプルなアプリにデータをいっぱい投入して
+表示させるとかするのがいいんですかねえ。
+
+redmineとかradientは1.9で動かすのが大変そう。
+}}
+{{mail(ronnie@dio.jp,1254466509)
+松田です。
+
+20回わーい！
+
+On Fri, 2 Oct 2009 00:02:55 +0900
+KAKUTANI Shintaro <shintaro.kakutani@gmail.com> wrote:
+
+> ささださんが1.9でRailsのベンチマークを取りたいとのことなので、
+> それに向いたアプリをどうにかしたくありませんか?
+
+そうですね。Railsのやつ、何週か持ち越しになってたけど、
+そろそろやりたいですよね。
+ちなみに、例によって以前Wycatsに「ベンチとかどうやってんの？」
+って訊いたときは、なんかscaffoldとかでサクッと作ったやつに
+ちょろっとデータ入れててきとうに試験してるだけ、って言ってた
+ような気がします。
+
+今回もそれでいいならそれでもいいんですけど、今回の目的から言うと
+メモリをいっぱい使うぐらいいっぱいDBにレコードを登録しなくちゃ
+いけなくなって、そうするとRubyよりもDBのIOのほうがボトルネックに
+なっちゃうんじゃないかなぁ、という懸念があります。
+
+なので、多少は複雑なアプリのほうがいいのかなぁ、と思います。
+
+-- 
+Akira Matsuda <ronnie@dio.jp>
+
+}}
+{{mail(shintaro.kakutani@gmail.com,1254727937)
+そういえば明日は第20回 Asakusa.rb です。
+
+2009/10/2 Akira Matsuda <ronnie@dio.jp>:
+>
+> なので、多少は複雑なアプリのほうがいいのかなぁ、と思います。
+>
+
+けっきょく見当つかないので
+http://www.opensourcerails.com/
+から1.9で動きそうなのをさがす??
+}}
+{{mail(shintaro.kakutani@gmail.com,1254802756)
+今日、雨ふっちゃったけど、来るひといます?
+
+2009/10/5 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> そういえば明日は第20回 Asakusa.rb です。
+>
+> 2009/10/2 Akira Matsuda <ronnie@dio.jp>:
+>>
+>> なので、多少は複雑なアプリのほうがいいのかなぁ、と思います。
+>>
+>
+> けっきょく見当つかないので
+> http://www.opensourcerails.com/
+> から1.9で動きそうなのをさがす??
+>
+}}
+{{mail(ronnie@dio.jp,1254804804)
+あれ？あ、参加します、って言ってなかったですね。
+参加したいです。
+
+-- 
+Akira Matsuda <ronnie@dio.jp>
+
+}}
+{{mail(shintaro.kakutani@gmail.com,1254810848)
+かくたにです。
+
+あ、そうそう。asakusa.rbはエンジンかかるのが遅いのですが、
+タイムボックスにしたいです。
+
+19:30開始で21:30終了予定、最長でも22:00退出という運用にしたいです :<
+
+ご協力よろしくおねがいします
+
+2009/10/6 Akira Matsuda <ronnie@dio.jp>:
+> あれ？あ、参加します、って言ってなかったですね。
+> 参加したいです。
+>
+> --
+> Akira Matsuda <ronnie@dio.jp>
+>
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack020.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+KAKUTANI Shintaro
+http://kakutani.com
+}}
+{{mail(takkanm@gmail.com,1254812574)
+三村です。参加します。
+
+今日は、Rails大会でいいんでしょうか?
+}}
+{{mail(shintaro.kakutani@gmail.com,1254812909)
+2009/10/6  <takkanm@gmail.com>:
+> 今日は、Rails大会でいいんでしょうか?
+
+と、認識しております。時間つなぎにrubyspecその後みたいな話もできるお(キリッ
+}}
+{{mail(gunjisatoshi@gmail.com,1254812959)
+郡司です。
+
+また遅れそうですが参加したいです。
+
+09/10/06 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> 今日、雨ふっちゃったけど、来るひといます?
+>
+> 2009/10/5 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+>> そういえば明日は第20回 Asakusa.rb です。
+>>
+>> 2009/10/2 Akira Matsuda <ronnie@dio.jp>:
+>>>
+>>> なので、多少は複雑なアプリのほうがいいのかなぁ、と思います。
+>>>
+>>
+>> けっきょく見当つかないので
+>> http://www.opensourcerails.com/
+>> から1.9で動きそうなのをさがす??
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack020.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ronnie@dio.jp,1254813040)
+On Tue, 6 Oct 2009 15:34:06 +0900
+KAKUTANI Shintaro <shintaro.kakutani@gmail.com> wrote:
+
+> あ、そうそう。asakusa.rbはエンジンかかるのが遅いのですが、
+> タイムボックスにしたいです。
+> 
+> 19:30開始で21:30終了予定、最長でも22:00退出という運用にしたいです :<
+
+そうですね。前回はさすがにちょっと遅くなりすぎた
+と思ってたところなので、賛成です。
+
+-- 
+Akira Matsuda <ronnie@dio.jp>
+}}
+{{mail(yoshiori@gmail.com,1254826267)
+ヨシオリです
+
+すいません、仕事が終わらないので今日は不参加になっちゃいます
+ごめんなさい
+
+On Tuesday, October 6, 2009, Akira Matsuda <ronnie@dio.jp> wrote:
+> あれ？あ、参加します、って言ってなかったですね。
+> 参加したいです。
+>
+> --
+> Akira Matsuda <ronnie@dio.jp>
+>
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack020.html
+> ML-> asakusarb@qwik.jp
+>
+}}

@@ -1,0 +1,417 @@
+* デザインテロしたいです
+{{mail(murokaco@gmail.com,1384763639)
+はじめまして、フリーランスでwebデザイナーをしてます室(むろ)ともうします。
+
+http://qwik.jp/asakusarb/
+にデザインテロを仕掛けたいのですが
+どこかにリポジトリ公開されていたりしないでしょうか…？
+ローカルで動作確認しながらコーディングしてPR出したいです。。
+
+ちなみに、デザインつくりかけですが
+http://gyazo.com/dc4cea16626f7f8a3c3c1dfebe12d744
+こんな感じです。
+
+以上、よろしくお願い致します。
+
+むろ
+}}
+{{mail(takkanm@gmail.com,1384764201)
+むろさん
+
+明日のミートアップに参加可能であれば、そこで相談しましょう。
+
+明日は上野の E 和で 19:30 ぐらいから集合になります。
+http://qwik.jp/asakusarb/esm_ueno.html
+
+
+}}
+{{mail(murokaco@gmail.com,1384764891)
+みむらさん
+
+ご返信ありがとうございます。
+
+> 明日のミートアップに参加可能であれば、そこで相談しましょう。
+>
+> 明日は上野の E 和で 19:30 ぐらいから集合になります。
+> http://qwik.jp/asakusarb/esm_ueno.html
+
+はい、参加させていただきます
+よろしくおねがいいたしますー
+
+}}
+{{mail(silentsilent433@gmail.com,1384765444)
+むろさん
+はじめまして。小林せかいと申します。
+
+>ちなみに、デザインつくりかけですが
+>http://gyazo.com/dc4cea16626f7f8a3c3c1dfebe12d744
+>こんな感じです。
+
+すごい！素敵ですね！
+緑の色が落ち着いていて、ここに雷門提灯の赤朱色が加われば、
+”歌舞伎”って感じのJapaneseな配色ですね。いいですねー。
+コンテンツも見やすくなりそうで面白そう。
+字体も可愛い～。
+
+デザイン周りで興味がある友達が結構いるので、ちょっと声を掛けてみます。
+
+＃個人的にもちょっと吉報があるので報告もしたく、、
+
+
+小林せかい
+http://sekai.hateblo.jp/
+http://sekai-in-the-box.appspot.com/
+
+}}
+{{mail(murokaco@gmail.com,1384767318)
+小林せかいさん
+
+はじめまして！むろです。
+
+> 緑の色が落ち着いていて、ここに雷門提灯の赤朱色が加われば、
+> ”歌舞伎”って感じのJapaneseな配色ですね。いいですねー。
+
+おおーっ　確かに浅草感が出てよさそうですね！ためしてみます～
+
+> デザイン周りで興味がある友達が結構いるので、ちょっと声を掛けてみます。
+
+みなさんにお会いできるのを楽しみにしてますー
+
+
+2013年11月18日 18:04 a a <silentsilent433@gmail.com>:
+}}
+{{mail(ronnie@dio.jp,1384768726)
+室さん
+
+こんにちは。
+明日meetupに来られるということであれば詳しくはその時にいろいろ相談できれば良いかな、と思いつつ、
+ひとまず今すぐ反応できる範囲でお答えしておきます。
+
+
+> http://qwik.jp/asakusarb/
+> にデザインテロを仕掛けたいのですが
+>
+
+ありがとうございます！そういうの大歓迎です！
+
+
+> どこかにリポジトリ公開されていたりしないでしょうか…？
+> ローカルで動作確認しながらコーディングしてPR出したいです。。
+>
+
+Asakusa.rbのサイトの運用には、qwikWebっていう、WikiとMLが合体したみたいなカッコいいやつを使っていて、
+つまりこのサイトはただのWikiページなので、ソースコードとかリポジトリとかは存在しません。
+
+このMLに投稿できている時点でメンバーには加わっているはずなので、
+http://qwik.jp/asakusarb/ の右上のあたりにある "Login" から、Wikiにログインできるかと思います。
+qwik自体の機能でテーマが何種類かの中から切り替えれるようですが、独自のスタイルがどの程度当てれるかは
+なんとも言えないところですね…。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(murokaco@gmail.com,1384770144)
+まつださん
+
+はじめまして、むろです！
+
+> qwik自体の機能でテーマが何種類かの中から切り替えれるようですが、独自のスタイルがどの程度当てれるかは
+> なんとも言えないところですね…。
+
+oh...それは残念です。。
+それじゃあ明日伺っても無意味なのかと思ったのですが
+フィヨルドの町田さんから「行って来い」と言われたので参加します。。
+rubyまったくわからないのですがよろしくお願いいたします。。
+
+
+2013年11月18日 18:58 Akira Matsuda <ronnie@dio.jp>:
+> 室さん
+>
+> こんにちは。
+> 明日meetupに来られるということであれば詳しくはその時にいろいろ相談できれば良いかな、と思いつつ、
+> ひとまず今すぐ反応できる範囲でお答えしておきます。
+>
+>>
+>> http://qwik.jp/asakusarb/
+>> にデザインテロを仕掛けたいのですが
+>
+>
+> ありがとうございます！そういうの大歓迎です！
+>
+>>
+>> どこかにリポジトリ公開されていたりしないでしょうか…？
+>> ローカルで動作確認しながらコーディングしてPR出したいです。。
+>
+>
+> Asakusa.rbのサイトの運用には、qwikWebっていう、WikiとMLが合体したみたいなカッコいいやつを使っていて、
+> つまりこのサイトはただのWikiページなので、ソースコードとかリポジトリとかは存在しません。
+>
+> このMLに投稿できている時点でメンバーには加わっているはずなので、
+> http://qwik.jp/asakusarb/ の右上のあたりにある "Login" から、Wikiにログインできるかと思います。
+> qwik自体の機能でテーマが何種類かの中から切り替えれるようですが、独自のスタイルがどの程度当てれるかは
+> なんとも言えないところですね…。
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(koichiro@everyleaf.com,1384771205)
+大場です。
+qwikiとは別にティザーサイト的なのあってもいいと思います！
+
+2013年11月18日 19:22 Muro Kazuko <murokaco@gmail.com>:
+> まつださん
+>
+> はじめまして、むろです！
+>
+>> qwik自体の機能でテーマが何種類かの中から切り替えれるようですが、独自のスタイルがどの程度当てれるかは
+>> なんとも言えないところですね…。
+>
+> oh...それは残念です。。
+> それじゃあ明日伺っても無意味なのかと思ったのですが
+> フィヨルドの町田さんから「行って来い」と言われたので参加します。。
+> rubyまったくわからないのですがよろしくお願いいたします。。
+>
+>
+> 2013年11月18日 18:58 Akira Matsuda <ronnie@dio.jp>:
+>> 室さん
+>>
+>> こんにちは。
+>> 明日meetupに来られるということであれば詳しくはその時にいろいろ相談できれば良いかな、と思いつつ、
+>> ひとまず今すぐ反応できる範囲でお答えしておきます。
+>>
+>>>
+>>> http://qwik.jp/asakusarb/
+>>> にデザインテロを仕掛けたいのですが
+>>
+>>
+>> ありがとうございます！そういうの大歓迎です！
+>>
+>>>
+>>> どこかにリポジトリ公開されていたりしないでしょうか…？
+>>> ローカルで動作確認しながらコーディングしてPR出したいです。。
+>>
+>>
+>> Asakusa.rbのサイトの運用には、qwikWebっていう、WikiとMLが合体したみたいなカッコいいやつを使っていて、
+>> つまりこのサイトはただのWikiページなので、ソースコードとかリポジトリとかは存在しません。
+>>
+>> このMLに投稿できている時点でメンバーには加わっているはずなので、
+>> http://qwik.jp/asakusarb/ の右上のあたりにある "Login" から、Wikiにログインできるかと思います。
+>> qwik自体の機能でテーマが何種類かの中から切り替えれるようですが、独自のスタイルがどの程度当てれるかは
+>> なんとも言えないところですね…。
+>>
+>> --
+>> Akira Matsuda<ronnie@dio.jp>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/312.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Koichiro Ohba / koichiro@meadowy.org
+}}
+{{mail(kou@cozmixng.org,1384776872)
+須藤です。
+
+In <CAGQy1L+M8wVguD_+sGYz+Fv+pA4WYPDcOMnGdp3NjAHTfzO9UA@mail.gmail.com>
+  "[asakusarb:4816] Re: デザインテロしたいです" on Mon, 18 Nov 2013 19:40:03 +0900,
+  Koichiro Ohba <koichiro@meadowy.org> wrote:
+
+> qwikiとは別にティザーサイト的なのあってもいいと思います！
+
+asaku.saドメインをとって、http://asaku.sa/rb/をこのデザイン
+にしてhttp://asaku.sa/rb/wiki/を今のqwikWebのページにしちゃ
+うのはどうですかねぃ。
+
+
+たいやき部っていうのがあって、その部は
+
+  http://taiyaki.ru/
+
+をVPSの上で動かして、qwikWebのページは
+
+  http://taiyaki.ru/wiki/
+
+でアクセスできるようにしていたりします。
+（リバースプロキシしています。）
+}}
+{{mail(ronnie@dio.jp,1384777967)
+.saドメインびっくりするぐらい高いです！ http://www.gonbei.jp/reg/domain_detail.cgi?p1=sa
+
+というか、そういえばいつか独自サイトを作りたくなることもあるかもしれないと思って、
+http://asakusa.rubyist.net/ っていうステキな名前を貰っていたのでした。
+今は単にqwikのページにリダイレクトしてますが、この名前だったら使えます！
+
+
+2013/11/18 Kouhei Sutou <kou@cozmixng.org>
+
+> 須藤です。
+>
+> In <CAGQy1L+M8wVguD_+sGYz+Fv+pA4WYPDcOMnGdp3NjAHTfzO9UA@mail.gmail.com>
+>   "[asakusarb:4816] Re: デザインテロしたいです" on Mon, 18 Nov 2013 19:40:03 +0900,
+>   Koichiro Ohba <koichiro@meadowy.org> wrote:
+>
+> > qwikiとは別にティザーサイト的なのあってもいいと思います！
+>
+> asaku.saドメインをとって、http://asaku.sa/rb/をこのデザイン
+> にしてhttp://asaku.sa/rb/wiki/を今のqwikWebのページにしちゃ
+> うのはどうですかねぃ。
+>
+>
+> たいやき部っていうのがあって、その部は
+>
+>   http://taiyaki.ru/
+>
+> をVPSの上で動かして、qwikWebのページは
+>
+>   http://taiyaki.ru/wiki/
+>
+> でアクセスできるようにしていたりします。
+> （リバースプロキシしています。）
+>
+> --
+> archive-> http://qwik.jp/asakusarb/312.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(kou@cozmixng.org,1384779134)
+須藤です。
+
+In <CA+aYBvGQuTJSMcHv9M=gHOP01EFW6N7pmzJ5htytHd1hoDGG4Q@mail.gmail.com>
+  "[asakusarb:4819] Re: デザインテロしたいです" on Mon, 18 Nov 2013 21:32:23 +0900,
+  Akira Matsuda <ronnie@dio.jp> wrote:
+
+> .saドメインびっくりするぐらい高いです！ http://www.gonbei.jp/reg/domain_detail.cgi?p1=sa
+
+4万5千円/年！？
+しかも、サウジアラビアで有効な商標が必要なんですね。。。
+
+400万円で100年契約もできるんですねぇ。
+
+> というか、そういえばいつか独自サイトを作りたくなることもあるかもしれないと思っ
+> て、
+> http://asakusa.rubyist.net/ っていうステキな名前を貰っていたのでした。
+> 今は単にqwikのページにリダイレクトしてますが、この名前だったら使えます！
+
+おぉ、これはよさそうですね！
+}}
+{{mail(murokaco@gmail.com,1384835949)
+まつださん
+すどうさん
+
+す、すいません
+返信が遅くなりました。室です。
+
+>> http://asakusa.rubyist.net/ っていうステキな名前を貰っていたのでした。
+>> 今は単にqwikのページにリダイレクトしてますが、この名前だったら使えます！
+>
+> おぉ、これはよさそうですね！
+
+おおお！それではティザーサイト作成を目標にさせて頂きます！
+(もしなければtdiaryのテーマをモクモク作ろうと思ってました)
+
+よろしくお願いいたします！
+
+
+2013年11月18日 21:52 Kouhei Sutou <kou@cozmixng.org>:
+> 須藤です。
+>
+> In <CA+aYBvGQuTJSMcHv9M=gHOP01EFW6N7pmzJ5htytHd1hoDGG4Q@mail.gmail.com>
+>   "[asakusarb:4819] Re: デザインテロしたいです" on Mon, 18 Nov 2013 21:32:23 +0900,
+>   Akira Matsuda <ronnie@dio.jp> wrote:
+>
+>> .saドメインびっくりするぐらい高いです！ http://www.gonbei.jp/reg/domain_detail.cgi?p1=sa
+>
+> 4万5千円/年！？
+> しかも、サウジアラビアで有効な商標が必要なんですね。。。
+>
+> 400万円で100年契約もできるんですねぇ。
+>
+>> というか、そういえばいつか独自サイトを作りたくなることもあるかもしれないと思っ
+>> て、
+>> http://asakusa.rubyist.net/ っていうステキな名前を貰っていたのでした。
+>> 今は単にqwikのページにリダイレクトしてますが、この名前だったら使えます！
+>
+> おぉ、これはよさそうですね！
+>
+> --
+> archive-> http://qwik.jp/asakusarb/312.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(etocom2009@gmail.com,1384845801)
+江渡です。
+
+デザインはカスタマイズできますよ。
+http://qwik.jp/taiyaki/
+http://qwik.jp/senna/
+あたりを参考にしていただければと。
+
+http://qwik.jp/asakusarb/_SiteTheme.html
+というページを作り、そこに添付ファイルとして、
+theme.cssというファイルを置けばOKです。
+}}
+{{mail(murokaco@gmail.com,1384858584)
+江渡さん
+
+おお！ありがとうございます！！
+試してみます！！
+
+むろ
+
+2013年11月19日 16:23 Koichiro Eto <etocom2009@gmail.com>:
+> 江渡です。
+>
+> デザインはカスタマイズできますよ。
+> http://qwik.jp/taiyaki/
+> http://qwik.jp/senna/
+> あたりを参考にしていただければと。
+>
+> http://qwik.jp/asakusarb/_SiteTheme.html
+> というページを作り、そこに添付ファイルとして、
+> theme.cssというファイルを置けばOKです。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/312.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(murokaco@gmail.com,1384864977)
+江渡さん
+
+むろです。
+すいません、質問なのですが
+これはjsもcss同様に添付すればよいのでしょうか…？
+
+2013年11月19日 19:56 Muro Kazuko <murokaco@gmail.com>:
+> 江渡さん
+>
+> おお！ありがとうございます！！
+> 試してみます！！
+>
+> むろ
+>
+> 2013年11月19日 16:23 Koichiro Eto <etocom2009@gmail.com>:
+>> 江渡です。
+>>
+>> デザインはカスタマイズできますよ。
+>> http://qwik.jp/taiyaki/
+>> http://qwik.jp/senna/
+>> あたりを参考にしていただければと。
+>>
+>> http://qwik.jp/asakusarb/_SiteTheme.html
+>> というページを作り、そこに添付ファイルとして、
+>> theme.cssというファイルを置けばOKです。
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/312.html
+>> ML-> asakusarb@qwik.jp
+}}
+{{mail(etocom2009@gmail.com,1384934593)
+> これはjsもcss同様に添付すればよいのでしょうか…？
+jsは使えないです。
+}}

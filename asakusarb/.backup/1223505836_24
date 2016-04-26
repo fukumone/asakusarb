@@ -1,0 +1,145 @@
+* 教えてください。
+{{mail(pikky3@mail.goo.ne.jp,1223393768)
+こんばんは。
+
+先日　入会しました。片山と申します。
+突然ですみません。。
+
+Rubyで作るネット巡回ロボットに興味あります。
+
+どなたか
+参考本や参考Site教えていただけないでしょうか。
+RubyistMagazine　第7回　net/httpなど目は通しているのですが、
+詳しい情報探しています。
+
+秋の屋形舟いいですネ。
+}}
+{{mail(gunjisatoshi@gmail.com,1223394270)
+郡司です。
+
+> 先日　入会しました。片山と申します。
+
+> Rubyで作るネット巡回ロボットに興味あります。
+>
+> どなたか
+> 参考本や参考Site教えていただけないでしょうか。
+> RubyistMagazine　第7回　net/httpなど目は通しているのですが、
+> 詳しい情報探しています。
+
+WWW::Mechanizeはいかがでしょうか。
+
+yharaさんのサイトに詳しい使い方があります↓
+http://mono.kmc.gr.jp/~yhara/w/?Ruby-WWW-Mechanize
+
+その他、WWW::MechanizeとRubyをキーワードにGoogle等で検索すると
+サンプルがたくさん出てくると思います。
+
+では。
+}}
+{{mail(pikky3@mail.goo.ne.jp,1223451831)
+
+郡司　さま
+
+情報ありがとうございます。
+下記サイト調べてみます。
+今後もご指導よろしくお願いします。
+
+屋形船企画楽しみにしています。
+
+
+片山
+
+----- Original Message ----- 
+送信者: Satoshi GUNJI<gunjisatoshi@gmail.com>
+宛先: asakusarb@qwik.jp
+日付:Wednesday, October, 08, 2008, 12:44 AM
+件名: [asakusarb:120] Re: 教えてください。
+
+> 
+> 
+> 郡司です。
+> 
+> > 先日　入会しました。片山と申します。
+> 
+> > Rubyで作るネット巡回ロボットに興味あります。
+> >
+> > どなたか
+> > 参考本や参考Site教えていただけないでしょうか。
+> > RubyistMagazine　第7回　net/httpなど目は通しているのですが、
+> > 詳しい情報探しています。
+> 
+> WWW::Mechanizeはいかがでしょうか。
+> 
+> yharaさんのサイトに詳しい使い方があります↓
+> http://mono.kmc.gr.jp/~yhara/w/?Ruby-WWW-Mechanize
+> 
+> その他、WWW::MechanizeとRubyをキーワードにGoogle等で検索すると
+> サンプルがたくさん出てくると思います。
+> 
+> では。
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/24.html 
+> ML-> asakusarb@qwik.jp
+> 
+}}
+{{mail(shintaro@kakutani.com,1223451976)
+かくたにです。
+
+At 8 Oct 2008 16:43:50 +0900,
+pikky3@mail.goo.ne.jp wrote:
+> 
+> 屋形船企画楽しみにしています。
+> 
+
+屋形船は金銭的に負担がちょっと大きいので、
+何か調整してイベントと絡めたいですね……。
+
+まつもとさんが東京にいるときとか :-)
+
+普通の第4回やってみませんか。
+-- 
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}
+{{mail(lazyw0rkers@gmail.com,1223505836)
+おはようございます。及川です。
+
+第4回の件、ホットスポットを基点に場所検討するのであれば、
+はてブで見つけた下記URLが使い勝手いいです。
+
+http://pixy.in/hotspotmaps/
+
+直近でなければ、弊社会議室（～21:00であれば）も選択肢に。
+
+まだ参加したことがありませんが、1.9.1リリース前に１つでも
+アクション起こせればと思います。
+
+（来週のJJUG Cross Community Conference 2008に興味あり。）
+
+よろしくどうぞ
+
+2008/10/08 16:46 KAKUTANI Shintaro <shintaro@kakutani.com>:
+> かくたにです。
+>
+> At 8 Oct 2008 16:43:50 +0900,
+> pikky3@mail.goo.ne.jp wrote:
+>>
+>> 屋形船企画楽しみにしています。
+>>
+>
+> 屋形船は金銭的に負担がちょっと大きいので、
+> 何か調整してイベントと絡めたいですね……。
+>
+> まつもとさんが東京にいるときとか :-)
+>
+> 普通の第4回やってみませんか。
+> --
+> { :name: ["KAKUTANI", "Shintaro"],
+>  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+>
+> --
+> archive-> http://qwik.jp/asakusarb/24.html
+> ML-> asakusarb@qwik.jp
+>
+}}

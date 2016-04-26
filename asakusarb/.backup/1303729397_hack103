@@ -1,0 +1,11 @@
+* 第103回Asakusa.rb(2011-04-26)
+{{mail(takkanm@gmail.com,1303729397)
+さて、明日のこの時間は 103 回目の Meetup ですね。
+
+明日も何もなければ、E和 に着席してられます。
+
+今ちょっと諸事情により prefetch-rspec の dogfood ブランチをつかっているのですが、
+今日 pipe がきれたとかのエラーがバンバンでたので、
+そこらあたりを見れたらとおもいます。
+https://github.com/asakusarb/prefetch-rspec/tree/dogfood
+}}

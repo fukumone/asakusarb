@@ -1,0 +1,198 @@
+* 第289回Asakusa.rb (2014-12-16)
+{{mail(takkanm@gmail.com,1418606452)
+明日は 289 回目であり、今年最後のミートアップです。
+
+明日も上野 E 和にてお待ちしています。
+
+http://qwik.jp/asakusarb/esm_ueno.html
+
+Last meetup in this year is going to be held tommoro evening, at same place
+in Ueno http://www.esm.co.jp/company/outline/tokyo_map.html
+}}
+{{mail(ko1@atdot.net,1418607064)
+On 2014/12/15 10:20, takkanm@gmail.com wrote:
+> 明日は 289 回目であり、今年最後のミートアップです。
+> 
+> 明日も上野 E 和にてお待ちしています。
+> 
+> http://qwik.jp/asakusarb/esm_ueno.html
+> 
+> Last meetup in this year is going to be held tommoro evening, at same
+> place in Ueno http://www.esm.co.jp/company/outline/tokyo_map.html
+> 
+
+今年最後なので出席します。
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(murokaco@gmail.com,1418646710)
+まつださんとデザインテロの件で
+相談したいので参加します。
+
+ちなみにモックは未着手です…
+
+むろ
+On 2014年12月15日(月) at 10:31 SASADA Koichi <ko1@atdot.net> wrote:
+
+> On 2014/12/15 10:20, takkanm@gmail.com wrote:
+> > 明日は 289 回目であり、今年最後のミートアップです。
+> >
+> > 明日も上野 E 和にてお待ちしています。
+> >
+> > http://qwik.jp/asakusarb/esm_ueno.html
+> >
+> > Last meetup in this year is going to be held tommoro evening, at same
+> > place in Ueno http://www.esm.co.jp/company/outline/tokyo_map.html
+> >
+>
+> 今年最後なので出席します。
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+}}
+{{mail(uzukifirst@gmail.com,1418646957)
+今年最後というワードに惹かれてぜひ参加したいのですが、ちょっと難しそうです。。
+みなさま、良いお年をお迎えくださいm(__)m
+*************************
+  Chikahiro Tokoro
+  http://ctokoro.me/
+*************************
+
+
+2014-12-15 21:31 GMT+09:00 Muro Kazuko <murokaco@gmail.com>:
+> まつださんとデザインテロの件で
+> 相談したいので参加します。
+>
+> ちなみにモックは未着手です…
+>
+> むろ
+>
+> On 2014年12月15日(月) at 10:31 SASADA Koichi <ko1@atdot.net> wrote:
+>>
+>> On 2014/12/15 10:20, takkanm@gmail.com wrote:
+>> > 明日は 289 回目であり、今年最後のミートアップです。
+>> >
+>> > 明日も上野 E 和にてお待ちしています。
+>> >
+>> > http://qwik.jp/asakusarb/esm_ueno.html
+>> >
+>> > Last meetup in this year is going to be held tommoro evening, at same
+>> > place in Ueno http://www.esm.co.jp/company/outline/tokyo_map.html
+>> >
+>>
+>> 今年最後なので出席します。
+>>
+>> --
+>> // SASADA Koichi at atdot dot net
+}}
+{{mail(shibata.hiroshi@gmail.com,1418683703)
+2.2 のリリース前に解決できそうな issue を棚卸しに行こうと思います。
+
+On Mon, Dec 15, 2014 at 10:20 AM,  <takkanm@gmail.com> wrote:
+> 明日は 289 回目であり、今年最後のミートアップです。
+>
+> 明日も上野 E 和にてお待ちしています。
+>
+> http://qwik.jp/asakusarb/esm_ueno.html
+>
+> Last meetup in this year is going to be held tommoro evening, at same place
+> in Ueno http://www.esm.co.jp/company/outline/tokyo_map.html
+>
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(katsyoshi@katsyoshi.org,1418691645)
+今年最後のようなので参加します。
+
+2014年12月16日 7:48 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+>
+> 2.2 のリリース前に解決できそうな issue を棚卸しに行こうと思います。
+>
+> On Mon, Dec 15, 2014 at 10:20 AM,  <takkanm@gmail.com> wrote:
+> > 明日は 289 回目であり、今年最後のミートアップです。
+> >
+> > 明日も上野 E 和にてお待ちしています。
+> >
+> > http://qwik.jp/asakusarb/esm_ueno.html
+> >
+> > Last meetup in this year is going to be held tommoro evening, at same
+> place
+> > in Ueno http://www.esm.co.jp/company/outline/tokyo_map.html
+> >
+>
+>
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org
+> http://www.hsbt.org/
+>
+}}
+{{mail(mayumi.emori@gmail.com,1418691948)
+emorimaです。
+
+いつも会場提供ありがとうございます。
+パネトーネ持って行きます!
+}}
+{{mail(ronnie@dio.jp,1418693282)
+参加します。
+
+新年会のサインアップまだの方はお早めにどうぞー。 http://asakusarb.doorkeeper.jp/events/18485
+}}
+{{mail(mail@yukinishijima.net,1418694635)
+うおー、今年最後なのですね。金曜日の夜から2週間程東京にいる予定なので、asakusa.rb
+にも行けるかなと思っていたので残念です。みなさん、今年最後のミートアップを楽しんで下さい。
+
+2014-12-15 20:27 GMT-05:00 Akira Matsuda <ronnie@dio.jp>:
+>
+> 参加します。
+>
+> 新年会のサインアップまだの方はお早めにどうぞー。 http://asakusarb.doorkeeper.jp/events/18485
+>
+}}
+{{mail(yuki.torii.23@gmail.com,1418718937)
+鳥井です
+
+参加させて頂きますー。
+
+2014年12月16日 10:50 Yuki Nishijima <mail@yukinishijima.net>:
+>
+> うおー、今年最後なのですね。金曜日の夜から2週間程東京にいる予定なので、asakusa.rb
+> にも行けるかなと思っていたので残念です。みなさん、今年最後のミートアップを楽しんで下さい。
+>
+> 2014-12-15 20:27 GMT-05:00 Akira Matsuda <ronnie@dio.jp>:
+>>
+>> 参加します。
+>>
+>> 新年会のサインアップまだの方はお早めにどうぞー。 http://asakusarb.doorkeeper.jp/events/18485
+>>
+>
+}}
+{{mail(konabanna@gmail.com,1418726062)
+新名です。
+参加します。
+
+2014年12月16日 17:35 鳥井雪 <yuki.torii.23@gmail.com>:
+>
+> 鳥井です
+>
+> 参加させて頂きますー。
+>
+> 2014年12月16日 10:50 Yuki Nishijima <mail@yukinishijima.net>:
+>
+>> うおー、今年最後なのですね。金曜日の夜から2週間程東京にいる予定なので、asakusa.rb
+>> にも行けるかなと思っていたので残念です。みなさん、今年最後のミートアップを楽しんで下さい。
+>>
+>> 2014-12-15 20:27 GMT-05:00 Akira Matsuda <ronnie@dio.jp>:
+>>>
+>>> 参加します。
+>>>
+>>> 新年会のサインアップまだの方はお早めにどうぞー。 http://asakusarb.doorkeeper.jp/events/18485
+>>>
+>>
+}}

@@ -1,0 +1,30 @@
+* 第10回Asakusa.rb のおしらせ
+{{mail(ronnie@dio.jp,1244437210)
+松田です。
+
+毎週やろうかとか言っといて3週間ぶりだったりするんですが、
+第10回Asakusa.rbを以下の要領で開催します。
+
+{{{
+第10回Asakusa.rb = {
+日時: 06/09(Tue) 19:00ぐらい～
+場所:  秋葉原ダイビル 13F http://www.i.u-tokyo.ac.jp/map/index.shtml#aki
+内容: prsnt.orgのつづき
+}
+}}}
+
+ここまでのところの成果物は以下のリポジトリです。
+http://github.com/ko1/prsnt/
+
+それから、例によって、今回から参加される方は、
+吉川さんがまとめてくださっているログをご覧ください。
+
+第８回Asakusa.rb議事録 http://qwik.jp/asakusarb/50.html
+第９回Asakusa.rb議事録 http://qwik.jp/asakusarb/52.html
+
+それでは、明日もみなさんのご参加をお待ちしております。
+よろしくお願いします。
+
+--
+Akira Matsuda<ronnie@dio.jp>
+}}

@@ -1,0 +1,438 @@
+* 第224回Asakusa.rb (2013-08-13)
+{{mail(takkanm@gmail.com,1376303707)
+明日は 224 回目の meetup です。
+
+世間はお盆のようですが、どなたかが参加するのであれば、
+上野 E 和にてドアマンできると思います。
+
+開催されたら、たぶん RubyMotion いじります。
+}}
+{{mail(mrkn@mrkn.jp,1376303801)
+村田です。
+
+Mac を札幌に忘れて来てしまったためお休みします＞＜
+
+On Monday, August 12, 2013, wrote:
+
+> 明日は 224 回目の meetup です。
+>
+> 世間はお盆のようですが、どなたかが参加するのであれば、
+> 上野 E 和にてドアマンできると思います。
+>
+> 開催されたら、たぶん RubyMotion いじります。
+>
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(shibata.hiroshi@gmail.com,1376305836)
+> 世間はお盆のようですが、どなたかが参加するのであれば、
+> 上野 E 和にてドアマンできると思います。
+>
+> 開催されたら、たぶん RubyMotion いじります。
+
+ruby-lang.org の残件を triage したり、開発者会議に出したいものを探したりします。
+
+もしくは、$SAFE=4 を外した影響で fcgi の native extension が動かなくなっている件を
+深追いします。
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(shintaro.kakutani@gmail.com,1376313240)
+参加します～
+
+2013年8月12日月曜日 SHIBATA Hiroshi hsbt@ruby-lang.org:
+
+> > 世間はお盆のようですが、どなたかが参加するのであれば、
+> > 上野 E 和にてドアマンできると思います。
+> >
+> > 開催されたら、たぶん RubyMotion いじります。
+>
+> ruby-lang.org の残件を triage したり、開発者会議に出したいものを探したりします。
+>
+> もしくは、$SAFE=4 を外した影響で fcgi の native extension が動かなくなっている件を
+> 深追いします。
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org <javascript:;>
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack224.html
+> ML-> asakusarb@qwik.jp <javascript:;>
+>
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(mayumi.emori@gmail.com,1376316430)
+emorimaです。
+
+会場提供ありがとうございます。
+
+参加します。
+
+アメリカ土産のスイカ味OREOを持って伺います～。
+(今回は、テロにはならない...はず)
+
+
+
+2013年8月12日 19:34 <takkanm@gmail.com>:
+
+> 明日は 224 回目の meetup です。
+>
+> 世間はお盆のようですが、どなたかが参加するのであれば、
+> 上野 E 和にてドアマンできると思います。
+>
+> 開催されたら、たぶん RubyMotion いじります。
+>
+
+
+
+-- 
+Mayumi EMORI
+mayumi.emori@gmail.com
+}}
+{{mail(gunjisatoshi@gmail.com,1376317223)
+郡司です。
+
+会場提供いつもありがとうございます。
+何事もなければ参加の予定です。
+
+るびま 0044 号に向けての整理と、0043 号の振り返りをやりたいですねえ。
+
+
+2013年8月12日 23:07 mayumi emori <mayumi.emori@gmail.com>:
+> emorimaです。
+>
+> 会場提供ありがとうございます。
+>
+> 参加します。
+>
+> アメリカ土産のスイカ味OREOを持って伺います～。
+> (今回は、テロにはならない...はず)
+>
+>
+>
+> 2013年8月12日 19:34 <takkanm@gmail.com>:
+>
+>> 明日は 224 回目の meetup です。
+>>
+>> 世間はお盆のようですが、どなたかが参加するのであれば、
+>> 上野 E 和にてドアマンできると思います。
+>>
+>> 開催されたら、たぶん RubyMotion いじります。
+>
+>
+>
+>
+> --
+> Mayumi EMORI
+> mayumi.emori@gmail.com
+}}
+{{mail(satoimo.to.imo@gmail.com,1376318238)
+早速なのですが、明日 参加させていただきたいです。
+Railsチュートリアルをすすめたいと思います。
+
+よろしくお願いします。
+
+2013年8月12日 23:20 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> 郡司です。
+>
+> 会場提供いつもありがとうございます。
+> 何事もなければ参加の予定です。
+>
+> るびま 0044 号に向けての整理と、0043 号の振り返りをやりたいですねえ。
+>
+>
+> 2013年8月12日 23:07 mayumi emori <mayumi.emori@gmail.com>:
+>> emorimaです。
+>>
+>> 会場提供ありがとうございます。
+>>
+>> 参加します。
+>>
+>> アメリカ土産のスイカ味OREOを持って伺います～。
+>> (今回は、テロにはならない...はず)
+>>
+>>
+>>
+>> 2013年8月12日 19:34 <takkanm@gmail.com>:
+>>
+>>> 明日は 224 回目の meetup です。
+>>>
+>>> 世間はお盆のようですが、どなたかが参加するのであれば、
+>>> 上野 E 和にてドアマンできると思います。
+>>>
+>>> 開催されたら、たぶん RubyMotion いじります。
+>>
+>>
+>>
+>>
+>> --
+>> Mayumi EMORI
+>> mayumi.emori@gmail.com
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack224.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+■□加藤 由佳（カトウ ユカ）
+□■satoimo.to.imo@gmail.com
+■□090-9378-3171
+}}
+{{mail(kakyoin.hierophant@gmail.com,1376324792)
+参加しますー。
+関西Ruby会議向けの資料作成をするか、mruby弄るつもりです。
+
+
+2013年8月12日 23:37 加藤由佳 <satoimo.to.imo@gmail.com>:
+
+> 早速なのですが、明日 参加させていただきたいです。
+> Railsチュートリアルをすすめたいと思います。
+>
+> よろしくお願いします。
+>
+> 2013年8月12日 23:20 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> > 郡司です。
+> >
+> > 会場提供いつもありがとうございます。
+> > 何事もなければ参加の予定です。
+> >
+> > るびま 0044 号に向けての整理と、0043 号の振り返りをやりたいですねえ。
+> >
+> >
+> > 2013年8月12日 23:07 mayumi emori <mayumi.emori@gmail.com>:
+> >> emorimaです。
+> >>
+> >> 会場提供ありがとうございます。
+> >>
+> >> 参加します。
+> >>
+> >> アメリカ土産のスイカ味OREOを持って伺います～。
+> >> (今回は、テロにはならない...はず)
+> >>
+> >>
+> >>
+> >> 2013年8月12日 19:34 <takkanm@gmail.com>:
+> >>
+> >>> 明日は 224 回目の meetup です。
+> >>>
+> >>> 世間はお盆のようですが、どなたかが参加するのであれば、
+> >>> 上野 E 和にてドアマンできると思います。
+> >>>
+> >>> 開催されたら、たぶん RubyMotion いじります。
+> >>
+> >>
+> >>
+> >>
+> >> --
+> >> Mayumi EMORI
+> >> mayumi.emori@gmail.com
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack224.html
+> > ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> ■□加藤 由佳（カトウ ユカ）
+> □■satoimo.to.imo@gmail.com
+> ■□090-9378-3171
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack224.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(matsumoto.katsuyoshi@gmail.com,1376346601)
+参加します．
+
+
+
+2013年8月13日 1:26 橋立友宏 <kakyoin.hierophant@gmail.com>:
+
+> 参加しますー。
+> 関西Ruby会議向けの資料作成をするか、mruby弄るつもりです。
+>
+>
+> 2013年8月12日 23:37 加藤由佳 <satoimo.to.imo@gmail.com>:
+>
+> 早速なのですが、明日 参加させていただきたいです。
+>> Railsチュートリアルをすすめたいと思います。
+>>
+>> よろしくお願いします。
+>>
+>> 2013年8月12日 23:20 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+>> > 郡司です。
+>> >
+>> > 会場提供いつもありがとうございます。
+>> > 何事もなければ参加の予定です。
+>> >
+>> > るびま 0044 号に向けての整理と、0043 号の振り返りをやりたいですねえ。
+>> >
+>> >
+>> > 2013年8月12日 23:07 mayumi emori <mayumi.emori@gmail.com>:
+>> >> emorimaです。
+>> >>
+>> >> 会場提供ありがとうございます。
+>> >>
+>> >> 参加します。
+>> >>
+>> >> アメリカ土産のスイカ味OREOを持って伺います～。
+>> >> (今回は、テロにはならない...はず)
+>> >>
+>> >>
+>> >>
+>> >> 2013年8月12日 19:34 <takkanm@gmail.com>:
+>> >>
+>> >>> 明日は 224 回目の meetup です。
+>> >>>
+>> >>> 世間はお盆のようですが、どなたかが参加するのであれば、
+>> >>> 上野 E 和にてドアマンできると思います。
+>> >>>
+>> >>> 開催されたら、たぶん RubyMotion いじります。
+>> >>
+>> >>
+>> >>
+>> >>
+>> >> --
+>> >> Mayumi EMORI
+>> >> mayumi.emori@gmail.com
+>> >
+>> > --
+>> > archive-> http://qwik.jp/asakusarb/hack224.html
+>> > ML-> asakusarb@qwik.jp
+>>
+>>
+>>
+>> --
+>> ■□加藤 由佳（カトウ ユカ）
+>> □■satoimo.to.imo@gmail.com
+>> ■□090-9378-3171
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack224.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+
+
+-- 
+松本 勝慶
+
+Matsumoto, Katsuyoshi
+
+matsumoto.katsuyoshi@gmail.com
+}}
+{{mail(kuni-ito@esm.co.jp,1376356808)
+参加します。
+
+
+2013年8月13日 7:29 松本勝慶 <matsumoto.katsuyoshi@gmail.com>:
+> 参加します．
+>
+>
+>
+> 2013年8月13日 1:26 橋立友宏 <kakyoin.hierophant@gmail.com>:
+>
+>> 参加しますー。
+>> 関西Ruby会議向けの資料作成をするか、mruby弄るつもりです。
+>>
+>>
+>> 2013年8月12日 23:37 加藤由佳 <satoimo.to.imo@gmail.com>:
+>>
+>>> 早速なのですが、明日 参加させていただきたいです。
+>>> Railsチュートリアルをすすめたいと思います。
+>>>
+>>> よろしくお願いします。
+>>>
+>>> 2013年8月12日 23:20 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+>>> > 郡司です。
+>>> >
+>>> > 会場提供いつもありがとうございます。
+>>> > 何事もなければ参加の予定です。
+>>> >
+>>> > るびま 0044 号に向けての整理と、0043 号の振り返りをやりたいですねえ。
+>>> >
+>>> >
+>>> > 2013年8月12日 23:07 mayumi emori <mayumi.emori@gmail.com>:
+>>> >> emorimaです。
+>>> >>
+>>> >> 会場提供ありがとうございます。
+>>> >>
+>>> >> 参加します。
+>>> >>
+>>> >> アメリカ土産のスイカ味OREOを持って伺います～。
+>>> >> (今回は、テロにはならない...はず)
+>>> >>
+>>> >>
+>>> >>
+>>> >> 2013年8月12日 19:34 <takkanm@gmail.com>:
+>>> >>
+>>> >>> 明日は 224 回目の meetup です。
+>>> >>>
+>>> >>> 世間はお盆のようですが、どなたかが参加するのであれば、
+>>> >>> 上野 E 和にてドアマンできると思います。
+>>> >>>
+>>> >>> 開催されたら、たぶん RubyMotion いじります。
+>>> >>
+>>> >>
+>>> >>
+>>> >>
+>>> >> --
+>>> >> Mayumi EMORI
+>>> >> mayumi.emori@gmail.com
+>>> >
+>>> > --
+>>> > archive-> http://qwik.jp/asakusarb/hack224.html
+>>> > ML-> asakusarb@qwik.jp
+>>>
+>>>
+>>>
+>>> --
+>>> ■□加藤 由佳（カトウ ユカ）
+>>> □■satoimo.to.imo@gmail.com
+>>> ■□090-9378-3171
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/hack224.html
+>>> ML-> asakusarb@qwik.jp
+>>
+>>
+>
+>
+>
+> --
+> 松本 勝慶
+>
+> Matsumoto, Katsuyoshi
+>
+> matsumoto.katsuyoshi@gmail.com
+
+
+
+-- 
+===============================================
+株式会社　永和システムマネジメント
+サービスプロバイディング事業部　伊藤　邦彦
+E-mail: kuni-ito@esm.co.jp
+TEL：03-5818-7400　 FAX：03-5818-7340
+===============================================
+}}

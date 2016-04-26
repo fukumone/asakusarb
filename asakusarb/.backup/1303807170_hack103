@@ -1,0 +1,181 @@
+* 第103回Asakusa.rb(2011-04-26)
+{{mail(takkanm@gmail.com,1303729397)
+さて、明日のこの時間は 103 回目の Meetup ですね。
+
+明日も何もなければ、E和 に着席してられます。
+
+今ちょっと諸事情により prefetch-rspec の dogfood ブランチをつかっているのですが、
+今日 pipe がきれたとかのエラーがバンバンでたので、
+そこらあたりを見れたらとおもいます。
+https://github.com/asakusarb/prefetch-rspec/tree/dogfood
+}}
+{{mail(shibata.hiroshi@gmail.com,1303730159)
+柴田です。
+
+明日はGWの帰省準備などがあるので、会場準備だけして早めに帰る予定です。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(celluloid.key@gmail.com,1303776823)
+hibariyaです。
+
+途中まで着席して、ペットの世話をしに帰ります。
+昨日の議事録かrubykaigi.orgの作業などをできればと思います。
+}}
+{{mail(shintaro.kakutani@gmail.com,1303778769)
+すんません今晩は欠席なのでした…。
+rk.orgのことは別途メールできるかな。がんばります。
+
+On Tuesday, April 26, 2011, celluloid.key@gmail.com
+<celluloid.key@gmail.com> wrote:
+> hibariyaです。
+>
+> 途中まで着席して、ペットの世話をしに帰ります。
+> 昨日の議事録かrubykaigi.orgの作業などをできればと思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack103.html
+> ML-> asakusarb@qwik.jp
+>
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(nakahiro@gmail.com,1303780414)
+行きます。空気読まずにもくもくとJRubyかCloud Foundryします。
+}}
+{{mail(hokkai7go@gmail.com,1303781221)
+いきます。
+大江戸のレポート手直しをしたら
+適度なところで帰ります
+2011/04/26 10:13 "Hiroshi Nakamura" <nahi@ruby-lang.org>:
+> 行きます。空気読まずにもくもくとJRubyかCloud Foundryします。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack103.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(gunjisatoshi@rikuga.me,1303781550)
+郡司です。
+
+行きます。
+
+大江戸のレポートは、レポート班全員がひとつのディスプレイを
+見ながらがーっと編集すると早いかも。
+
+時間が余ったら、空気を読まずにるびまのもう一つの原稿を
+もくもくと書く予定。
+}}
+{{mail(shintaro.kakutani@gmail.com,1303783222)
+2011/4/26 Satoshi GUNJI <gunjisatoshi@rikuga.me>:
+> 大江戸のレポートは、レポート班全員がひとつのディスプレイを
+> 見ながらがーっと編集すると早いかも。
+
+いいですね!
+}}
+{{mail(celluloid.key@gmail.com,1303784124)
+> 大江戸のレポートは、レポート班全員がひとつのディスプレイを
+> 見ながらがーっと編集すると早いかも。
+やりたいです。ディスプレイは部屋にある大きいのを使うか、
+またはもうちょっとコンパクトなやつも用意できると思います。
+
+2011/4/26 Satoshi GUNJI <gunjisatoshi@rikuga.me>:
+> 郡司です。
+>
+> 行きます。
+>
+> 大江戸のレポートは、レポート班全員がひとつのディスプレイを
+> 見ながらがーっと編集すると早いかも。
+>
+> 時間が余ったら、空気を読まずにるびまのもう一つの原稿を
+> もくもくと書く予定。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack103.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ronnie@dio.jp,1303800928)
+Hamlの3.1系がKaminariで動かないのをどうにかしに行きます。
+
+またKaminariでもくもくか・・・・。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(irohiroki@gmail.com,1303801161)
+今日から参加させていただきます！
+
+Rubyを良くするとは何かを考えながら、
+まずはasakusarbプロダクツのソースを読みます。
+
+よろしくお願いします。
+
+irohiroki
+}}
+{{mail(hokkai7go@gmail.com,1303806640)
+なるほど。レポート班了解です。
+となると、自分のPCって必要なかったりします？
+いつも家に寄ってから浅草に向かってるのですが、
+今日は直接行くことになりそうなので、
+その方が助かります。
+2011/04/26 11:15 "celluloid.key@gmail.com" <celluloid.key@gmail.com>:
+>> 大江戸のレポートは、レポート班全員がひとつのディスプレイを
+>> 見ながらがーっと編集すると早いかも。
+> やりたいです。ディスプレイは部屋にある大きいのを使うか、
+> またはもうちょっとコンパクトなやつも用意できると思います。
+>
+> 2011/4/26 Satoshi GUNJI <gunjisatoshi@rikuga.me>:
+>> 郡司です。
+>>
+>> 行きます。
+>>
+>> 大江戸のレポートは、レポート班全員がひとつのディスプレイを
+>> 見ながらがーっと編集すると早いかも。
+>>
+>> 時間が余ったら、空気を読まずにるびまのもう一つの原稿を
+>> もくもくと書く予定。
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack103.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack103.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(shimura-hir@obun.jp,1303806925)
+出席します。例によって早めに失礼します、宜しく。
+		志村 弘之
+
+In message "[asakusarb:2125] Re: 第103回Asakusa.rb(2011-04-26)", 
+<BANLkTinnMkLztWo6_f3wHWZ3crhH1WziEw@mail.gmail.com>, 
+---------------------------------------+---------+---------+以上 2011/4/26
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}
+{{mail(gunjisatoshi@rikuga.me,1303807039)
+郡司です。
+
+> となると、自分のPCって必要なかったりします？
+
+他の予定がなければ、それでもかまわないと思います！
+}}
+{{mail(mail@ssig33.com,1303807169)
+出席します
+
+2011/4/26 Satoshi GUNJI <gunjisatoshi@rikuga.me>:
+> 郡司です。
+>
+>> となると、自分のPCって必要なかったりします？
+>
+> 他の予定がなければ、それでもかまわないと思います！
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack103.html
+> ML-> asakusarb@qwik.jp
+>
+}}

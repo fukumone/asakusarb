@@ -1,0 +1,196 @@
+* 第262回Asakusa.rb (2014-05-27)
+{{mail(takkanm@gmail.com,1401153825)
+今日は 262 回目のミートアップです。
+
+上野 E 和にてドアマンやります。
+
+rspec-mock の実装を読もうかと思います。
+}}
+{{mail(coup__d-etat@i.softbank.jp,1401160118)
+ksss(栗原)です。参加します。
+signalに入門したいです。
+
+2014/05/27 10:23、takkanm@gmail.com のメッセージ:
+
+> 今日は 262 回目のミートアップです。
+> 
+> 上野 E 和にてドアマンやります。
+> 
+> rspec-mock の実装を読もうかと思います。
+}}
+{{mail(shibata.hiroshi@gmail.com,1401160852)
+hsbt です。参加します。
+
+ruby trunk のインストール時に *.gem なファイルをインストールする仕組みについて
+調べたり実装したりしようと思います。
+
+2014-05-27 12:08 GMT+09:00 yuki kurihara <coup__d-etat@i.softbank.jp>:
+> ksss(栗原)です。参加します。
+> signalに入門したいです。
+>
+> 2014/05/27 10:23、takkanm@gmail.com のメッセージ:
+>
+>> 今日は 262 回目のミートアップです。
+>>
+>> 上野 E 和にてドアマンやります。
+>>
+>> rspec-mock の実装を読もうかと思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack262.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(taiki.takayama.com@gmail.com,1401162532)
+始めまして。先日メールで登録させていただいた、高山と申します。
+
+今日のミートアップに参加します。
+初参加ですが、よろしくお願いします。
+
+その際なんですが、1人、一緒に行きたいと言っている外人の方がいるので、連れてきても大丈夫でしょうか。
+
+
+2014/05/27 10:23、takkanm@gmail.com のメッセージ:
+
+> 今日は 262 回目のミートアップです。
+> 
+> 上野 E 和にてドアマンやります。
+> 
+> rspec-mock の実装を読もうかと思います。
+}}
+{{mail(ronnie@dio.jp,1401166056)
+> その際なんですが、1人、一緒に行きたいと言っている外人の方がいるので、連れてきても大丈夫でしょうか。
+
+勿論です！歓迎します！
+
+ちなみに、それってこの方ではないですよね？
+https://twitter.com/majakomel/status/471091388780515328
+
+
+2014-05-27 12:48 GMT+09:00 taiki takayama <taiki.takayama.com@gmail.com>:
+
+> 始めまして。先日メールで登録させていただいた、高山と申します。
+>
+> 今日のミートアップに参加します。
+> 初参加ですが、よろしくお願いします。
+>
+> その際なんですが、1人、一緒に行きたいと言っている外人の方がいるので、連れてきても大丈夫でしょうか。
+>
+>
+> 2014/05/27 10:23、takkanm@gmail.com のメッセージ:
+>
+> > 今日は 262 回目のミートアップです。
+> >
+> > 上野 E 和にてドアマンやります。
+> >
+> > rspec-mock の実装を読もうかと思います。
+>
+
+
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(hokkai7go@gmail.com,1401166858)
+hokkai7go です。久しぶりに参加します。
+初めて参加する日本人を連れて行きます。
+
+Railsアプリを作ったりしようと思います。
+
+--?
+Yutaro Sugai <hokkai7go@gmail.com>
+
+On May 27, 2014 at 12:20:59, SHIBATA Hiroshi (hsbt@ruby-lang.org) wrote:
+
+hsbt です。参加します。  
+
+ruby trunk のインストール時に *.gem なファイルをインストールする仕組みについて  
+調べたり実装したりしようと思います。  
+
+2014-05-27 12:08 GMT+09:00 yuki kurihara <coup__d-etat@i.softbank.jp>:  
+> ksss(栗原)です。参加します。  
+> signalに入門したいです。  
+>  
+> 2014/05/27 10:23、takkanm@gmail.com のメッセージ:  
+>  
+>> 今日は 262 回目のミートアップです。  
+>>  
+>> 上野 E 和にてドアマンやります。  
+>>  
+>> rspec-mock の実装を読もうかと思います。  
+>  
+> --  
+> archive-> http://qwik.jp/asakusarb/hack262.html  
+> ML-> asakusarb@qwik.jp  
+
+
+
+--  
+SHIBATA Hiroshi hsbt@ruby-lang.org  
+http://www.hsbt.org/  
+}}
+{{mail(machida@fjord.jp,1401167238)
+machidaです。参加します。
+
+railsチュートリアルのsassのリファクタリング作業を進める予定です。
+
+よろしくお願いします。
+
+
+2014年5月27日 14:00 Yutaro Sugai <hokkai7go@gmail.com>:
+
+> hokkai7go です。久しぶりに参加します。
+> 初めて参加する日本人を連れて行きます。
+>
+> Railsアプリを作ったりしようと思います。
+>
+> --
+> Yutaro Sugai <hokkai7go@gmail.com>
+>
+> On May 27, 2014 at 12:20:59, SHIBATA Hiroshi (hsbt@ruby-lang.org) wrote:
+>
+> hsbt です。参加します。
+>
+> ruby trunk のインストール時に *.gem なファイルをインストールする仕組みについて
+> 調べたり実装したりしようと思います。
+>
+> 2014-05-27 12:08 GMT+09:00 yuki kurihara <coup__d-etat@i.softbank.jp>:
+> > ksss(栗原)です。参加します。
+> > signalに入門したいです。
+> >
+> > 2014/05/27 10:23、takkanm@gmail.com のメッセージ:
+> >
+> >> 今日は 262 回目のミートアップです。
+> >>
+> >> 上野 E 和にてドアマンやります。
+> >>
+> >> rspec-mock の実装を読もうかと思います。
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack262.html
+> > ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org
+> http://www.hsbt.org/
+>
+>
+
+
+-- 
+++++++++++++++++++++++++++++++++++++
+
+合同会社フィヨルド
+町田 哲平
+machida@fjord.jp
+090-5777-1343
+〒151-0071
+東京都渋谷区本町2-45-7 ハウス田辺
+}}

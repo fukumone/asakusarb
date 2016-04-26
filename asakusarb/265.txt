@@ -1,0 +1,17 @@
+* 参加します！！
+{{mail(s_zk@yahoo.co.jp,1357142726)
+アジャイルが服を着て歩いているを自負してます。
+rubyで今年中に仕事したいです。
+}}
+{{mail(darkdaft@gmail.com,1363693744)
+はじめまして。HAZI (向山 雄平)と申します。
+大江戸Ruby会議 03参加者です。
+
+デザイナ出身のエンジニアを目指しているものです。
+Rails, Ruby初心者です（perl, jsを少し触れます）。
+
+Twitter : @HAZI
+Blog : http://hazi.jp/ , http://tech.hazi.jp/
+
+よろしくお願い致します！！
+}}

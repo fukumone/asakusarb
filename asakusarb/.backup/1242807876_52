@@ -1,0 +1,190 @@
+* 第９回Asakusa.rb議事録
+
+*日時
+5/19(Tue) 19:00ぐらい～
+
+*場所
+秋葉原ダイビル 13F http://www.i.u-tokyo.ac.jp/map/index.shtml#aki
+
+*内容
+世界のささだのprsnt.orgを作りながら「初めてのRails」「初めてのGit & github」教室
+
+*参加者
+ささださん~
+松田さん~
+ogijunさん~
+おぐらさん~
+宮内さん~
+吉川さん~
+
+*ログ
+
+-初歩的な内容も多いですが悪しからず･･･
+
+**下準備
+-まずはgem自体のupdateから
+{{{
+% gem update --system
+}}}
+gemの定番オプション"--no-ri --no-rdoc"も伝授
+
+-githubに初めてのpushが成功
+が、いったんやったcommitを取りやめたい
+{{{
+% git commit --amend
+}}}
+amend、悔い改めるの意。
+
+{{{
+% git branch -a
+}}}
+-リモートブランチも含めたリストを表示
+pushした時点でローカルリポジトリに認識され、表示された
+
+{{{
+% git diff --stat
+}}}
+-複数のファイルの変更点が視覚的に分かる。「かわいい」＞松田さん
+-でも、色がほしい
+{{{
+% git config --global ui.color auto
+}}}
+--export PAGER='lv -c'でlvにcオプション。カラーの意？なのでカラフルに
+
+railsコマンド発動、直ぐにcommit & push。
+
+**初めてのRails
+-予約語っぽいのが多いの、おかしくない！？
+targetとか、applicationとか･･･
+
+{{{
+% script/generate scaffold present
+}}}
+-複数形渡さなくていいんだよ。最近は単数形推奨？？
+
+-present
+--name:string
+--quantity:integer ※numberはヤバイ香りがするので
+
+おもむろにscript/server そしてサーバエラー。
+-rake db:migrateを忘れていた。そして実行→失敗
+
+sqlite3ドライバ入ってない
+{{{
+% gem install sqlite3-ruby
+}}}
+-sqlite3 Ruby組み込みに含めちゃう？話はどーなのよ
+
+scaffoldのrespond_to に各所から非難の声が！
+-かっこよく見せたいだけちゃうんか？
+-scaffoldにはトゥーマッチだというところでコンセンサス
+
+メディアタイプ.fooを定義してみよう
+-<strong>ここで、定義のハッシュ指定部をキーワード引数っぽく！（添付の画像参照）</strong>
+--なんかあんまりしっくりこない･･･。失速。
+
+余計なrespond_toブロックをひたすら消す簡単なお仕事
+-viのdWとかで消す！やりなれてるw＞松田さん
+
+-リポジトリの変更を消したい
+{{{
+% git co
+}}}
+
+-対話的にコミット/一部分だけコミット
+{{{
+% git add -p 
+}}}
+--s(split) > y/nで進めていく
+
+git statusしたら赤と緑に分かれててかわいい。
+-自分でコミットを意味的にくっつけて編集したりして、atomicなコミットが可能になる
+
+{{{
+% git log --stat --graph
+}}}
+-さらにグラフィカルに美しくなって、かわいい。
+
+制作に戻る
+
+-event
+--nickname:string
+--email:string
+--comment:text
+--entered_at:datetime
+--present:references
+
+-"e-mail"だとsymbolに出来ないじゃん。無難に"email"に
+-entry belongs_to :present & present has_many :entries
+
+generateした状態でいったんgit addすること
+-松田流、開発の定石
+
+scaffold後のreferenceの入力フォームや画面表示とかがまだイケテない
+-rails3.0では id渡せるようになる
+-rails3.0では シングルトンぽくマスタデータとかインスタンス持っちゃうことも可能
+
+scaffold時のlabel_forへの自動対応
+-ラベルクリックするとinputにフォーカス移る
+-こんな細かいところまで、やっぱRailsはハンパじゃねえな･･･
+
+閑話休題
+-RubyのCのAPIだとstraceが簡単に書ける
+-凄い短く書けるらしい･･･
+-システムコールの番号がでるのホニャホニャしたら名前表示になった
+
+**初めてのGit & github
+pull requestが送られてきたら、を実際やってみる。宮内さん→ささださんに
+-mailキタ
+-サイト上にも通知キタ
+{{{
+% git remote add XXXX git://..
+% git fetch 
+}}}
+上記だと上手くいかないので、githubに書いてあるとおり進める
+-ローカルリポジトリ名に@含めようとしたせいか？
+再度書かれてるとおりやっても上手くいかず、悩む
+-ポートじゃね… > Bingo!
+
+-git:// => http:// でもいけるようになった。最近。
+
+結果のログを見る
+-Updating foo..bar みたいなのをlogの引数に渡す
+{{{
+% git log -p foo..bar
+}}}
+これでようやっと、コミッタとの差分が拝める
+
+{{{
+% git log master..HEAD
+% git log HEAD..master
+}}}
+てな感じで、差分が見れる
+
+{{{
+% git merge HEAD master
+Already up-to-date yeah!
+}}}
+ヤァ！じゃねーよ･･･
+
+{{{
+% git merge <commitor-branch>/master
+}}}
+でマージされた
+
+あとはadd, commit, push。でパッチが適用された。
+
+{{{
+% git log --author=<author>
+}}}
+これでコミッタを名前で一覧できる
+-.gitconfigのname, emailからLike検索ぽい感じ
+
+**次回
+ささださんの都合が合わなそうなので、~
+近辺のWifiいけるところで開発やるかも。
+
+
+{{file(retaked_modeling.jpg)}}
+
+{{file(keyword_argument_on_rails.jpg)}}

@@ -1,0 +1,253 @@
+* 第123回Asakusa.rb (2011-09-13)
+{{mail(takkanm@gmail.com,1315803075)
+明日は123回目のMeetupです。
+
+明日も、E和でよければドアマンをやります。
+
+明日は、もの書き業orRails3.1でprefetch-rspecを動かすとでるwarning潰しをやろうかと思います。
+}}
+{{mail(takumi.aki@gmail.com,1315823439)
+秋田（@takumi_aki）といいます。
+Ruby勉強中です。
+明日のMeetupに参加したいです。（残業がなければ、ですが）
+
+
+2011年9月12日13:51  <takkanm@gmail.com>:
+> 明日は123回目のMeetupです。
+>
+> 明日も、E和でよければドアマンをやります。
+>
+> 明日は、もの書き業orRails3.1でprefetch-rspecを動かすとでるwarning潰しをやろうかと思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack123.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shibata.hiroshi@gmail.com,1315827068)
+柴田です。
+
+> 明日も、E和でよければドアマンをやります。
+
+参加します。
+tDiary の issue つぶしか、JRuby + Rack を動かせるサーバの何か + tDiary-core を動かして遊んでみたいと思います。
+}}
+{{mail(shintaro.kakutani@gmail.com,1315828639)
+仕事するか、るびまの記事をやるか、rubyconfの予習かなあ
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(gunjisatoshi@gmail.com,1315876041)
+郡司です。
+
+会場提供いつもありがとうございます。
+参加します。
+
+Rubyist Magazine(るびま)のインタビュー記事を引き続きやります。
+(8/2にAsakusa.rbの裏で開催されていたYuguiさんインタビューの件)
+
+テープ起こしはだいたい完了したのですが、Rubyist Magazineの
+記事としてリリースするためには
+
+- 分かりにくいと思われる用語に脚注を付ける
+- 公開しても問題ない内容かをYuguiさんに確認する
+-- (オフレコの部分は外したつもりですが‥‥)
+
+という工程が残っている認識ですので、手伝っていただける方が
+いると嬉しいなあ。
+}}
+{{mail(ronnie@dio.jp,1315884342)
+参加シマース。
+
+なんかそろそろ溜まりに溜まったレビュー業をこなそうかなぁ、とか思いつつ。
+
+2011/9/13 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> テープ起こしはだいたい完了したのですが、Rubyist Magazineの
+> 記事としてリリースするためには
+>
+> - 分かりにくいと思われる用語に脚注を付ける
+> - 公開しても問題ない内容かをYuguiさんに確認する
+> -- (オフレコの部分は外したつもりですが‥‥)
+>
+> という工程が残っている認識ですので、手伝っていただける方が
+> いると嬉しいなあ。
+
+はーい。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(ken97531@gmail.com,1315886045)
+西村です。
+
+本日、参加します。
+用語の脚注など、編集業的なところはお手伝いできそうです ＞郡司さん
+
+るびまの編集方針的に問題がないなら、いわゆる読みやすくする編集作業も？
+}}
+{{mail(nakahiro@gmail.com,1315886724)
+行きます。Jenkinsやります（マテ
+}}
+{{mail(tomoyasu0620@gmail.com,1315887001)
+石井(@chuta_kun)と申します。
+Meetup初めてですが、参加させてください。
+勝手が余り分かっていないのですが、よろしくお願いします。
+
+18時半ころには上野に着けそうなのですが、何時頃から始まるのでしょうか？
+どなたか教えていただけると助かります。
+
+現在社内システムをRails3で作るべく色々勉強しています。
+}}
+{{mail(shintaro.kakutani@gmail.com,1315887334)
+2011/9/13 Tomoyasu Ishii <tomoyasu0620@gmail.com>:
+> 18時半ころには上野に着けそうなのですが、何時頃から始まるのでしょうか？
+> どなたか教えていただけると助かります。
+
+19:30頃となってますが、まあ、19:30にはほとんど人はいません。
+20:00ぐらいまでにお越しいただくのがよいと思います。
+
+http://qwik.jp/asakusarb/esm_ueno.html
+}}
+{{mail(tomoyasu0620@gmail.com,1315889751)
+了解しました！ありがとうございます。
+
+2011年9月13日13:15 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 2011/9/13 Tomoyasu Ishii <tomoyasu0620@gmail.com>:
+>> 18時半ころには上野に着けそうなのですが、何時頃から始まるのでしょうか？
+>> どなたか教えていただけると助かります。
+>
+> 19:30頃となってますが、まあ、19:30にはほとんど人はいません。
+> 20:00ぐらいまでにお越しいただくのがよいと思います。
+>
+> http://qwik.jp/asakusarb/esm_ueno.html
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack123.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+****/****/****/****/****/****/****/****/****/****/****/****/****/****/****
+TOMOYASU ISHII
+Major: Cultural Anthropology, Migration Studies, System Engineering
+E-mail: tomoyasu0620@gmail.com
+Tel: 080-4183-0620
+Twitter: tomoyasu0620
+****/****/****/****/****/****/****/****/****/****/****/****/****/****/****
+}}
+{{mail(ko1@atdot.net,1315892871)
+(2011/09/12 20:54), Ken Nishimura wrote:
+> 西村です。
+> 
+> 本日、参加します。
+> 用語の脚注など、編集業的なところはお手伝いできそうです ＞郡司さん
+> 
+> るびまの編集方針的に問題がないなら、いわゆる読みやすくする編集作業も？
+
+　よこから失礼します．はい，読みやすくして頂ければ幸いです．読みやすくす
+るためにはねつ造も可能．
+
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(ken97531@gmail.com,1315899273)
+> > るびまの編集方針的に問題がないなら、いわゆる読みやすくする編集作業も？
+>
+> 　よこから失礼します．はい，読みやすくして頂ければ幸いです．読みやすくす
+> るためにはねつ造も可能．
+
+あ、そういうことであれば、ささだ先生がその場にいて、あたかもささだ先生が
+言ったかのように、あることないこと混ぜ込んでおきます！
+
+西村
+}}
+{{mail(kei.shiratsuchi@gmail.com,1315899467)
+kei-s です。
+
+参加します！
+RubyConf の予習とか、MBA に開発環境セッティングをしようかと思っています。
+
+2011/9/13 Ken Nishimura <ken97531@gmail.com>:
+>> > るびまの編集方針的に問題がないなら、いわゆる読みやすくする編集作業も？
+>>
+>>　 よこから失礼します．はい，読みやすくして頂ければ幸いです．読みやすくす
+>> るためにはねつ造も可能．
+>
+> あ、そういうことであれば、ささだ先生がその場にいて、あたかもささだ先生が
+> 言ったかのように、あることないこと混ぜ込んでおきます！
+>
+> 西村
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack123.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+ 白土慧 <kei.shiratsuchi@gmail.com>
+ http:/tako3.com/http://twitter.com/kei_s
+ http://twitter.com/kei_s
+}}
+{{mail(kkohno@gmail.com,1315904751)
+最近 ruby をはじめた jugyo です。
+本日参加させていただきます～
+
+2011/9/13 Kei Shiratsuchi <kei.shiratsuchi@gmail.com>:
+> kei-s です。
+>
+> 参加します！
+> RubyConf の予習とか、MBA に開発環境セッティングをしようかと思っています。
+>
+> 2011/9/13 Ken Nishimura <ken97531@gmail.com>:
+>>> > るびまの編集方針的に問題がないなら、いわゆる読みやすくする編集作業も？
+>>>
+>>>　 よこから失礼します．はい，読みやすくして頂ければ幸いです．読みやすくす
+>>> るためにはねつ造も可能．
+>>
+>> あ、そういうことであれば、ささだ先生がその場にいて、あたかもささだ先生が
+>> 言ったかのように、あることないこと混ぜ込んでおきます！
+>>
+>> 西村
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack123.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+>  白土慧 <kei.shiratsuchi@gmail.com>
+>  http:/tako3.com/http://twitter.com/kei_s
+>  http://twitter.com/kei_s
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack123.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(sakuro@2238club.org,1315908266)
+さくです。
+
+一月ぶりに行きます。
+
+2011年9月12日13:51  <takkanm@gmail.com>:
+> 明日は123回目のMeetupです。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(moronatural@gmail.com,1315909232)
+もろはしです。
+
+20:00くらいまでですが、参加します。
+某書籍の正誤表をメンテします。
+}}

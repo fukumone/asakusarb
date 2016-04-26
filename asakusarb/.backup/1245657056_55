@@ -1,0 +1,44 @@
+* 第11回Asakusa.rb のおしらせ
+{{mail(ronnie@dio.jp,1245657056)
+松田です。
+
+第11回Asakusa.rbを以下の要領で開催します。
+
+第11回Asakusa.rb = {
+日時: 06/23(Tue) 19:00ぐらい～
+場所:  秋葉原ダイビル 13F http://www.i.u-tokyo.ac.jp/map/ 
+index.shtml#aki
+内容: Ruby 1.9のM17Nスペシャル
+}
+
+なんと、今回は成瀬さんが来てくださることになりま 
+した。
+なので、M17Nについて日頃疑問に思っていること
+などがあったらこの際色々訊いちゃいましょう。
+
+予習資料: Ruby M17N の設計と実装 http://jp.rubyist.net/ 
+magazine/?0025-Ruby19_m17n
+
+個人的には、Rails3の疑惑のコミット、
+http://github.com/rails/rails/commit/cf3ccd7be0caae67dfddf5bc5056dcfdaab6f369
+とか
+http://github.com/rails/rails/commit/30a3b6b4fc56390eec762c879644c95cd09622b0
+とか
+http://github.com/rails/rails/commit/94911c7af7f2e1da0a23d64d2055b77bc1f6ece8
+とかどうよ？というあたりを伺いたいと思っていま 
+す。
+
+それから、Railsのこのへんのチケットなどが
+https://rails.lighthouseapp.com/projects/8994/tickets/2188
+どうにかなるとありがたいですね。
+
+その他、何か質問やお題がある方は持ち寄り大歓迎で 
+す。
+
+それでは、明日もみなさんのご参加をお待ちしており 
+ます。
+よろしくお願いします。
+
+--
+Akira Matsuda<ronnie@dio.jp>
+}}

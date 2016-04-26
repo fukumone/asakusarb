@@ -1,0 +1,50 @@
+* qwikWebのメール対処方法
+{{mail(kouichirou.eto@gmail.com,1282666653)
+江渡です。
+
+本日の #asakusarb は楽しかったですね。どもありがとうございます。
+
+qwikWebでメールがアーカイブされない場合の対処方法です。
+
+一例として、lib/qwik/test-ms-applemail.rbというファイルがあります。
+これは、Apple Mailが送るメールがアーカイブされないよというレポートを
+受けて作ったテストケースです。アーカイブされないメールがある場合には、
+このファイルを参考にして、まずテストケースを作ります。それからこれが
+通るように本体を書き換えます。
+
+mail-body.rbの、self.plain_text_body?あたりがバッドノウハウっぽいので、
+このあたりにバグが埋まっているのかもしれません。
+}}
+{{mail(shintaro.kakutani@gmail.com,1282743667)
+江渡さん、ご丁寧にありがとうございます!
+
+RubyKaigiが終わったら時間つくって試してみます。
+ありがとうございます。
+
+2010/8/25 Kouichirou Eto <kouichirou.eto@gmail.com>:
+> 江渡です。
+>
+> 本日の #asakusarb は楽しかったですね。どもありがとうございます。
+>
+> qwikWebでメールがアーカイブされない場合の対処方法です。
+>
+> 一例として、lib/qwik/test-ms-applemail.rbというファイルがあります。
+> これは、Apple Mailが送るメールがアーカイブされないよというレポートを
+> 受けて作ったテストケースです。アーカイブされないメールがある場合には、
+> このファイルを参考にして、まずテストケースを作ります。それからこれが
+> 通るように本体を書き換えます。
+>
+> mail-body.rbの、self.plain_text_body?あたりがバッドノウハウっぽいので、
+> このあたりにバグが埋まっているのかもしれません。
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/108.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+Kakutani Shintaro
+}}

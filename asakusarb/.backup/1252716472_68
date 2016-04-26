@@ -1,0 +1,189 @@
+* 第17回Asakusa.rb(2009-09-08)
+
+松田さん抜きで決行された、記念すべき回でした :)
+
+** 日時
+2009/09/08 19:30～22:00ぐらい
+
+** 場所
+永和システムマネジメント 東京支社
+http://www.esm.co.jp/company/map_tokyo.html
+
+** 内容
+>> 特にテーマがなければ、個人的にはSinatraで遊んでみたいです。
+> ursmは本業が盛り上ってるので参加はむつかしいと教えてもらいました。
+> アーリーアダプターだったので、参加してもらえると面白くなったと思うのですが。
+
+** 参加者
+- 三村さん @takkanm
+- ウラシマさん @ursm
+- ヨシオリさん @yoshiori
+- 郡司さん @gunjisatoshi
+
+** Sinatraで書かれたブログツールScantyのソースを読む＆動かす＆Herokuにデプロイしてみる
+- 次のエントリを参考に
+-- [[Sinatra ベースの軽量アプリいろいろ Scanty 編|http://blog.designrecipe.jp/2009/7/24/sinatra-scanty]]
+
+*** ソースコードの入手
+- ソースはどこ？
+-- http://github.com/adamwiggins/scanty/tree/master
+- とりあえず git cloneしよう！
+-- git clone git://github.com/adamwiggins/scanty.git
+- 動作に必要なgemはsinatraだけ。まだ入ってなかったら入れよう
+-- gem install sinatra --no-ri --no-rdoc
+-- sinatra以外に必要なライブラリ(Markdown記法を実現するMaruku, データベースライブラリSequel, シンタックスハイライトライブラリSyntax)は、vendorディレクトリ以下に入っているのでインストール不要
+
+*** 動かしてみよう！
+- scantyディレクトリでruby main.rbと叩けばWebサーバが起動
+- http://localhost:4567/ にアクセスして動くことを確認
+- 違うポートで起動したいときはruby main.rb -p 8080とかする
+
+*** ソースコードを読む
+- じゃあmain.rbから読んでいこうか
+- Sinatraのコードを読むなら[[チュートリアル|http://www.sinatrarb.com/intro-jp.html]]も読んでおくと吉
+
+**** configureブロック
+- 起動時に１回だけ実行されるらしい
+- Sequelで環境変数DATABASE_URLが指定されていたらそこへ、設定されていなければsqlite://blog.dbへ接続
+-- この書き方は定石？
+- OpenStructクラスって何？
+-- Rubyの標準添付ライブラリで、構造体を手軽に作れるらしいよ
+-- http://www.ruby-lang.org/ja/man/html/ostruct.html
+-- しかし「Blog」という定数名はクラス名と混同するので、「BLOG」としたほうが良い？コーディング規約による？
+
+**** errorブロック
+- 例外を捕捉したときに実行されるらしい
+- requestという変数はどこから来たの？
+-- これは変数じゃなくてアクセサ
+-- Sinatraのsinatra/base.rbで、class Base内に「attr_accessor :env, :request, :response, :params」って定義があった
+
+**** require 'post'って何だ
+- Scantyのlib/post.rbにPostクラス(モデルクラス)の定義が書いてあって、それを読み込んでる
+- post.rbはあとで読もう
+
+**** helpersブロック
+- ヘルパメソッドを定義するブロック。ここで定義したメソッドは、ルートハンドラ（あとで出てくるgetブロックやpostブロック）とかテンプレートとかから呼び出すことができる
+
+
+
+{{mail(shintaro@kakutani.com,1251821810)
+かくたにです。
+
+来週のAsakusa.rbの当日、私は http://www.rubyworld-conf.org/ で
+松江にいっている(というか戻りの機内)ので、参加できません。
+松田さんも参加予定のはずで、ささださんは講演者です。
+
+場所については、takkanmかursmが何とかしてくれれば何とかなると
+思うのですが、いかがでしょう？
+
+個人的には、毎週火曜日はAsakusa.rbの日、とゆーことで
+開催してもらえるといいなー、と思ってます :)
+
+自分の課題を黙々とやったり相談したり雑談したり、
+という時間の過ごしかたでもよいと思うのですが。
+
+ご意見お待ちしております。
+--
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro.kakutani@gmail.com, :website: http://kakutani.com/ }
+}}
+{{mail(gunjisatoshi@gmail.com,1251892418)
+郡司です。
+
+来週も参加希望です！
+特にテーマがなければ、個人的にはSinatraで遊んでみたいです。
+
+場所についてはご迷惑でなければ引き続きお世話になりたいところですが、
+新規開拓もしたいところですねえ。
+
+
+2009年9月2日1:16 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> かくたにです。
+>
+> 来週のAsakusa.rbの当日、私は http://www.rubyworld-conf.org/ で
+> 松江にいっている(というか戻りの機内)ので、参加できません。
+> 松田さんも参加予定のはずで、ささださんは講演者です。
+>
+> 場所については、takkanmかursmが何とかしてくれれば何とかなると
+> 思うのですが、いかがでしょう？
+>
+> 個人的には、毎週火曜日はAsakusa.rbの日、とゆーことで
+> 開催してもらえるといいなー、と思ってます :)
+>
+> 自分の課題を黙々とやったり相談したり雑談したり、
+> という時間の過ごしかたでもよいと思うのですが。
+>
+> ご意見お待ちしております。
+> --
+> { :name: ["KAKUTANI", "Shintaro"],
+>  :email: shintaro.kakutani@gmail.com, :website: http://kakutani.com/ }
+>
+> --
+> archive-> http://qwik.jp/asakusarb/68.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1252030217)
+かくたにです。
+
+郡司さんが参加希望なんだけど、来週の火曜日ってどうですかね? > takkanm
+
+ursmは本業が盛り上ってるので参加はむつかしいと教えてもらいました。
+アーリーアダプターだったので、参加してもらえると面白くなったと思うのですが。
+
+2009/9/2 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> 郡司です。
+>
+> 来週も参加希望です！
+> 特にテーマがなければ、個人的にはSinatraで遊んでみたいです。
+>
+> 場所についてはご迷惑でなければ引き続きお世話になりたいところですが、
+> 新規開拓もしたいところですねえ。
+>
+>
+> 2009年9月2日1:16 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+>> かくたにです。
+>>
+>> 来週のAsakusa.rbの当日、私は http://www.rubyworld-conf.org/ で
+>> 松江にいっている(というか戻りの機内)ので、参加できません。
+>> 松田さんも参加予定のはずで、ささださんは講演者です。
+>>
+>> 場所については、takkanmかursmが何とかしてくれれば何とかなると
+>> 思うのですが、いかがでしょう？
+>>
+>> 個人的には、毎週火曜日はAsakusa.rbの日、とゆーことで
+>> 開催してもらえるといいなー、と思ってます :)
+>>
+>> 自分の課題を黙々とやったり相談したり雑談したり、
+>> という時間の過ごしかたでもよいと思うのですが。
+>>
+>> ご意見お待ちしております。
+>> --
+>> { :name: ["KAKUTANI", "Shintaro"],
+>>  :email: shintaro.kakutani@gmail.com, :website: http://kakutani.com/ }
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/68.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/68.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+KAKUTANI Shintaro
+http://kakutani.com
+}}
+{{mail(takkanm@gmail.com,1252033343)
+ミムラ aka takkanm です。
+
+2009年9月4日11:10 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> 郡司さんが参加希望なんだけど、来週の火曜日ってどうですかね? > takkanm
+今のところ、問題ないです。sinatraは初心者です。
+
+以上です。
+}}

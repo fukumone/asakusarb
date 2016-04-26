@@ -1,0 +1,375 @@
+* 第72回Asakusa.rb(2010-10-12)
+{{mail(takkanm@gmail.com,1286784682)
+mです。
+
+早いもので明日は72回のAsakusa.rbです。ということで、いつもの永和でよければ、待機します。
+
+予定としては、たぶんくるであろうukとキャッキャウフフしたり、
+いまさらですが、Androidで、Ruby1.9を動かしてみるのに挑戦してみようかと思います
+http://blog.kmckk.com/archives/2918745.html#more
+}}
+{{mail(yuki.0w0@gmail.com,1286784851)
+赤松です。
+
+参加します。
+内職したり、mの人となんかしたりします。
+
+赤松 祐希
+http://ukstudio.jp
+
+2010年10月11日17:11  <takkanm@gmail.com>:
+> mです。
+>
+> 早いもので明日は72回のAsakusa.rbです。ということで、いつもの永和でよければ、待機します。
+>
+> 予定としては、たぶんくるであろうukとキャッキャウフフしたり、
+> いまさらですが、Androidで、Ruby1.9を動かしてみるのに挑戦してみようかと思います
+> http://blog.kmckk.com/archives/2918745.html#more
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shibata.hiroshi@gmail.com,1286796683)
+参加します。
+
+仕事の続き的な何かか、tDiary の testable を master にマージした後の残務を
+やろうと思います。
+
+-- 
+SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(takky818@gmail.com,1286802214)
+先週、初参加しました滝沢です。
+
+今週も参加します。
+Rails3のソース読みなどしようと思います。
+
+宜しくお願いします。
+
+2010年10月11日20:30 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 参加します。
+>
+> 仕事の続き的な何かか、tDiary の testable を master にマージした後の残務を
+> やろうと思います。
+>
+> --
+> SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+> URL:http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+滝沢 裕章
+takky818@gmail.com
+}}
+{{mail(ogiwara@gmail.com,1286803087)
+おぎわらです。参加します。
+
+ちょっと作りたくなったものがあるので、下調べしたり、JS書いたりする予定です。
+}}
+{{mail(igaiga@gmail.com,1286845689)
+いがいがです。
+参加します。
+
+RubyConfのためのESTAの取得と、
+Ruby試験Goldの勉強をしようと思ってます。
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(kkohno@gmail.com,1286845968)
+jugyo です
+
+体力が残ってたら参加します。
+Rails3 であれこれやります
+
+
+2010/10/12 Kuniaki IGARASHI <igaiga@gmail.com>:
+> いがいがです。
+> 参加します。
+>
+> RubyConfのためのESTAの取得と、
+> Ruby試験Goldの勉強をしようと思ってます。
+>
+> --
+> igaiga@gmail.com
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(kkohno@gmail.com,1286845982)
+jugyo です
+
+体力が残ってたら参加します。
+Rails3 であれこれやります
+
+
+2010/10/12 Kuniaki IGARASHI <igaiga@gmail.com>:
+> いがいがです。
+> 参加します。
+>
+> RubyConfのためのESTAの取得と、
+> Ruby試験Goldの勉強をしようと思ってます。
+>
+> --
+> igaiga@gmail.com
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(mayumi.emori@gmail.com,1286846142)
+江森です。
+
+参加します。
+
+Rails3でもくもくしようと思います。
+
+
+2010年10月12日10:11 jugyo.org <jugyo.org@gmail.com>:
+
+> jugyo です
+>
+> 体力が残ってたら参加します。
+> Rails3 であれこれやります
+>
+>
+> 2010/10/12 Kuniaki IGARASHI <igaiga@gmail.com>:
+> > いがいがです。
+> > 参加します。
+> >
+> > RubyConfのためのESTAの取得と、
+> > Ruby試験Goldの勉強をしようと思ってます。
+> >
+> > --
+> > igaiga@gmail.com
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack072.html
+> > ML-> asakusarb@qwik.jp
+> >
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(sakuro@2238club.org,1286846536)
+さくです。
+
+秋葉原に寄ってから参加します。
+
+Rails3アプリを1つもくもくしようとおもいます。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(takeshinoda@gmail.com,1286851792)
+しのだです。こんにちは
+
+表明遅くなりましたが参加します。
+Rails3でなにか作ってます。
+
+@takeshinoda
+
+/* Takeshi SHINODA */
+}}
+{{mail(kkohno@gmail.com,1286852111)
+jugyo です
+
+Rails3 を触ってる人が多そうなので
+いい感じに情報共有できるといいですねぇ。
+
+
+2010/10/12 Takeshi Shinoda <takeshinoda@gmail.com>:
+> しのだです。こんにちは
+>
+> 表明遅くなりましたが参加します。
+> Rails3でなにか作ってます。
+>
+> @takeshinoda
+>
+> /* Takeshi SHINODA */
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(nakahiro@gmail.com,1286852249)
+空気を読まずにJRubyしにいきます。
+}}
+{{mail(kkohno@gmail.com,1286852382)
+jugyo です
+
+Rails3 を触ってる人が多そうなので
+いい感じに情報共有できるといいですねぇ。
+
+
+2010/10/12 Takeshi Shinoda <takeshinoda@gmail.com>:
+> しのだです。こんにちは
+>
+> 表明遅くなりましたが参加します。
+> Rails3でなにか作ってます。
+>
+> @takeshinoda
+>
+> /* Takeshi SHINODA */
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ronnie@dio.jp,1286860224)
+2010/10/12 jugyo.org <jugyo.org@gmail.com>:
+> Rails3 を触ってる人が多そうなので
+> いい感じに情報共有できるといいですねぇ。
+
++1。
+べつに「もくもく」するなとは言わないんですが、せっかくみんな同じ空間を共有しているわけなので、
+多少なりともインタラクションがあると嬉しいですね。
+
+というわけで、今日はRails 3で何かをもくもくしている誰かに絡みたいと思います。
+そうじゃなくて、どうしてももくもくしたくて仕方がないから邪魔しないでほしいという人は、
+どうぞ家でやってください。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(takahashimm@gmail.com,1286876590)
+高橋征義です。事務処理が終わったので参加します。
+
+2010年10月11日17:11  <takkanm@gmail.com>:
+> 早いもので明日は72回のAsakusa.rbです。ということで、いつもの永和でよければ、待機します。
+
+空気を読んでRails3をやるか、空気を読まずにReVIEWをいじるかする予定です。
+
+-- 
+高橋征義 (takahashimm@gmail.com)
+}}
+{{mail(ken97531@gmail.com,1286876828)
+西村です。
+
+参加いたします。Rails3触りたいというのもあるのですが、
+空気を読まずに松田さんを中心にご相談したいことが。
+
+
+2010/10/12 masayoshi takahashi <takahashimm@gmail.com>:
+> 高橋征義です。事務処理が終わったので参加します。
+>
+> 2010年10月11日17:11  <takkanm@gmail.com>:
+>> 早いもので明日は72回のAsakusa.rbです。ということで、いつもの永和でよければ、待機します。
+>
+> 空気を読んでRails3をやるか、空気を読まずにReVIEWをいじるかする予定です。
+>
+> --
+> 高橋征義 (takahashimm@gmail.com)
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(kkohno@gmail.com,1286880437)
+jugyo です
+
+すみません、
+体力が尽きたので今日はまっすぐ家に帰りたいと思います。。
+
+
+2010/10/12 Ken Nishimura <ken97531@gmail.com>:
+> 西村です。
+>
+> 参加いたします。Rails3触りたいというのもあるのですが、
+> 空気を読まずに松田さんを中心にご相談したいことが。
+>
+>
+> 2010/10/12 masayoshi takahashi <takahashimm@gmail.com>:
+>> 高橋征義です。事務処理が終わったので参加します。
+>>
+>> 2010年10月11日17:11  <takkanm@gmail.com>:
+>>> 早いもので明日は72回のAsakusa.rbです。ということで、いつもの永和でよければ、待機します。
+>>
+>> 空気を読んでRails3をやるか、空気を読まずにReVIEWをいじるかする予定です。
+>>
+>> --
+>> 高橋征義 (takahashimm@gmail.com)
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack072.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(takky818@gmail.com,1286881552)
+滝沢です。
+
+すみません。
+参加表明しておりましたが、仕事の都合で不参加とさせてください。
+
+宜しくお願い致します。
+
+2010年10月12日19:47 jugyo.org <jugyo.org@gmail.com>:
+> jugyo です
+>
+> すみません、
+> 体力が尽きたので今日はまっすぐ家に帰りたいと思います。。
+>
+>
+> 2010/10/12 Ken Nishimura <ken97531@gmail.com>:
+>> 西村です。
+>>
+>> 参加いたします。Rails3触りたいというのもあるのですが、
+>> 空気を読まずに松田さんを中心にご相談したいことが。
+>>
+>>
+>> 2010/10/12 masayoshi takahashi <takahashimm@gmail.com>:
+>>> 高橋征義です。事務処理が終わったので参加します。
+>>>
+>>> 2010年10月11日17:11  <takkanm@gmail.com>:
+>>>> 早いもので明日は72回のAsakusa.rbです。ということで、いつもの永和でよければ、待機します。
+>>>
+>>> 空気を読んでRails3をやるか、空気を読まずにReVIEWをいじるかする予定です。
+>>>
+>>> --
+>>> 高橋征義 (takahashimm@gmail.com)
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/hack072.html
+>>> ML-> asakusarb@qwik.jp
+>>>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack072.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack072.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+滝沢 裕章
+takky818@gmail.com
+}}

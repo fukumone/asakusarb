@@ -1,0 +1,65 @@
+* 第21回Asakusa.rb(2009-10-13)
+
+{{mail(shintaro.kakutani@gmail.com,1254968816)
+10/13って開発者ミーティングの日([ruby-dev:39404] )だからko1さんには来てもらえないのか……。
+
+そういえば RubyKaigiにも来てくれた Muhammed Aliさんが
+"The Ruby 19x Web Servers Booklet"というドキュメントを書いたみたいです。
+a survey of architectual choices & analysis of relative performance
+だそうな。60ページぐらい。後ろのほうにいろいろグラフのってました。
+http://oldmoe.blogspot.com/2009/10/ruby-19x-web-servers-booklet.html
+}}
+{{mail(ko1@atdot.net,1254969439)
+KAKUTANI Shintaro wrote::
+> 10/13って開発者ミーティングの日([ruby-dev:39404] )だからko1さんには来てもらえないのか……。
+
+　この日は行けるかも．でもどうかな．よくわからないな（次の日英語でなんか
+しないといけないかもしれず）．
+
+> そういえば RubyKaigiにも来てくれた Muhammed Aliさんが
+> "The Ruby 19x Web Servers Booklet"というドキュメントを書いたみたいです。
+> a survey of architectual choices & analysis of relative performance
+> だそうな。60ページぐらい。後ろのほうにいろいろグラフのってました。
+> http://oldmoe.blogspot.com/2009/10/ruby-19x-web-servers-booklet.html
+
+　英語！　誰か3行でまとめて．
+
+　彼に言われてた Fiber の高速化を，学生がやってくれました．3倍くらい速く
+なった．
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(shintaro.kakutani@gmail.com,1254969569)
+かくたにです。
+
+たまにはダイビルにお邪魔させていただくというのはいかがでしょうか?!
+
+2009/10/8 SASADA Koichi <ko1@atdot.net>:
+> KAKUTANI Shintaro wrote::
+>> 10/13って開発者ミーティングの日([ruby-dev:39404] )だからko1さんには来てもらえないのか……。
+>
+> 　この日は行けるかも．でもどうかな．よくわからないな（次の日英語でなんか
+> しないといけないかもしれず）．
+>
+>> そういえば RubyKaigiにも来てくれた Muhammed Aliさんが
+>> "The Ruby 19x Web Servers Booklet"というドキュメントを書いたみたいです。
+>> a survey of architectual choices & analysis of relative performance
+>> だそうな。60ページぐらい。後ろのほうにいろいろグラフのってました。
+>> http://oldmoe.blogspot.com/2009/10/ruby-19x-web-servers-booklet.html
+>
+> 　英語！　誰か3行でまとめて．
+
+
+だれかwww
+
+>
+> 彼に言われてた Fiber の高速化を，学生がやってくれました．3倍くらい速く
+> なった．
+
+おおー。3倍!
+
+-- 
+KAKUTANI Shintaro
+http://kakutani.com
+}}

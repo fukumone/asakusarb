@@ -1,0 +1,141 @@
+* OSCネタ募集！
+{{mail(ronnie@dio.jp,1234872588)
+松田です。
+
+> さて、引き続き
+>>> * ネタ募集
+>>> 当日のネタにする「Ruby 1.9のギモン」を募集します。
+>>> Ruby 1.9に関わることならなんでもいいので、こちらに
+>>> どしどしお寄せください。
+> なんですが、みなさん他になにかRuby 1.9にまつわるネタは
+> ないですかー？
+
+ということで、僕が気になってることなんですが、
+
+* 「Ruby 1.9ってRailsって動くんですか？」
+
+* 「同じく、Merbって動くんですか？」
+
+* Mac(Leopard)だとirbで日本語が化ける(場合があ 
+る)んですけど。
+
+とりあえずこんなところで。
+
+みなさんマジでなんかネタ出してくださいー。
+よろしくお願いしますー。
+
+--
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(shintaro@kakutani.com,1234873199)
+かくたにです。
+
+講師なんだけどどうしよう……。
+るびまの記事は当日までに読んでおきます ><
+
+* RSpecとCucumberは今週になってから割と動くはず(確認しときます……)
+
+At Tue, 17 Feb 2009 21:09:38 +0900,
+松田 明 wrote:
+> 
+> 松田です。
+> 
+> > さて、引き続き
+> >>> * ネタ募集
+> >>> 当日のネタにする「Ruby 1.9のギモン」を募集します。
+> >>> Ruby 1.9に関わることならなんでもいいので、こちらに
+> >>> どしどしお寄せください。
+> > なんですが、みなさん他になにかRuby 1.9にまつわるネタは
+> > ないですかー？
+> 
+> ということで、僕が気になってることなんですが、
+> 
+> * 「Ruby 1.9ってRailsって動くんですか？」
+> 
+> * 「同じく、Merbって動くんですか？」
+> 
+> * Mac(Leopard)だとirbで日本語が化ける(場合があ 
+> る)んですけど。
+> とりあえずこんなところで。
+> 
+> みなさんマジでなんかネタ出してくださいー。
+> よろしくお願いしますー。
+
+-- 
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}
+{{mail(gunjisatoshi@gmail.com,1234877711)
+郡司です。
+
+＃すごい、朝早いにもかかわらず満員ですね‥‥
+
+ちょっと考えていたのですが、Ruby 1.9ならどう書く？みたいなネタとかどうでしょう。
+
+Ruby 1.9で突然FizzBuzz↓を書きたくなったらどう書く？とか
+http://www.aoky.net/articles/jeff_atwood/why_cant_programmers_program.htm
+
+無理やりFiberを使って書くと次のような感じですかねえ ;-)
+
+--
+fizzbuzz =  Fiber.new do
+  i = 1
+  loop do
+    case
+    when i % 15 == 0 then Fiber.yield "FizzBuzz"
+    when i % 5 == 0 then Fiber.yield "Buzz"
+    when i % 3 == 0 then Fiber.yield "Fizz"
+    else Fiber.yield i
+    end
+    i += 1
+  end
+end
+
+100.times do
+  puts fizzbuzz.resume
+end
+--
+
+2009/02/17 21:19 KAKUTANI Shintaro <shintaro@kakutani.com>:
+> かくたにです。
+>
+> 講師なんだけどどうしよう……。
+> るびまの記事は当日までに読んでおきます ><
+>
+> * RSpecとCucumberは今週になってから割と動くはず(確認しときます……)
+>
+> At Tue, 17 Feb 2009 21:09:38 +0900,
+> 松田 明 wrote:
+>>
+>> 松田です。
+>>
+>> > さて、引き続き
+>> >>> * ネタ募集
+>> >>> 当日のネタにする「Ruby 1.9のギモン」を募集します。
+>> >>> Ruby 1.9に関わることならなんでもいいので、こちらに
+>> >>> どしどしお寄せください。
+>> > なんですが、みなさん他になにかRuby 1.9にまつわるネタは
+>> > ないですかー？
+>>
+>> ということで、僕が気になってることなんですが、
+>>
+>> * 「Ruby 1.9ってRailsって動くんですか？」
+>>
+>> * 「同じく、Merbって動くんですか？」
+>>
+>> * Mac(Leopard)だとirbで日本語が化ける(場合があ
+>> る)んですけど。
+>> とりあえずこんなところで。
+>>
+>> みなさんマジでなんかネタ出してくださいー。
+>> よろしくお願いしますー。
+>
+> --
+> { :name: ["KAKUTANI", "Shintaro"],
+>  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+>
+> --
+> archive-> http://qwik.jp/asakusarb/41.html
+> ML-> asakusarb@qwik.jp
+>
+}}

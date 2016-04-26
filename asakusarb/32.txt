@@ -1,0 +1,20 @@
+* 浅草が好きなので参加します
+{{mail(akihiko.hashimoto@gmail.com,1229532847)
+
+各位
+
+http://www.ipa.go.jp/software/open/ossc/2008/theme/koubo2-2.html
+にある、「自治体・企業等の情報システムへのRuby 適用可能性に関する調査」
+の実施体制の中に入っています。
+先日は、九州Ruby会議01に行って来ました。
+
+実は、オブジェクト指向スクリプト言語は、Rubyが有名になる前に
+[incr tcl] に手を染めてしまい、Rubyとは出会いそびれたくちです。
+
+よろしくお願いします。
+
+--
+橋本明彦
+# 勤務先で読める:akihiko.hashimoto@mizuho-ir.co.jp
+# いつでも読める:akihiko.hashimoto@gmail.com
+}}

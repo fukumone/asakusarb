@@ -1,0 +1,122 @@
+* 第344回 Asakusa.rb (2016-02-09)
+{{mail(takkanm@gmail.com,1454979387)
+今日は 344 回目のミートアップを神田の永和システムマネジメントのオフィスで行ないます。
+
+https://gist.github.com/takkanm/019f95fcf8a6251161a2
+
+新年会の進捗を確認したい
+}}
+{{mail(youchan01@gmail.com,1455006353)
+参加します。
+Hyaliteのメンテしようと思います。
+
+
+2016年2月9日(火) 9:56 <takkanm@gmail.com>:
+
+> 今日は 344 回目のミートアップを神田の永和システムマネジメントのオフィスで行ないます。
+>
+> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+>
+> 新年会の進捗を確認したい
+>
+}}
+{{mail(shibata.hiroshi@gmail.com,1455006608)
+参加します。
+
+Rake のテストが JRuby でだけ落ちる原因の調査をします。
+
+2016-02-09 17:25 GMT+09:00 よう <youchan01@gmail.com>:
+> 参加します。
+> Hyaliteのメンテしようと思います。
+>
+>
+> 2016年2月9日(火) 9:56 <takkanm@gmail.com>:
+>>
+>> 今日は 344 回目のミートアップを神田の永和システムマネジメントのオフィスで行ないます。
+>>
+>> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+>>
+>> 新年会の進捗を確認したい
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(tad.a.digger@gmail.com,1455006746)
+斎藤です。
+
+参加します。相変わらず、Rational最適化の続きをします。
+時間がない……。
+
+
+2016年2月9日(火) 17:30 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+
+> 参加します。
+>
+> Rake のテストが JRuby でだけ落ちる原因の調査をします。
+>
+> 2016-02-09 17:25 GMT+09:00 よう <youchan01@gmail.com>:
+> > 参加します。
+> > Hyaliteのメンテしようと思います。
+> >
+> >
+> > 2016年2月9日(火) 9:56 <takkanm@gmail.com>:
+> >>
+> >> 今日は 344 回目のミートアップを神田の永和システムマネジメントのオフィスで行ないます。
+> >>
+> >> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+> >>
+> >> 新年会の進捗を確認したい
+>
+>
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org
+> http://www.hsbt.org/
+>
+-- 
+斎藤 匡
+}}
+{{mail(kakyoin.hierophant@gmail.com,1455009108)
+参加します。
+embulk-output-bigqueryを弄ってPRを出す準備をする予定。なので、ジャヴァを書きます。
+
+2016年2月9日(火) 17:32 Tadashi Saito <tad.a.digger@gmail.com>:
+
+> 斎藤です。
+>
+> 参加します。相変わらず、Rational最適化の続きをします。
+> 時間がない……。
+>
+>
+> 2016年2月9日(火) 17:30 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+>
+>> 参加します。
+>>
+>> Rake のテストが JRuby でだけ落ちる原因の調査をします。
+>>
+>> 2016-02-09 17:25 GMT+09:00 よう <youchan01@gmail.com>:
+>> > 参加します。
+>> > Hyaliteのメンテしようと思います。
+>> >
+>> >
+>> > 2016年2月9日(火) 9:56 <takkanm@gmail.com>:
+>> >>
+>> >> 今日は 344 回目のミートアップを神田の永和システムマネジメントのオフィスで行ないます。
+>> >>
+>> >> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+>> >>
+>> >> 新年会の進捗を確認したい
+>>
+>>
+>>
+>> --
+>> SHIBATA Hiroshi hsbt@ruby-lang.org
+>> http://www.hsbt.org/
+>>
+> --
+> 斎藤 匡
+>
+}}

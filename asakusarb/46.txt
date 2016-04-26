@@ -1,0 +1,14 @@
+* Asakusa.rbに加入したいです
+{{mail(tsuyoshikawa@gmail.com,1240577612)
+はじめまして、吉川と申します。
+
+まだまだRubyへの貢献がないのですが、
+実務ベースで次々と今後コミットしたり、
+何か思いついたら作りたいと考えています。
+
+どうぞ、宜しくお願いします。
+
+吉川　毅<tsuyoshikawa@gmail.com>
+id: tsuyoshikawa
+twitter: @tsuyoshikawa
+}}

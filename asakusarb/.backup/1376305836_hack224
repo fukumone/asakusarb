@@ -1,0 +1,50 @@
+* 第224回Asakusa.rb (2013-08-13)
+{{mail(takkanm@gmail.com,1376303707)
+明日は 224 回目の meetup です。
+
+世間はお盆のようですが、どなたかが参加するのであれば、
+上野 E 和にてドアマンできると思います。
+
+開催されたら、たぶん RubyMotion いじります。
+}}
+{{mail(mrkn@mrkn.jp,1376303801)
+村田です。
+
+Mac を札幌に忘れて来てしまったためお休みします＞＜
+
+On Monday, August 12, 2013, wrote:
+
+> 明日は 224 回目の meetup です。
+>
+> 世間はお盆のようですが、どなたかが参加するのであれば、
+> 上野 E 和にてドアマンできると思います。
+>
+> 開催されたら、たぶん RubyMotion いじります。
+>
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(shibata.hiroshi@gmail.com,1376305836)
+> 世間はお盆のようですが、どなたかが参加するのであれば、
+> 上野 E 和にてドアマンできると思います。
+>
+> 開催されたら、たぶん RubyMotion いじります。
+
+ruby-lang.org の残件を triage したり、開発者会議に出したいものを探したりします。
+
+もしくは、$SAFE=4 を外した影響で fcgi の native extension が動かなくなっている件を
+深追いします。
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}

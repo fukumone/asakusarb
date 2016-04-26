@@ -1,0 +1,121 @@
+* 第117回Asakusa.rb (2011-08-09)
+{{mail(takkanm@gmail.com,1312797900)
+さて、明日は117回のMeetupですね。
+
+明日はE和にてドアマン係ができる予定ですがいかがでしょうか?
+}}
+{{mail(shintaro.kakutani@gmail.com,1312797960)
+裏で打合せがあるので着席は遅れそうです!!
+
+2011/8/8  <takkanm@gmail.com>:
+> さて、明日は117回のMeetupですね。
+>
+> 明日はE和にてドアマン係ができる予定ですがいかがでしょうか?
+}}
+{{mail(ronnie@dio.jp,1312804690)
+まずは週末に秋葉で買ってきたデカめのSSDにLionさんを移行して設定する作業をやります。
+
+あと、先週Yuguiさんから引き継いだやつ(詳細は明日お話しします)は結局まだなんにもやってないので、
+明日あたりから開発に着手できるといいですねぇ。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(shibata.hiroshi@gmail.com,1312806569)
+参加します。
+
+Rails3.1でatig/tigからのアクセスが exception になる件を追いかけるか shout-bot という
+IRCクライアントのライブラリをSSL対応のどっちかをやるつもりです。
+
+あとはいつも通り tDiary 業でjson_pure を同梱する作業をしたりします。
+}}
+{{mail(june29.jp@gmail.com,1312807338)
+june29 と申します!
+
+
+明日の Meetup に参加予定です!
+
+Rails 3.1 について調べようと思っています。
+すでに試している人、試してみて困っている人などいれば、
+悩んでいることを共有したいです。
+
+よろしくお願いしますー!
+}}
+{{mail(nakahiro@gmail.com,1312861481)
+行きます。CRuby用のautoloadについて中田さん、卜部さんと相談します。まだやってんのかよ。
+}}
+{{mail(takahashimm@gmail.com,1312871728)
+高橋征義です。参加します。
+
+うっかりHaskellの勉強をしてなければ、docdiffをいじってる予定です。
+
+-- 
+高橋征義 (takahashimm@gmail.com)
+}}
+{{mail(shintaro.kakutani@gmail.com,1312871895)
+2011/8/9 masayoshi takahashi <takahashimm@gmail.com>:
+> うっかりHaskellの勉強をしてなければ、docdiffをいじってる予定です。
+
+svn importing action(して、hisashimにメールしました!!)
+https://github.com/kakutani/docdiff/commits/master
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(sakuro@2238club.org,1312872581)
+今日は参加します。
+
+2011年8月9日15:37 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 2011/8/9 masayoshi takahashi <takahashimm@gmail.com>:
+>> うっかりHaskellの勉強をしてなければ、docdiffをいじってる予定です。
+>
+> svn importing action(して、hisashimにメールしました!!)
+> https://github.com/kakutani/docdiff/commits/master
+
+docdiff の野良gitレポいくつあるんだろう:p
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(hokkai7go@gmail.com,1312873720)
+ほっかいです。
+
+宮崎在住のRubyistからぜひAsakusa.rbで、
+と焼酎をいただいたので
+適当なつまみを連れていきます
+2011/08/09 15:49 "OZAWA Sakuro" <sakuro@2238club.org>:
+> 今日は参加します。
+>
+> 2011年8月9日15:37 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>> 2011/8/9 masayoshi takahashi <takahashimm@gmail.com>:
+>>> うっかりHaskellの勉強をしてなければ、docdiffをいじってる予定です。
+>>
+>> svn importing action(して、hisashimにメールしました!!)
+>> https://github.com/kakutani/docdiff/commits/master
+>
+> docdiff の野良gitレポいくつあるんだろう:p
+>
+> --
+> OZAWA Sakuro
+>
+> "I think we can agree, the past is over." - George W. Bush
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack117.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(shimura-hir@obun.jp,1312879382)
+参加します。宜しくお願いします。
+		志村 弘之
+
+In message "[asakusarb:2418] Re: 第117回Asakusa.rb (2011-08-09)", 
+<CA+gJikhNTXnsojrQzCriXhEQnGErDEGZuip9u6J6gYSynUtOcw@mail.gmail.com>, 
+ >宮崎在住のRubyistからぜひAsakusa.rbで、
+ >と焼酎をいただいたので
+ >適当なつまみを連れていきます
+---------------------------------------+---------+---------+以上 2011/8/9
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}

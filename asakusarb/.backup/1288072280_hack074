@@ -1,0 +1,191 @@
+* 第74回Asakusa.rb(2010-10-26)
+{{mail(takkanm@gmail.com,1288010522)
+こんばんは
+
+もう第74回Asakusa.rbまで24時間を切りましたね。
+今回も場所は、いつもどおり永和でよければ着席できると思います。
+
+わたしは、そろそろ札幌について思いを馳せようと思います。
+}}
+{{mail(shibata.hiroshi@gmail.com,1288011833)
+柴田です。
+
+> もう第74回Asakusa.rbまで24時間を切りましたね。
+
+早いものですね。
+
+今回は RSpec2 の新機能というか変わったところを共有できれば良いなあと
+思っていますがどうでしょうか。
+
+あとは tDiary の何かか、札幌に向けた何かをしようと思います。
+
+-- 
+SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(theworldinunion@genkiearth.com,1288046434)
+おはようございます。RSpec2.0を言い出しっぺのチュウです。（笑）
+
+えぇと、RSpec2.0の新機能について、共有しやすいため今まで調べたものを数枚のスライドにまとめさせて頂きます。今回初参加なので、プロジェクターとプロジェクターに繋ぐケーブルは会場にありますか？Macbook Proを持って行く予定です。もしなければ、事前スライドをどっかにアップして、各自のパソコンから見れるようにします。
+
+また今夜、楽しみにします。
+
+よろしくお願いします
+
+Chiew Chung
+@theworldinunion
+
+On 10/25/10 10:03 PM, SHIBATA Hiroshi wrote:
+> 柴田です。
+> 
+>> もう第74回Asakusa.rbまで24時間を切りましたね。
+> 
+> 早いものですね。
+> 
+> 今回は RSpec2 の新機能というか変わったところを共有できれば良いなあと
+> 思っていますがどうでしょうか。
+> 
+> あとは tDiary の何かか、札幌に向けた何かをしようと思います。
+> 
+}}
+{{mail(shyouhei@ruby-lang.org,1288060940)
+(2010/10/25 21:42), takkanm@gmail.com wrote:
+> わたしは、そろそろ札幌について思いを馳せようと思います。
+
+札幌行きたい!
+
+ので相談させていただければと思い、今日は参加します。
+}}
+{{mail(nakahiro@gmail.com,1288061323)
+今日はrake:moneyに偵察に行ってきます。money重要。
+}}
+{{mail(gunjisatoshi@rikuga.me,1288062548)
+郡司です。
+
+うらべさんにLXCについて色々聞きたいので
+参加したい！のですが、今日も無理かなあ。
+
+ちなみに「札幌Ruby会議03」の往復の飛行機とホテルは、
+私はANAの「旅作」で確保しました。
+
+http://www.ana.co.jp/domtour/dp/
+
+何かあって行けなくなった場合のキャンセル料は高いのですが、
+ツアー扱いなのでかなり安く行けます。
+
+
+From: Urabe Shyouhei <shyouhei@ruby-lang.org>
+Subject: [asakusarb:1349] Re: 第74回Asakusa.rb(2010-10-26)
+Date: Tue, 26 Oct 2010 11:42:17 +0900
+
+> (2010/10/25 21:42), takkanm@gmail.com wrote:
+>> わたしは、そろそろ札幌について思いを馳せようと思います。
+> 
+> 札幌行きたい!
+> 
+> ので相談させていただければと思い、今日は参加します。
+> 
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack074.html 
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(igaiga@gmail.com,1288062651)
+いがいがです。
+
+参加します。
+rspec2の話、興味あります！
+作業時間はRuby試験Goldリベンジの勉強します。
+
+# 札幌への旅程はマイル（ANAの方）無料航空券と東横インのコンボにしました。
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(ronnie@dio.jp,1288062707)
+2010/10/26 Urabe Shyouhei <shyouhei@ruby-lang.org>:
+> (2010/10/25 21:42), takkanm@gmail.com wrote:
+>> わたしは、そろそろ札幌について思いを馳せようと思います。
+>
+> 札幌行きたい!
+
+札幌行きたい！
+
+> えぇと、RSpec2.0の新機能について、共有しやすいため今まで調べたものを数枚のスライドにまとめさせて頂きます。今回初参加なので、プロジェクターとプロジェクターに繋ぐケーブルは会場にありますか？Macbook Proを持って行く予定です。もしなければ、事前スライドをどっかにアップして、各自のパソコンから見れるようにします。
+
+RSpec2の話、楽しみです。「スライド」があるAsakusa.rbなんて何年振りだろう？(というかもしかして初めて？？)
+アダプタは、MacBook Proのユーザーはかなり多いから誰かは持っているんじゃないかと思います。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(yamayuri@gmail.com,1288066650)
+やまねです。
+20時ぐらいになると思いますが、参加させてください。
+
+>>> わたしは、そろそろ札幌について思いを馳せようと思います。
+>>
+>> 札幌行きたい!
+>
+> 札幌行きたい！
+
+札幌行きます！
+#でも寒そう・・・
+
+アメリカの話は終わってもう北海道の話ですか？(汗
+時間があれば、どなたかRubyConfのセッションについて解説っぽいものをしてもらえるとうれしいです。
+
+あと、llvmrubyに興味をお持ちの方がいらっしゃいましたら、話を聞かせてください。
+
+#某方面に聞いてるとまた作業滞っちゃうので・・・がんばって働いていただかないとｗ
+
+RSpec2については全くなので、また茫然としてるかもしれません、すみません。
+
+よろしくお願いします。
+}}
+{{mail(sakuro@2238club.org,1288070489)
+さくです。参加します。
+
+2010/10/25  <takkanm@gmail.com>:
+> こんばんは
+>
+> もう第74回Asakusa.rbまで24時間を切りましたね。
+> 今回も場所は、いつもどおり永和でよければ着席できると思います。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(kkohno@gmail.com,1288070878)
+jugyo です。
+参加します。
+
+rspec2 の話しを盗み聞きしつつ、
+node.js に取り組みたいと思います！
+
+
+2010/10/26 OZAWA Sakuro <sakuro@2238club.org>:
+> さくです。参加します。
+>
+> 2010/10/25  <takkanm@gmail.com>:
+>> こんばんは
+>>
+>> もう第74回Asakusa.rbまで24時間を切りましたね。
+>> 今回も場所は、いつもどおり永和でよければ着席できると思います。
+>
+> --
+> OZAWA Sakuro
+>
+> "I think we can agree, the past is over." - George W. Bush
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack074.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1288072280)
+かくたにです。
+咳がひどくなったので病院いったら大量に薬を処方されたので今日はおとなしくしてようと
+思うので欠席です。髪きった松田さんの写真どっかに置いといてください。
+}}

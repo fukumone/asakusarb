@@ -1,0 +1,213 @@
+* 第166回Asakusa.rb (2012-07-17)
+{{mail(takkanm@gmail.com,1342357650)
+明後日火曜は166回目のミートアップです。
+
+わたしは私用で行けないのですが、だれかがドアマンをしてくれれば、
+上野のE和で開催になるかと思います。
+}}
+{{mail(celluloid.key@gmail.com,1342404272)
+hibariya です、E和室でよければドアマンしつつ 参加します。
+
+
+On Jul 15, 2012, at 22:07, takkanm@gmail.com wrote:
+
+> 明後日火曜は166回目のミートアップです。
+> 
+> わたしは私用で行けないのですが、だれかがドアマンをしてくれれば、
+> 上野のE和で開催になるかと思います。
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack166.html 
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(matsumoto.katsuyoshi@gmail.com,1342437672)
+katsyoshiです．
+参加します．
+
+2012年7月16日 11:04 hibariya <celluloid.key@gmail.com>:
+> hibariya です、E和室でよければドアマンしつつ 参加します。
+>
+>
+> On Jul 15, 2012, at 22:07, takkanm@gmail.com wrote:
+>
+>> 明後日火曜は166回目のミートアップです。
+>>
+>> わたしは私用で行けないのですが、だれかがドアマンをしてくれれば、
+>> 上野のE和で開催になるかと思います。
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack166.html
+>> ML-> asakusarb@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack166.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+松本 勝慶
+
+Matsumoto, Katsuyoshi
+
+matsumoto.katsuyoshi@gmail.com
+}}
+{{mail(shibata.hiroshi@gmail.com,1342442702)
+柴田です。
+
+参加します。
+
+Jenkins User Conference のスライド作成をしに行きます。
+あと、capybara と force_ssl を組み合わせた時の挙動について相談したいです。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(digital.ipseity@gmail.com,1342483377)
+randymです。
+
+ハッピーターンと一緒に参加します。
+
+2012/7/16 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 柴田です。
+>
+> 参加します。
+>
+> Jenkins User Conference のスライド作成をしに行きます。
+> あと、capybara と force_ssl を組み合わせた時の挙動について相談したいです。
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack166.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(h.fukuhara0606@gmail.com,1342499983)
+福原です。
+
+参加します。
+社内勉強会用の資料作成なんかをすると思います。
+}}
+{{mail(mrkn@mrkn.jp,1342500108)
+村田です。
+
+日曜日からずっと風邪にやられています。
+療養のため今晩は休みます。
+
+皆さん、暑くても布団はかけて寝てくださいね。
+
+Sent from my iPhone
+
+On 2012/07/16, at 21:45, SHIBATA Hiroshi <shibata.hiroshi@gmail.com> wrote:
+
+> 柴田です。
+>
+> 参加します。
+>
+> Jenkins User Conference のスライド作成をしに行きます。
+> あと、capybara と force_ssl を組み合わせた時の挙動について相談したいです。
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack166.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(mail@yukinishijima.net,1342511841)
+西嶋です。
+
+参加します。今日も kaminari の issues を退治していきます。
+
+2012/7/17 Kenta Murata <mrkn@mrkn.jp>:
+> 村田です。
+>
+> 日曜日からずっと風邪にやられています。
+> 療養のため今晩は休みます。
+>
+> 皆さん、暑くても布団はかけて寝てくださいね。
+>
+> Sent from my iPhone
+>
+> On 2012/07/16, at 21:45, SHIBATA Hiroshi <shibata.hiroshi@gmail.com> wrote:
+>
+>> 柴田です。
+>>
+>> 参加します。
+>>
+>> Jenkins User Conference のスライド作成をしに行きます。
+>> あと、capybara と force_ssl を組み合わせた時の挙動について相談したいです。
+>>
+>> --
+>> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+>> http://www.hsbt.org/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack166.html
+>> ML-> asakusarb@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack166.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(sakuro@2238club.org,1342513206)
+さくです。
+
+参加します。
+自作のrubygems拡張を改良します。
+
+2012年7月15日 22:07  <takkanm@gmail.com>:
+> 明後日火曜は166回目のミートアップです。
+
+-- 
+OZAWA Sakuro
+}}
+{{mail(ronnie@dio.jp,1342520656)
+2012/7/17 Yuki Nishijima <mail@yukinishijima.net>:
+> 参加します。今日も kaminari の issues を退治していきます。
+
+^^^を応援しにいきます！
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(takahashimm@gmail.com,1342520806)
+高橋征義です。参加します。
+
+tokyuの準備のmruby業に励みたいところですが、Rubyの会業で手一杯になりそうです。
+}}
+{{mail(ken97531@gmail.com,1342520871)
+西村です
+
+本日参加します。
+今さらですが、
+backbone.js を触ってみたいとか
+思っています。
+2012/07/17 17:20 "OZAWA Sakuro" <sakuro@2238club.org>:
+
+> さくです。
+>
+> 参加します。
+> 自作のrubygems拡張を改良します。
+>
+> 2012年7月15日 22:07  <takkanm@gmail.com>:
+> > 明後日火曜は166回目のミートアップです。
+>
+> --
+> OZAWA Sakuro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack166.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1342520919)
+かくたにです。2000までには参加します！
+
+-- 
+Kakutani Shintaro
+}}

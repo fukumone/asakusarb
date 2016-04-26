@@ -1,0 +1,203 @@
+* 第186回Asakusa.rb (2012-11-27)
+{{mail(takkanm@gmail.com,1353844866)
+明後日火曜は 186 回目の Meetup です。
+
+会場は上野 E 和で行ないたいと思います。
+}}
+{{mail(shibata.hiroshi@gmail.com,1353846376)
+参加します。
+
+フランスのお菓子を持って行きます。
+
+
+2012年11月25日 21:01 <takkanm@gmail.com>:
+
+> 明後日火曜は 186 回目の Meetup です。
+>
+> 会場は上野 E 和で行ないたいと思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack186.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(ronnie@dio.jp,1353939138)
+参加します。
+
+我らがActionArgsをRails 4のStrongParameters対応してみたんですが、
+こんな感じでよいかどうか、どなたか識者の方からご意見ほしい感じです。
+https://github.com/asakusarb/action_args/compare/v0.0.3...HEAD
+
+あと、フランスのお菓子を食べにいきます。
+
+ちなみに、前回行われたRubyの処理系のThreadとかGCとかを読んだりする会は、今週はお休みになりそうです。
+
+
+
+On Sun, Nov 25, 2012 at 9:25 PM, SHIBATA Hiroshi
+<shibata.hiroshi@gmail.com>wrote:
+
+> 参加します。
+>
+> フランスのお菓子を持って行きます。
+>
+>
+> 2012年11月25日 21:01 <takkanm@gmail.com>:
+>
+> 明後日火曜は 186 回目の Meetup です。
+>>
+>> 会場は上野 E 和で行ないたいと思います。
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack186.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+
+
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(igaiga@gmail.com,1353971805)
+五十嵐です。
+参加します。
+資料を作ったり、フランスのお菓子を食べたりします。
+
+
+2012年11月26日月曜日 Akira Matsuda ronnie@dio.jp:
+
+> 参加します。
+>
+> 我らがActionArgsをRails 4のStrongParameters対応してみたんですが、
+> こんな感じでよいかどうか、どなたか識者の方からご意見ほしい感じです。
+> https://github.com/asakusarb/action_args/compare/v0.0.3...HEAD
+>
+> あと、フランスのお菓子を食べにいきます。
+>
+> ちなみに、前回行われたRubyの処理系のThreadとかGCとかを読んだりする会は、今週はお休みになりそうです。
+>
+>
+>
+> On Sun, Nov 25, 2012 at 9:25 PM, SHIBATA Hiroshi <
+> shibata.hiroshi@gmail.com <javascript:_e({}, 'cvml',
+> 'shibata.hiroshi@gmail.com');>> wrote:
+>
+>> 参加します。
+>>
+>> フランスのお菓子を持って行きます。
+>>
+>>
+>> 2012年11月25日 21:01 <takkanm@gmail.com <javascript:_e({}, 'cvml',
+>> 'takkanm@gmail.com');>>:
+>>
+>> 明後日火曜は 186 回目の Meetup です。
+>>>
+>>> 会場は上野 E 和で行ないたいと思います。
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/hack186.html
+>>> ML-> asakusarb@qwik.jp <javascript:_e({}, 'cvml', 'asakusarb@qwik.jp');>
+>>>
+>>
+>>
+>>
+>> --
+>> SHIBATA Hiroshi shibata.hiroshi@gmail.com <javascript:_e({}, 'cvml',
+>> 'shibata.hiroshi@gmail.com');>
+>> http://www.hsbt.org/
+>>
+>
+>
+>
+> --
+> Akira Matsuda<ronnie@dio.jp <javascript:_e({}, 'cvml', 'ronnie@dio.jp');>>
+>
+>
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(yutaka@yanoh.mydns.jp,1353977147)
+矢野尾です。
+
+参加します。
+AdLint が ruby-2.0.0-preview1 で遅くなった件のベンチマーク作成します。
+
+> 五十嵐です。
+> 参加します。
+> 資料を作ったり、フランスのお菓子を食べたりします。
+>
+>
+> 2012年11月26日月曜日 Akira Matsuda ronnie@dio.jp:
+>
+>> 参加します。
+>>
+>> 我らがActionArgsをRails 4のStrongParameters対応してみたんですが、
+>> こんな感じでよいかどうか、どなたか識者の方からご意見ほしい感じです。
+>> https://github.com/asakusarb/action_args/compare/v0.0.3...HEAD
+>>
+>> あと、フランスのお菓子を食べにいきます。
+>>
+>> ちなみに、前回行われたRubyの処理系のThreadとかGCとかを読んだりする会は、今週はお休みになりそうです。
+>>
+>>
+>>
+>> On Sun, Nov 25, 2012 at 9:25 PM, SHIBATA Hiroshi <
+>> shibata.hiroshi@gmail.com <javascript:_e({}, 'cvml',
+>> 'shibata.hiroshi@gmail.com');>> wrote:
+>>
+>>> 参加します。
+>>>
+>>> フランスのお菓子を持って行きます。
+>>>
+>>>
+>>> 2012年11月25日 21:01 <takkanm@gmail.com <javascript:_e({}, 'cvml',
+>>> 'takkanm@gmail.com');>>:
+>>>
+>>> 明後日火曜は 186 回目の Meetup です。
+>>>>
+>>>> 会場は上野 E 和で行ないたいと思います。
+>>>>
+>>>> --
+>>>> archive-> http://qwik.jp/asakusarb/hack186.html
+>>>> ML-> asakusarb@qwik.jp <javascript:_e({}, 'cvml',
+>>>> 'asakusarb@qwik.jp');>
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>> SHIBATA Hiroshi shibata.hiroshi@gmail.com <javascript:_e({}, 'cvml',
+>>> 'shibata.hiroshi@gmail.com');>
+>>> http://www.hsbt.org/
+>>>
+>>
+>>
+>>
+>> --
+>> Akira Matsuda<ronnie@dio.jp <javascript:_e({}, 'cvml',
+>> 'ronnie@dio.jp');>>
+>>
+>>
+>
+> --
+> igaiga@gmail.com
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack186.html
+> ML-> asakusarb@qwik.jp
+}}

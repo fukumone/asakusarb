@@ -1,0 +1,53 @@
+* 大江戸Ruby会議04スピーカーの皆様へ
+{{mail(ronnie@dio.jp,1396590749)
+大江戸Ruby会議04のページにタイムテーブルを載せました。
+
+枠はてきとうに決めてしまったので、発表時間をずらしてほしい等の
+ご要望があればご相談ください。
+
+それから、トークのタイトルを埋めていただく必要があります。
+ので、こちらのリポジトリ https://github.com/asakusarb/oedo04
+の public/index.html にタイトルを記入してPRをください。
+
+よろしくお願いします。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(s@makimoto.org,1396591227)
+まきもとです。
+
+> それから、トークのタイトルを埋めていただく必要があります。
+> ので、こちらのリポジトリ https://github.com/asakusarb/oedo04
+> の public/index.html にタイトルを記入してPRをください。
+
+これ、いつ頃までにほしいとかありますか？
+
+
+
+2014年4月4日 14:52 Akira Matsuda <ronnie@dio.jp>:
+
+> 大江戸Ruby会議04のページにタイムテーブルを載せました。
+>
+> 枠はてきとうに決めてしまったので、発表時間をずらしてほしい等の
+> ご要望があればご相談ください。
+>
+> それから、トークのタイトルを埋めていただく必要があります。
+> ので、こちらのリポジトリ https://github.com/asakusarb/oedo04
+> の public/index.html にタイトルを記入してPRをください。
+>
+> よろしくお願いします。
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+>
+
+
+
+-- 
+Shimpei Makimoto
+s@makimoto.org | GitHub: makimoto | Twitter: makimoto
+}}
+{{mail(ronnie@dio.jp,1396591406)
+いや、まぁなるべくお早めに、っていうぐらいです。
+}}

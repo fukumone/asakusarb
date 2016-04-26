@@ -1,0 +1,38 @@
+* 教えてください。
+{{mail(pikky3@mail.goo.ne.jp,1223393768)
+こんばんは。
+
+先日　入会しました。片山と申します。
+突然ですみません。。
+
+Rubyで作るネット巡回ロボットに興味あります。
+
+どなたか
+参考本や参考Site教えていただけないでしょうか。
+RubyistMagazine　第7回　net/httpなど目は通しているのですが、
+詳しい情報探しています。
+
+秋の屋形舟いいですネ。
+}}
+{{mail(gunjisatoshi@gmail.com,1223394270)
+郡司です。
+
+> 先日　入会しました。片山と申します。
+
+> Rubyで作るネット巡回ロボットに興味あります。
+>
+> どなたか
+> 参考本や参考Site教えていただけないでしょうか。
+> RubyistMagazine　第7回　net/httpなど目は通しているのですが、
+> 詳しい情報探しています。
+
+WWW::Mechanizeはいかがでしょうか。
+
+yharaさんのサイトに詳しい使い方があります↓
+http://mono.kmc.gr.jp/~yhara/w/?Ruby-WWW-Mechanize
+
+その他、WWW::MechanizeとRubyをキーワードにGoogle等で検索すると
+サンプルがたくさん出てくると思います。
+
+では。
+}}

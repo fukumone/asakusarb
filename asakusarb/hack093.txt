@@ -1,0 +1,168 @@
+* 第93回Asakusa.rb(2011-03-08)
+{{mail(takkanm@gmail.com,1299539685)
+mです。
+
+今日は93回目のMeetupですね。
+
+先日、hsbtから93回に参加する権利を1000円で買わせていただいたので、
+参加します。
+
+会場は、いつものところでよければ、今回もE和で門番をしようと思います。
+}}
+{{mail(celluloid.key@gmail.com,1299547453)
+hibariyaです。引越しの準備のため門番(補欠)はおやすみです。
+
+2011/3/8  <takkanm@gmail.com>:
+> mです。
+>
+> 今日は93回目のMeetupですね。
+>
+> 先日、hsbtから93回に参加する権利を1000円で買わせていただいたので、
+> 参加します。
+>
+> 会場は、いつものところでよければ、今回もE和で門番をしようと思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack093.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shibata.hiroshi@gmail.com,1299548196)
+柴田です。
+
+> 先日、hsbtから93回に参加する権利を1000円で買わせていただいたので、
+> 参加します。
+
+お買い上げありがとうございます!
+
+今日は粛々と tDiary 業かなあ。
+Trackback という機能を消すだけのお仕事をしようと思います。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(gunjisatoshi@rikuga.me,1299571331)
+郡司です。
+
+参加の予定です。
+＃終わりの見えない打合せへの参加後となるので、遅れそうです‥‥
+}}
+{{mail(nakahiro@gmail.com,1299572472)
+大江戸Ruby会議の準備をしたかったところですが、今日は残念ながらお休みです。
+}}
+{{mail(yoshiroh.miyata@glpgs.com,1299573489)
+皆様
+
+株式会社ガラパゴスの宮田と申します。
+Rubyで受託開発をしております。
+
+meetup参加させて下さい。
+よろしくお願い致します。
+
+宮田
+
+2011年3月8日17:21 Hiroshi Nakamura <nakahiro@gmail.com>:
+
+> 大江戸Ruby会議の準備をしたかったところですが、今日は残念ながらお休みです。
+>
+
+
+
+-- 
+****************************************************
+株式会社ガラパゴス
+システム営業/取締役 宮田芳郎
+
+Tel：03-6240-0092
+Mail：yoshiroh.miyata@glpgs.com
+HP：http://www.glpgs.com/
+****************************************************
+}}
+{{mail(hotchpotch@gmail.com,1299574391)
+secondlife です。
+
+本日は shibuya.js で 19:30 からJSのテストの話をします。
+エンドツーエンドテストや Johnson (Ruby の spidermonkey binding)
+ capybara + envjs の話等もおりこんであるので、
+よろしかったら Ustream でご覧下さい :D
+
+http://www.ustream.tv/channel/shibuyajs
+}}
+{{mail(matsumoto@soutaro.com,1299574887)
+Meetup参加させてください。
+よろしくお願いします。
+
+
+Soutaro Matsumoto
+On 2011年3月8日火曜日 at 17:53, secondlife wrote: 
+> secondlife です。
+> 
+> 本日は shibuya.js で 19:30 からJSのテストの話をします。
+> エンドツーエンドテストや Johnson (Ruby の spidermonkey binding)
+>  capybara + envjs の話等もおりこんであるので、
+> よろしかったら Ustream でご覧下さい :D
+> 
+> http://www.ustream.tv/channel/shibuyajs
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack093.html 
+> ML-> asakusarb@qwik.jp
+> 
+}}
+{{mail(ronnie@dio.jp,1299575013)
+参加します。
+
+いつもどおりKaminariのバグ潰したりRailsのバグ潰したりしに行きます。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(takahashi@1syo.net,1299575575)
+高橋一生と申します。
+早速meetupに参加します。
+よろしくお願いします。
+}}
+{{mail(shimura-hir@obun.jp,1299576227)
+参加します。また煎餅ちょっともってきます
+		志村 弘之
+
+In message "[asakusarb:1822] Re: 第93回Asakusa.rb(2011-03-08)", 
+<AANLkTinD1yHzdEKR0=QkQPxa-_Lr6YWBNdqkD5tQf_HT@mail.gmail.com>, 
+---------------------------------------+---------+---------+以上 2011/3/8
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}
+{{mail(ken97531@gmail.com,1299577429)
+西村です。
+参加します。よろしくお願いします。
+}}
+{{mail(takahashimm@gmail.com,1299577630)
+高橋征義です。本日参加します。
+
+今はjQueryMobileが熱いのですが、某弊社のRailsサイトの国際化をやって
+みようかなとも思っています。
+
+あと、明日は朝が早いので早めに帰るかもです。よろしくお願いします。
+
+高橋征義 (takahashimm@gmail.com)
+}}
+{{mail(sakuro@2238club.org,1299577893)
+さくです。
+
+今日は定時後の鯖メンテ業務があるので欠席します。
+
+帰ったら、 Ext.js 4 と Rails のやりとりが ActiveSupport::JSON.decode で躓いているのをどうするか考える予定。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(yamayuri@gmail.com,1299579738)
+やまねです。
+
+参加します。
+sinatraと言いたいところですが、HTML作っています・・・。
+ちょっと用事があるので22時ぐらいで帰らせてもらいます。
+}}

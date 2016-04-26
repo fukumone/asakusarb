@@ -1,0 +1,29 @@
+* 【大当たり？】You may have encountered a bug in the Ruby interpreter
+{{mail(silentsilent433@gmail.com,1382606304)
+浅草Rubyの皆様、
+本当にたびたび申し訳ありません。せかいです。
+想定外の出来事が発生しましたため、重ねてメールさせてください。
+
+サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+これはよくあることなのでしょうか？
+報告したほうがいいのかな？
+ちなみにsocketライブラリを使っていました。
+
+
+ってあまりの衝撃にメールを書いたものの、
+考えれば、火曜日に相談させてもらえば良い話ですよね。
+すみません。火曜のどこかで相談させてください。
+
+
+衝撃続きで心臓に悪い。。
+
+※１
+[NOTE]
+You may have encountered a bug in the Ruby interpreter or extension libraries.
+Bug reports are welcome.
+For details: http://www.ruby-lang.org/bugreport.html
+
+
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+}}

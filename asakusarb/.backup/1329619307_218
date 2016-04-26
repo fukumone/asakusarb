@@ -1,0 +1,166 @@
+* 第146回Asakusa.rb (2012-02-21)
+{{mail(ronnie@dio.jp,1329575857)
+さて、そんなわけで、以前から予告しているとおり、次回のmeet-upにはなんとあの達人Dave Thomas氏がいらっしゃいます。
+https://twitter.com/#!/pragdave/status/166002282494820352
+
+僕のほうからは「去年の最後のRubyKaigiで話しそびれたことを話してくれると嬉しい」とお伝えしてあって、彼も「準備は何もしてないけどちょっと喋ってあとは質疑応答みたいな感じならやるよ」と言ってくださっています。
+https://twitter.com/#!/pragdave/status/169701069667041280
+
+そこで、今回参加される皆さんにはひとつお願いがあります。せっかくDaveが遊びにきてくれるので、Daveと交流しに来てください。お客さんしに来ないでください。
+
+ここにいる皆さんは、絶対なんらかの形でDaveにはお世話になってるはずです。
+少なくとも1人2つか3つはDaveに訊きたいこと、Daveに伝えたいことを考えておいてください。
+今のうちに、あのRubyKaigi 2007の講演とか http://jp.rubyist.net/RubyKaigi2007/Log0610-S5.html
+RubyConf 2010の講演とか http://www.confreaks.com/videos/368-rubyconf2010-keynote
+を復習しておくと良いかもしれません。
+
+今回は参加人数を把握しておきたいので、参加予定の方は、このスレに返信をお願いします。
+
+なお、会場は秋葉原の笹田研になります。いつもの上野じゃないのでご注意ください。
+時間は19時開場19時半開演とかそんなぐらいな感じですかね。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(ayumu.aizawa@gmail.com,1329576326)
+あいざわです。
+参加します！
+}}
+{{mail(shintaro.kakutani@gmail.com,1329576382)
+2012/2/18 Akira Matsuda <ronnie@dio.jp>:
+> なお、会場は秋葉原の笹田研になります。いつもの上野じゃないのでご注意ください。
+> 時間は19時開場19時半開演とかそんなぐらいな感じですかね。
+
+万難を排して設営から行くぞー!!
+}}
+{{mail(tad.a.digger@gmail.com,1329577335)
+斎藤です。
+
+2012年2月18日23:37 Akira Matsuda <ronnie@dio.jp>:
+> 今回は参加人数を把握しておきたいので、参加予定の方は、このスレに返信をお願いします。
+
+参加します！
+五年前を思い出しますね。なんていうか、うれしかったんだよなぁ。
+
+-- 
+斎藤ただし
+}}
+{{mail(ko1@atdot.net,1329583568)
+(2012/02/18 23:46), Kakutani Shintaro wrote:
+> 万難を排して設営から行くぞー!!
+
+え，何かします？
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(shintaro.kakutani@gmail.com,1329583662)
+2012/2/19 SASADA Koichi <ko1@atdot.net>:
+> (2012/02/18 23:46), Kakutani Shintaro wrote:
+>> 万難を排して設営から行くぞー!!
+>
+> え，何かします？
+
+あ。机とか椅子とかなんもしなくて大丈夫ですかね?
+ただ行けばよい?
+}}
+{{mail(ko1@atdot.net,1329583672)
+(2012/02/18 23:37), Akira Matsuda wrote:
+> なお、会場は秋葉原の笹田研になります。いつもの上野じゃないのでご注意ください。
+
+笹田研じゃなくて，情報理工学系研究科秋葉原拠点になります（私は研究室専用
+の部屋を持っていません）．
+
+住所と地図です：
+東京都千代田区外神田1-18-13 秋葉原ダイビル13F
+東京大学大学院情報理工学系研究科秋葉原拠点
+http://www.i.u-tokyo.ac.jp/map/index.shtml#aki
+
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(ko1@atdot.net,1329583732)
+(2012/02/19 1:47), Kakutani Shintaro wrote:
+> あ。机とか椅子とかなんもしなくて大丈夫ですかね?
+
+いや，（いつもの）普通の教室なんで...．スクールじゃなくて，なんか移動し
+たりしたほうがいいでしょうか．
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(oshow999@gmail.com,1329592171)
+oshowです。
+
+参加します！
+『達人プログラマー』を読んで感動し、
+ピッケル本でRubyを学んだ身としては行かないわけにはいきません。
+}}
+{{mail(kawaguti@gmail.com,1329593270)
+かわぐちです。
+
+　ぜひ参加させてください。
+　うー、どんな質問するか、悩みます。
+}}
+{{mail(takkanm@gmail.com,1329602595)
+takkanmです
+
+初めて参加したRuby会議がDaveのときだったので、
+何か伝えれることを考えたいです
+
+2012年2月19日4:27 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちです。
+>
+> 　ぜひ参加させてください。
+> 　うー、どんな質問するか、悩みます。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/218.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(ken97531@gmail.com,1329602810)
+西村です。
+
+参加します。PragProgのことと、2008年のfork ruby発言あたりのことを聞いてみたいと思っています。
+}}
+{{mail(shibata.hiroshi@gmail.com,1329609531)
+参加します。
+
+>> 万難を排して設営から行くぞー!!
+>
+> え，何かします？
+
+机と椅子は真ん中に寄せてそこを囲めるように並べてはどうかなーと思いました。
+あと、参加者分の飲み物と散らからないお菓子を少し、asakusa.rb 基金で用意する予定です。
+
+Dave には PragProgのことやその後の達人プログラマーみたいな話を聞きたいです。
+}}
+{{mail(mrkn@mrkn.jp,1329614964)
+村田です。
+
+参加します。
+
+2012年2月18日23:37 Akira Matsuda <ronnie@dio.jp>:
+> ここにいる皆さんは、絶対なんらかの形でDaveにはお世話になってるはずです。
+> 少なくとも1人2つか3つはDaveに訊きたいこと、Daveに伝えたいことを考えておいてください。
+
+いつも良い電子書籍を届けてくれてありがとう、と伝えたいです。
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(sunao.tanabe@gmail.com,1329619307)
+たなべです。
+
+万難を排して参加します。
+プログラマ人生を通じて a pragmatic programmer でいつづけることを人生の目標にしてます。
+そのきっかけそのものである Dave へ何を伝えたいか考えていきます。
+}}

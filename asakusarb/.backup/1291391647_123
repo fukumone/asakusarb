@@ -1,0 +1,431 @@
+* 大江戸Ruby会議01のご提案
+{{mail(shintaro.kakutani@gmail.com,1291267849)
+かくたにです。
+
+来年の4月頃に、たぶん Asakusa.rb が100回ぐらいになると思うので、
+それとあわせてRegional RubyKaigiをやりたいです。場所は江戸東京博物館の会議室あたりで。
+
+火曜日にするか、土曜日にするかはまあ追々相談ということで。
+
+実行委員長と会計とるびまのレポート係が必要なので、協力してください。
+実行委員長オレでいいですかね?  場所を押さえるところからやります。
+
+コンテンツは、松田さんの基調講演以外は何も决めてません
+(基調講演の依頼もしてないけど)
+
+さいきんのRegionalはサイトのデザインがかっこいいから、
+誰かにデザイナしてもらえるといいのかなあ。
+
+また相談させてください。とりいそぎ。
+-- 
+Kakutani Shintaro
+}}
+{{mail(shibata.hiroshi@gmail.com,1291268424)
+しばたです。
+
+> 来年の4月頃に、たぶん Asakusa.rb が100回ぐらいになると思うので、
+> それとあわせてRegional RubyKaigiをやりたいです。場所は江戸東京博物館の会議室あたりで。
+
+やりましょう!
+
+> 実行委員長と会計とるびまのレポート係が必要なので、協力してください。
+
+会計とか、コンテンツとかやります。
+
+-- 
+SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(shintaro.kakutani@gmail.com,1291269202)
+レポート係は @gunjisatoshi がいいなあ。とか言ってみる。
+
+2010/12/2 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> しばたです。
+>
+>> 来年の4月頃に、たぶん Asakusa.rb が100回ぐらいになると思うので、
+>> それとあわせてRegional RubyKaigiをやりたいです。場所は江戸東京博物館の会議室あたりで。
+>
+> やりましょう!
+>
+>> 実行委員長と会計とるびまのレポート係が必要なので、協力してください。
+>
+> 会計とか、コンテンツとかやります。
+
+あいよろしくです。江戸博の会議室かしてもらえるかなあ。
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(takkanm@gmail.com,1291271144)
+えむです。
+
+レポート班の補助には、はいれるかなぁとか思います。もしくは編集に噛むとか。
+あとは、会場係的ないつもの役もやりましょう。
+}}
+{{mail(ronnie@dio.jp,1291272152)
+ところで4月といえば例年お花見なわけですが、時期がかぶっちゃいますね。
+もしかしてお花見カンファレンス！？
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(shintaro.kakutani@gmail.com,1291272822)
+ところで松田さん、基調講演おねがいします。
+「東半球のRubyistが参加すべき100のmeetup」みたいなかんじで。
+
+2010/12/2 Akira Matsuda <ronnie@dio.jp>:
+> ところで4月といえば例年お花見なわけですが、時期がかぶっちゃいますね。
+> もしかしてお花見カンファレンス！？
+
+なんかそこはうまく開催を調整して、
+
+99th: お花見
+100th: 大江戸01
+
+or
+
+100th: 大江戸01
+101th: お花見
+
+とか。100回目なんでかたちだけちょっと整えたい!
+
+とりあえずRegional RubyKaigiのMLで宣言しちゃっていいですか。
+-- 
+Kakutani Shintaro
+}}
+{{mail(ronnie@dio.jp,1291275890)
+2010/12/2 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> ところで松田さん、基調講演おねがいします。
+> 「東半球のRubyistが参加すべき100のmeetup」みたいなかんじで。
+
+あ、はい！じゃあ、はい。
+誠に僭越ながら、何か喋らせていただきます。
+
+> なんかそこはうまく開催を調整して、
+>
+> 99th: お花見
+> 100th: 大江戸01
+>
+> or
+>
+> 100th: 大江戸01
+> 101th: お花見
+>
+> とか。100回目なんでかたちだけちょっと整えたい!
+
+なるほど。
+『花見は遂行する』『大江戸01も開催する』
+「両方」やらなくっちゃあならないってのが、
+「Asakusa.rb」のつらいところですね。
+
+> とりあえずRegional RubyKaigiのMLで宣言しちゃっていいですか。
+
+覚悟はできてます。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(shyouhei@ruby-lang.org,1291275929)
+(2010/12/02 14:53), Kakutani Shintaro wrote:
+> あいよろしくです。江戸博の会議室かしてもらえるかなあ。
+
+http://www.edo-tokyo-museum.or.jp/order/lending_facilities/charge.pdf
+これ57万円じゃなくて5万7千円ですよね... ひょっとして激戦区か
+}}
+{{mail(gunjisatoshi@rikuga.me,1291279780)
+郡司です。
+
+> レポート係は @gunjisatoshi がいいなあ。とか言ってみる。
+
+当日Twitterでつぶやくだけでいいのであれば、いくらでも;-)
+
+ちゃんとレポートということであれば、Ruby会議レポート班で
+素晴らしい仕事をされた@takkanmさんのサポートに大いに期待します！
+}}
+{{mail(ronnie@dio.jp,1291280597)
+そういえばAsakusaにはもうひとり公式ロガーが居るんですけど、
+あ、ロガーと言っても logger.rb のひともいらっしゃるんですけどそっちの話ではなくて、
+@tsuyoshikawa さん最近来てくれないですねぇ。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(shintaro.kakutani@gmail.com,1291296950)
+http://www.edo-tokyo-museum.or.jp/order/lending_facilities/index.html
+
+あれ。前に見たときはもっと厳そうな文言が並んでいた(江戸や東京の文化のための云々を優先みたいな)気がしたのですが、
+これみると普通ですね。うーん。明日からは札幌に移動だしなあ。
+
+都営大江戸線両国駅のmayorが週末に4月の空き状況なんかを問い合わせてもらえると超たすかるかも!!
+ホールじゃなくて会議室でいいと思います。
+
+そういえばすみだリバーサイドホールだと500人ぐらい入るんだよなあ。
+あとはKFCホールもあるなあ。シアターXもあるし。意外に両国ってカンファレンスやる場所があるな。
+RubyKaigiが終わっても生きていけるかも :)
+
+2010/12/2 Urabe Shyouhei <shyouhei@ruby-lang.org>:
+> (2010/12/02 14:53), Kakutani Shintaro wrote:
+>> あいよろしくです。江戸博の会議室かしてもらえるかなあ。
+>
+> http://www.edo-tokyo-museum.or.jp/order/lending_facilities/charge.pdf
+> これ57万円じゃなくて5万7千円ですよね... ひょっとして激戦区か
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(shintaro.kakutani@gmail.com,1291298099)
+2010/12/2 Akira Matsuda <ronnie@dio.jp>:
+> 2010/12/2 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>> ところで松田さん、基調講演おねがいします。
+>> 「東半球のRubyistが参加すべき100のmeetup」みたいなかんじで。
+>
+
+> なるほど。
+> 『花見は遂行する』『大江戸01も開催する』
+> 「両方」やらなくっちゃあならないってのが、
+> 「Asakusa.rb」のつらいところですね。
+
+なにしろ『幹部』ですからね。
+
+>> とりあえずRegional RubyKaigiのMLで宣言しちゃっていいですか。
+>
+> 覚悟はできてます。
+
+『覚悟』してメール書いている人……でしたよね……。
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(shintaro.kakutani@gmail.com,1291298170)
+るびまのレポートの「ちゃんと」は、
+るびまのバックナンバーにとにかくRegionalの記事が「ちゃんと」載っている、なので
+内容についてはbest effortで問題ないです!
+
+いつもの郡司さんのブログの記事みたいな感じでじゅうぶんですよー。
+
+2010/12/2 Satoshi GUNJI <gunjisatoshi@rikuga.me>:
+> 郡司です。
+>
+>> レポート係は @gunjisatoshi がいいなあ。とか言ってみる。
+>
+> 当日Twitterでつぶやくだけでいいのであれば、いくらでも;-)
+>
+> ちゃんとレポートということであれば、Ruby会議レポート班で
+> 素晴らしい仕事をされた@takkanmさんのサポートに大いに期待します！
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(takeshinoda@gmail.com,1291302372)
+篠田＠両国mayorです。こんばんは。
+
+江戸博他含めて会議室の空き状況、聞いてみますね。
+
+2010年12月2日22:35 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> http://www.edo-tokyo-museum.or.jp/order/lending_facilities/index.html
+>
+> あれ。前に見たときはもっと厳そうな文言が並んでいた(江戸や東京の文化のための云々を優先みたいな)気がしたのですが、
+> これみると普通ですね。うーん。明日からは札幌に移動だしなあ。
+>
+> 都営大江戸線両国駅のmayorが週末に4月の空き状況なんかを問い合わせてもらえると超たすかるかも!!
+> ホールじゃなくて会議室でいいと思います。
+>
+> そういえばすみだリバーサイドホールだと500人ぐらい入るんだよなあ。
+> あとはKFCホールもあるなあ。シアターXもあるし。意外に両国ってカンファレンスやる場所があるな。
+> RubyKaigiが終わっても生きていけるかも :)
+>
+> 2010/12/2 Urabe Shyouhei <shyouhei@ruby-lang.org>:
+>> (2010/12/02 14:53), Kakutani Shintaro wrote:
+>>> あいよろしくです。江戸博の会議室かしてもらえるかなあ。
+>>
+>> http://www.edo-tokyo-museum.or.jp/order/lending_facilities/charge.pdf
+>> これ57万円じゃなくて5万7千円ですよね... ひょっとして激戦区か
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/123.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+Takeshi SHINODA
+}}
+{{mail(shintaro.kakutani@gmail.com,1291303493)
+mayor様!
+
+会場をおさえるところからやるとかいってご協力をおねがいしてしまってかたじけないです。
+でも助かります!
+
+クックパッドさんに詫びをいれないといけないな……。
+でも白金台じゃあ大江戸Ruby会議にはならないのです……すみません……。
+
+2010/12/3 Takeshi SHINODA <takeshinoda@gmail.com>:
+> 篠田＠両国mayorです。こんばんは。
+>
+> 江戸博他含めて会議室の空き状況、聞いてみますね。
+>
+> 2010年12月2日22:35 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>> http://www.edo-tokyo-museum.or.jp/order/lending_facilities/index.html
+>>
+>> あれ。前に見たときはもっと厳そうな文言が並んでいた(江戸や東京の文化のための云々を優先みたいな)気がしたのですが、
+>> これみると普通ですね。うーん。明日からは札幌に移動だしなあ。
+>>
+>> 都営大江戸線両国駅のmayorが週末に4月の空き状況なんかを問い合わせてもらえると超たすかるかも!!
+>> ホールじゃなくて会議室でいいと思います。
+>>
+>> そういえばすみだリバーサイドホールだと500人ぐらい入るんだよなあ。
+>> あとはKFCホールもあるなあ。シアターXもあるし。意外に両国ってカンファレンスやる場所があるな。
+>> RubyKaigiが終わっても生きていけるかも :)
+>>
+>> 2010/12/2 Urabe Shyouhei <shyouhei@ruby-lang.org>:
+>>> (2010/12/02 14:53), Kakutani Shintaro wrote:
+>>>> あいよろしくです。江戸博の会議室かしてもらえるかなあ。
+>>>
+>>> http://www.edo-tokyo-museum.or.jp/order/lending_facilities/charge.pdf
+>>> これ57万円じゃなくて5万7千円ですよね... ひょっとして激戦区か
+>>
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(lazyw0rkers@gmail.com,1291307481)
+こんばんは。
+
+コンテンツ・プランナー）及川です。
+
+仕事中につき、かたことですいません。
+
+メールのやり取りから4月に人足必要な状況は理解しました。
+
+当日の作業員か、事前案内、花見企画あたりを手伝いたいです。
+
+よろしくどうぞ
+
+2010年12月2日14:30 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> かくたにです。
+>
+> 来年の4月頃に、たぶん Asakusa.rb が100回ぐらいになると思うので、
+> それとあわせてRegional RubyKaigiをやりたいです。場所は江戸東京博物館の会議室あたりで。
+>
+> 火曜日にするか、土曜日にするかはまあ追々相談ということで。
+>
+> 実行委員長と会計とるびまのレポート係が必要なので、協力してください。
+> 実行委員長オレでいいですかね?  場所を押さえるところからやります。
+>
+> コンテンツは、松田さんの基調講演以外は何も决めてません
+> (基調講演の依頼もしてないけど)
+>
+> さいきんのRegionalはサイトのデザインがかっこいいから、
+> 誰かにデザイナしてもらえるといいのかなあ。
+>
+> また相談させてください。とりいそぎ。
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/123.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+━━━━━━━━━━
+ Kazuhiko Oikawa
+━━━━━━━━━━
+}}
+{{mail(kawaguti@gmail.com,1291318487)
+かわぐちです。
+
+　数えるほどしか参加できていないのですが、なんか手伝いたいです。
+　とりあえず、当日の予定をあけとくくらい、ですけど。
+　ビデオとかUSTとかそういう方面、必要かどうかわかりませんが、使ってください。
+}}
+{{mail(mayumi.emori@gmail.com,1291339045)
+江森です。
+
+何ができるか浮かんできませんが、
+小間使い程度の役にはたてると思うので、
+何かお手伝いしたいです。:)
+
+
+
+2010年12月2日14:30 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+
+> かくたにです。
+>
+> 来年の4月頃に、たぶん Asakusa.rb が100回ぐらいになると思うので、
+> それとあわせてRegional RubyKaigiをやりたいです。場所は江戸東京博物館の会議室あたりで。
+>
+> 火曜日にするか、土曜日にするかはまあ追々相談ということで。
+>
+> 実行委員長と会計とるびまのレポート係が必要なので、協力してください。
+> 実行委員長オレでいいですかね?  場所を押さえるところからやります。
+>
+> コンテンツは、松田さんの基調講演以外は何も决めてません
+> (基調講演の依頼もしてないけど)
+>
+> さいきんのRegionalはサイトのデザインがかっこいいから、
+> 誰かにデザイナしてもらえるといいのかなあ。
+>
+> また相談させてください。とりいそぎ。
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/123.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(gunjisatoshi@rikuga.me,1291348212)
+郡司です。
+
+> @tsuyoshikawa さん最近来てくれないですねぇ。
+
+そういえば @tsuyoshikawa さんといえばOOP Jogなのですが、
+
+http://gunjisatoshi.appspot.com/2010/08/oop-jog-in-tsukuba
+
+土曜日に開催されるのであれば、併設イベントとして
+早朝のOOP Jog in 浅草なんてどうでしょう？
+
+隅田川河川敷で満開の桜の中をスカイツリーを見ながら
+走るのもステキじゃないかなあと。
+
+ゴールは雷門で、そのあとは浅草観音温泉で一風呂浴びてから
+大江戸Ruby会議へ。
+
+どうですか？＞@tsuyoshikawa さん
+}}
+{{mail(gunjisatoshi@rikuga.me,1291348527)
+郡司です。
+
+> るびまのレポートの「ちゃんと」は、
+> るびまのバックナンバーにとにかくRegionalの記事が「ちゃんと」載っている、なので
+> 内容についてはbest effortで問題ないです!
+> 
+> いつもの郡司さんのブログの記事みたいな感じでじゅうぶんですよー。
+
+了解です！
+るびまデビュー;-)
+}}
+{{mail(shintaro.kakutani@gmail.com,1291391647)
+おー。たくさんの好意的な反応とさまざまな申し出、ありがとうございます。
+どんな感じでやっていくかは追々考えますので、また相談させてください。
+
+時期もまだちょっと先だし。
+Regional RubyKaigiのMLで宣言しておいたので東京06のナンバリングをゲットしておきました。
+
+- 会場をどうするかなやましい。江戸博がとれたらいいけど。
+- 時期を100回に合わせるとしたら調整をしていかないといけない
+- 前後して花見になりそうだから、そっちとも分担したいな
+  (いつも松田家に負担がかかってるので)
+- かっこいいWebページがほしいなあ。札幌03ほどじゃなくても東京05ぐらいのは。
+  クレジットするからデザインして、といって手伝ってくれそうな人っていますかね?
+
+札幌Ruby会議03でも好評でした!(名前が)
+}}

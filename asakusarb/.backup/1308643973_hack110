@@ -1,0 +1,129 @@
+* 第110回Asakusa.rb(2011-06-21)
+{{mail(shintaro.kakutani@gmail.com,1308545903)
+気がつけばadventの113回が目前です! やばいww
+
+明日は上野の永和で19:30から開催でよいでしょうか?
+#devlove が裏番組でadventなeventをやるみたいなので、参加してもいいんじゃないかしら(行かないけど)
+あと5人ぐらい行けるみたい: http://kokucheese.com/event/index/12560/
+
+私はもう #rubykaigi モードなのでhackとかrubyへのcontributionとかさっぱりできなくてすみません……。
+}}
+{{mail(shibata.hiroshi@gmail.com,1308578512)
+柴田です。
+
+参加します。
+たこ焼き仮面にpingを打ったり、tdiary consoleというすばらしいツールの作成を
+する予定です。asakusarb イベントの詳細をもう少しつめたいかも。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(takkanm@gmail.com,1308578637)
+mです。
+
+いつも通り着席します。
+主にレポートまわりをやる予定です。
+
+ちょっと表明しておくと、113回のやつは帯域的に細ってそうなので、
+あまり絡めないと思います。
+
+
+
+
+2011年6月20日13:58 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 気がつけばadventの113回が目前です! やばいww
+>
+> 明日は上野の永和で19:30から開催でよいでしょうか?
+> #devlove が裏番組でadventなeventをやるみたいなので、参加してもいいんじゃないかしら(行かないけど)
+> あと5人ぐらい行けるみたい: http://kokucheese.com/event/index/12560/
+>
+> 私はもう #rubykaigi モードなのでhackとかrubyへのcontributionとかさっぱりできなくてすみません……。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack110.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(mayumi.emori@gmail.com,1308579646)
+江森です。
+
+こんばんわ。
+
+明日、久し振りに参加させて頂きます。
+1か月切った アレ方面の作業をやろうと思っています。
+
+宜しくお願いします。
+}}
+{{mail(gunjisatoshi@rikuga.me,1308613754)
+郡司です。
+
+いつも会場ありがとうございます。
+参加の予定です。
+
+RubyKaigi関連で、何かお手伝いできそうならそれに絡みます。
+無理そうなら、久しぶりにGAE(Google App Engine)で
+遊ぼうかと思います。
+
+113回目(7/12の隅田川クルーズ)は、平日昼間と言うことで
+たぶん参加できません。残念。
+}}
+{{mail(celluloid.key@gmail.com,1308615087)
+hibariyaです。
+
+参加します。rk.oの作業を主にしていると思います。
+21時くらいまでの予定です。
+}}
+{{mail(watarum2@gmail.com,1308623414)
+真鍋です。参加します。
+yokohama.rbのハッカソンに出る事になったので、
+事前準備をシコシコやります。
+
+2011年6月21日9:11 celluloid.key@gmail.com <celluloid.key@gmail.com>:
+> hibariyaです。
+>
+> 参加します。rk.oの作業を主にしていると思います。
+> 21時くらいまでの予定です。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack110.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+above message was written by watarum.
+Twitter:@watarum Skype:watarum_skype
+Phone:080-4207-9428
+}}
+{{mail(sakuro@2238club.org,1308637746)
+さくです。
+
+参加します。
+
+気になっているのはGuardと、再始動したっぽいMachinistと、あとRails Engineかな。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(ronnie@dio.jp,1308643526)
+松田です。
+
+某書籍の件がやっと峠を超えたようなので(ご協力いただいた皆さま、ありがとうございました)、
+今日はひさしぶりにRailsの何かをなんかするか、何かのgemとかのメンテをするかしようと思います。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(ken97531@gmail.com,1308643973)
+西村です。
+
+本日参加します。RubyKaigi関連でできることがあればと思っています。
+あと最近なぜかruby/st.cのMurmurHashを違うハッシュ関数に入れ替えて
+プロファイリングしてみるというのをちょろちょろと試しているのですが、
+酔いどれコミッタさんが来るなら素人くさい質問攻めにしたいなどと
+考えております。
+}}

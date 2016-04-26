@@ -1,0 +1,163 @@
+* 第297回Asakusa.rb (2015-02-24)
+{{mail(takkanm@gmail.com,1424682382)
+明日は 297 回目のミートアップです。
+
+明日も上野永和にて行なおうと思います。
+
+http://qwik.jp/asakusarb/esm_ueno.html
+
+そろそろ 300 回なのでおいわいぐらいしたい。
+
+
+This week meetup is going to be held tommoro evening, at same place in Ueno
+
+https://www.google.com/maps/place/%E6%97%A5%E6%9C%AC,+%E3%
+80%92110-0005+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%
+E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%
+97%E2%88%92%EF%BC%97+%E4%B8%8A%E9%87%8E%EF%BC%A8%EF%BC%B3%
+E3%83%93%E3%83%AB/@35.7093426,139.7729658,17z/data=!3m1!4b1!
+4m2!3m1!1s0x60188e9fd53ee00f:0x3eb92e29711f432
+}}
+{{mail(sunao.tanabe@gmail.com,1424705232)
+たなべです。
+
+職場が近所になったのでひさしぶりに参加します。
+}}
+{{mail(shibata.hiroshi@gmail.com,1424730807)
+柴田です。
+
+ruby/rubyspec をなんかしに行こうと思います。
+
+On Mon, Feb 23, 2015 at 6:05 PM,  <takkanm@gmail.com> wrote:
+> 明日は 297 回目のミートアップです。
+>
+> 明日も上野永和にて行なおうと思います。
+>
+> http://qwik.jp/asakusarb/esm_ueno.html
+>
+> そろそろ 300 回なのでおいわいぐらいしたい。
+>
+>
+> This week meetup is going to be held tommoro evening, at same place in Ueno
+>
+> https://www.google.com/maps/place/%E6%97%A5%E6%9C%AC,+%E3%80%92110-0005+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E4%B8%8A%E9%87%8E%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%97%E2%88%92%EF%BC%97+%E4%B8%8A%E9%87%8E%EF%BC%A8%EF%BC%B3%E3%83%93%E3%83%AB/@35.7093426,139.7729658,17z/data=!3m1!4b1!4m2!3m1!1s0x60188e9fd53ee00f:0x3eb92e29711f432
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(gunjisatoshi@gmail.com,1424739633)
+郡司です。
+
+久しぶりに参加します。
+（が、あんまり体調良くないので早めに帰ります）
+
+るびま 0050 号について、意識あわせができればいいなあと思います。
+}}
+{{mail(bluebox03@gmail.com,1424740352)
+今週は難しいのですが、来週以降で時間を見つけたいと思います。
+具体的には毎回何をやってるんですか。
+
+
+
+
+2015-02-24 10:00 GMT+09:00 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> 郡司です。
+>
+> 久しぶりに参加します。
+> （が、あんまり体調良くないので早めに帰ります）
+>
+> るびま 0050 号について、意識あわせができればいいなあと思います。
+>
+}}
+{{mail(ronnie@dio.jp,1424743711)
+松田です。Asakusa.rbの主催者をやってます。
+
+CarrierWaveのビルドが真っ赤なのを直したいので、誰かAR3.2 + PostgreSQL + hstoreとか
+そこらへんに詳しい方が居たら相談させてください。
+https://travis-ci.org/carrierwaveuploader/carrierwave/builds
+
+とかそんな感じで、Asakusa.rbの活動の主目的は、Ruby本体やRailsなどの周辺ライブラリとかをみんなで楽しくハックすること、です。
+といっても、「ハッカーじゃない方はお断り」と言いたいわけじゃなくて、Rubyとかオープンソースとかなんだか楽しそうだなぁ、と
+思ってくださる方ならどなたでも歓迎します。
+
+逆に、仕事でRubyとかいうダルそうなやつをやらされることになったからお勉強しに来ました、
+みたいな人は、たぶんAsakusa.rbに来てみても居心地悪いんじゃないかと思います。
+そういう方は、このたび1年ぶりに活動再開したRails勉強会@東京のほうにお越しください。
+https://railsmeetingtokyo.doorkeeper.jp
+
+そういえば僕も、数年前にAsakusa.rbを始めた頃は超ド素人だったけど、
+300回ぐらい参加しているうちにCarrierWaveのコミッターになれたりするものなんだなぁ、
+と、当時を思い出してちょっと感慨深くなりました。 http://qwik.jp/asakusarb/001_log.html
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(kakyoin.hierophant@gmail.com,1424753103)
+active_decoratorのissueの件でちょっと思い付いたことがあるので松田さんに相談しに行こうかと思ってますが、最近月・火が忙しいので、参加できないかもしれません。
+遅めにちょっと顔を出せるかな。
+
+2015年2月24日 11:07 Akira Matsuda <ronnie@dio.jp>:
+
+> 松田です。Asakusa.rbの主催者をやってます。
+>
+> CarrierWaveのビルドが真っ赤なのを直したいので、誰かAR3.2 + PostgreSQL + hstoreとか
+> そこらへんに詳しい方が居たら相談させてください。
+> https://travis-ci.org/carrierwaveuploader/carrierwave/builds
+>
+> とかそんな感じで、Asakusa.rbの活動の主目的は、Ruby本体やRailsなどの周辺ライブラリとかをみんなで楽しくハックすること、です。
+> といっても、「ハッカーじゃない方はお断り」と言いたいわけじゃなくて、Rubyとかオープンソースとかなんだか楽しそうだなぁ、と
+> 思ってくださる方ならどなたでも歓迎します。
+>
+> 逆に、仕事でRubyとかいうダルそうなやつをやらされることになったからお勉強しに来ました、
+> みたいな人は、たぶんAsakusa.rbに来てみても居心地悪いんじゃないかと思います。
+> そういう方は、このたび1年ぶりに活動再開したRails勉強会@東京のほうにお越しください。
+> https://railsmeetingtokyo.doorkeeper.jp
+>
+> そういえば僕も、数年前にAsakusa.rbを始めた頃は超ド素人だったけど、
+> 300回ぐらい参加しているうちにCarrierWaveのコミッターになれたりするものなんだなぁ、
+> と、当時を思い出してちょっと感慨深くなりました。 http://qwik.jp/asakusarb/001_log.html
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+>
+}}
+{{mail(katsyoshi@katsyoshi.org,1424767014)
+katsyoshiです。
+sinatra使ってなにか作りたいと思います
+
+2015年2月24日 13:45 橋立友宏 <kakyoin.hierophant@gmail.com>:
+
+>
+> active_decoratorのissueの件でちょっと思い付いたことがあるので松田さんに相談しに行こうかと思ってますが、最近月・火が忙しいので、参加できないかもしれません。
+> 遅めにちょっと顔を出せるかな。
+>
+> 2015年2月24日 11:07 Akira Matsuda <ronnie@dio.jp>:
+>
+> 松田です。Asakusa.rbの主催者をやってます。
+>>
+>> CarrierWaveのビルドが真っ赤なのを直したいので、誰かAR3.2 + PostgreSQL + hstoreとか
+>> そこらへんに詳しい方が居たら相談させてください。
+>> https://travis-ci.org/carrierwaveuploader/carrierwave/builds
+>>
+>> とかそんな感じで、Asakusa.rbの活動の主目的は、Ruby本体やRailsなどの周辺ライブラリとかをみんなで楽しくハックすること、です。
+>> といっても、「ハッカーじゃない方はお断り」と言いたいわけじゃなくて、Rubyとかオープンソースとかなんだか楽しそうだなぁ、と
+>> 思ってくださる方ならどなたでも歓迎します。
+>>
+>> 逆に、仕事でRubyとかいうダルそうなやつをやらされることになったからお勉強しに来ました、
+>> みたいな人は、たぶんAsakusa.rbに来てみても居心地悪いんじゃないかと思います。
+>> そういう方は、このたび1年ぶりに活動再開したRails勉強会@東京のほうにお越しください。
+>> https://railsmeetingtokyo.doorkeeper.jp
+>>
+>> そういえば僕も、数年前にAsakusa.rbを始めた頃は超ド素人だったけど、
+>> 300回ぐらい参加しているうちにCarrierWaveのコミッターになれたりするものなんだなぁ、
+>> と、当時を思い出してちょっと感慨深くなりました。 http://qwik.jp/asakusarb/001_log.html
+>>
+>> --
+>> Akira Matsuda<ronnie@dio.jp>
+>>
+>
+>
+}}

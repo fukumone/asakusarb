@@ -1,0 +1,21 @@
+* Akasaka.rb+Asakusa.rb合同 Thomas E.Enebo氏の歓迎会
+{{mail(ronnie@dio.jp,1247057585)
+松田です。
+直前のおしらせになってしまってすみません。
+
+Akasaka.rbのみなさんのはからいで、以下の企画が実現 
+しました！
+
+Akasaka.rb+Asakusa.rb合同 Thomas E.Enebo氏の歓迎会 : ATND
+http://atnd.org/events/1019
+
+明日の木曜日の夜の19:00からになってます。
+
+Jrubyの作者とお近づきになるチャンスです。
+ご都合のつく方はぜひお越しください！
+
+--
+Akira Matsuda<ronnie@dio.jp>
+
+
+}}

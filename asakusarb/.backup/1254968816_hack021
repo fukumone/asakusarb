@@ -1,0 +1,11 @@
+* 第21回Asakusa.rb(2009-10-13)
+
+{{mail(shintaro.kakutani@gmail.com,1254968816)
+10/13って開発者ミーティングの日([ruby-dev:39404] )だからko1さんには来てもらえないのか……。
+
+そういえば RubyKaigiにも来てくれた Muhammed Aliさんが
+"The Ruby 19x Web Servers Booklet"というドキュメントを書いたみたいです。
+a survey of architectual choices & analysis of relative performance
+だそうな。60ページぐらい。後ろのほうにいろいろグラフのってました。
+http://oldmoe.blogspot.com/2009/10/ruby-19x-web-servers-booklet.html
+}}

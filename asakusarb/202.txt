@@ -1,0 +1,39 @@
+* redmine.ruby-lang.org の運用引き継ぎ
+{{mail(shibata.hiroshi@gmail.com,1319619658)
+柴田です。
+
+色々やってみたものの今後どうしたものかわからないので dump します。
+
+- みんなでやったこと
+https://github.com/asakusarb/redmine4ruby-lang にあるものをローカルで動かしてみた
+=> ふつうの redmine とだいたい同じ手順で起動することはできた
+
+- 疑問点
+-- 上で動かしたものでは ML 作成などでエラーが出ていたが、今動いているものでは問題ないの?
+--- だとしたら redmine4ruby-lang と動いている物の差分は何?
+-- ruby-lang.org ではどのように動いているんでしょうか
+--- yugui さんのホームで mongrel という噂を聞いた
+-- 運用引き継ぎのゴールって何でしょうか
+--- 何かあったときに復旧できる
+--- asakusarb/redmine4ruby-lang にある pull request などを取り込みつつ、動いているものに反映させる
+--- redmine の最新版に追従しつつ、プラグインを差し替えるだけで動いているものに反映できる
+
+ところで今の redmine の運用というか管理者(redmineをrestart出来る人)はどなたなんでしょうか…。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(sorah@tubusu.net,1319619818)
+sora_h です．
+
+On 10/26/11 6:00 PM, SHIBATA Hiroshi wrote:
+> ところで今の redmine の運用というか管理者(redmineをrestart出来る人)はどなたなんでしょうか…。
+
+なるせさんと yugui さんですかね．今のところ #ruby-ja @ ircnet にわたし作
+成の redmine 生存確認 bot によるお知らせを元にどちらかを呼んで再起動する
+感じになってます．
+
+-- 
+Shota Fukumori a.k.a. sora_h - http://sorah.jp/
+}}

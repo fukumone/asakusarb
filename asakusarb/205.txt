@@ -1,0 +1,77 @@
+* 第36回Asakusa.rb(2009-2-23)
+{{mail(yoshiori@gmail.com,1322814485)
+ごめんなさ。このメールに今気がついた＞＜
+
+2010/2/22 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> 郡司です。
+>
+> 参加します！
+>
+> ＃Djangoは全然詳しくないので、ヨシオリさんに期待！
+>
+> 2010年2月22日19:59 Akira Matsuda <ronnie@dio.jp>:
+>> 参加します！
+>>
+>> 前回に引き続いてRails 3でjQueryとかISO-2022-JPなMailとか
+>> ArelとかRuby 1.9.2とかそこらへんをごにょごにょしてみる、
+>> っていうのも良いんですが、個人的にちょっとPython(Django)を
+>> 急に勉強したくなったので、郡司さんとかヨシオリさんとか
+>> どなたか詳しい方が来たら教えてもらったりしたいです。
+>>
+>> --
+>> Akira Matsuda <ronnie@dio.jp>
+>>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack036.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack036.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+---
+Yoshiori SHOJI
+mail:yoshiori@gmail.com
+http://yoshiori.org/
+---
+}}
+{{mail(****@****.****,1322814983)
+2010-02-22 のメールへ 2011-12-02 に返信するのは度胸が要りますね。
+俺も ****** とか ******** とか教えるんで Django 教えてください。
+
+-- 
+**
+
+
+2011年12月2日17:28 Yoshiori SHOJI <yoshiori@gmail.com>:
+> ごめんなさ。このメールに今気がついた＞＜
+>
+> 2010/2/22 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+>> 郡司です。
+>>
+>> 参加します！
+>>
+>> ＃Djangoは全然詳しくないので、ヨシオリさんに期待！
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack036.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> ---
+> Yoshiori SHOJI
+> mail:yoshiori@gmail.com
+> http://yoshiori.org/
+> ---
+>
+> --
+> archive-> http://qwik.jp/asakusarb/205.html
+> ML-> asakusarb@qwik.jp
+}}

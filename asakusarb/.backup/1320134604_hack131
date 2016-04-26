@@ -1,0 +1,54 @@
+* 第131回Asakusa.rb (2011-11-01)
+{{mail(takkanm@gmail.com,1320055038)
+さて、明日は11月最初のMeetUpです。
+
+明日は、そろそろやらないといけない編集業をやります。(るびま方面
+}}
+{{mail(takkanm@gmail.com,1320055087)
+だいじなことを書きわすれていましたが、
+他に候補地がでないようでしたら、明日は上野でドアマンやれます。
+}}
+{{mail(shibata.hiroshi@gmail.com,1320061665)
+柴田です。
+
+参加します。
+tDiary に埋もれているテストコードを引っ張り出して rspec 化したり、rails 以外の
+プロジェクトで sprockets や uglifier の使い方を調べたりしようと思います。
+
+あと、nodefest の話とかに興味がある人がいたらダラっと雑談したりします。
+}}
+{{mail(ronnie@dio.jp,1320075268)
+なんかまた大物が釣れたかもかも！
+
+https://twitter.com/#!/cjkihlbom/status/131019733570031616
+https://twitter.com/#!/cjkihlbom/status/131021385941270529
+
+ディナーの先約アリとのことで、本当に来れるかどうかはわかんないですが。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(shintaro.kakutani@gmail.com,1320113113)
+CJ!
+
+http://ncc.garage.co.jp/
+
+これかー。Joe O'braienも日本にいるのかな。
+
+2011/11/1 Akira Matsuda <ronnie@dio.jp>:
+> なんかまた大物が釣れたかもかも！
+>
+> https://twitter.com/#!/cjkihlbom/status/131019733570031616
+> https://twitter.com/#!/cjkihlbom/status/131021385941270529
+>
+> ディナーの先約アリとのことで、本当に来れるかどうかはわかんないですが。
+-- 
+Kakutani Shintaro
+}}
+{{mail(moronatural@gmail.com,1320134604)
+もろはしです。20:00くらいまでですが、ひさびさに参加します。
+
+社内IRC botを作ってたら1.9.3でSEGVしたのでOpenSSLに
+詳しそうな方がいたら相談したいです。
+タイミングがあわなそうならbotを作ります。
+}}

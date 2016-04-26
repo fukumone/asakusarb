@@ -1,0 +1,54 @@
+* 第137回Asakusa.rb (2011-12-13)
+{{mail(takkanm@gmail.com,1323682714)
+明日は、137回目のAsakusa.rbのミートアップです。
+
+明日も他に候補がなければ、E和にてドアマンできると思います。
+
+明日も書き物をしようかと思ってます。
+あとは、前に松田さんと飲んだときに言ってた話を
+シラフでしようかと思います。
+}}
+{{mail(ronnie@dio.jp,1323686316)
+2011/12/12  <takkanm@gmail.com>:
+> あとは、前に松田さんと飲んだときに言ってた話を
+> シラフでしようかと思います。
+
+これとか？ https://twitter.com/#!/n0kada/status/146135965042343936
+
+僕は個人的にはKaminariの0.13.0をリリースしたり、active_decoratorのARes対応をしたり、ちょっとしたRails業をしたい感じですが、他に面白そうなことがあれば誰かに絡みます。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(takkanm@gmail.com,1323698202)
+2011年12月12日19:38 Akira Matsuda <ronnie@dio.jp>:
+> 2011/12/12  <takkanm@gmail.com>:
+>> あとは、前に松田さんと飲んだときに言ってた話を
+>> シラフでしようかと思います。
+>
+> これとか？ https://twitter.com/#!/n0kada/status/146135965042343936
+それもいい加減どうにかしないといけないですね。
+# これはMeetupだけじゃなくて、旗ふってくれる人がいないとダメそう…
+}}
+{{mail(shibata.hiroshi@gmail.com,1323701218)
+柴田です。
+
+> 明日も他に候補がなければ、E和にてドアマンできると思います。
+
+参加します。
+kaminari の travis を有効にしたり、tDiary の次回リリースに入れる機能を洗い出して突っついたりしようと思います。
+}}
+{{mail(mrkn@mrkn.jp,1323702228)
+むらたです。
+
+(2011.12.12 18:38 ), takkanm@gmail.com wrote:
+> 明日は、137回目のAsakusa.rbのミートアップです。
+> 
+> 明日も他に候補がなければ、E和にてドアマンできると思います。
+
+明日は別の予定が入っているため欠席します。
+
+-- 
+Kenta Murata <mrkn@mrkn.jp>
+1D69 ADDE 081C 9CC2 2E54 98C1 CEFE 8AFB 6081 B062
+}}

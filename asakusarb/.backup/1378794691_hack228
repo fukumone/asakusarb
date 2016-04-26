@@ -1,0 +1,255 @@
+* 第228回Asakusa.rb (2013-09-10)
+{{mail(takkanm@gmail.com,1378769255)
+今日は 228 回目のミートアップです。
+
+誰かがドアマンできるのであれば、上野 E 和で行ないたいです。
+}}
+{{mail(sorah@tubusu.net,1378769650)
+いきます。
+今週も fluentd をいじります。
+
+2013/9/10  <takkanm@gmail.com>:
+> 今日は 228 回目のミートアップです。
+>
+> 誰かがドアマンできるのであれば、上野 E 和で行ないたいです。
+
+-- 
+Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+}}
+{{mail(shibata.hiroshi@gmail.com,1378770041)
+風邪気味なのでお休みします...
+
+Rails で ERB::Util.u をオーバーライド出来ないという話をしに行こうと思っていました。
+
+2013年9月10日 8:33 Shota Fukumori (sora_h) <sorah@tubusu.net>:
+> いきます。
+> 今週も fluentd をいじります。
+>
+> 2013/9/10  <takkanm@gmail.com>:
+>> 今日は 228 回目のミートアップです。
+>>
+>> 誰かがドアマンできるのであれば、上野 E 和で行ないたいです。
+>
+> --
+> Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack228.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(kuni-ito@esm.co.jp,1378775974)
+参加します。ドアマンできるか微妙（遅れる可能性がある）です。
+
+
+
+2013年9月10日 8:40 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+> 風邪気味なのでお休みします...
+>
+> Rails で ERB::Util.u をオーバーライド出来ないという話をしに行こうと思っていました。
+>
+> 2013年9月10日 8:33 Shota Fukumori (sora_h) <sorah@tubusu.net>:
+>> いきます。
+>> 今週も fluentd をいじります。
+>>
+>> 2013/9/10  <takkanm@gmail.com>:
+>>> 今日は 228 回目のミートアップです。
+>>>
+>>> 誰かがドアマンできるのであれば、上野 E 和で行ないたいです。
+>>
+>> --
+>> Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack228.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack228.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+===============================================
+株式会社　永和システムマネジメント
+サービスプロバイディング事業部　伊藤　邦彦
+E-mail: kuni-ito@esm.co.jp
+TEL：03-5818-7400　 FAX：03-5818-7340
+===============================================
+}}
+{{mail(matsumoto.katsuyoshi@gmail.com,1378777163)
+参加します。
+fluent-loggerをいじろうかと思います。
+
+
+2013年9月10日 10:19 伊藤邦彦 <kuni-ito@esm.co.jp>:
+
+> 参加します。ドアマンできるか微妙（遅れる可能性がある）です。
+>
+>
+>
+> 2013年9月10日 8:40 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+> > 風邪気味なのでお休みします...
+> >
+> > Rails で ERB::Util.u をオーバーライド出来ないという話をしに行こうと思っていました。
+> >
+> > 2013年9月10日 8:33 Shota Fukumori (sora_h) <sorah@tubusu.net>:
+> >> いきます。
+> >> 今週も fluentd をいじります。
+> >>
+> >> 2013/9/10  <takkanm@gmail.com>:
+> >>> 今日は 228 回目のミートアップです。
+> >>>
+> >>> 誰かがドアマンできるのであれば、上野 E 和で行ないたいです。
+> >>
+> >> --
+> >> Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+> >>
+> >> --
+> >> archive-> http://qwik.jp/asakusarb/hack228.html
+> >> ML-> asakusarb@qwik.jp
+> >
+> >
+> >
+> > --
+> > SHIBATA Hiroshi hsbt@ruby-lang.org
+> > http://www.hsbt.org/
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack228.html
+> > ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> ===============================================
+> 株式会社 永和システムマネジメント
+> サービスプロバイディング事業部 伊藤 邦彦
+> E-mail: kuni-ito@esm.co.jp
+> TEL：03-5818-7400  FAX：03-5818-7340
+> ===============================================
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack228.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+松本 勝慶
+
+Matsumoto, Katsuyoshi
+
+matsumoto.katsuyoshi@gmail.com
+}}
+{{mail(moronatural@gmail.com,1378777667)
+もろはしです。
+
+2013/9/10 伊藤邦彦 <kuni-ito@esm.co.jp>
+
+> 参加します。ドアマンできるか微妙（遅れる可能性がある）です。
+>
+
+社内恒例の行事的ななにかがありそうですが、伊藤さんが来るまでのドアマンと
+会場設営はやっておきます。
+}}
+{{mail(kuni-ito@esm.co.jp,1378780928)
+伊藤です。
+
+> もろはしです。
+>
+> 2013/9/10 伊藤邦彦 <kuni-ito@esm.co.jp>
+>>
+>> 参加します。ドアマンできるか微妙（遅れる可能性がある）です。
+>
+>
+> 社内恒例の行事的ななにかがありそうですが、伊藤さんが来るまでのドアマンと
+> 会場設営はやっておきます。
+
+ありがとうございます。
+できるだけ早く行きます。
+
+2013年9月10日 10:47 MOROHASHI Kyosuke <moronatural@gmail.com>:
+> もろはしです。
+>
+> 2013/9/10 伊藤邦彦 <kuni-ito@esm.co.jp>
+>>
+>> 参加します。ドアマンできるか微妙（遅れる可能性がある）です。
+>
+>
+> 社内恒例の行事的ななにかがありそうですが、伊藤さんが来るまでのドアマンと
+> 会場設営はやっておきます。
+>
+>
+>
+}}
+{{mail(ronnie@dio.jp,1378786368)
+Rails で ERB::Util.u をオーバーライドできない話が気になりつつ、秋の新作gemの名前を考えに行きます。
+どなたか一緒に考えてくださると嬉しいです。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(gunjisatoshi@gmail.com,1378786777)
+郡司です。
+
+会場、いつもお世話になります。
+何事もなければ参加の予定です。
+
+るびま関係の人がだれかいたら、今月末発行予定の 0044 号について
+意識合わせができたらなあと思います。
+
+あとはPython版のほうのCode Puzzleが解けた人がいたら、ヒントください。
+（赤鉛筆の問題から先に進めない）
+http://cp1.nintendo.co.jp/python.html
+
+
+2013年9月10日 13:12 Akira Matsuda <ronnie@dio.jp>:
+> Rails で ERB::Util.u をオーバーライドできない話が気になりつつ、秋の新作gemの名前を考えに行きます。
+> どなたか一緒に考えてくださると嬉しいです。
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(irohiroki@gmail.com,1378794036)
+いろです。参加します。
+
+capybaraが動いてるのにdatabase_cleanerがどんどんTRUNCATE TABLEしてしまう問題
+（https://github.com/bmabey/database_cleaner/issues/235 っぽい）について誰かヒントくれませんか。
+
+会場提供の永和のみなさんありがとうございます。
+}}
+{{mail(moronatural@gmail.com,1378794691)
+2013/9/10 Hiroki Yoshioka <irohiroki@gmail.com>
+
+> いろです。参加します。
+>
+> capybaraが動いてるのにdatabase_cleanerがどんどんTRUNCATE TABLEしてしまう問題
+> （https://github.com/bmabey/database_cleaner/issues/235っぽい）について誰かヒントくれませんか。
+>
+>
+ありそうなのは、ページのロードを待っていないから、ですかねー。
+
+Capybara: GET /foo
+App: (/fooアクションの処理開始)
+Capybara: assert
+Capybara: テスト終わり
+Capybara: teardownでtruncate
+App: 該当処理 -> エラー
+
+みたいな。RSpecでいうところの have_title とか have_content マッチャみたいに、
+ページロードを待ってなにかするアサーションを入れたら直ったりしません?
+}}

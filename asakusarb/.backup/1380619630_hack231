@@ -1,0 +1,367 @@
+* 第231回Asakusa.rb (2013-10-01)
+{{mail(takkanm@gmail.com,1380589624)
+今日は 231 回目のミートアップです。
+
+今日はドアマンができそうなんで、上野 E 和にて開催したいと思います。
+
+rouge で遊んでみようかと思います。 http://rubygems.org/gems/rouge-lang
+}}
+{{mail(shintaro.kakutani@gmail.com,1380591211)
+かくたにです。大江戸04の日程について相談したいです!
+
+
+2013/10/1  <takkanm@gmail.com>:
+> 今日は 231 回目のミートアップです。
+>
+> 今日はドアマンができそうなんで、上野 E 和にて開催したいと思います。
+>
+> rouge で遊んでみようかと思います。 http://rubygems.org/gems/rouge-lang
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(shibata.hiroshi@gmail.com,1380591709)
+> 今日はドアマンができそうなんで、上野 E 和にて開催したいと思います。
+
+コミッタ会議から流れて参加します。
+るびまの不具合直したり、ruby-lang.org 業をやります...
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(gunjisatoshi@gmail.com,1380593375)
+郡司です。
+
+いつも会場のご提供ありがとうございます。参加の予定です。
+昨日リリースされた「るびま0044号」の残務処理をします‥‥。
+
+
+2013年10月1日 10:41 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+>> 今日はドアマンができそうなんで、上野 E 和にて開催したいと思います。
+>
+> コミッタ会議から流れて参加します。
+> るびまの不具合直したり、ruby-lang.org 業をやります...
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack231.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(chrissalzberg@gmail.com,1380598814)
+@shioyamaです。参加します。
+
+globalize3のrails4に向けた追加開発の一つとして、activerecordのwhereというメソッドをoverrideしてglobalizeの翻訳されたattributesを別のテーブルから簡単にアクセスできるか、検討しようと思います。
+
+参考
+https://twitter.com/shioyama/status/384801562448519168
+
+2013/10/1 Satoshi GUNJI <gunjisatoshi@gmail.com>
+
+> 郡司です。
+>
+> いつも会場のご提供ありがとうございます。参加の予定です。
+> 昨日リリースされた「るびま0044号」の残務処理をします‥‥。
+>
+>
+> 2013年10月1日 10:41 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+> >> 今日はドアマンができそうなんで、上野 E 和にて開催したいと思います。
+> >
+> > コミッタ会議から流れて参加します。
+> > るびまの不具合直したり、ruby-lang.org 業をやります...
+> >
+> > --
+> > SHIBATA Hiroshi hsbt@ruby-lang.org
+> > http://www.hsbt.org/
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack231.html
+> > ML-> asakusarb@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack231.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ronnie@dio.jp,1380600236)
+参加します。
+ウクライナのみやげ話を持っていきまーす。 http://rubyshift.org/
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(kuni-ito@esm.co.jp,1380600834)
+伊藤です。参加します。
+
+Frozen String Literals はどんなとき（どこで）使えば？という話をしたい（聞きたい）なと思っています。
+
+2013/10/1 Akira Matsuda <ronnie@dio.jp>:
+> 参加します。
+> ウクライナのみやげ話を持っていきまーす。 http://rubyshift.org/
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+
+
+
+-- 
+===============================================
+株式会社　永和システムマネジメント
+サービスプロバイディング事業部　伊藤　邦彦
+E-mail: kuni-ito@esm.co.jp
+TEL：03-5818-7400　 FAX：03-5818-7340
+===============================================
+}}
+{{mail(satoimo.to.imo@gmail.com,1380601294)
+こんにちは、加藤です。
+本日参加します。WEBDB PRESSを読みながら手を動かしてみるか、ブログを書きます。
+
+2013年10月1日 13:13 伊藤邦彦 <kuni-ito@esm.co.jp>:
+> 伊藤です。参加します。
+>
+> Frozen String Literals はどんなとき（どこで）使えば？という話をしたい（聞きたい）なと思っています。
+>
+> 2013/10/1 Akira Matsuda <ronnie@dio.jp>:
+>> 参加します。
+>> ウクライナのみやげ話を持っていきまーす。 http://rubyshift.org/
+>>
+>> --
+>> Akira Matsuda<ronnie@dio.jp>
+>
+>
+>
+> --
+> ===============================================
+> 株式会社　永和システムマネジメント
+> サービスプロバイディング事業部　伊藤　邦彦
+> E-mail: kuni-ito@esm.co.jp
+> TEL：03-5818-7400　 FAX：03-5818-7340
+> ===============================================
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack231.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+■□加藤 由佳（カトウ ユカ）
+□■satoimo.to.imo@gmail.com
+■□090-9378-3171
+}}
+{{mail(kakyoin.hierophant@gmail.com,1380602348)
+橋立です。参加予定です。
+ちょっと書き物をするつもりです。
+
+
+2013年10月1日 13:21 加藤由佳 <satoimo.to.imo@gmail.com>:
+
+> こんにちは、加藤です。
+> 本日参加します。WEBDB PRESSを読みながら手を動かしてみるか、ブログを書きます。
+>
+> 2013年10月1日 13:13 伊藤邦彦 <kuni-ito@esm.co.jp>:
+> > 伊藤です。参加します。
+> >
+> > Frozen String Literals はどんなとき（どこで）使えば？という話をしたい（聞きたい）なと思っています。
+> >
+> > 2013/10/1 Akira Matsuda <ronnie@dio.jp>:
+> >> 参加します。
+> >> ウクライナのみやげ話を持っていきまーす。 http://rubyshift.org/
+> >>
+> >> --
+> >> Akira Matsuda<ronnie@dio.jp>
+> >
+> >
+> >
+> > --
+> > ===============================================
+> > 株式会社 永和システムマネジメント
+> > サービスプロバイディング事業部 伊藤 邦彦
+> > E-mail: kuni-ito@esm.co.jp
+> > TEL：03-5818-7400  FAX：03-5818-7340
+> > ===============================================
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack231.html
+> > ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> ■□加藤 由佳（カトウ ユカ）
+> □■satoimo.to.imo@gmail.com
+> ■□090-9378-3171
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack231.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(matsumoto.katsuyoshi@gmail.com,1380602830)
+参加します．
+
+
+2013年10月1日 13:39 橋立友宏 <kakyoin.hierophant@gmail.com>:
+
+> 橋立です。参加予定です。
+> ちょっと書き物をするつもりです。
+>
+>
+> 2013年10月1日 13:21 加藤由佳 <satoimo.to.imo@gmail.com>:
+>
+> こんにちは、加藤です。
+>> 本日参加します。WEBDB PRESSを読みながら手を動かしてみるか、ブログを書きます。
+>>
+>> 2013年10月1日 13:13 伊藤邦彦 <kuni-ito@esm.co.jp>:
+>> > 伊藤です。参加します。
+>> >
+>> > Frozen String Literals はどんなとき（どこで）使えば？という話をしたい（聞きたい）なと思っています。
+>> >
+>> > 2013/10/1 Akira Matsuda <ronnie@dio.jp>:
+>> >> 参加します。
+>> >> ウクライナのみやげ話を持っていきまーす。 http://rubyshift.org/
+>> >>
+>> >> --
+>> >> Akira Matsuda<ronnie@dio.jp>
+>> >
+>> >
+>> >
+>> > --
+>> > ===============================================
+>> > 株式会社 永和システムマネジメント
+>> > サービスプロバイディング事業部 伊藤 邦彦
+>> > E-mail: kuni-ito@esm.co.jp
+>> > TEL：03-5818-7400  FAX：03-5818-7340
+>> > ===============================================
+>> >
+>> > --
+>> > archive-> http://qwik.jp/asakusarb/hack231.html
+>> > ML-> asakusarb@qwik.jp
+>>
+>>
+>>
+>> --
+>> ■□加藤 由佳（カトウ ユカ）
+>> □■satoimo.to.imo@gmail.com
+>> ■□090-9378-3171
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack231.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+
+
+-- 
+松本 勝慶
+
+Matsumoto, Katsuyoshi
+
+matsumoto.katsuyoshi@gmail.com
+}}
+{{mail(sorah@tubusu.net,1380603439)
+そらはです
+
+同じく流れてゆく予定です。
+札幌にこないだの3連休でいってきたのでおみやげもっていきます。
+
+2013/10/1 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+> コミッタ会議から流れて参加します。
+> るびまの不具合直したり、ruby-lang.org 業をやります...
+
+
+
+
+-- 
+Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+}}
+{{mail(kawaguti@gmail.com,1380606961)
+かわぐちともうします
+
+   楽天テクノロジーカンファレンスのチラシを持って参加しますー
+
+
+
+On Tuesday, October 1, 2013, Shota Fukumori (sora_h) wrote:
+
+> そらはです
+>
+> 同じく流れてゆく予定です。
+> 札幌にこないだの3連休でいってきたのでおみやげもっていきます。
+>
+> 2013/10/1 SHIBATA Hiroshi <hsbt@ruby-lang.org <javascript:;>>:
+> > コミッタ会議から流れて参加します。
+> > るびまの不具合直したり、ruby-lang.org 業をやります...
+>
+>
+>
+>
+> --
+> Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack231.html
+> ML-> asakusarb@qwik.jp <javascript:;>
+>
+}}
+{{mail(silentsilent433@gmail.com,1380619630)
+お疲れ様です。小林せかいと申します。
+直前になって申し訳ありません。
+初めてですが、参加させて頂きたくメールさしあげました。
+
+＞郡司さん
+るびま44号、読みました。
+リンク先にあった、40号41号の「Ruby コードの感想戦」がすごく面白かったです。
+ブログに感想かいていたら遅刻しそうです。。やばい。
+
+＞伊藤さん
+＞Frozen String Literals はどんなとき（どこで）使えば？
+偶然ですが、私も昨日、Stringのミュータブル・イミュータブルについて考えていました↓
+http://sekai.hateblo.jp/entry/2013/09/30/195212
+といってもそこまで深くではなく「メモリとのトレードオフなのかなー」程度の理解ですが。。
+ぜひ一緒に考えたいです　：）
+
+
+すみのほうでオライリー本を読んでいると思います。
+不束者ですがよろしくお願いします。
+
+2013/10/01 Yasunobu Kawaguchi <kawaguti@gmail.com>:
+> かわぐちともうします
+>
+>    楽天テクノロジーカンファレンスのチラシを持って参加しますー
+>
+>
+>
+> On Tuesday, October 1, 2013, Shota Fukumori (sora_h) wrote:
+>
+>> そらはです
+>>
+>> 同じく流れてゆく予定です。
+>> 札幌にこないだの3連休でいってきたのでおみやげもっていきます。
+>>
+>> 2013/10/1 SHIBATA Hiroshi <hsbt@ruby-lang.org <javascript:;>>:
+>> > コミッタ会議から流れて参加します。
+>> > るびまの不具合直したり、ruby-lang.org 業をやります...
+>>
+>>
+>>
+>>
+>> --
+>> Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack231.html
+>> ML-> asakusarb@qwik.jp <javascript:;>
+>>
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack231.html
+> ML-> asakusarb@qwik.jp
+}}

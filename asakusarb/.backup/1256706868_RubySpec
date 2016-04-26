@@ -1,0 +1,104 @@
+* RubySpec
+
+Yuguiさんが[[[ruby-core:25707|http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/25707]]]で、RubySpecについて"Ruby 1.9.2 must pass before release"とアナウンスしていたので、Rubyの開発になにか絡んでいきたいasakusa.rbは興味と関心を持っています。
+
+公式サイトは http://rubyspec.org/ です。それなりにまとまっているので参考になるのでどうぞ。平易な英語で書かれています。
+
+作業は大まかに次のような流れになります。
+
+* 1. [[RubySpecGettingStarted]]
+mspec,rubyspec,[[rvm]]を用意します(rvmはオプション)。
+
+* 2. [[RunningRubySpec]]
+mspecを使ってrubyspecを実行するコツなどをまとめています。
+
+* 3. [[ProblemDeterminationForRubySpec]] (最初の難関)
+かくも悩ましい問題判別の世界へようこそ!
+
+* 4. [[ContributingToRubySpec]]
+RubySpecを修正できそうだったら、パッチを書いてcontributeしよう!
+
+ちなみに、asakusa.rbでは、1.9のRubySpecを対象に作業しています。~
+Ruby1.8をターゲットにしたRubySpecについては、以下のページを参考にしてください(あまりまとまっていません)。
+
+- [[RubySpecWIP]]
+- [[74]]
+
+以下は、メールのログです。
+----
+
+{{mail(shintaro.kakutani@gmail.com,1256131307)
+かくたにです。
+
+昨日のAsakusa.rbでは皆さんおつかれさまでした。
+なひさん、郡司さんお土産ありがとうございます!
+
+redmine.ruby-lang.orgにRubySpecのトラッカーがあったほうがいいと
+要望を出したらYuguiさんが対応してくれました。
+http://redmine.ruby-lang.org/issues/show/2239
+
+これでRubySpecのことで悩んでも[Bug]で登録しなくて済むようになるので、
+悩んだらredmine経由で日本語で相談しましょう :)
+
+-- 
+KAKUTANI Shintaro
+http://kakutani.com
+}}
+{{mail(nakahiro@gmail.com,1256133245)
+2009/10/21 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> 昨日のAsakusa.rbでは皆さんおつかれさまでした。
+> なひさん、郡司さんお土産ありがとうございます!
+
+いえー。また伺いまーす。
+
+> これでRubySpecのことで悩んでも[Bug]で登録しなくて済むようになるので、
+> 悩んだらredmine経由で日本語で相談しましょう :)
+
+どこでしょ？remineわからん。。。
+}}
+{{mail(shintaro.kakutani@gmail.com,1256133865)
+かくたにです。
+
+http://redmine.ruby-lang.org/projects/ruby-19/issues/new
+の、「トラッカー」のドロップダウンが、
+これまでは「Bug」と「Feature」の2つだったのですが、
+ここに「RubySpec」が増えてます。
+
+1.8にも増えたみたいです
+http://redmine.ruby-lang.org/projects/ruby-18/issues/new
+
+
+2009/10/21 NAKAMURA, Hiroshi <nakahiro@gmail.com>:
+> 2009/10/21 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+>> 昨日のAsakusa.rbでは皆さんおつかれさまでした。
+>> なひさん、郡司さんお土産ありがとうございます!
+>
+> いえー。また伺いまーす。
+>
+>> これでRubySpecのことで悩んでも[Bug]で登録しなくて済むようになるので、
+>> 悩んだらredmine経由で日本語で相談しましょう :)
+>
+> どこでしょ？remineわからん。。。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/RubySpec.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+KAKUTANI Shintaro
+http://kakutani.com
+}}
+{{mail(nakahiro@gmail.com,1256134170)
+2009/10/21 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> http://redmine.ruby-lang.org/projects/ruby-19/issues/new
+> の、「トラッカー」のドロップダウンが、
+> これまでは「Bug」と「Feature」の2つだったのですが、
+> ここに「RubySpec」が増えてます。
+
+おお！発見しました。「トラッカー」とは、そういうことなんですね。
+
+トラッキングするfeedを増やさないとなのかな、と思ったのですが、勘違いでした。
+}}

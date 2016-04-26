@@ -1,0 +1,34 @@
+* prefetch-rspecのリリースについて
+{{mail(takkanm@gmail.com,1318943143)
+secondlife さん
+
+takkanmです。prefetch-rspecをRails3で使っているとでるwarningを修正していたりします。
+https://github.com/asakusarb/prefetch-rspec/pull/3
+
+修正していて気になったですが、
+Gemのアップデートはいつやるとか構想はありますでしょうか?
+}}
+{{mail(hotchpotch@gmail.com,1318985972)
+どもども。
+
+ありがとうございます。
+rubygems.org って本人しかアップデートできないんでしたっけ。
+でしたら Gem のバージョンアップやります！
+
+github のオーガナイザやコラボレータだったら
+アップできる仕組みがあるとうれしいですね…。
+
+2011年10月18日22:05  <takkanm@gmail.com>:
+> secondlife さん
+>
+> takkanmです。prefetch-rspecをRails3で使っているとでるwarningを修正していたりします。
+> https://github.com/asakusarb/prefetch-rspec/pull/3
+>
+> 修正していて気になったですが、
+> Gemのアップデートはいつやるとか構想はありますでしょうか?
+>
+> --
+> archive-> http://qwik.jp/asakusarb/200.html
+> ML-> asakusarb@qwik.jp
+>
+}}

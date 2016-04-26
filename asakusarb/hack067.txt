@@ -1,0 +1,178 @@
+* 第67回Asakusa.rb(2010-09-07)
+{{mail(shintaro.kakutani@gmail.com,1283476672)
+この日はすでにささださんはイギリスへ旅立っているし、
+kakutaniとhsbtとa_matsudaとnahiもshyouheiもRubyWorld Conference 2010 に参加してるんですけど、
+開催できますかね? > 永和方面
+
+bekkou, takkanmあたりがインターホン係をやってもらえればもくもくhackでいいと思うんですが。
+
+ちなみに去年のRubyWorld Conference 2009 も似たような感じで、
+hackは早々に切りあげて、HUBでRWC組と合流してごはんを食べて帰りました。
+22:00ぐらいだったかなあ。
+}}
+{{mail(takkanm@gmail.com,1283605783)
+takkanmです。
+
+あけれます。まああ去年みたいな流れになるのかなぁと。
+
+2010年9月3日10:17 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> この日はすでにささださんはイギリスへ旅立っているし、
+> kakutaniとhsbtとa_matsudaとnahiもshyouheiもRubyWorld Conference 2010 に参加してるんですけど、
+> 開催できますかね? > 永和方面
+>
+> bekkou, takkanmあたりがインターホン係をやってもらえればもくもくhackでいいと思うんですが。
+>
+> ちなみに去年のRubyWorld Conference 2009 も似たような感じで、
+> hackは早々に切りあげて、HUBでRWC組と合流してごはんを食べて帰りました。
+> 22:00ぐらいだったかなあ。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack067.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1283606072)
+このままだと ursm の晩ごはんの会の流れ?
+健康診断の問診票を忘れた気がするので、火曜日の夜はいずれにせよ永和にいきます :<
+
+2010/9/4  <takkanm@gmail.com>:
+> takkanmです。
+>
+> あけれます。まああ去年みたいな流れになるのかなぁと。
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(gunjisatoshi@gmail.com,1283606648)
+郡司です。
+
+毎回会場お世話になりっぱなしですみません。
+（遅れる可能性大ですが）参加したいです。
+
+Ruby会議で見れなかったセッションの動画を見ようかと思います。
+}}
+{{mail(nobu.nakada@gmail.com,1283607623)
+(10/09/04 22:09), takkanm@gmail.com wrote:
+> あけれます。まああ去年みたいな流れになるのかなぁと。
+
+今週は行きます。
+
+-- 
+--- 僕の前にBugはない。
+--- 僕の後ろにBugはできる。
+    中田 伸悦
+}}
+{{mail(sakuro@2238club.org,1283756472)
+さくです。
+
+半年ぶりくらいで顔を出します。
+もくもくしたいものがあるのでもくもくしようかな。
+
+-- 
+OZAWA Sakuro
+
+"The future will be better tomorrow." --Dan Quayle
+}}
+{{mail(t-tsunokake@esm.co.jp,1283756663)
+角掛（@bekkou68）です。
+久々に参加します。
+もくもくしてると思います。
+}}
+{{mail(ursm@ursm.jp,1283764382)
+年間契約したさくらの VPS が泣いているのでなんとかします。
+}}
+{{mail(yuki.0w0@gmail.com,1283764621)
+僕も年間契約したさくらのVPSをなんとかしにいきます。
+
+2010年9月6日18:12 Keita Urashima <ursm@ursm.jp>:
+> 年間契約したさくらの VPS が泣いているのでなんとかします。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack067.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(takkanm@gmail.com,1283765214)
+僕も年間契約(ry
+
+tDiaryでも立てれるようにしようかなぁ
+
+2010年9月6日18:16 Yuki Akamatsu <yuki.0w0@gmail.com>:
+> 僕も年間契約したさくらのVPSをなんとかしにいきます。
+>
+> 2010年9月6日18:12 Keita Urashima <ursm@ursm.jp>:
+>> 年間契約したさくらの VPS が泣いているのでなんとかします。
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack067.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack067.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ko1@atdot.net,1283771502)
+私はこれから3時間くらい電車に乗るので，モクモク何かしている予定です．
+ファーストクラスだって．1000円くらいしか違わないんですが，さて何が違うん
+だろう．
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(kimuraw@i.nifty.jp,1283789468)
+木村(わ)です。参加します。
+
+Mac系のタスクがたまってしまったので
+そのへんをもくもくしようと思います。
+
+-- 
+kimura wataru
+}}
+{{mail(celluloid.key@gmail.com,1283821844)
+@hibariyaです。久々に参加してもくもくします。
+}}
+{{mail(igaiga@gmail.com,1283823917)
+いがいがです。
+
+参加します。もくもくします。
+そろそろRubyKaigiの写真を整理したいです。
+余力があればRails3をいじります。
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(shibata.hiroshi@gmail.com,1283841804)
+今日は欠席します。
+
+RWC2010の話は今日のうちに展開してしまうのかな?
+もう少し詳しくということがあれば次週以降に絡んで下さい。
+
+-- 
+SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(takkanm@gmail.com,1283842245)
+2010年9月7日15:43 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 今日は欠席します。
+お疲れのでないように。日記力に期待しています。
+}}
+{{mail(ken97531@gmail.com,1283853117)
+西村です
+
+直前ですみません、参加します。
+ちょっと遅れるかもしれません。
+さくらのVPS、いったん入れたDebianを消してUbuntuにしたいのと、
+角谷さんに会えればご相談など。
+
+2010/9/7  <takkanm@gmail.com>:
+> 2010年9月7日15:43 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>> 今日は欠席します。
+> お疲れのでないように。日記力に期待しています。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack067.html
+> ML-> asakusarb@qwik.jp
+>
+}}

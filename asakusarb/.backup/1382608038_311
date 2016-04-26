@@ -1,0 +1,138 @@
+* 【大当たり？】You may have encountered a bug in the Ruby interpreter
+{{mail(silentsilent433@gmail.com,1382606304)
+浅草Rubyの皆様、
+本当にたびたび申し訳ありません。せかいです。
+想定外の出来事が発生しましたため、重ねてメールさせてください。
+
+サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+これはよくあることなのでしょうか？
+報告したほうがいいのかな？
+ちなみにsocketライブラリを使っていました。
+
+
+ってあまりの衝撃にメールを書いたものの、
+考えれば、火曜日に相談させてもらえば良い話ですよね。
+すみません。火曜のどこかで相談させてください。
+
+
+衝撃続きで心臓に悪い。。
+
+※１
+[NOTE]
+You may have encountered a bug in the Ruby interpreter or extension libraries.
+Bug reports are welcome.
+For details: http://www.ruby-lang.org/bugreport.html
+
+
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+}}
+{{mail(ko1@atdot.net,1382607642)
+よくあることです（少なくとも私の PC では）。
+
+再現出来る手順（このプログラムをこうやって動かす）をご連絡頂けると幸いです。
+
+
+(2013/10/24 18:18), a a wrote:
+> 浅草Rubyの皆様、
+> 本当にたびたび申し訳ありません。せかいです。
+> 想定外の出来事が発生しましたため、重ねてメールさせてください。
+> 
+> サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+> これはよくあることなのでしょうか？
+> 報告したほうがいいのかな？
+> ちなみにsocketライブラリを使っていました。
+> 
+> 
+> ってあまりの衝撃にメールを書いたものの、
+> 考えれば、火曜日に相談させてもらえば良い話ですよね。
+> すみません。火曜のどこかで相談させてください。
+> 
+> 
+> 衝撃続きで心臓に悪い。。
+> 
+> ※１
+> [NOTE]
+> You may have encountered a bug in the Ruby interpreter or extension libraries.
+> Bug reports are welcome.
+> For details: http://www.ruby-lang.org/bugreport.html
+> 
+> 
+> This application has requested the Runtime to terminate it in an unusual way.
+> Please contact the application's support team for more information.
+> 
+
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(silentsilent433@gmail.com,1382607891)
+ささださん、ご連絡ありがとうございます。
+
+よくあることなのですね。良かったです。
+それであれば（緊急ではなさそうなので）火曜日のmeetupにて
+バグレポートの書き方含め、勉強させて頂きます。
+
+助かりましたー。。
+
+2013/10/24 SASADA Koichi <ko1@atdot.net>:
+> よくあることです（少なくとも私の PC では）。
+>
+> 再現出来る手順（このプログラムをこうやって動かす）をご連絡頂けると幸いです。
+>
+>
+> (2013/10/24 18:18), a a wrote:
+>> 浅草Rubyの皆様、
+>> 本当にたびたび申し訳ありません。せかいです。
+>> 想定外の出来事が発生しましたため、重ねてメールさせてください。
+>>
+>> サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+>> これはよくあることなのでしょうか？
+>> 報告したほうがいいのかな？
+>> ちなみにsocketライブラリを使っていました。
+>>
+>>
+>> ってあまりの衝撃にメールを書いたものの、
+>> 考えれば、火曜日に相談させてもらえば良い話ですよね。
+>> すみません。火曜のどこかで相談させてください。
+>>
+>>
+>> 衝撃続きで心臓に悪い。。
+>>
+>> ※１
+>> [NOTE]
+>> You may have encountered a bug in the Ruby interpreter or extension
+>> libraries.
+>> Bug reports are welcome.
+>> For details: http://www.ruby-lang.org/bugreport.html
+>>
+>>
+>> This application has requested the Runtime to terminate it in an unusual
+>> way.
+>> Please contact the application's support team for more information.
+>>
+>
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+> --
+> archive-> http://qwik.jp/asakusarb/311.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ko1@atdot.net,1382608038)
+(2013/10/24 18:44), a a wrote:
+> よくあることなのですね。良かったです。
+
+ああいや、私の PC で、なので、普通はあまりないような気がします。
+
+> それであれば（緊急ではなさそうなので）火曜日のmeetupにて
+> バグレポートの書き方含め、勉強させて頂きます。
+
+ここにこうやれば起きる、って書いて貰えれば足りると思いますよ。その上で必
+要なら火曜日にお話できるかと。
+
+-- 
+// SASADA Koichi at atdot dot net
+}}

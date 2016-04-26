@@ -1,0 +1,55 @@
+* History
+最近のものから順番に並んでます。参加希望のかたは[[Meetup]]のページを参照してください。
+
+- [[hack229]]
+- [[hack228]]
+- [[hack227]]
+- [[hack226]]
+- [[hack225]]
+- [[hack224]]
+- [[hack223]]
+- [[hack222]]
+- [[hack221]]
+- [[hack220]]
+- [[hack219]]
+- [[hack218]]
+- [[hack217]]
+- [[hack216]]
+- [[hack215]]
+- [[hack212]]
+- [[hack211]]
+- [[hack210]]
+- [[hack209]]
+- [[hack208]]
+- [[hack207]]
+- [[hack206]]
+- [[hack205]] 
+- [[hack204]] Asakusa.rb 花見 2013
+- [[hack203]]
+- [[hack202]]
+- [[hack201]]
+- [[hack200]][[大江戸Ruby会議03|http://regional.rubykaigi.org/oedo03]]
+- [[hack199]]
+- [[hack198]]
+- [[hack197]]
+- [[hack196]]
+- [[hack195]]
+- [[hack194]]
+- [[hack193]]
+- [[hack192]]
+- [[hack191]]
+
+* 前年までの活動履歴
+
+- [[History2012]]
+- [[History2011]]
+- [[History2010]]
+- [[History2009]]
+- [[History2008]]
+
+* 活動履歴テンプレのつくりかた
+
+- まず、このページに [[hackNNN]] のリンクをつくる
+- リンク先 のページに「* 第NNN回Asakusa.rb(YYYY-MM-DD)」という見出しをつける
+- asakusarb at qwik dot jp に↑と同じSubject(第NNN回Asakusa.rb(YYYY-MM-DD))のメールを出す
+- 本文には「参加希望者はこのメールに返信してください」というお願いと、会場の情報を含めるとよいでしょう

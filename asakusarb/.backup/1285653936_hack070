@@ -1,0 +1,335 @@
+* 第70回Asakusa.rb(2010-09-28)
+{{mail(shyouhei@ruby-lang.org,1285523350)
+第70回記念大会ですが... どこでやります?
+}}
+{{mail(takkanm@gmail.com,1285580260)
+えむです。
+
+70回だから宴会とか、そういうわけでなければ、
+永和で可能です。
+}}
+{{mail(gunjisatoshi@gmail.com,1285582839)
+郡司です。
+
+参加できるか微妙ですが、参加希望です。
+
+毎回開場を負担していただいて申し訳ないなあと思いつつ、
+代替案もなかなか浮かばず‥‥。
+
+ちょっと調べたところ、台東区の生涯学習センター
+
+https://www.taitocity.net/gakusyu/
+
+の、304会議室～307会議室
+
+http://www.taitocity.net/center/ryoukin.html
+
+あたりなら18:00～22:00の4時間であれば1,100円で借りられる
+ようですね。定員は18名なのでいつものAsakusa.rbなら
+ちょうどよさそうです。
+
+ただ、ちょっと交通が不便なのが難点ですかねえ。
+}}
+{{mail(shibata.hiroshi@gmail.com,1285586354)
+参加します。
+
+今回こそ、fabrication をいじります。
+
+-- 
+SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(ronnie@dio.jp,1285586678)
+松田です。
+
+参加します。
+明日は特にやりたいことがないので、Railsか何かのバグと戦ったりするかもしれないです。
+
+
+2010/9/27 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+>
+> ちょっと調べたところ、台東区の生涯学習センター
+>
+> https://www.taitocity.net/gakusyu/
+>
+> の、304会議室～307会議室
+>
+> http://www.taitocity.net/center/ryoukin.html
+>
+> あたりなら18:00～22:00の4時間であれば1,100円で借りられる
+> ようですね。定員は18名なのでいつものAsakusa.rbなら
+> ちょうどよさそうです。
+>
+> ただ、ちょっと交通が不便なのが難点ですかねえ。
+
+あー、ここは僕も検討して問い合わせてみたことがあります。
+確か、インターネット設備がないとのことでした。
+電源はマルチタップを持参すればなんとかなりそうですが。
+あとはまぁ、飲んだり飲んだりするのがちょっと厳しいかもしれませんね。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(kkohno@gmail.com,1285587602)
+jugyo です
+
+参加したいです。
+Rails3 + Mongoid で Web アプリを作ると思います。
+
+よろしくお願いします！
+
+
+2010/9/27 Akira Matsuda <ronnie@dio.jp>:
+> 松田です。
+>
+> 参加します。
+> 明日は特にやりたいことがないので、Railsか何かのバグと戦ったりするかもしれないです。
+>
+>
+> 2010/9/27 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+>>
+>> ちょっと調べたところ、台東区の生涯学習センター
+>>
+>> https://www.taitocity.net/gakusyu/
+>>
+>> の、304会議室～307会議室
+>>
+>> http://www.taitocity.net/center/ryoukin.html
+>>
+>> あたりなら18:00～22:00の4時間であれば1,100円で借りられる
+>> ようですね。定員は18名なのでいつものAsakusa.rbなら
+>> ちょうどよさそうです。
+>>
+>> ただ、ちょっと交通が不便なのが難点ですかねえ。
+>
+> あー、ここは僕も検討して問い合わせてみたことがあります。
+> 確か、インターネット設備がないとのことでした。
+> 電源はマルチタップを持参すればなんとかなりそうですが。
+> あとはまぁ、飲んだり飲んだりするのがちょっと厳しいかもしれませんね。
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack070.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(gunjisatoshi@rikuga.me,1285587864)
+郡司です。
+
+> 松田です。
+
+> あー、ここは僕も検討して問い合わせてみたことがあります。
+> 確か、インターネット設備がないとのことでした。
+> 電源はマルチタップを持参すればなんとかなりそうですが。
+
+そうでした。1階と2階は無線LANがありそうなことが書いて
+あったのですが、3階の会議室まで届くかは微妙ですね。
+
+> あとはまぁ、飲んだり飲んだりするのがちょっと厳しいかもしれませんね。
+
+ですねえ。で、また振り出しに戻る;-)
+
+生涯学習センターは、もうちょっと大きめの会議室もあるので、
+ちょっと大きめのイベントをやるときの候補としても良いかもしれませんね。
+過去には「スマートフォン勉強会」なるものが開催されたこともあるようです。
+
+http://smartphone.techtalk.jp/?SPWorkshopKanto04
+}}
+{{mail(takeshinoda@gmail.com,1285602019)
+しのだです。
+
+参加します。
+さくらVPS、若しくは手許の趣味アプリを作りたいです。
+
+2010年9月27日20:39 jugyo.org <jugyo.org@gmail.com>:
+> jugyo です
+>
+> 参加したいです。
+> Rails3 + Mongoid で Web アプリを作ると思います。
+>
+> よろしくお願いします！
+>
+>
+> 2010/9/27 Akira Matsuda <ronnie@dio.jp>:
+>> 松田です。
+>>
+>> 参加します。
+>> 明日は特にやりたいことがないので、Railsか何かのバグと戦ったりするかもしれないです。
+>>
+>>
+>> 2010/9/27 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+>>>
+>>> ちょっと調べたところ、台東区の生涯学習センター
+>>>
+>>> https://www.taitocity.net/gakusyu/
+>>>
+>>> の、304会議室～307会議室
+>>>
+>>> http://www.taitocity.net/center/ryoukin.html
+>>>
+>>> あたりなら18:00～22:00の4時間であれば1,100円で借りられる
+>>> ようですね。定員は18名なのでいつものAsakusa.rbなら
+>>> ちょうどよさそうです。
+>>>
+>>> ただ、ちょっと交通が不便なのが難点ですかねえ。
+>>
+>> あー、ここは僕も検討して問い合わせてみたことがあります。
+>> 確か、インターネット設備がないとのことでした。
+>> 電源はマルチタップを持参すればなんとかなりそうですが。
+>> あとはまぁ、飲んだり飲んだりするのがちょっと厳しいかもしれませんね。
+>>
+>> --
+>> Akira Matsuda<ronnie@dio.jp>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack070.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack070.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+Takeshi SHINODA
+}}
+{{mail(mayumi.emori@gmail.com,1285639730)
+江森です。
+
+今日、初参加させて頂きます。
+
+初参加なので、皆さんの様子を伺いつつ、、、何かします。
+宜しくお願いいたします。
+
+2010年9月28日0:40 Takeshi SHINODA <takeshinoda@gmail.com>:
+
+> しのだです。
+>
+> 参加します。
+> さくらVPS、若しくは手許の趣味アプリを作りたいです。
+>
+> 2010年9月27日20:39 jugyo.org <jugyo.org@gmail.com>:
+>  > jugyo です
+> >
+> > 参加したいです。
+> > Rails3 + Mongoid で Web アプリを作ると思います。
+> >
+> > よろしくお願いします！
+> >
+> >
+> > 2010/9/27 Akira Matsuda <ronnie@dio.jp>:
+> >> 松田です。
+> >>
+> >> 参加します。
+> >> 明日は特にやりたいことがないので、Railsか何かのバグと戦ったりするかもしれないです。
+> >>
+> >>
+> >> 2010/9/27 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> >>>
+> >>> ちょっと調べたところ、台東区の生涯学習センター
+> >>>
+> >>> https://www.taitocity.net/gakusyu/
+> >>>
+> >>> の、304会議室～307会議室
+> >>>
+> >>> http://www.taitocity.net/center/ryoukin.html
+> >>>
+> >>> あたりなら18:00～22:00の4時間であれば1,100円で借りられる
+> >>> ようですね。定員は18名なのでいつものAsakusa.rbなら
+> >>> ちょうどよさそうです。
+> >>>
+> >>> ただ、ちょっと交通が不便なのが難点ですかねえ。
+> >>
+> >> あー、ここは僕も検討して問い合わせてみたことがあります。
+> >> 確か、インターネット設備がないとのことでした。
+> >> 電源はマルチタップを持参すればなんとかなりそうですが。
+> >> あとはまぁ、飲んだり飲んだりするのがちょっと厳しいかもしれませんね。
+> >>
+> >> --
+> >> Akira Matsuda<ronnie@dio.jp>
+> >>
+> >> --
+> >> archive-> http://qwik.jp/asakusarb/hack070.html
+> >> ML-> asakusarb@qwik.jp
+> >>
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack070.html
+> > ML-> asakusarb@qwik.jp
+> >
+>
+>
+>
+> --
+> Takeshi SHINODA
+>
+> --
+>  archive-> http://qwik.jp/asakusarb/hack070.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(usa@garbagecollect.jp,1285641219)
+こんにちは、なかむら(う)です。
+
+参加します。
+[ruby-core:32551]のWin32用backtraceを取り込むための作業をもく
+もくとやるつもり。
+
+
+In message "[asakusarb:1273] 第70回Asakusa.rb(2010-09-28)"
+    on Sep.27,2010 02:49:01, <shyouhei@ruby-lang.org> wrote:
+> 第70回記念大会ですが... どこでやります?
+
+それでは。
+-- 
+U.Nakamura <usa@garbagecollect.jp>
+}}
+{{mail(sakuro@2238club.org,1285642076)
+さくです。
+
+私も興味あるのでfabrication触ります。
+
+2010/9/27 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 今回こそ、fabrication をいじります。
+
+-- 
+OZAWA Sakuro
+
+"The future will be better tomorrow." --Dan Quayle
+}}
+{{mail(takahashimm@gmail.com,1285642723)
+高橋征義です。
+
+もくもくRails3で某弊社サイトの開発をする予定です。よろしくお願いします。
+
+-- 
+高橋征義 (takahashimm@gmail.com)
+}}
+{{mail(ko1@atdot.net,1285643901)
+(2010/09/28 3:58), masayoshi takahashi wrote:
+> もくもくRails3で某弊社サイトの開発をする予定です。よろしくお願いします。
+
+その前に巻頭言をもくもくと一つ。
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(shintaro.kakutani@gmail.com,1285653936)
+かくたにです。
+足元がお悪いなか皆さまには恐縮ですが永和でやるというのでいいのかな。
+
+江森さんが初参加ということなので、念のため場所はこちらです:
+http://qwik.jp/asakusarb/esm_ueno.html
+
+あと、先週開始時刻について訊かれた気がするのでこちらにも書いておきますと、
+いちおう 19:30 開始ということになっております。
+
+なんかいろいろ溜まってる感じなのですが、絡めそうなところがあれば絡んでみたいなあ。
+-- 
+Kakutani Shintaro
+}}

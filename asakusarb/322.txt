@@ -1,0 +1,10 @@
+* 参加させてくださいー
+{{mail(modocache@gmail.com,1394631693)
+こんにちは！千駄木に引っ越して、浅草が近くになったのでぜひ参加させてください！
+
+TwitterとGitHubのハンドルはmodocacheです。RubyよりObjective-Cのほうが得意ですが前職ではRailsを使っていたし、RubyGemも一個作ったことあります：https://rubygems.org/gems/state_machine_rspec
+
+よろしくお願いします！
+
+- Brian Gesiak / @modocache
+}}

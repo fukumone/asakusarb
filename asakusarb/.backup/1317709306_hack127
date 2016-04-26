@@ -1,0 +1,109 @@
+* 第127回Asakusa.rb (2011-10-04)
+{{mail(takkanm@gmail.com,1317651323)
+さて、明日は127回のミートアップです。
+
+明日もドアマンできます！！
+
+126のログにあった標準ライブラリのgem化に興味があるので、nahiさんが来られるようでしたら、話したいです！
+}}
+{{mail(shibata.hiroshi@gmail.com,1317680392)
+しばたです。
+
+> さて、明日は127回のミートアップです。
+
+今日は妻の誕生日なのでお休みです。
+
+> 126のログにあった標準ライブラリのgem化に興味があるので、nahiさんが来られるようでしたら、話したいです！
+
+具体的に何か話が進んだら後日教えてください。
+}}
+{{mail(sakuro@2238club.org,1317700683)
+参加します。
+
+お客様の中にCSSスプライトに詳しい方はいらっしゃいませんか(ナニユエ)
+
+2011年10月3日23:15  <takkanm@gmail.com>:
+> さて、明日は127回のミートアップです。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(gunjisatoshi@gmail.com,1317701646)
+郡司です。
+
+いつも会場ありがとうございます。
+何事もなければ参加できる予定です。
+
+RubyConfに参加された方がいらしたら、その時のお話を伺いたいです。
+
+あと別件ですが、Rubyist Magazine（るびま）の次回のインタビューイは
+我らが松田さんの予定ですが、インタビュアーはささださんでしょうか。
+インタビュー時期はいつ頃になりそうですかねえ。
+（にわか編集部員として、次号に間に合いそうなのかがちょっと気になったので）
+}}
+{{mail(nakahiro@gmail.com,1317701842)
+いつもお世話になります。行きます。
+
+2011/10/3  <takkanm@gmail.com>:
+> 126のログにあった標準ライブラリのgem化に興味があるので、nahiさんが来られるようでしたら、話したいです！
+
+はい、話を聞きたいです！
+}}
+{{mail(shintaro.kakutani@gmail.com,1317706404)
+stdlibのgem化の話は、rubyspecのときみたいに別途qwikにページをつくってまとめていったほうがよさそうですけど、
+さしあたってはこちらで。
+
+2011/10/4 Hiroshi Nakamura <nahi@ruby-lang.org>:
+> いつもお世話になります。行きます。
+>
+> 2011/10/3  <takkanm@gmail.com>:
+>> 126のログにあった標準ライブラリのgem化に興味があるので、nahiさんが来られるようでしたら、話したいです！
+>
+> はい、話を聞きたいです！
+
+松田さんとNOLAでは、
+
+0. そもそもどういう作戦になっているのかの確認
+1. どのライブラリから手をつけるか
+2. リポジトリの管理をどうするか
+
+から確認していかないとなあ、と言ってました。
+リポジトリについては:
+
+- gihtubのrails みたいに(https://github.com/rails)、本体からgemをextractしていくのがいいんじゃないか
+- 私たちはgithubでやらせてもらえると嬉しいけど、たぶんそうならないんだろうなあ
+
+という話をしていました。
+}}
+{{mail(ko1@atdot.net,1317709165)
+(2011/10/03 22:33), Kakutani Shintaro wrote:
+> - 私たちはgithubでやらせてもらえると嬉しいけど、たぶんそうならないんだろうなあ
+
+これはなんででしょうか．github でもいいような．trunk 側は消すだけですよね．
+
+あと，IRC にははったけど，こんなページがあるそうです．
+http://redmine.ruby-lang.org/projects/ruby/wiki/StdlibGem
+nahi さん凄い．
+
+ruby-core で沢山メールが流れてますが，gem 化の話もあるのでチェックしてい
+くといいかと．
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(shintaro.kakutani@gmail.com,1317709306)
+2011/10/4 SASADA Koichi <ko1@atdot.net>:
+>
+> あと，IRC にははったけど，こんなページがあるそうです．
+> http://redmine.ruby-lang.org/projects/ruby/wiki/StdlibGem
+> nahi さん凄い．
+
+たすかります!
+
+> ruby-core で沢山メールが流れてますが，gem 化の話もあるのでチェックしてい
+> くといいかと．
+
+私のcoreの未読は数千件とかの残念な状況なので、takkanm が読むべきruby-coreのメールをおしえてくれるはず!!
+}}

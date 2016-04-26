@@ -1,0 +1,300 @@
+* 第101回Asakusa.rb(2011-04-12)
+{{mail(takkanm@gmail.com,1302411543)
+こんにちわ。
+
+100回目の途中ですが、ファウンダーが「101回から本気だす」ということなので、
+101回目も門番をしたいと思います。
+
+何をやるかは、100回が終わってから本気だして考えます。
+}}
+{{mail(nakahiro@gmail.com,1302488953)
+いつも会場提供ありがとうございます。明日もファウンダーの意向を気にせずもくもくしに。。。行きたいのですが、なぜかここの所毎週火曜夜に予定が入っていて行けなさそうです。先週同様、早く終われば伺うかも、くらい。
+}}
+{{mail(shintaro.kakutani@gmail.com,1302489283)
+明日はQconTokyoに潜入してから向かうので、ちょっと遅れます。
+松田さんの思いをうけて、github にOragnizational Accountをつくっときました
+https://github.com/organizations/asakurarb
+
+みんながイジってくのに足りない設定があれば言ってください。
+積極的に権限を渡していきたいです!!
+
+舘野メンバーの prefetch-rspec を引き取るのはfirst touch としては興味をもってる人も多そう
+(ko1さんから指摘されたfork対応とか??)
+
+最初、酔っ払って asakurarb をつくって消したことは内緒にしといてください。
+-- 
+Kakutani Shintaro
+}}
+{{mail(ronnie@dio.jp,1302490094)
+メール書いてたら仕事速すぎな角谷さんに先越されちゃったんですが、
+いま思いついた範囲ではだいたい以下のようなことをやりたいです。
+
+* odrk01のふりかえり
+* (Githubのアカウント取る => done)
+* hotchpotch/prefetch-rspec が僕の手元のアプリではそのままでは動かなかったのでなんとかする
+* 誰かRuby 1.9がうまい方がいらっしゃったらRuby 1.9で未だに動いてないけどRailsでよく使うライブラリをどうにかしたい(by なひさん)
+* 前々回ぐらいに話題にしたRails 3.0.5のCSRF tokenの件を報告して返事はもらったんだけど、そういうもんなのかどうか誰かに相談したい
+* Kaminariの溜まりに溜まったチケットをなんとかする
+* (個人的に) 誰か英語がうまい人がいたらとあるトークの概要をテンサクしてほしい
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(masaki@hisme.net,1302492802)
+初参加しますー
+
+2011年4月11日11:48 Akira Matsuda <ronnie@dio.jp>:
+> メール書いてたら仕事速すぎな角谷さんに先越されちゃったんですが、
+> いま思いついた範囲ではだいたい以下のようなことをやりたいです。
+>
+> * odrk01のふりかえり
+> * (Githubのアカウント取る => done)
+> * hotchpotch/prefetch-rspec が僕の手元のアプリではそのままでは動かなかったのでなんとかする
+> * 誰かRuby 1.9がうまい方がいらっしゃったらRuby 1.9で未だに動いてないけどRailsでよく使うライブラリをどうにかしたい(by なひさん)
+> * 前々回ぐらいに話題にしたRails 3.0.5のCSRF tokenの件を報告して返事はもらったんだけど、そういうもんなのかどうか誰かに相談したい
+> * Kaminariの溜まりに溜まったチケットをなんとかする
+> * (個人的に) 誰か英語がうまい人がいたらとあるトークの概要をテンサクしてほしい
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack101.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shibata.hiroshi@gmail.com,1302496572)
+柴田です。
+
+参加します。
+
+odrk01 の会計報告と gem のネタ出しに参加します。
+
+capybara-phantomjs というのがあると便利じゃない?という話を secondlife さんと
+昨日していたので、capybara-envjs とかその仲間達のコードリーディングあたりを
+しようと思います。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(ryopeko@gmail.com,1302498478)
+関口(@ryopeko)です。
+
+初参加させていただきます。
+rubykaigi.org周りのお話や、開発の環境を整えたいと思います。
+
+-- 
+-------------------------------
+関口 亮一
+ryopeko@gmail.com
+-------------------------------
+}}
+{{mail(gunjisatoshi@rikuga.me,1302512161)
+郡司です。
+
+行く気まんまんだったのですが、20:00開始の会議が
+セッティングされたためにおそらく行けません‥‥。
+
+レポートはとりあえず明日のmeetup時間までには
+出来たところまで何らかの形でシェアしたいと思います。
+}}
+{{mail(celluloid.key@gmail.com,1302515462)
+hibariyaです。途中まで参加予定です。
+
+ryopekoさんとrubykaigi.orgの雰囲気について共有したり、
+大江戸Ruby会議のレポートの作業ができればと思っています。
+}}
+{{mail(celluloid.key@gmail.com,1302515559)
+> 郡司さん
+レポートの件りょうかいです！
+}}
+{{mail(mayumi.emori@gmail.com,1302516442)
+江森です。
+
+odrk01のふりかえりに参加したいです。
+(なにぶん、初めてだったので・・・)
+
+あとは、次のチキンレース(来週のTRM)に入りたいと思います。
+
+-- 
+Mayumi EMORI
+mayumi.emori@gmail.com
+}}
+{{mail(hokkai7go@gmail.com,1302532375)
+hokkai7go です。
+
+>郡司さん、レポートの件了解しました。
+僕もhibariyaさんと同じくレポートの作業をしに行きます。
+
+2011年4月11日19:07 mayumi emori <mayumi.emori@gmail.com>:
+> 江森です。
+>
+> odrk01のふりかえりに参加したいです。
+> (なにぶん、初めてだったので・・・)
+>
+> あとは、次のチキンレース(来週のTRM)に入りたいと思います。
+>
+> --
+> Mayumi EMORI
+> mayumi.emori@gmail.com
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack101.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+菅井祐太朗
+<hokkai7go@gmail.com>
+}}
+{{mail(yuki.0w0@gmail.com,1302566202)
+赤松です。
+
+ふりかえり参加したいです。
+後はprefetch-rspecのソース眺めたりします。
+
+2011年4月11日23:32 Sugai Yutaro <hokkai7go@gmail.com>:
+> hokkai7go です。
+>
+>>郡司さん、レポートの件了解しました。
+> 僕もhibariyaさんと同じくレポートの作業をしに行きます。
+>
+> 2011年4月11日19:07 mayumi emori <mayumi.emori@gmail.com>:
+>> 江森です。
+>>
+>> odrk01のふりかえりに参加したいです。
+>> (なにぶん、初めてだったので・・・)
+>>
+>> あとは、次のチキンレース(来週のTRM)に入りたいと思います。
+>>
+>> --
+>> Mayumi EMORI
+>> mayumi.emori@gmail.com
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack101.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+> 菅井祐太朗
+> <hokkai7go@gmail.com>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack101.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(qtamaki@gmail.com,1302569529)
+初参加させていただきたく思います。
+
+とりあえずどんなノリか体験したいです。
+
+-- 
+# 玉置　龍範 tamaki tatsunori
+}}
+{{mail(takahashimm@gmail.com,1302577702)
+高橋征義です。
+
+2011年4月11日11:48 Akira Matsuda <ronnie@dio.jp>:
+> * 前々回ぐらいに話題にしたRails 3.0.5のCSRF tokenの件を報告して返事はもらったんだけど、そういうもんなのかどうか誰かに相談したい
+
+この辺の話とかodrk01の話とかが気になるんですが、今晩はLL Planetsの
+打ち合わせがあるのでちょっと厳しい感じです…すみません。
+
+-- 
+高橋征義 (takahashimm@gmail.com)
+}}
+{{mail(nakahiro@gmail.com,1302578604)
+2011/4/11 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 松田さんの思いをうけて、github にOragnizational Accountをつくっときました
+> https://github.com/organizations/asakurarb
+
+% ruby -rhttpclient -e 'p
+HTTPClient.get("https://github.com/organizations/asakurarb").status'
+302
+% ruby -rhttpclient -e 'p
+HTTPClient.get("https://github.com/organizations/asakurarb",
+:follow_redirect => true).status'
+200
+
+400返さないんですねえ、github。 # SSLだから、使えるライブラリは限られる
+
+で、[1]に'as a product of
+Asakusa.rb'とか書いたので、大江戸HTTPクライアント絵巻用のリポジトリ[2]をその下に入れたいなーなんて思うんですが、どうでしょう。
+
+[1] http://soap4r.blogspot.com/2011/04/feature-matrix-of-ruby-http-clients.html
+[2] https://github.com/nahi/odrk-http-client
+}}
+{{mail(nakahiro@gmail.com,1302578664)
+2011/4/12 Hiroshi Nakamura <nahi@ruby-lang.org>:
+> で、[1]に'as a product of Asakusa.rb'
+
+うう、ここで切るとニュアンスがおかしい。
+
+'as a product of Asakusa.rb meetups'
+
+と書いたのでした。
+}}
+{{mail(hotchpotch@gmail.com,1302579409)
+secondlife です
+
+本日リアルには参加できなさそうなんですが、
+github.com/asakusarb なメンバーになりたいです。
+あと github.com/hotchpotch/prefetch-rspec を asakurarb なレポジトリに移したいです :D
+
+
+2011年4月12日12:24 Hiroshi Nakamura <nahi@ruby-lang.org>:
+> 2011/4/12 Hiroshi Nakamura <nahi@ruby-lang.org>:
+>> で、[1]に'as a product of Asakusa.rb'
+>
+> うう、ここで切るとニュアンスがおかしい。
+>
+> 'as a product of Asakusa.rb meetups'
+>
+> と書いたのでした。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack101.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(mayumi.emori@gmail.com,1302598473)
+江森です。
+
+"Asakusa.rb is NOT just a 飲み会サークル"
+ということで、頂き物ですが、本日ワインを持っていく予定です。
+
+ワインオープナーってあるでしょうか？
+なければ、どこかで調達してから伺います。
+
+-- 
+Mayumi EMORI
+mayumi.emori@gmail.com
+}}
+{{mail(takkanm@gmail.com,1302598781)
+コルク抜きを発見しました!!
+
+2011年4月12日17:54 mayumi emori <mayumi.emori@gmail.com>:
+> 江森です。
+>
+> "Asakusa.rb is NOT just a 飲み会サークル"
+> ということで、頂き物ですが、本日ワインを持っていく予定です。
+>
+> ワインオープナーってあるでしょうか？
+> なければ、どこかで調達してから伺います。
+>
+> --
+> Mayumi EMORI
+> mayumi.emori@gmail.com
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack101.html
+> ML-> asakusarb@qwik.jp
+>
+}}

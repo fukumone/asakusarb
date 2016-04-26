@@ -1,0 +1,26 @@
+* asakusa.rb 参加させてください
+{{mail(fujibee@gmail.com,1268818527)
+はじめまして、藤川と申します。
+
+前々からasakusa.rb気になってたのですが、今まで参加できませんでした。。
+勇気を出して参加しようと思います。
+
+Rubyについてですが、HadoopというJavaの分散処理の仕組みを
+Rubyから使おう(JRuby使って)、というオープンソースプロジェクト(Hadoop papyrus)
+をやってます。
+http://github.com/fujibee/hadoop-papyrus
+去年、IPA未踏というので採択されてこの前未踏としては終わりましたが、
+OSSとしてはこれからも続けていきたいと思ってます。
+
+いろんな方面の知り合いがたくさんいらっしゃるような気がしますので、
+ぜひともよろしくお願いします！
+
+-- 
+藤川 幸一 (FUJIKAWA Koichi)
+
+Blog: http://d.hatena.ne.jp/fujibee/ (Japanese)
+Twitter: http://twitter.com/fujibee
+LinkedIn: http://www.linkedin.com/in/koichifujikawa
+Working for: http://cirius.co.jp/
+Engaging in: http://github.com/fujibee/hadoop-papyrus
+}}

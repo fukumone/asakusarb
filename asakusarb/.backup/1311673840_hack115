@@ -1,0 +1,138 @@
+* 第115回Asakusa.rb(2011-07-26)
+{{mail(shintaro.kakutani@gmail.com,1311344515)
+そろそろ平常運転ですかねえ。
+「Lionでrubyを動すのがちょっと大変だ祭り」は火曜日までには収束してるかな?
+
+祭といえば隅田川花火大会が8月にあるはず……。
+
+場所は上野の永和でいいのかな?
+}}
+{{mail(gunjisatoshi@rikuga.me,1311390318)
+郡司です。
+
+> 「Lionでrubyを動すのがちょっと大変だ祭り」は火曜日までには収束してるかな?
+
+立場上あまり大きい声では言えないのですが、MacBook Airを
+買ったので（残念ながら届くのは28日）、そのあたりのノウハウは
+聞きたいですねえ。
+
+
+> 祭といえば隅田川花火大会が8月にあるはず……。
+
+8/27(土)ですね。雨天の場合は翌日に順延のようです。
+
+http://sumidagawa-hanabi.com/
+
+というわけで1ヶ月以上先の話なのでAsakusa.rb的にはまだ
+気が早いわけですが、Asakusa.rbでは過去3回ほど
+(第2回Asakusa.rb、第12回Asakusa.rb、第59回Asakusa.rb)
+郡司宅の屋上での開催の実績がありますが、
+今年はどうしましょうか。
+（今年も自宅を提供することは可能です）
+
+まあそもそも（皆さんの都合とかもあるので）どのくらい人が
+集まるかも未知数なので、直前になったらまた考えますかねえ。
+}}
+{{mail(gunjisatoshi@rikuga.me,1311390460)
+郡司です。
+
+>> 祭といえば隅田川花火大会が8月にあるはず……。
+> 
+> 8/27(土)ですね。雨天の場合は翌日に順延のようです。
+> 
+> http://sumidagawa-hanabi.com/
+
+よく考えたら土曜日は出勤日だった！
+
+休めるかどうか未知数なので、我が家が提供できるかどうかは
+ちょっと一旦保留です。
+（すみません）
+}}
+{{mail(shibata.hiroshi@gmail.com,1311399761)
+来週のasakusa.rbは早いものでRuby会議が終わってから10日も経つんですねえ。
+Ruby会議で見ることが出来なかったセッションがどんな感じだったかを
+だらっと聞いたり話したりしたいです。
+
+> 場所は上野の永和でいいのかな?
+
+来週火曜はいつも通り場所のセッティングが出来ると思います。
+}}
+{{mail(takkanm@gmail.com,1311602223)
+明日のはここかしら
+
+いきます
+2011/07/23 14:42 "SHIBATA Hiroshi" <shibata.hiroshi@gmail.com>:
+>
+> 来週のasakusa.rbは早いものでRuby会議が終わってから10日も経つんですねえ。
+> Ruby会議で見ることが出来なかったセッションがどんな感じだったかを
+> だらっと聞いたり話したりしたいです。
+>
+> > 場所は上野の永和でいいのかな?
+>
+> 来週火曜はいつも通り場所のセッティングが出来ると思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack115.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(nakahiro@gmail.com,1311631192)
+いきます。1.9.3のチケット整理か、stdlibのgem化準備をします。
+}}
+{{mail(l.g.chin@gmail.com,1311657195)
+2011/7/22 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 「Lionでrubyを動すのがちょっと大変だ祭り」は火曜日までには収束してるかな?
+
+原因：
+https://github.com/wayneeseguin/rvm/commit/e1eab08e99625f46cf77d18f2b44e7c0681f1acd
+
+解決：
+`rvm get head`
+https://github.com/wayneeseguin/rvm/commit/a06aa7f321019b85e5a0a86738197d767f2c3b4e
+
+rvmの対応が速いね
+}}
+{{mail(shimura-hir@obun.jp,1311668711)
+出席します、宜しくお願いします。
+		志村 弘之
+
+In message "[asakusarb:2390] Re: 第115回Asakusa.rb(2011-07-26)", 
+<CAD7FWsdYPD=e+sGHd9iQ_jQQOaFbcxETy_ddye+OMQxtWDWt8Q@mail.gmail.com>, 
+---------------------------------------+---------+---------+以上 2011/7/26
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}
+{{mail(ronnie@dio.jp,1311669234)
+参加します。
+
+RubyKaigiをふりかえったりしつつ、RWCとかRubyConfとかについてもあれこれ相談などしたいです。
+あとはRails関連とかで色々たまった作業をこなす感じかなぁ・・・。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(ronnie@dio.jp,1311673653)
+なんかカナダ方面からRubyKaigi attendeeの残党が来るぽいです。
+https://twitter.com/#!/rramsden/status/95784311755784192
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(yuki.0w0@gmail.com,1311673840)
+赤松です。
+
+参加します。
+RubyKaigiの残タスク的なものをこなしたりしようと思います。
+
+
+2011年7月26日18:47 Akira Matsuda <ronnie@dio.jp>:
+> なんかカナダ方面からRubyKaigi attendeeの残党が来るぽいです。
+> https://twitter.com/#!/rramsden/status/95784311755784192
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack115.html
+> ML-> asakusarb@qwik.jp
+>
+}}

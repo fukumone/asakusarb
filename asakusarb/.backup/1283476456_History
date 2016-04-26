@@ -1,0 +1,54 @@
+* 活動履歴
+最近ものから順番に並んでます。
+
+- [[hack067]]
+- [[hack066]]
+- [[hack065]] -- RubyKaigi2010.days.last
+- [[hack064]] -- RubyKaigi2010.days[1]
+- [[hack063]]
+- [[hack062]]
+- [[hack061]]
+- [[hack060]]
+- [[hack059]]
+- [[hack058]]
+- [[hack057]]
+- [[hack056]]
+- [[hack055]]
+- [[hack054]]
+- [[hack053]]
+- [[hack052]]
+- [[hack051]]
+- [[hack050]]
+- [[hack049]]
+- [[hack048]]
+- [[hack047]]
+- [[hack046]]
+- [[hack045]]
+- [[hack044]]
+- [[hack043]]
+- [[hack042]]
+- [[hack041]]
+- [[hack040]]
+- [[hack039]]
+- [[hack038]]
+- [[hack037]]
+- [[hack036]]
+- [[hack035]]
+- [[hack034]]
+- [[hack033]]
+- [[hack032]]
+- [[hack031]]
+- 第30回 [[82]]
+- 第29回 [[84]]
+
+* 前年までの活動履歴
+
+- [[History2009]]
+- [[History2008]]
+
+* 活動履歴テンプレのつくりかた
+
+- まず、このページに [[hackNNN]] のリンクをつくる
+- リンク先 のページに「* 第NNN回Asakusa.rb(YYYY-MM-DD)」という見出しをつける
+- asakusarb at qwik dot jp に↑と同じSubject(第NNN回Asakusa.rb(YYYY-MM-DD))のメールを出す
+- 本文には「参加希望者はこのメールに返信してください」というお願いと、会場の情 報を含めるとよいでしょう

@@ -1,0 +1,169 @@
+* 第281回Asakusa.rb (2014-10-14)
+{{mail(takkanm@gmail.com,1413206973)
+明日は 281 回目のミートアップです。
+
+台風すぎているようなので、上野 E 和にて開催したいと思います。
+}}
+{{mail(shibata.hiroshi@gmail.com,1413246634)
+参加します。
+qwik や mruby をいじりに行きます。
+
+2014-10-13 22:29 GMT+09:00  <takkanm@gmail.com>:
+> 明日は 281 回目のミートアップです。
+>
+> 台風すぎているようなので、上野 E 和にて開催したいと思います。
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(uzukifirst@gmail.com,1413267669)
+所です。参加させて下さいm(_ _)m
+半年間のインド旅行から帰ってきて、やっと参加できる>_<
+
+2014年10月14日火曜日、SHIBATA Hiroshi<hsbt@ruby-lang.org>さんは書きました:
+
+> 参加します。
+> qwik や mruby をいじりに行きます。
+>
+> 2014-10-13 22:29 GMT+09:00  <takkanm@gmail.com <javascript:;>>:
+> > 明日は 281 回目のミートアップです。
+> >
+> > 台風すぎているようなので、上野 E 和にて開催したいと思います。
+>
+>
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org <javascript:;>
+> http://www.hsbt.org/
+>
+
+
+-- 
+*************************
+  Chikahiro Tokoro
+  http://ctokoro.me/
+*************************
+}}
+{{mail(katsyoshi@katsyoshi.org,1413277500)
+参加します。
+今日もDockerとかいじろうかと思います。
+
+2014年10月14日 15:21 uzukifirst@gmail.com <uzukifirst@gmail.com>:
+
+> 所です。参加させて下さいm(_ _)m
+> 半年間のインド旅行から帰ってきて、やっと参加できる>_<
+>
+> 2014年10月14日火曜日、SHIBATA Hiroshi<hsbt@ruby-lang.org>さんは書きました:
+>
+> 参加します。
+>> qwik や mruby をいじりに行きます。
+>>
+>> 2014-10-13 22:29 GMT+09:00  <takkanm@gmail.com>:
+>> > 明日は 281 回目のミートアップです。
+>> >
+>> > 台風すぎているようなので、上野 E 和にて開催したいと思います。
+>>
+>>
+>>
+>> --
+>> SHIBATA Hiroshi hsbt@ruby-lang.org
+>> http://www.hsbt.org/
+>>
+>
+>
+> --
+> *************************
+>   Chikahiro Tokoro
+>   http://ctokoro.me/
+> *************************
+>
+>
+}}
+{{mail(uzukifirst@gmail.com,1413279058)
+所です。すいません、急用ができてしまいました。。
+また違う機会に参加いたしますm(_ _)m
+
+2014年10月14日火曜日、松本勝慶<matsumoto.katsuyoshi@gmail.com>さんは書きました:
+
+> 参加します。
+> 今日もDockerとかいじろうかと思います。
+>
+> 2014年10月14日 15:21 uzukifirst@gmail.com
+> <javascript:_e(%7B%7D,'cvml','uzukifirst@gmail.com');> <
+> uzukifirst@gmail.com
+> <javascript:_e(%7B%7D,'cvml','uzukifirst@gmail.com');>>:
+>
+>> 所です。参加させて下さいm(_ _)m
+>> 半年間のインド旅行から帰ってきて、やっと参加できる>_<
+>>
+>> 2014年10月14日火曜日、SHIBATA Hiroshi<hsbt@ruby-lang.org
+>> <javascript:_e(%7B%7D,'cvml','hsbt@ruby-lang.org');>>さんは書きました:
+>>
+>> 参加します。
+>>> qwik や mruby をいじりに行きます。
+>>>
+>>> 2014-10-13 22:29 GMT+09:00  <takkanm@gmail.com>:
+>>> > 明日は 281 回目のミートアップです。
+>>> >
+>>> > 台風すぎているようなので、上野 E 和にて開催したいと思います。
+>>>
+>>>
+>>>
+>>> --
+>>> SHIBATA Hiroshi hsbt@ruby-lang.org
+>>> http://www.hsbt.org/
+>>>
+>>
+>>
+>> --
+>> *************************
+>>   Chikahiro Tokoro
+>>   http://ctokoro.me/
+>> *************************
+>>
+>>
+>
+
+-- 
+*************************
+  Chikahiro Tokoro
+  http://ctokoro.me/
+*************************
+}}
+{{mail(ronnie@dio.jp,1413281170)
+今日は久しぶりに海外からお客さんが来ます。
+いつもどおり7:30に上野駅で待ち合わせて合流してから行きます。
+}}
+{{mail(coup__d-etat@i.softbank.jp,1413281505)
+ksss(栗原)です。今日こそは参加します。
+
+
+2014/10/13 22:29、takkanm@gmail.com のメッセージ:
+
+> 明日は 281 回目のミートアップです。
+> 
+> 台風すぎているようなので、上野 E 和にて開催したいと思います。
+}}
+{{mail(taiki.takayama.com@gmail.com,1413286255)
+高山です
+
+参加します
+
+2014/10/14 19:11、yuki kurihara <coup__d-etat@i.softbank.jp> のメッセージ:
+
+> ksss(栗原)です。今日こそは参加します。
+> 
+> 
+> 2014/10/13 22:29、takkanm@gmail.com のメッセージ:
+> 
+>> 明日は 281 回目のミートアップです。
+>> 
+>> 台風すぎているようなので、上野 E 和にて開催したいと思います。
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack281.html 
+> ML-> asakusarb@qwik.jp
+}}

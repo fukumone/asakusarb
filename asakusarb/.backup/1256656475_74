@@ -1,0 +1,28 @@
+* rubyspec HEAD w/ ruby_1_8
+{{mail(nakahiro@gmail.com,1256655852)
+http://qwik.jp/asakusarb/RubySpec.html ありがとうございました。見つけられなくてすいません。
+さっそくruby_1_8の先頭で動作させてみているのですが（まだ実行中）、結構FやEがでています。
+そういうものなんですかね。これをつぶすのが先？
+ruby 1.8.8dev (2009-10-27 revision 25515) [i686-linux]
+}}
+{{mail(shintaro.kakutani@gmail.com,1256656475)
+2009/10/28 NAKAMURA, Hiroshi <nakahiro@gmail.com>:
+> http://qwik.jp/asakusarb/RubySpec.html ありがとうございました。見つけられなくてすいません。
+
+こちらこそ、もっと目立つようにしておくべきでした。
+見つけていただき、ありがとうございます。
+
+> さっそくruby_1_8の先頭で動作させてみているのですが（まだ実行中）、結構FやEがでています。
+> そういうものなんですかね。これをつぶすのが先？
+> ruby 1.8.8dev (2009-10-27 revision 25515) [i686-linux]
+
+1.8については、rubyspecをさわりはじめた当初、1.9をターゲットにしたものよりも失敗するテストが少なかったので、いくつか調べてみました。
+
+よくわからないなりにrubyspecのredmineにもパッチを投げたりしているのですが、最近はあんまりチケットが処理されてない感じです……。
+
+http://rubyspec.org/issues
+
+他に、パッチにできてないもの(ruby-dev で相談したものや、よくわかってないものは、以下にメモ書きしてます。
+
+http://qwik.jp/asakusarb/RubySpecWIP.html
+}}

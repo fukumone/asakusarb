@@ -1,0 +1,31 @@
+* 第117回Asakusa.rb (2011-08-09)
+{{mail(takkanm@gmail.com,1312797900)
+さて、明日は117回のMeetupですね。
+
+明日はE和にてドアマン係ができる予定ですがいかがでしょうか?
+}}
+{{mail(shintaro.kakutani@gmail.com,1312797960)
+裏で打合せがあるので着席は遅れそうです!!
+
+2011/8/8  <takkanm@gmail.com>:
+> さて、明日は117回のMeetupですね。
+>
+> 明日はE和にてドアマン係ができる予定ですがいかがでしょうか?
+}}
+{{mail(ronnie@dio.jp,1312804690)
+まずは週末に秋葉で買ってきたデカめのSSDにLionさんを移行して設定する作業をやります。
+
+あと、先週Yuguiさんから引き継いだやつ(詳細は明日お話しします)は結局まだなんにもやってないので、
+明日あたりから開発に着手できるといいですねぇ。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(shibata.hiroshi@gmail.com,1312806569)
+参加します。
+
+Rails3.1でatig/tigからのアクセスが exception になる件を追いかけるか shout-bot という
+IRCクライアントのライブラリをSSL対応のどっちかをやるつもりです。
+
+あとはいつも通り tDiary 業でjson_pure を同梱する作業をしたりします。
+}}

@@ -1,0 +1,22 @@
+* rvm
+
+Ruby Version ManagerBrvm use mput!
+
+- http://rvm.beginrescueend.com/
+- http://github.com/wayneeseguin/rvm
+
+* ruby‚Ìæ‚Á‚¿‚å‚ğ‚Á‚Ä‚­‚é
+
+ rvm install 1.9.2 --head -C ...
+
+(rvm install 1.9.2 --rev head ‚¾‚ÆA1.9.1 preview1 ‚ª‚â‚Á‚Ä‚­‚é‹C‚ª‚·‚é)
+
+* shyouhei/ruby ‚Ìæ‚Á‚¿‚å‚ğ‚Á‚Ä‚­‚é
+
+(TODO)
+
+
+* ‚³‚ñ‚±‚¤
+
+- http://d.hatena.ne.jp/takkan_m/20091006/1254834355
+- http://d.hatena.ne.jp/Yoshiori/20090929/1254231207

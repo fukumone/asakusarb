@@ -1,0 +1,172 @@
+* 第87回Asakusa.rb(2011-01-25)
+{{mail(takkanm@gmail.com,1295910789)
+mです。
+
+さて、本日はいつもどおりの火曜日ですね。
+今日もE和でインターフォン待機できます。
+
+何をやるかは、あとで考えます。
+}}
+{{mail(shintaro.kakutani@gmail.com,1295915220)
+2011/1/25  <takkanm@gmail.com>:
+> 何をやるかは、あとで考えます。
+
+大江戸の懇親会のことをちょっと進めよう。
+}}
+{{mail(snoozer.05@gmail.com,1295915347)
+しまだです。
+
+2011/1/25  <takkanm@gmail.com>:
+> mです。
+>
+> さて、本日はいつもどおりの火曜日ですね。
+> 今日もE和でインターフォン待機できます。
+
+参加します。
+Ruby会議のことをもくもくとしている予定です。
+
+-- 
+SHIMADA Koji
+http://iddy.jp/profile/snoozer05/
+}}
+{{mail(paul@mobalean.com,1295916932)
+ポールです。参加します。
+
+2011/1/25 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 大江戸の懇親会のことをちょっと進めよう。
+
+Doorkeeperを紹介したいんです。
+}}
+{{mail(gunjisatoshi@rikuga.me,1295918039)
+郡司です。
+
+参加します。
+
+大江戸Ruby会議で提供予定の無線LANアクセスポイントの
+負荷試験をどうするか色々考えます。
+
+とりあえずルーティング性能を見るために、LXCとかで仮想マシンを
+大量生成(200台くらい)して、
+
+・DHCPでIP割り付けがちゃんとできるかの確認
+・それぞれの仮想マシンからwgetとかランダムにさせてみて
+　負荷状況を確認
+・DNSキャッシュサーバとかもできれば試したい
+
+あたりをやってみようかと。それとも負荷試験ツールみたいなのが
+あればそっちを使ったほうが楽かな。
+
+あとは無線の設計（チャンネルとかアクセスポイントの空間配置とか）
+ですが、これは会場に行ってみないとできないかなあ。
+詳しい人がいたら色々と伺いたいです。
+}}
+{{mail(ronnie@dio.jp,1295934709)
+Railsのバグ袋の中身がだいぶ溜まってきたのでぼちぼち消化したい感じです。
+どなたか相談に乗っていただけたりすると嬉しいです。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(ken97531@gmail.com,1295945336)
+西村です
+
+参加します。郡司さんの無線のテストのお手伝いでもできればと思いつつ、松田さんのRailsバグ袋も横から覗いてみたいです。
+}}
+{{mail(koichiro.eto@gmail.com,1295948660)
+参加します！( ´ ▽ ` )ノ
+
+江渡 浩一郎
+
+On 2011/01/25, at 17:49, Ken Nishimura <ken97531@gmail.com> wrote:
+
+> 西村です
+>
+> 参加します。郡司さんの無線のテストのお手伝いでもできればと思いつつ、松田さんのRailsバグ袋も横から覗いてみたいです。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack087.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(june29.jp@gmail.com,1295949173)
+参加します! よろしくお願いします。
+
+june29
+}}
+{{mail(kei.shiratsuchi@gmail.com,1295949519)
+kei-s です。参加します！
+
+よろしくお願いします。
+
+2011/1/25 Jun OHWADA <june29.jp@gmail.com>:
+> 参加します! よろしくお願いします。
+>
+> june29
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack087.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+ 白土慧 <kei.shiratsuchi@gmail.com>
+ http:/tako3.com/http://twitter.com/kei_s
+ http://twitter.com/kei_s
+}}
+{{mail(ogijun@gmail.com,1295949942)
+ふつうにお仕事する電源カフェ状態に
+なりそうですが行きますー。
+
+
+2011/1/25 Kei Shiratsuchi <kei.shiratsuchi@gmail.com>:
+> kei-s です。参加します！
+>
+> よろしくお願いします。
+>
+> 2011/1/25 Jun OHWADA <june29.jp@gmail.com>:
+>> 参加します! よろしくお願いします。
+>>
+>> june29
+>>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack087.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+>  白土慧 <kei.shiratsuchi@gmail.com>
+>  http:/tako3.com/http://twitter.com/kei_s
+>  http://twitter.com/kei_s
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack087.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+ogijun
+}}
+{{mail(shibata.hiroshi@gmail.com,1295952362)
+柴田です。
+
+JaSST開催中につき一回休みにします!
+}}
+{{mail(ko1@atdot.net,1295956254)
+(2011/01/25 8:13), takkanm@gmail.com wrote:
+> mです。
+> 
+> さて、本日はいつもどおりの火曜日ですね。
+> 今日もE和でインターフォン待機できます。
+
+　夕飯を食べに来ました．
+
+-- 
+// SASADA Koichi at atdot dot net
+}}

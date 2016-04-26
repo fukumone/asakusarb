@@ -1,0 +1,72 @@
+* 第118回Asakusa.rb (2011-08-16)
+{{mail(takkanm@gmail.com,1313408221)
+お盆休み(休んでないけど)とかですっかり忘れていましたが、明日は火曜ですね。
+
+明日も、上野E和でよければドアマンをやれる予定です。
+
+明日は、弊社の新人向けにでているリファクタリングの課題でもやろうかなぁと思います。
+}}
+{{mail(gunjisatoshi@rikuga.me,1313416453)
+郡司です。
+
+会場提供いつもありがとうございます。
+台湾土産を持って参加します（台湾楽しかったです）。
+
+そうそう、台湾といえばRubyConf Taiwan 2011が8/26,27にありますね。
+
+http://rubyconf.tw/2011/
+
+Asakusa.rbからはYuguiメンバーが発表されるようですが、
+他に行かれる方はいらっしゃいますかねえ。
+}}
+{{mail(shibata.hiroshi@gmail.com,1313416815)
+参加します。
+
+> 郡司です。
+
+RubyKaigi2011 4日目の立替分をお返しするので忘れていたら声をかけてください!
+
+tDiary 業か Plone で構築された巨大サイトの移行あたりをやろうと思います。
+そういえば redmine.ruby-lang.org の話が先週横から聞こえてきたので絡みたいです。
+}}
+{{mail(ronnie@dio.jp,1313476268)
+参加します。
+なんか超ひさしぶりにRails用ページネーションライブラリのメンテでもしようかと思ってます。
+}}
+{{mail(ken97531@gmail.com,1313479280)
+参加します。今さらですが、Rails 3.1を触ってみようと思っています。
+
+西村
+
+2011/8/16 Akira Matsuda <ronnie@dio.jp>
+
+> 参加します。
+> なんか超ひさしぶりにRails用ページネーションライブラリのメンテでもしようかと思ってます。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack118.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(nakahiro@gmail.com,1313479516)
+行きます。githubのTravisCIを使っていて、気に入ってる、という人は居ませんか？
+}}
+{{mail(shintaro.kakutani@gmail.com,1313480668)
+かくたにです。
+
+そういえば先週作業したdocdiffのgem化にひと区切りをつけました。
+
+- https://github.com/hisashim/docdiff ← 本家(まだdescriptionがunofficialのままだけど)
+- rubygems.org/gems/docdiff ← gem
+- http://travis-ci.org/hisashim/docdiff ← CI(travisにした!! かわいい!)
+}}
+{{mail(shyouhei@ruby-lang.org,1313481449)
+卜部です。
+
+(08/15/2011 10:59 PM), SHIBATA Hiroshi wrote:
+> そういえば redmine.ruby-lang.org の話が先週横から聞こえてきたので絡みたいです。
+
+今日は仕事が忙しくて参加できないのですが、redmineの話をもしするなら[ruby-dev:44398]
+がredmineのせいでストップしてるので、もしさっくりなおるのなら各方面から感謝されると
+思います。
+}}

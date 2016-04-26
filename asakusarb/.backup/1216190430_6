@@ -1,0 +1,111 @@
+* 「第0回」をまとめてみました
+{{mail(shintaro@kakutani.com,1216138521)
+かくたにです。
+
+「Asakusa.rbをやろう!」とa_matsudaが鼻息荒かったときに、
+ko1さんがSeattle.rbのdrbrainにチャットで「Seattle.rbってどんなふうにやってるの？」と
+聞いてくれたIRCのログを翻訳してまとめてみました。
+
+http://qwik.jp/asakusarb/000_Log.html
+
+Asakusa.rbがモデルにしようとしているSeattle.rbは、
+毎週あつまって何かhackしているらしい人たちです。
+http://www.zenspider.com/Languages/Ruby/Seattle/index.html
+-- 
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}
+{{mail(gunjisatoshi@gmail.com,1216157872)
+郡司です。
+
+> かくたにです。
+>
+> 「Asakusa.rbをやろう!」とa_matsudaが鼻息荒かったときに、
+> ko1さんがSeattle.rbのdrbrainにチャットで「Seattle.rbってどんなふうにやってるの？」と
+> 聞いてくれたIRCのログを翻訳してまとめてみました。
+>
+> http://qwik.jp/asakusarb/000_Log.html
+
+なるほど、とても参考になります。
+全然イメージが湧いてなかったのですが、Seattle.rbの雰囲気ってこんな感じなのですね。
+
+「決まった時間に決まった場所」というのは、たしかに重要かもしれません。
+「あの時間のあの場所に行けば、誰かが何かやってるはず」という安心感が出ますね。
+
+あとは「無線LAN」ですね。第一回の「RUMOR CAFE＆BAR」もなかなか良かったの
+ですが、有線LANでしたね。
+
+＃みんなが使えるような無線ルータの設定が今のところ課題でしょうか。
+}}
+{{mail(shintaro@kakutani.com,1216173231)
+かくたにです。
+
+At Wed, 16 Jul 2008 06:37:50 +0900,
+Satoshi GUNJI wrote:
+> 
+> 「決まった時間に決まった場所」というのは、たしかに重要かもしれません。
+> 「あの時間のあの場所に行けば、誰かが何かやってるはず」という安心感が出ますね。
+
+そうですねえ。SICP読書会が「毎週だいたい決まった時間に」をやってますね。
+場所は毎回ちがうけど。日本のSeattle.rbはSICP読書会かもしれない。
+http://www.csus4.net/hiki/SICPReading/
+
+松田さんの馴染みの喫茶店が西日暮里にあるらしいんですが、
+いっぺんそこでもやってみませんか。
+ 
+> あとは「無線LAN」ですね。第一回の「RUMOR CAFE＆BAR」もなかなか良かったの
+> ですが、有線LANでしたね。
+> 
+> ＃みんなが使えるような無線ルータの設定が今のところ課題でしょうか。
+
+買っちゃえばいいんですかね。
+
+そういえば、こないだの1.9対応の修正がRailsにコミットされました。
+松田さんおつかれー
+http://github.com/rails/rails/commit/bb33432b0f5bf644713e696e4dafc7e7d3cc5808
+
+-- 
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}
+{{mail(ronnie@dio.jp,1216190430)
+松田です。
+
+> 松田さんの馴染みの喫茶店が西日暮里にあるらしいんですが、
+> いっぺんそこでもやってみませんか。
+
+
+はい。
+次回の第2回Asakusa.rbの開催についてですが、
+今のところ案が2つぐらい出ています。
+
+1つは、その西日暮里開催なんですが、お店はこんなところで、
+http://gamehell.g.hatena.ne.jp/keyword/フィレンツェ
+ここなら設備的な条件は満たしているし、客もめったに居ないので
+まぁお気軽に使えるんじゃないかとは思います。
+いきなり「浅草」じゃなくなっちゃいますが。(笑
+
+で、それよりもう1つ案が出てまして、第1回に参加さ 
+れた郡司さん
+からこんなご提案を頂いています。
+http://twitter.com/gunjisatoshi/statuses/856502142
+
+なんとも「浅草」らしいステキなご提案ですね。さすが営業。
+で、その場合の場所はどうするの？という話なんですが、郡司さんが
+http://twitter.com/gunjisatoshi/statuses/856834627
+
+とまで言ってくださっています。
+
+第2回にして少人数限定開催でしかも人んち開催っていう、
+なんとも内輪で一見さんお断りな集まりになってしまうのは
+極力避けたいところではあるのですが、とはいっても、
+「隅田川花火を見ながらHack」という年1回しか楽しめない
+浅草ならでは感たっぷりなイベントには非常に心惹かれるものがあり、
+とっても悩ましいところです。
+
+そこで、その他の案も含めてメンバーの皆様にも
+色々とご意見を伺いたいのですが、皆さんどう思われます？
+
+--
+松田 明<ronnie@dio.jp>
+}}

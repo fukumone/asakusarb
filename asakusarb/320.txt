@@ -1,0 +1,72 @@
+* @sferikと新宿で飲もう！
+{{mail(ronnie@dio.jp,1393403882)
+昨日のmeetupにも来てくれたOSSモンスター @sferik氏 https://github.com/sferik と、
+今日は新宿あたりで飲もうぜ！っていうことになりました。
+行き先とかはまだ決まってませんが、どうやら彼はゴールデン街とかに行ってみたいらしいです。
+
+そんなわけで、昨日来られた方も来られなかった方も、生sferikと交流してみたい方がいらっしゃれば、ぜひ新宿までお越しください。
+
+あと、ついでに、誰かいい店どこかたのむ。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(shintaro.kakutani@gmail.com,1393405350)
+うーんうーん、超いきたいけど無理そう…よろしく、お伝えください～
+
+2014年2月26日水曜日、Akira Matsuda<ronnie@dio.jp>さんは書きました:
+
+> 昨日のmeetupにも来てくれたOSSモンスター @sferik氏 https://github.com/sferik と、
+> 今日は新宿あたりで飲もうぜ！っていうことになりました。
+> 行き先とかはまだ決まってませんが、どうやら彼はゴールデン街とかに行ってみたいらしいです。
+>
+> そんなわけで、昨日来られた方も来られなかった方も、生sferikと交流してみたい方がいらっしゃれば、ぜひ新宿までお越しください。
+>
+> あと、ついでに、誰かいい店どこかたのむ。
+>
+> --
+> Akira Matsuda<ronnie@dio.jp<javascript:_e(%7B%7D,'cvml','ronnie@dio.jp');>
+> >
+>
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(her@sorah.jp,1393405568)
+昨日行けなかったので行きます!
+
+2014-02-26 17:37 GMT+09:00 Akira Matsuda <ronnie@dio.jp>:
+> 昨日のmeetupにも来てくれたOSSモンスター @sferik氏 https://github.com/sferik と、
+> 今日は新宿あたりで飲もうぜ！っていうことになりました。
+> 行き先とかはまだ決まってませんが、どうやら彼はゴールデン街とかに行ってみたいらしいです。
+>
+> そんなわけで、昨日来られた方も来られなかった方も、生sferikと交流してみたい方がいらっしゃれば、ぜひ新宿までお越しください。
+
+-- 
+Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+}}
+{{mail(draftcode@gmail.com,1393410203)
+面白そうなので行きます！
+--
+Masaya Suzuki
+draftcode@gmail.com
+
+
+2014-02-26 18:05 GMT+09:00 Shota Fukumori (sora_h) <her@sorah.jp>:
+> 昨日行けなかったので行きます!
+>
+> 2014-02-26 17:37 GMT+09:00 Akira Matsuda <ronnie@dio.jp>:
+>> 昨日のmeetupにも来てくれたOSSモンスター @sferik氏 https://github.com/sferik と、
+>> 今日は新宿あたりで飲もうぜ！っていうことになりました。
+>> 行き先とかはまだ決まってませんが、どうやら彼はゴールデン街とかに行ってみたいらしいです。
+>>
+>> そんなわけで、昨日来られた方も来られなかった方も、生sferikと交流してみたい方がいらっしゃれば、ぜひ新宿までお越しください。
+>
+> --
+> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/320.html
+> ML-> asakusarb@qwik.jp
+}}

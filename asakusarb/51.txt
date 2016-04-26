@@ -1,0 +1,38 @@
+* 第9回Asakusa.rb のおしらせ
+{{mail(ronnie@dio.jp,1242643707)
+松田です。
+
+なんかちゃんと告知するのを忘れてた気がしますね。
+もう明日ですね。毎度どうもすみません。
+
+第9回Asakusa.rbですが、先週に引き続き、以下の要領で開催します。
+WEBアプリ作ります！
+
+{{{
+第9回Asakusa.rb = {
+  日時: 5/19(Tue) 19:00ぐらい～
+  場所:  秋葉原ダイビル 13F http://www.i.u-tokyo.ac.jp/map/ 
+index.shtml#aki
+  内容: prsnt.orgのつづき
+}
+}}}
+
+内容は先週の続きですが、先週は結局開発自体はあんまり進んでないし、
+吉川さんが詳細なログを書いてくださってるので( @tsuyoshikawa 乙！)、
+
+第８回Asakusa.rb議事録 http://qwik.jp/asakusarb/50.html
+
+先週参加されてない方でも問題なくついてこれるはずです。
+
+それから、先週作ったやつはささださんのリポジトリができるまでの間、
+とりあえずGitHubの僕のとこにあげておきました。
+http://github.com/amatsuda/prsnt/tree/master
+ので、先週何をやったかについては、コミットログでもご覧ください。
+http://github.com/amatsuda/prsnt/commits/master
+
+そんな感じで、明日もみなさんのご参加をお待ちしております。
+よろしくお願いします。
+
+--
+Akira Matsuda<ronnie@dio.jp>
+}}

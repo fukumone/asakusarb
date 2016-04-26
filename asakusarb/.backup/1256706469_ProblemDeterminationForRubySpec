@@ -1,0 +1,15 @@
+* RubySpecの問題判別
+
+* ruby-devで相談する
+
+- [[ReportIssueViaRedmineRubyLangOrg]]
+
+* テストを通るようにしたら報告する
+
+rdoc (向こうの人たちと議論しやすい) や るりま で仕様なのかバグなのか確認しよう。
+
+redmine にバグとして上げられてるかも? -> '''ruby_bug''' という Guard もあるよ (あとで書く)
+
+タグをつけて飛ばすという手もある (もうちょっと調べる)
+
+IRCやMLでRubyの仕様に詳しいひとに相談したりするといいと思う。ruby-devデビュー(場合によってはruby-core :)のチャンス!

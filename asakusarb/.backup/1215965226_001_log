@@ -1,0 +1,125 @@
+* 第1回ログ
+
+* 日時
+2008年7月10日 19:30～
+
+* 場所
+RUMOR CAFE＆BAR~
+http://r.gnavi.co.jp/p908400
+
+* 参加者
+超豪華メンバー。
+
+* やったこと
+** 自己紹介
+自己紹介で「住んでる場所」を言うようにしてみたところ、みんなほんとに近所。~
+最寄り駅じゃなくて通りの名前でわかるぐらいww~
+最大派閥は墨田区。
+** Ruby 1.9 trunk のビルド
+まず、Ruby 1.9の trunk版をどこのディレクトリにインストールするかで以下の2つの派閥に分かれた。
+*** /tmp派
+ささだ先生。「そういうもんでしょ」
+*** ~派
+かくたにさんほか。「/tmpに入れたら再起動したら消えちゃうじゃん」
+
+** trunk取得、ビルド
+以下、OSX Leopardで ~/ruby/ にインストールするものとして進める。
+*** インストール先ディレクトリ作成
+ % mkdir ~/ruby
+ % cd ~/ruby
+*** チェックアウト
+ % svn co http://svn.ruby-lang.org/repos/ruby/trunk 
+*** configure
+ % autoconf
+ % ./configure --prefix=/Users/matsuda/ruby --program-suffix=19
+*** make
+ % make
+ % make test
+ % make install
+*** pathの設定
+ % vi ~/.zshenv
+ ~/ruby/bin: を追加。
+*** 実行してみる
+ % ruby19 -v
+
+** Rails edge の取得、テスト実行
+*** Rails edgeを ~/rails/ に展開してみる
+ % cd
+ % git clone git://github.com/rails/rails.git
+ % cd rails
+*** rake testの実行
+ % rake19 test
+ no such file to load -- rake/contrib/sshpublisher
+というエラーが発生する。
+*** gemで入れた rakeから実行
+ % gem19 install rake
+ % ~/ruby/bin/rake test
+sshpublisherのエラーは発生しなくなった。
+が、actionpackのテストで
+ TypeError: wrong argument type Proc (expected Binding)
+というエラーが大量に発生。
+ 1728 tests, 8765 assertions, 4 failures, 58 errors
+*** binding
+ささださんより、1.9からは Procを暗黙的に Bindingに変換しないように変更したから、明示的に Proc#binding を呼ばなきゃダメだよ、
+との指摘が入る。~
+~/rails/actionpack/lib/action_view/helpers/tag_helper.rb
+を以下のように書き換えてみる。
+ 118c118
+ <           block && eval(BLOCK_CALLED_FROM_ERB, block)
+ ---
+ >           block && eval(BLOCK_CALLED_FROM_ERB, block.binding)
+で、再実行。
+おおおー。直った！'''パッチが1個できた'''！(= 成果が出た)
+ 1728 tests, 8815 assertions, 1 failures, 15 errors
+でもなんか終了時に落ちるようになった(後述)。
+さらに、以下のように、mochaが必要、と何度も警告が出る。
+ Skipping should_cache_ok_at_custom_path tests. `gem install mocha` and try again.
+*** ので、mochaをインストール。
+ % gem19 install mocha
+再実行。
+エラー激減！！！
+ 2007 tests, 9400 assertions, 2 failures, 0 errors
+*** でもやっぱり終了時に落ちる
+エラー出力は以下のとおり。
+{{{
+-- control frame ----------
+c:0006 p:0035 s:0016 b:0015 l:000014 d:000014 METHOD /Users/matsuda/rails/actionpack/lib/action_controller/session/cookie_store.rb:159
+c:0005 p:0087 s:0010 b:0010 l:000009 d:000009 METHOD /Users/matsuda/rails/actionpack/lib/action_controller/session/cookie_store.rb:112
+c:0004 p:0026 s:0006 b:0006 l:002318 d:000005 BLOCK  /Users/matsuda/ruby/lib/ruby/1.9.0/cgi/session.rb:166
+c:0003 p:---- s:0006 b:0006 l:000005 d:000005 FINISH :set_encoding
+c:0002 p:---- s:0004 b:0004 l:000003 d:000003 CFUNC  :call
+c:0001 p:0000 s:0002 b:0002 l:000001 d:000001 TOP    <dummy toplevel>:33656
+---------------------------
+DBG> : "/Users/matsuda/rails/actionpack/lib/action_controller/session/cookie_store.rb:159:in `write_cookie'"
+DBG> : "/Users/matsuda/rails/actionpack/lib/action_controller/session/cookie_store.rb:112:in `close'"
+DBG> : "/Users/matsuda/ruby/lib/ruby/1.9.0/cgi/session.rb:166:in `block in callback'"
+DBG> : ":0:in `call'"
+-- backtrace of native function call (Use addr2line) --
+0xfca66
+0x2520c
+0x2524b
+0xafa31
+0x94e5909b
+0xffffffff
+0xe81e6
+0xe8256
+0xe8351
+0xf3d08
+0xf4acb
+0xf502b
+0x2d24e
+0xe7ef5
+0xf607d
+0xebe1d
+0xf5b3a
+0x36cb1
+0x286a2
+0x37d53
+0x37f82
+0x2aa88
+0x2ac16
+0x260f
+0x2576
+-------------------------------------------------------
+}}}
+(未完)

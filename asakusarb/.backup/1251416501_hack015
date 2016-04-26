@@ -1,0 +1,308 @@
+* 第15回 Asakusa.rb (2009-08-25)
+
+**日時
+2009/8/25(Tue) 19:30～22:15
+
+**場所
+永和システムマネジメント 東京支社~
+http://www.esm.co.jp/company/map_tokyo.html
+
+**内容
+wycatsさんの提案を巡って。また、丁度[[前回|63.html]]来てない人が多かったので全員でおさらい。
+
+**参加者（来た順）
+松田さん~
+諸橋さん~
+三村さん~
+かくたにさん~
+吉川さん~
+宮内さん~
+レオさん~
+志村さん~
+ささださん~
+
+**procオブジェクトリテラルで{ }どうよの提案
+
+-[[ruby-core:25041~|http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/25041]]
+--Hashリテラルとしてparse出来なかった場合にProcオブジェクトとして評価
+--{}（空ハッシュオブジェクトのリテラル）は除く
+--可能ならば、ログを貼って下さい
+
+-Rails勉強会では9/30人肯定。
+--wycatsさんは満足のもよう
+
+-肯定派意見
+--なんかもう無名の質を感ずる（キメると気持ちいい）
+--これなしでは書けない（今のところwycatsさんのみ）
+--ブロック渡しがあるんだから、独立したブロックみたいな表記法がないとおかしい
+--見かけの上で2つ以上のブロック渡しも出来てるように見えるかも
+
+-否定派
+--ハッシュリテラルと表記がかぶってる事による曖昧さが生まれる（対人の可読性とか特に）
+--lambdaの新表記 ->{} を使おうよ
+--あんまりどうでもいい
+
+-【閑話休題】lambdaとProcの違いおさらい
+--breakでLocalJumpErrorが出たりの挙動の違いがあるよ
+--Procだとreturnで呼び出しのメソッドの処理が中断されたり
+--ブロック=Procオブジェクト
+
+-結論
+--使ってみないと分からない、使ってみるといい感じかも？
+--書いてるうちによい場面が出てくるのは確か
+--でも積極的に使う程の気力が湧く程のことでもない
+--そんなことよりMoshの話しよーぜ！
+--ささださんは「どっちでもよい」
+
+**前回のおさらい
+-GCパッチについて
+--噂のセプキャンの学生が書いた15倍速くなるパッチなんかは？
+---ある特定の場合のみ（nilとFixnumの比較）で有効
+--ささださんによるGC講習
+---Rubyのヒープ構造の説明
+---最近までは二分探索木のアルゴリズムを用いてた
+---REEのcopy on right方式がtrunkに取り込まれなかったのは（？失念）
+---現在はオブジェクトがfreeされ易いようにスロットのサイズを小さくして、線形探索するように戻した
+---そのパッチもささださんが書かれてました
+
+**ruby-debugの1.9support
+-動いたみたい
+-infoQにも関連記事が載った(http://www.infoq.com/news/2009/08/ruby19-rubydebug-macruby)
+-ついでにRuby Switcherの事も書かれてた(http://blog.thinkrelevance.com/2009/7/29/ruby-switcher-working-with-multiple-ruby-versions-has-never-been-this-easy)
+
+**hwia(HashWithIndifferentAccess)
+-ベンチはまあ置いておいて、hwiaって略称が良いよね
+
+**お金の話...
+-日本Rubyの会の活動資金は会長マネーに頼っている現状があったり
+-一方RailsBridgeなんてコミュニティが基金を募ってたり(http://railsbridge.org/)
+--海の向うでは温度感というか、感覚がそもそも違う
+-微妙な大金はあるという話とか。人を雇って何かを成すには少額過ぎる
+-生々しいけど、しなければいけない話ではある
+
+**1.9のRubySpecが無い
+-その前に実際RubySpec動かしてみたことあんまりない
+-ここをみて http://www.engineyard.com/blog/2009/what-is-rubyspec/
+-ここのをcloneして http://github.com/rubyspec/rubyspec/tree/master
+-1.9でmspec実行するとsegvのところもチラホラ
+-hhe
+-末尾の"You may countered..."は1.9では"You may have countered..."に既に訂正済だった
+-今後はRubySpecを実行して、ちょこちょこ直して行くのが活動的には良いかもしれない
+
+
+{{mail(shintaro@kakutani.com,1251072389)
+かくたにです。
+メール出したつもりがdraftにいた!!
+
+2009-08-25に第15回をやります。
+see also: http://qwik.jp/asakusarb/60.html
+ご参加の方はこのメールにご返信ください。
+
+-- 
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}
+{{mail(ronnie@dio.jp,1251072877)
+松田です。
+
+参加します！
+
+--
+Akira Matsuda<ronnie@dio.jp>
+
+
+On 2009/08/24, at 9:06, KAKUTANI Shintaro wrote:
+
+> かくたにです。
+> メール出したつもりがdraftにいた!!
+>
+> 2009-08-25に第15回をやります。
+> see also: http://qwik.jp/asakusarb/60.html
+> ご参加の方はこのメールにご返信ください。
+>
+> -- 
+> { :name: ["KAKUTANI", "Shintaro"],
+>  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}
+{{mail(tsuyoshikawa@gmail.com,1251103559)
+吉川です。
+
+参加したいです！
+
+2009/08/24 9:14 に Akira Matsuda<ronnie@dio.jp> さんは書きました:
+> 松田です。
+>
+> 参加します！
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+>
+>
+> On 2009/08/24, at 9:06, KAKUTANI Shintaro wrote:
+>
+>> かくたにです。
+>> メール出したつもりがdraftにいた!!
+>>
+>> 2009-08-25に第15回をやります。
+>> see also: http://qwik.jp/asakusarb/60.html
+>> ご参加の方はこのメールにご返信ください。
+>>
+>> --
+>> { :name: ["KAKUTANI", "Shintaro"],
+>>  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/66.html ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+吉川　毅<tsuyoshikawa@gmail.com>
+}}
+{{mail(l.g.chin@gmail.com,1251105331)
+レオです。
+
+参加したい!
+
+2009/8/24 吉川毅 <tsuyoshikawa@gmail.com>:
+> 吉川です。
+>
+> 参加したいです！
+>
+> 2009/08/24 9:14 に Akira Matsuda<ronnie@dio.jp> さんは書きました:
+>> 松田です。
+>>
+>> 参加します！
+>>
+>> --
+>> Akira Matsuda<ronnie@dio.jp>
+>>
+>>
+>> On 2009/08/24, at 9:06, KAKUTANI Shintaro wrote:
+>>
+>>> かくたにです。
+>>> メール出したつもりがdraftにいた!!
+>>>
+>>> 2009-08-25に第15回をやります。
+>>> see also: http://qwik.jp/asakusarb/60.html
+>>> ご参加の方はこのメールにご返信ください。
+>>>
+>>> --
+>>> { :name: ["KAKUTANI", "Shintaro"],
+>>> ?:email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+>>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/66.html ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+> 吉川　毅<tsuyoshikawa@gmail.com>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/66.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(fistfvck@gmail.com,1251153308)
+宮内です。
+
+参加したい!
+
+2009/08/24 9:06 に KAKUTANI Shintaro<shintaro@kakutani.com> さんは書きました:
+> かくたにです。
+> メール出したつもりがdraftにいた!!
+>
+> 2009-08-25に第15回をやります。
+> see also: http://qwik.jp/asakusarb/60.html
+> ご参加の方はこのメールにご返信ください。
+>
+> --
+> { :name: ["KAKUTANI", "Shintaro"],
+>  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+>
+> --
+> archive-> http://qwik.jp/asakusarb/66.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shimura-hir@obun.jp,1251176253)
+到着20時回る(20時半くらい?)と思いますが参加したいです。
+
+		志村 弘之
+
+In message "[asakusarb:337] Re: 第15回 Asakusa.rb (2009-08-25)", 
+<5102a48d0908241535w12ca229dqc570b82baed91d60@mail.gmail.com>, 
+ >> かくたにです。
+
+ >> 2009-08-25に第15回をやります。
+ >> see also: http://qwik.jp/asakusarb/60.html
+ >> ご参加の方はこのメールにご返信ください。
+
+---------------------------------------+---------+---------+以上 2009/8/25
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}
+{{mail(gunjisatoshi@gmail.com,1251196160)
+郡司です。
+
+参加の予定だったのですが、風邪っぽいので
+時節柄大事をとって欠席します。すみません‥‥。
+
+
+2009/08/24 9:06 に KAKUTANI Shintaro<shintaro@kakutani.com> さんは書きました:
+> かくたにです。
+> メール出したつもりがdraftにいた!!
+>
+> 2009-08-25に第15回をやります。
+> see also: http://qwik.jp/asakusarb/60.html
+> ご参加の方はこのメールにご返信ください。
+>
+> --
+> { :name: ["KAKUTANI", "Shintaro"],
+>  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+>
+> --
+> archive-> http://qwik.jp/asakusarb/66.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shimura-hir@obun.jp,1251199897)
+20時半無理でした。
+ちょっと途中参加難しいです、すいません。
+		志村 弘之
+
+In message "[asakusarb:338] Re: 第15回 Asakusa.rb (2009-08-25)", 
+<200908250457.AA01949@ds5100c.obun.jp>, 
+H.Shimura wrote...
+ >到着20時回る(20時半くらい?)と思いますが参加したいです。
+ >
+ >		志村 弘之
+ >
+ >In message "[asakusarb:337] Re: 第15回 Asakusa.rb (2009-08-25)", 
+ ><5102a48d0908241535w12ca229dqc570b82baed91d60@mail.gmail.com>, 
+ > >> かくたにです。
+ >
+ > >> 2009-08-25に第15回をやります。
+ > >> see also: http://qwik.jp/asakusarb/60.html
+ > >> ご参加の方はこのメールにご返信ください。
+ >
+ >---------------------------------------+---------+---------+以上 2009/8/25
+ >
+ >志村弘之  mailto: shimura-hir@obun.jp
+ >
+ >
+ >-- 
+ >archive-> http://qwik.jp/asakusarb/66.html 
+ >ML-> asakusarb@qwik.jp
+ >
+
+
+---------------------------------------+---------+---------+以上 2009/8/25
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}

@@ -1,0 +1,36 @@
+* ruby meetup in tokyo: asakusa.rb
+{{mail(ronnie@dio.jp,1282694806)
+Hi Sarah & Sarah,
+
+thank you for attending Asakusa.rb yesterday. I think we really had a
+wonderful time!
+And thank you for your quick writeup!
+http://www.ultrasaurus.com/sarahblog/2010/08/ruby-meetup-in-tokyo-asakusa-rb/
+
+> I wish I had the whole list!
+Here's the list of people.map {|p| p.twitter_account,
+p.talk_at_rubykaigi}.sort_by {|p| p.order_of_introduction_last_night}
+# I hope I'm not missing anyone...
+
+@a_matsuda  http://rubykaigi.org/2010/en/events/61
+@moro  http://rubykaigi.org/2010/en/events/66
+@knsmr
+@igaiga555  http://rubykaigi.org/2010/en/events/20
+@cesare
+@yasuko  http://rubykaigi.org/2010/en/events/9
+@ultrasaurus  http://rubykaigi.org/2010/en/events/16
+@eto
+@hsbt  http://rubykaigi.org/2010/en/events/91
+@sarahmei  http://rubykaigi.org/2010/en/events/11
+@takkanm
+@takahashim http://rubykaigi.org/2010/en/events/1
+@kakutani  http://rubykaigi.org/2010/en/events/78
+@n0kada
+@t_wada
+
+Feel free to take contact to any one in the list.
+Enjoy your stay, and enjoy RubyKaigi!
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}

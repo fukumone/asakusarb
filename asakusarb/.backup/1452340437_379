@@ -1,0 +1,38 @@
+* qwik.jpメールテスト
+{{mail(etocom2009@gmail.com,1452330597)
+みなさま、こんばんは。江渡です。どうもごぶさたしております。
+メールがちゃんと届くかどうかのテストです。あーあー。聞こえてますか？
+}}
+{{mail(ronnie@dio.jp,1452331010)
+2016-01-09 18:09 GMT+09:00 Koichiro Eto <etocom2009@gmail.com>:
+
+> みなさま、こんばんは。江渡です。どうもごぶさたしております。
+> メールがちゃんと届くかどうかのテストです。あーあー。聞こえてますか？
+>
+>
+聞こえてますー！
+
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(h-shimur@venus.dti.ne.jp,1452340436)
+聞こえています
+	志村 弘之
+
+Subject: [asakusarb:6185] Re: qwik.jpメールテスト
+MsgId:<CA+aYBvFw_1+24znRoToobySmmKFott900FXDMdWnDUsTgzXwdw@mail.gmail.com>
+Akira Matsuda wrote on Sat, 9 Jan 2016 18:16:18 +0900
+>2016-01-09 18:09 GMT+09:00 Koichiro Eto <etocom2009@gmail.com>:
+>
+>> みなさま、こんばんは。江渡です。どうもごぶさたしております。
+>> メールがちゃんと届くかどうかのテストです。あーあー。聞こえてますか？
+>>
+>>
+>聞こえてますー！
+
+----------------------------------------+---------+---------+以上 16/1/9
+
+志村 弘之
+shimura-hir@obun.jp
+}}

@@ -1,0 +1,369 @@
+* 東京Ruby会議03のワークショップでrvmのネタはどうでしょう
+{{mail(shintaro.kakutani@gmail.com,1265122191)
+今日のAsakusa.rbで思ったのですが、
+東京Ruby会議03の1時間のワークショップの枠でrvmのインストールをやるのはどうでしょう。
+(実行委員長のtakaiによれば、まだ枠はあるそうです)
+
+たとえばですけど、takkanmとfistfvskとか!
+
+rubyspecはmameさんが薙ぎ倒してるから安心ですね
+-- 
+Kakutani Shintaro
+}}
+{{mail(takkanm@gmail.com,1265124734)
+takkanmです。
+
+とりあえず、takaiさんに連絡とってみようかと思います。
+# というか、takaiさん、ここ見られているんでしたっけ?
+
+2010年2月2日23:49 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> 今日のAsakusa.rbで思ったのですが、
+> 東京Ruby会議03の1時間のワークショップの枠でrvmのインストールをやるのはどうでしょう。
+> (実行委員長のtakaiによれば、まだ枠はあるそうです)
+>
+> たとえばですけど、takkanmとfistfvskとか!
+>
+> rubyspecはmameさんが薙ぎ倒してるから安心ですね
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/89.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1265124767)
+Akasakaの人はいないんじゃない?
+
+2010/2/3  <takkanm@gmail.com>:
+> takkanmです。
+>
+> とりあえず、takaiさんに連絡とってみようかと思います。
+> # というか、takaiさん、ここ見られているんでしたっけ?
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(ayumu.aizawa@gmail.com,1265124915)
+あいざわです
+
+Asakusaにも入ってますよー。
+ようやく八王子脱出できたので来週くらいからお邪魔したいと思っています。
+
+2010年2月3日0:32 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> Akasakaの人はいないんじゃない?
+>
+> 2010/2/3  <takkanm@gmail.com>:
+>> takkanmです。
+>>
+>> とりあえず、takaiさんに連絡とってみようかと思います。
+>> # というか、takaiさん、ここ見られているんでしたっけ?
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/89.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(fistfvck@gmail.com,1265125534)
+こんにちわ、宮内です。
+最近、meetup参加できなくて申し訳ないです…。
+
+rvmのインストールですと、 rvm notes とか、 [素敵なまとめサイト][1] があるので、
+５５分ぐらい尺が余っちゃう気がします。
+
+なにかお手伝いできることがあれば、とは思いますが…。
+
+[1]: http://qwik.jp/asakusarb/rvm.html
+
+2010年2月2日23:49 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> 今日のAsakusa.rbで思ったのですが、
+> 東京Ruby会議03の1時間のワークショップの枠でrvmのインストールをやるのはどうでしょう。
+> (実行委員長のtakaiによれば、まだ枠はあるそうです)
+>
+> たとえばですけど、takkanmとfistfvskとか!
+>
+> rubyspecはmameさんが薙ぎ倒してるから安心ですね
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/89.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1265125855)
+時間があまったらMaglevとかRubiniusをビルドするといいんじゃないかナー
+と思いました。
+
+2010/2/3 fistfvck <fistfvck@gmail.com>:
+> こんにちわ、宮内です。
+> 最近、meetup参加できなくて申し訳ないです…。
+>
+> rvmのインストールですと、 rvm notes とか、 [素敵なまとめサイト][1] があるので、
+> ５５分ぐらい尺が余っちゃう気がします。
+>
+> なにかお手伝いできることがあれば、とは思いますが…。
+>
+> [1]: http://qwik.jp/asakusarb/rvm.html
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(ko1@atdot.net,1265125960)
+(2010/02/03 0:50), KAKUTANI Shintaro wrote::
+> 時間があまったらMaglevとかRubiniusをビルドするといいんじゃないかナー
+> と思いました。
+
+　時間が余ったらバグを潰すというのはどうでしょうか．
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(takkanm@gmail.com,1265126045)
+今日hibariyaさんに教えたぐらいだと、ちゃんと教えようと思うと15分ぐらいかかる感じですかねぇ。あとは、私もバグ潰しとかがいいと思ってました。だいぶ、変だなぁと思う箇所があるので。
+
+2010年2月3日0:52 SASADA Koichi <ko1@atdot.net>:
+> (2010/02/03 0:50), KAKUTANI Shintaro wrote::
+>> 時間があまったらMaglevとかRubiniusをビルドするといいんじゃないかナー
+>> と思いました。
+>
+> 時間が余ったらバグを潰すというのはどうでしょうか．
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+> --
+> archive-> http://qwik.jp/asakusarb/89.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1265126161)
+「最近はわりと安定してる」は嘘だったのか……。
+rvmはコードも報告の仕方も独特なので、そのへんも教えてあげるといいと思いました(ついでにqwikのページも編集したりするといいかも)。
+
+「1.8と1.9を両方使える」っぽい環境に普通のRubyistが馴染めるのは
+いいことだと思います! Asakusaっぽい!
+
+
+2010/2/3  <takkanm@gmail.com>:
+> 今日hibariyaさんに教えたぐらいだと、ちゃんと教えようと思うと15分ぐらいかかる感じですかねぇ。あとは、私もバグ潰しとかがいいと思ってました。だいぶ、変だなぁと思う箇所があるので。
+>
+> 2010年2月3日0:52 SASADA Koichi <ko1@atdot.net>:
+>> (2010/02/03 0:50), KAKUTANI Shintaro wrote::
+>>> 時間があまったらMaglevとかRubiniusをビルドするといいんじゃないかナー
+>>> と思いました。
+>>
+>> 時間が余ったらバグを潰すというのはどうでしょうか．
+>>
+>> --
+>> // SASADA Koichi at atdot dot net
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/89.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/89.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(ayumu.aizawa@gmail.com,1265127385)
+東京Ruby会議実行委員のあいざわです。
+
+ネタが煮詰まったら下記フォームからお申し込みください。
+http://spreadsheets.google.com/viewform?formkey=dF82cS05ZUtSNC1EWGJncm8yd1Mta0E6MA
+
+しばらくすると実行委員の櫻井さんから連絡が行くはずです。
+
+今のトコWeb（というかRails）ネタにワークショップが偏ってしまっている感じなので、
+個人的にこういうワークショップは欲しいところです。
+なお、会場配置の状況を今確認中です。たぶん大丈夫だとは思うのですが、万一島数が
+物理的に用意できない場合Rjectさせていただく可能性もあるのであらかじめご了承くだ
+さいませ。
+
+2010年2月3日0:56 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+> 「最近はわりと安定してる」は嘘だったのか……。
+> rvmはコードも報告の仕方も独特なので、そのへんも教えてあげるといいと思いました(ついでにqwikのページも編集したりするといいかも)。
+>
+> 「1.8と1.9を両方使える」っぽい環境に普通のRubyistが馴染めるのは
+> いいことだと思います! Asakusaっぽい!
+>
+>
+> 2010/2/3  <takkanm@gmail.com>:
+>> 今日hibariyaさんに教えたぐらいだと、ちゃんと教えようと思うと15分ぐらいかかる感じですかねぇ。あとは、私もバグ潰しとかがいいと思ってました。だいぶ、変だなぁと思う箇所があるので。
+>>
+>> 2010年2月3日0:52 SASADA Koichi <ko1@atdot.net>:
+>>> (2010/02/03 0:50), KAKUTANI Shintaro wrote::
+>>>> 時間があまったらMaglevとかRubiniusをビルドするといいんじゃないかナー
+>>>> と思いました。
+>>>
+>>> 時間が余ったらバグを潰すというのはどうでしょうか．
+>>>
+>>> --
+>>> // SASADA Koichi at atdot dot net
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/89.html
+>>> ML-> asakusarb@qwik.jp
+>>>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/89.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/89.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(takkanm@gmail.com,1265127998)
+あいざわさん
+ありがとうございます。
+
+fistfvckさん
+とりあえず、わたしのほうで応募しておきますか?内容は以下のようなかんじですかね?
+- rvmとは
+- rvmのインストール
+- rvmの簡単な使いかた
+- rvm のソース読み
+
+ちなみに私のrvmが最近安定してきたという発言は、以前rvmのスクリプトのロード自体でこけていた時代があったので、それにくらべたらちゃんと動く最近のバージョンはだいぶ安定しているという意味です。決して、helpにのっているサブコマンドもちゃんと動くというわけではありませんので、あしからず。
+
+2010年2月3日1:16 Ayumu Aizawa <ayumu.aizawa@gmail.com>:
+> 東京Ruby会議実行委員のあいざわです。
+>
+> ネタが煮詰まったら下記フォームからお申し込みください。
+> http://spreadsheets.google.com/viewform?formkey=dF82cS05ZUtSNC1EWGJncm8yd1Mta0E6MA
+>
+> しばらくすると実行委員の櫻井さんから連絡が行くはずです。
+>
+> 今のトコWeb（というかRails）ネタにワークショップが偏ってしまっている感じなので、
+> 個人的にこういうワークショップは欲しいところです。
+> なお、会場配置の状況を今確認中です。たぶん大丈夫だとは思うのですが、万一島数が
+> 物理的に用意できない場合Rjectさせていただく可能性もあるのであらかじめご了承くだ
+> さいませ。
+>
+> 2010年2月3日0:56 KAKUTANI Shintaro <shintaro.kakutani@gmail.com>:
+>> 「最近はわりと安定してる」は嘘だったのか……。
+>> rvmはコードも報告の仕方も独特なので、そのへんも教えてあげるといいと思いました(ついでにqwikのページも編集したりするといいかも)。
+>>
+>> 「1.8と1.9を両方使える」っぽい環境に普通のRubyistが馴染めるのは
+>> いいことだと思います! Asakusaっぽい!
+>>
+>>
+>> 2010/2/3  <takkanm@gmail.com>:
+>>> 今日hibariyaさんに教えたぐらいだと、ちゃんと教えようと思うと15分ぐらいかかる感じですかねぇ。あとは、私もバグ潰しとかがいいと思ってました。だいぶ、変だなぁと思う箇所があるので。
+>>>
+>>> 2010年2月3日0:52 SASADA Koichi <ko1@atdot.net>:
+>>>> (2010/02/03 0:50), KAKUTANI Shintaro wrote::
+>>>>> 時間があまったらMaglevとかRubiniusをビルドするといいんじゃないかナー
+>>>>> と思いました。
+>>>>
+>>>> 時間が余ったらバグを潰すというのはどうでしょうか．
+>>>>
+>>>> --
+>>>> // SASADA Koichi at atdot dot net
+>>>>
+>>>> --
+>>>> archive-> http://qwik.jp/asakusarb/89.html
+>>>> ML-> asakusarb@qwik.jp
+>>>>
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/89.html
+>>> ML-> asakusarb@qwik.jp
+>>>
+>>
+>>
+>>
+>> --
+>> Kakutani Shintaro
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/89.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/89.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1265128767)
+ときに、fistfvckは当日参加できるんでしょうか?
+(このために無理に来るとかだったらそれはそれでよくないので……)
+
+2010/2/3  <takkanm@gmail.com>:
+> ちなみに私のrvmが最近安定してきたという発言は、以前rvmのスクリプトのロード自体でこけていた時代があったので、それにくらべたらちゃんと動く最近のバージョンはだいぶ安定しているという意味です。決して、helpにのっているサブコマンドもちゃんと動くというわけではありませんので、あしからず。
+
+こ、これは失礼しました!! w00t!
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(fistfvck@gmail.com,1265133408)
+宮内です。
+
+takkanmさん
+おんぶだっこで申し訳ありませんが、お願いします。
+> fistfvckさん
+> とりあえず、わたしのほうで応募しておきますか?内容は以下のようなかんじですかね?
+> - rvmとは
+> - rvmのインストール
+> - rvmの簡単な使いかた
+> - rvmのソース読み
+
+kakutaniさん
+だいじょぶです。
+> ときに、fistfvckは当日参加できるんでしょうか?
+> (このために無理に来るとかだったらそれはそれでよくないので……)
+}}
+{{mail(gunjisatoshi@gmail.com,1265153830)
+郡司です。
+
+＃最近meetupはご無沙汰しております
+
+ときに、rvmだとbuild環境が必要ですよね。
+そのへんは大丈夫でしょうか？
+（Ruby会議に来る人なら、当然準備している？）
+
+素のWindowsユーザーだったりすると厳しいかも。
+
+
+2010年2月3日2:56 fistfvck <fistfvck@gmail.com>:
+> 宮内です。
+>
+> takkanmさん
+> おんぶだっこで申し訳ありませんが、お願いします。
+>> fistfvckさん
+>> とりあえず、わたしのほうで応募しておきますか?内容は以下のようなかんじですかね?
+>> - rvmとは
+>> - rvmのインストール
+>> - rvmの簡単な使いかた
+>> - rvmのソース読み
+>
+> kakutaniさん
+> だいじょぶです。
+>> ときに、fistfvckは当日参加できるんでしょうか?
+>> (このために無理に来るとかだったらそれはそれでよくないので……)
+>
+> --
+> archive-> http://qwik.jp/asakusarb/89.html
+> ML-> asakusarb@qwik.jp
+>
+}}

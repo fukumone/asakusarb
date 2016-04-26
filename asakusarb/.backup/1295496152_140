@@ -1,0 +1,438 @@
+* 大江戸Ruby会議01のコンテンツ
+{{mail(shintaro.kakutani@gmail.com,1295399087)
+かくたにです。
+
+昨晩の[[hack086]]で話した内容を、
+http://qwik.jp/asakusarb/OedoRubyKaigi01.html
+に反映しました。興味のあるかたはご確認ください。
+
+で、タイムテーブルをちょっとイジりました:
+
+- 13:10 open
+- 13:30 - 14:00(30), opening keynote: a_matsuda
+- 14:00 - 14:30(30), invited talk: ko1
+- 14:30 - 14:45(15), tea break
+- 14:45 - 15:30(45), ninja talks(15min x 3)
+- 15:30 - 15:45(15), break
+- 15:45 - 16:30(45), ninja talks(15 min x 3)
+- 16:30 - 16:50(15), closing & clea up
+
+それぞれ休憩とクロージングの5分をバッファにすれば
+15分のNinja Talkを6本入れられるといえばいれられそう。
+
+誰に話してもらうかをちょっと考えました。
+他に「こういう人に大江戸で話してもらいたい!!」というのが
+あれば是非。
+
+- emorima  [Confirmed]
+
+どういう内容なのかもふくめて快諾いただきましたので、確定。
+
+- ukstudio(15min) [Temtative]
+
+TWitterで何か話したいと言っていたので。
+
+- yamaz [TBN]
+
+地元の星、スケールアウトの宣伝でもかまわないので、
+そろそろ山崎さんにも話してもらえるといいなー、と思うんですが
+いかがでしょうか。まだ交渉してません。
+
+- nahi [TBN]
+
+日曜日なのでご都合次第だとは思うのですが、
+nahiさんに話してもらえるとうれしいなーと
+思ったけど交渉すらしていません。
+
+- hsbt [Temtative]
+
+レギュラーメンバーだし、本人も乗り気なので
+話してもらっていいと思います。
+
+- secondlife(?)
+
+セコンメンバーもRubyistの集まりで話すリハビリに
+どうですかねえ。未交渉。
+
+- kuko(?)
+
+レクホールは大音量は禁止らしいので、ブブゼラはやばいかもw
+
+そういえば、司会と進行はかくたにがやります。
+}}
+{{mail(hotchpotch@gmail.com,1295400675)
+せこんです。
+
+ninja talk 参加したいです。
+内容は Continius Deployment (多人数開発 -> テスト -> デプロイ)
+を Rails プロダクトでどう高速にイテレーションするかみたいな話をしたいです :D
+
+
+2011年1月19日10:04 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> かくたにです。
+>
+> 昨晩の[[hack086]]で話した内容を、
+> http://qwik.jp/asakusarb/OedoRubyKaigi01.html
+> に反映しました。興味のあるかたはご確認ください。
+>
+> で、タイムテーブルをちょっとイジりました:
+>
+> - 13:10 open
+> - 13:30 - 14:00(30), opening keynote: a_matsuda
+> - 14:00 - 14:30(30), invited talk: ko1
+> - 14:30 - 14:45(15), tea break
+> - 14:45 - 15:30(45), ninja talks(15min x 3)
+> - 15:30 - 15:45(15), break
+> - 15:45 - 16:30(45), ninja talks(15 min x 3)
+> - 16:30 - 16:50(15), closing & clea up
+>
+> それぞれ休憩とクロージングの5分をバッファにすれば
+> 15分のNinja Talkを6本入れられるといえばいれられそう。
+>
+> 誰に話してもらうかをちょっと考えました。
+> 他に「こういう人に大江戸で話してもらいたい!!」というのが
+> あれば是非。
+>
+> - emorima  [Confirmed]
+>
+> どういう内容なのかもふくめて快諾いただきましたので、確定。
+>
+> - ukstudio(15min) [Temtative]
+>
+> TWitterで何か話したいと言っていたので。
+>
+> - yamaz [TBN]
+>
+> 地元の星、スケールアウトの宣伝でもかまわないので、
+> そろそろ山崎さんにも話してもらえるといいなー、と思うんですが
+> いかがでしょうか。まだ交渉してません。
+>
+> - nahi [TBN]
+>
+> 日曜日なのでご都合次第だとは思うのですが、
+> nahiさんに話してもらえるとうれしいなーと
+> 思ったけど交渉すらしていません。
+>
+> - hsbt [Temtative]
+>
+> レギュラーメンバーだし、本人も乗り気なので
+> 話してもらっていいと思います。
+>
+> - secondlife(?)
+>
+> セコンメンバーもRubyistの集まりで話すリハビリに
+> どうですかねえ。未交渉。
+>
+> - kuko(?)
+>
+> レクホールは大音量は禁止らしいので、ブブゼラはやばいかもw
+>
+> そういえば、司会と進行はかくたにがやります。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/140.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shibata.hiroshi@gmail.com,1295401049)
+柴田です。
+
+2011年1月19日10:31 secondlife <hotchpotch@gmail.com>:
+> せこんです。
+>
+> ninja talk 参加したいです。
+> 内容は Continius Deployment (多人数開発 -> テスト -> デプロイ)
+> を Rails プロダクトでどう高速にイテレーションするかみたいな話をしたいです :D
+
+おー、これは期待大!
+
+デプロイの話をうだうだやろうとかと思っていたのですが、かぶりそうなので
+エンドツーエンドテストとか、やるときのポイントみたいな話に変更しようかと
+思っています。
+
+-- 
+SHIBATA Hiroshi
+mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(shintaro.kakutani@gmail.com,1295401912)
+2011/1/19 secondlife <hotchpotch@gmail.com>:
+> せこんです。
+>
+> ninja talk 参加したいです。
+> 内容は Continius Deployment (多人数開発 -> テスト -> デプロイ)
+> を Rails プロダクトでどう高速にイテレーションするかみたいな話をしたいです :D
+
+great. 15分しかないけどいいかな?
+}}
+{{mail(hotchpotch@gmail.com,1295402053)
+せこんです。
+
+> great. 15分しかないけどいいかな?
+15分で大丈夫です！
+
+長めの話は RubyKaigi2011 にでも(枠が通れば)話そうと思います。
+
+2011年1月19日10:51 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 2011/1/19 secondlife <hotchpotch@gmail.com>:
+>> せこんです。
+>>
+>> ninja talk 参加したいです。
+>> 内容は Continius Deployment (多人数開発 -> テスト -> デプロイ)
+>> を Rails プロダクトでどう高速にイテレーションするかみたいな話をしたいです :D
+>
+> great. 15分しかないけどいいかな?
+>
+> --
+> archive-> http://qwik.jp/asakusarb/140.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1295402260)
+たのもしい!
+
+2011/1/19 secondlife <hotchpotch@gmail.com>:
+> 長めの話は RubyKaigi2011 にでも(枠が通れば)話そうと思います。
+
+あい。是非ぜひよろしくおねがいします!
+-- 
+Kakutani Shintaro
+}}
+{{mail(ronnie@dio.jp,1295404749)
+2011/1/19 secondlife <hotchpotch@gmail.com>:
+> せこんです。
+>
+> ninja talk 参加したいです。
+> 内容は Continius Deployment (多人数開発 -> テスト -> デプロイ)
+> を Rails プロダクトでどう高速にイテレーションするかみたいな話をしたいです :D
+
+おおー。楽しみ！
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(ko1@atdot.net,1295404853)
+開催までのスケジュール感ってどんな感じなんでしょうか．
+
+(2011/01/19 10:04), Kakutani Shintaro wrote:
+> かくたにです。
+> 
+> 昨晩の[[hack086]]で話した内容を、
+> http://qwik.jp/asakusarb/OedoRubyKaigi01.html
+> に反映しました。興味のあるかたはご確認ください。
+> 
+> で、タイムテーブルをちょっとイジりました:
+> 
+> - 13:10 open
+> - 13:30 - 14:00(30), opening keynote: a_matsuda
+> - 14:00 - 14:30(30), invited talk: ko1
+> - 14:30 - 14:45(15), tea break
+> - 14:45 - 15:30(45), ninja talks(15min x 3)
+> - 15:30 - 15:45(15), break
+> - 15:45 - 16:30(45), ninja talks(15 min x 3)
+> - 16:30 - 16:50(15), closing & clea up
+> 
+> それぞれ休憩とクロージングの5分をバッファにすれば
+> 15分のNinja Talkを6本入れられるといえばいれられそう。
+> 
+> 誰に話してもらうかをちょっと考えました。
+> 他に「こういう人に大江戸で話してもらいたい!!」というのが
+> あれば是非。
+> 
+> - emorima  [Confirmed]
+> 
+> どういう内容なのかもふくめて快諾いただきましたので、確定。
+> 
+> - ukstudio(15min) [Temtative]
+> 
+> TWitterで何か話したいと言っていたので。
+> 
+> - yamaz [TBN]
+> 
+> 地元の星、スケールアウトの宣伝でもかまわないので、
+> そろそろ山崎さんにも話してもらえるといいなー、と思うんですが
+> いかがでしょうか。まだ交渉してません。
+> 
+> - nahi [TBN]
+> 
+> 日曜日なのでご都合次第だとは思うのですが、
+> nahiさんに話してもらえるとうれしいなーと
+> 思ったけど交渉すらしていません。
+> 
+> - hsbt [Temtative]
+> 
+> レギュラーメンバーだし、本人も乗り気なので
+> 話してもらっていいと思います。
+> 
+> - secondlife(?)
+> 
+> セコンメンバーもRubyistの集まりで話すリハビリに
+> どうですかねえ。未交渉。
+> 
+> - kuko(?)
+> 
+> レクホールは大音量は禁止らしいので、ブブゼラはやばいかもw
+> 
+> そういえば、司会と進行はかくたにがやります。
+> 
+
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(nakahiro@gmail.com,1295405822)
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+(2011/01/19 10:04), Kakutani Shintaro wrote:
+> - nahi [TBN]
+
+たぶん？冗談はおいといて、候補に上げていただいて光栄です。では私もなん
+か、開発方法論について。。。いや冗談です。
+
+とりあえずまだまだ出るだろう候補の一人に推薦していただいたということで、
+実際にはいずれ Asakusa.rb でお会いしたときに。来週は月曜のDEVLOVEぐるぐ
+るGroovyと、水曜のTokyo Rubyist Meetupに挟まれていて無理っぽいんですが。
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Cygwin)
+
+iQEcBAEBAgAGBQJNNlL2AAoJEC7N6P3yLbI2TBQIAKLzON9Qff5uG7KtOD1RCoP1
+Y2FWvRVpoIN6Fkn9aYrAzd5RElY8XMDK0dEnMguBbxVheQCaOnJg20gUwAhPdb8P
+rkoBHvMm+KKuIQou1D5kZEL4QVV9vIyOOZPenLLsRQcVJmanB1/iKAN+7Kw193O3
+ohasJLon4oB/flnDojpoj0dpnIAAEGWgj4m2qzZ0xgUTT62Rq3hoaRccggbzv/zB
+KnwUteN7tLB2tVGYK1qNp6DGoSoi31pBmnL5nK772If75i6uYEU69ybSfk0Yl46h
+bujhYk/3kFyvMRM0vTeOwjbf83VnMFh6N1/rBwPukzhsPjyLbZVTS7iFwQxZYuI=
+=tcBy
+-----END PGP SIGNATURE-----
+}}
+{{mail(shintaro.kakutani@gmail.com,1295406646)
+だいたい一ヶ月前の、3/7(月)に申し込み開始がデッドラインかなあ。
+
+それまでに:
+
+- 誰に話してもらうか(asakusarb)
+- 何を話してもらえるか(ninjas)
+- Webサイト(最悪の場合はkakutani)
+- 会場の下見(有志)
+- 懇親会の段取り(takkanm)
+
+を済ませておけばいいかなと思ってます。
+下見は2月かなあ。
+
+ko1さんとmatsudaさんはトークのタイトルと概要を
+3月ぐらいまでに考えておいてもらえればいいかなあと
+思ってます。
+
+2011/1/19 SASADA Koichi <ko1@atdot.net>:
+> 開催までのスケジュール感ってどんな感じなんでしょうか．
+-- 
+Kakutani Shintaro
+}}
+{{mail(nakahiro@gmail.com,1295408537)
+2011/1/19 Hiroshi Nakamura <nahi@ruby-lang.org>:
+> とりあえずまだまだ出るだろう候補の一人に推薦していただいたということで、
+
+まてよ、もしかして、角谷メンバーに名指ししていただいたってことは、もう少しまじめに考えたほうがいいのか？すいません、最近オフィス引越しだなんだでAsakusa.rbに行けてないので、空気が読めてません。
+}}
+{{mail(shintaro.kakutani@gmail.com,1295409230)
+かくたにです。
+大江戸Ruby会議01はAsakusa.rbがホストするRegional RubyKaigiなので、
+Asakusa.rbに来てくれている,ていた人たちを紹介したいと思ってます。
+(100回記念だし)
+
+nahiさんにはよくかまってもらってるので、よかったら何か話をしてくれるといいなあと思ってます。
+タレント紹介なので、トピックは特にこれを!というのは考えてないのですが、
+
+- JRuby Hacking Guide的な何か(新作じゃなくてもOKです)
+- asakusa.rbにいらしてるときによく仰っていた、標準ライブラリに興味をもつとかすれば、
+  C言語に詳しくなくてもRubyの開発にかかわっていったりできるよ的な話
+- nahiプロダクト自慢
+
+とか、ご都合にあわせて何かお話いただけるとうれしいなーと思ってます!
+
+2011/1/19 Hiroshi Nakamura <nahi@ruby-lang.org>:
+>
+>> とりあえずまだまだ出るだろう候補の一人に推薦していただいたということで、
+>
+> まてよ、もしかして、角谷メンバーに名指ししていただいたってことは、もう少しまじめに考えたほうがいいのか？すいません、最近オフィス引越しだなんだでAsakusa.rbに行けてないので、空気が読めてません。
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(ko1@atdot.net,1295422256)
+もう少し詳細化したほうがいいかも．
+
+
+- 2/28 (月) 話者決定
+- 3/04 (金) 話者題目・概要締め切り
+- 3/07 (月) 申し込み開始
+-- ウェブサイト完成
+-- 申し込みサイト完成
+- 4/10 (日) 大江戸Ruby会議
+
+- 宙ぶらりん
+-- 懇親会
+--- 懇親会の手配デッドライン
+--- 懇親会の申し込み方法
+--- 懇親会申し込み開始
+--- 懇親会申し込み・キャンセル締め切り（店の都合）
+-- 会場の下見
+--- そもそも何のためにするの？
+-- ノベルティ（多分ない）
+-- 会計方法の決定
+--- これは，申し込み開始までにシステムまで
+--- 難しいことをするのなら，もっと早く
+-- リリースは申し込み開始と同時でいいのか？
+-- 趣意書みたいなのっているの？
+
+
+(2011/01/19 12:10), Kakutani Shintaro wrote:
+> だいたい一ヶ月前の、3/7(月)に申し込み開始がデッドラインかなあ。
+> 
+> それまでに:
+> 
+> - 誰に話してもらうか(asakusarb)
+> - 何を話してもらえるか(ninjas)
+> - Webサイト(最悪の場合はkakutani)
+> - 会場の下見(有志)
+> - 懇親会の段取り(takkanm)
+> 
+> を済ませておけばいいかなと思ってます。
+> 下見は2月かなあ。
+> 
+> ko1さんとmatsudaさんはトークのタイトルと概要を
+> 3月ぐらいまでに考えておいてもらえればいいかなあと
+> 思ってます。
+> 
+> 2011/1/19 SASADA Koichi <ko1@atdot.net>:
+>> 開催までのスケジュール感ってどんな感じなんでしょうか．
+
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(nakahiro@gmail.com,1295496152)
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+(2011/01/19 12:53), Kakutani Shintaro wrote:
+> 大江戸Ruby会議01はAsakusa.rbがホストするRegional RubyKaigiなので、
+> Asakusa.rbに来てくれている,ていた人たちを紹介したいと思ってます。
+> (100回記念だし)
+
+説明ありがとうございます。よーしがんばるぞー。
+
+JRubyについては、別途長尺で話すかもしれない（Java方面）ので、そちらと被
+らないように、何か考えます。つまりHacking Guide的じゃない方向で。
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (Cygwin)
+
+iQEcBAEBAgAGBQJNN7PPAAoJEC7N6P3yLbI2vkgIANCvNfcgNNNSstG8IO+EajTp
+8mEz/HHoznzzTKdAu1JyqITQPNEmnqdEdpJCqr8WfA3XEXZOhlhj0ebT1Uz8ZKKq
+VGeAA7eyghweDGLu+fLLqNmTZ+myZYGINuZpYpS4DxNYjPGrEGlIUv1432FhM6hS
+YdX5IFcGV1j07GaTAb7gURr871Uiu3vI4OqHpQijmBDBPGG00efLkl1HKtDWVpM1
+Zv0XOB8Vka6hMsiSrYAFz2Usyql5UsySVUbVct6J5IiPuw1zrx+Fs33oPrNC8xKx
+nfiT/rE2AOMagtLbi7bCR5FdfQ4YFDYSbOReyHTGfhZ3RDjU9qMALQmXM4lwxpM=
+=c0kz
+-----END PGP SIGNATURE-----
+}}

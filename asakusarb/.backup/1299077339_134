@@ -1,0 +1,141 @@
+* 大江戸Ruby会議01のイマココ報告
+{{mail(shibata.hiroshi@gmail.com,1293454440)
+柴田です。
+
+年末年始を挟んでしまうと大江戸Ruby会議01の話がどこまで進んだかわからなく
+なってしまうので現状をまとめました。
+
+場所
+- 2010/04/10(日) 13:00～17:00
+- 深川江戸資料館 レクホール
+--http://www.kcf.or.jp/fukagawa/
+--http://www.kcf.or.jp/fukagawa/facilities.html
+
+タイムテーブル案
+- 13:15 open
+- 13:45 - 14:15(30), opening keynote: a_matsuda
+- 14:15 - 14:45(30), invited talk: ko1
+- 14:45 - 15:30(45), tea break
+- 15:30 - 16:30(30), ninja talks(15min x 4 or 20min x 3 or 10min x 6)
+- 16:30 - 16:40(10), closing
+
+会計
+https://spreadsheets.google.com/ccc?key=t4RKZzO8-wefQbrtvfpa4WA
+
+角谷さんが5600円を支払い済み
+高橋さんがRubyKaigiの残りで7000円もっている
+
+- 参加者からいくらかもらってどこかに寄付したりする?
+-- この辺は未定
+
+ふわっとしていること
+- つづりを決める(Oedo? Ooedo?
+- 花見も含めて回数を100回に調整する
+- コンテンツ決め
+- facebook のファンページとイベントを作ったら参加予定が20人を超えていた
+-- http://www.facebook.com/event.php?eid=172337909465249
+-- tdtds というWeb業界に詳しい人がこのままfacebookで参加登録で受け付けをしてしまえと言っていた
+
+-- 
+SHIBATA Hiroshi
+mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(takkanm@gmail.com,1293462116)
+個人の見解です。
+
+2010年12月27日21:53 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> - facebook のファンページとイベントを作ったら参加予定が20人を超えていた
+> -- http://www.facebook.com/event.php?eid=172337909465249
+> -- tdtds というWeb業界に詳しい人がこのままfacebookで参加登録で受け付けをしてしまえと言っていた
+facebookでやるにしても、ここは再度リセットしてちゃんと募集をしたいとこ。
+このまま参加人数が埋まると、フェアな感じがしないので。
+}}
+{{mail(shintaro.kakutani@gmail.com,1293497015)
+2010/12/28  <takkanm@gmail.com>:
+> 2010年12月27日21:53 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>> - facebook のファンページとイベントを作ったら参加予定が20人を超えていた
+>> -- http://www.facebook.com/event.php?eid=172337909465249
+
+"私これ聞いてない"
+}}
+{{mail(shintaro.kakutani@gmail.com,1293505921)
+かくたにです。
+
+そういえば、まとめ用に
+http://qwik.jp/asakusarb/OedoRubyKaigi01.html
+をつくっていたのでした。転記しときます。
+
+2010/12/27 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> - つづりを決める(Oedo? Ooedo?
+
+これはOedoにした。
+
+> - facebook のファンページとイベントを作ったら参加予定が20人を超えていた
+> -- http://www.facebook.com/event.php?eid=172337909465249
+> -- tdtds というWeb業界に詳しい人がこのままfacebookで参加登録で受け付けをしてしまえと言っていた
+
+facebookで参加登録を受け付けるといいことあるのかな??
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(takkanm@gmail.com,1293509885)
+>> - facebook のファンページとイベントを作ったら参加予定が20人を超えていた
+>> -- http://www.facebook.com/event.php?eid=172337909465249
+>> -- tdtds というWeb業界に詳しい人がこのままfacebookで参加登録で受け付けをしてしまえと言っていた
+>
+> facebookで参加登録を受け付けるといいことあるのかな??
+参加者のソーシャル的なのがわかるとか、そのページでわいわいできるってとこですかねぇ。
+Asakusa.rbらしく、参加者登録はqwikでとかも面白いかと思ってみたりはしますが。
+}}
+{{mail(shibata.hiroshi@gmail.com,1299069704)
+柴田です。
+
+doorkeeper を使って paypal 経由で申し込みと支払い(+入金)の確認をしました。
+
+参加チケットが発行されるのでそれを印刷してもらうのと、支払いが
+済んでない人(もしくはpaypalが何らかの理由で使えない人)は現地で支払って
+もらう感じかなあ。
+
+doorkeeper はとても良くできていて、上記のステータスの違いが一覧で出力
+できるのでオペレーションもだいぶ楽になりそうです!
+
+予算ですが下のような感じで考えています。
+
+・食事代+飲み物代で6000円徴収
+・スピーカーは無料
+・でも、飲み代がかさんで溢れそうになったらスピーカーからもいくらか徴収
+・カンファレンスの参加費用(任意)も上記に充当
+
+後は来週の3月10日(木)に下見という話になっています。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(shintaro.kakutani@gmail.com,1299077339)
+2011/3/2 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 参加チケットが発行されるのでそれを印刷してもらうのと、支払いが
+> 済んでない人(もしくはpaypalが何らかの理由で使えない人)は現地で支払って
+> もらう感じかなあ。
+
+んー。基本的に支払ってない人はカウントしないのがいいと思うけど。
+PayPalどうしても無理、っていう人はメールで連絡してもらうようにするかねえ。
+
+> doorkeeper はとても良くできていて、上記のステータスの違いが一覧で出力
+> できるのでオペレーションもだいぶ楽になりそうです!
+>
+> 予算ですが下のような感じで考えています。
+>
+> ・食事代+飲み物代で6000円徴収
+> ・スピーカーは無料
+
+無料にする原資は、本編のおひねりなので「無料にしたい」が正確なところです。
+
+> ・でも、飲み代がかさんで溢れそうになったらスピーカーからもいくらか徴収
+> ・カンファレンスの参加費用(任意)も上記に充当
+
+-- 
+Kakutani Shintaro
+}}

@@ -1,0 +1,97 @@
+* 第79回Asakusa.rb(2010-11-30)
+{{mail(takkanm@gmail.com,1291023869)
+気づくと25時間後には、2週間ぶり79回目のAsakusa.rbですね。
+
+今回は、ちょっと私自身が月末でくるしいのですが、
+永和でしたら最低ドアボーイはできると思います。
+
+札幌までのラストのAsakusa.rbなのでLTの資料を作りたいと思います。
+}}
+{{mail(ronnie@dio.jp,1291024194)
+2010/11/29  <takkanm@gmail.com>:
+> 札幌までのラストのAsakusa.rbなのでLTの資料を作りたいと思います。
+
+Me too!!
+}}
+{{mail(shibata.hiroshi@gmail.com,1291037450)
+参加します。
+
+> 今回は、ちょっと私自身が月末でくるしいのですが、
+> 永和でしたら最低ドアボーイはできると思います。
+>
+> 札幌までのラストのAsakusa.rbなのでLTの資料を作りたいと思います。
+
+札幌向けに作ったスライドを誰かに見せつつフィードバックもらったり
+Rails3のアプリケーションを作ろうと思います
+
+-- 
+SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(nakahiro@gmail.com,1291079354)
+行きます。いつもと同様、JRubyのチケット対応（主にバグ取り）やります。
+}}
+{{mail(igaiga@gmail.com,1291080171)
+いがいがです。
+
+ひさびさに行きます。
+札幌へ向けてタイマーを調整しつつ、
+タイマーのgem化を試みたいです。
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(takahashimm@gmail.com,1291083358)
+高橋征義です。
+
+今日はLL*2011の打ち合わせのため、欠席します。
+
+というか、LLイベントについて何かご意見（来年はこういう企画を
+やったらいいんじゃ、とか）があれば教えていただければ。
+
+-- 
+高橋征義 (takahashimm@gmail.com)
+}}
+{{mail(sakuro@2238club.org,1291083569)
+さくです。
+
+風邪のひきはじめの諸症状が出ているので、今日は欠席します。
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(ken97531@gmail.com,1291090586)
+西村です。
+
+家族全員が風邪を引いてしまい、今日はお休みしています。。
+
+2010/11/30 masayoshi takahashi <takahashimm@gmail.com>:
+> というか、LLイベントについて何かご意見（来年はこういう企画を
+> やったらいいんじゃ、とか）があれば教えていただければ。
+
+Webやモバイルを含めて、フレームワーク対決的なものがあったら
+見てみたいなぁーと思います。特にモバイルはそろそろアツい感じ
+なのかもと個人的には思っています。Sencha TouchとかjQuery Mobile
+とか。
+}}
+{{mail(yamayuri@gmail.com,1291091231)
+やまねです。
+
+明日からET2010なのに、
+プレゼンがだめだめなのでこれから横浜で練習してきます。
+明日も早いのでお休みします(涙
+}}
+{{mail(shimura-hir@obun.jp,1291095147)
+参加します。宜しく
+		志村 弘之
+
+In message "[asakusarb:1434] Re: 第79回Asakusa.rb(2010-11-30)", 
+<AANLkTik2s739k7siJ9dpNUP=ORgdPWJiJxe7iRSvm7u6@mail.gmail.com>, 
+Kuniaki IGARASHI wrote...
+ >ひさびさに行きます。
+---------------------------------------+---------+---------+以上 2010/11/30
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}

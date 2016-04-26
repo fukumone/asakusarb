@@ -1,0 +1,25 @@
+* 大江戸Ruby会議のイベント管理システム
+{{mail(paul@mobalean.com,1295487331)
+モバリーンのポールです。
+
+ 大江戸Ruby会議のイベント管理システムはまだ決めなかったら、うちが開発しているDoorkeeperはいかがですか？
+http://www.doorkeeper.jp/
+
+前払い機能があるので、懇親会の集金が簡単に出来ると思います。
+
+Doorkeeperはまだ新しいサビスですが、他のイベントも使っています。
+例えば、土曜に関西ウィキメディアユーザ会の「ウィキペディア10周年感謝のつどい 」は前売券を売ります。
+http://wikansai.doorkeeper.jp/
+
+Doorkeeperは基本的に無料ですが、大江戸Ruby会議は有料機能も無用で使えます（前売券の場合、PayPalの手数料のみがかかる）。
+
+DoorkeeperはもちろんRubyで書かれているサビスで、最近Rails3に更新しました。
+興味があるかた、ブログ（英語）を読んでください。
+http://www.mobalean.com/blog/2010/12/03/updating-a-real-world-application-to-rails-3
+
+では、Doorkeeperに関する質問とかあれば、是非聞いてください。
+
+よろしくお願いします。
+
+ポール
+}}

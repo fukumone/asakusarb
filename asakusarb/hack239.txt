@@ -1,0 +1,244 @@
+* 第239回Asakusa.rb (2013-12-03)
+{{mail(takkanm@gmail.com,1386033657)
+今日は 239 回目のミートアップです。
+
+今日はドアマンできるので、上野 E 和でやりたいと思います。
+
+だいぶ先なのですが、これのためのネタづくりをします http://www.adventar.org/calendars/198
+}}
+{{mail(shintaro.kakutani@gmail.com,1386039301)
+かくたにです。参加します(が、週末の準備があるので早めに帰ります)。
+大江戸04のことを話せたりするといいなー。
+Webサイトの段取りとか、料金どうしようかー、とか。
+
+また、新年会の相談をしたいです。
+
+特に話すことがない隙には、RubyKaigiの残務と次の準備をやるつもり。
+
+
+2013/12/3  <takkanm@gmail.com>:
+> 今日は 239 回目のミートアップです。
+>
+> 今日はドアマンできるので、上野 E 和でやりたいと思います。
+>
+> だいぶ先なのですが、これのためのネタづくりをします http://www.adventar.org/calendars/198
+>
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(her@sorah.jp,1386040319)
+さんかします。
+
+2013/12/3  <takkanm@gmail.com>:
+> 今日は 239 回目のミートアップです。
+>
+> 今日はドアマンできるので、上野 E 和でやりたいと思います。
+
+-- 
+Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+}}
+{{mail(kakyoin.hierophant@gmail.com,1386046612)
+橋立です。
+先週、先々週と参加できなかったので出たかったのですが、別の予定が入ってるので欠席します…。
+
+
+2013年12月3日 12:11 Shota Fukumori (sora_h) <her@sorah.jp>:
+
+> さんかします。
+>
+> 2013/12/3  <takkanm@gmail.com>:
+> > 今日は 239 回目のミートアップです。
+> >
+> > 今日はドアマンできるので、上野 E 和でやりたいと思います。
+>
+> --
+> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack239.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(murokaco@gmail.com,1386050379)
+むろです。
+
+参加します(ruby出来ないのに毎回恐縮です)。。
+みむらさんに先日ご相談いただいたRailsGirlsのcssのやつをやります。
+
+2013年12月3日 10:20  <takkanm@gmail.com>:
+> 今日は 239 回目のミートアップです。
+>
+> 今日はドアマンできるので、上野 E 和でやりたいと思います。
+>
+> だいぶ先なのですが、これのためのネタづくりをします http://www.adventar.org/calendars/198
+>
+}}
+{{mail(s@makimoto.org,1386053565)
+まきもと、参加します。
+
+
+2013年12月3日 10:20 <takkanm@gmail.com>:
+
+> 今日は 239 回目のミートアップです。
+>
+> 今日はドアマンできるので、上野 E 和でやりたいと思います。
+>
+> だいぶ先なのですが、これのためのネタづくりをします http://www.adventar.org/calendars/198
+>
+>
+
+
+-- 
+Shimpei Makimoto
+s@makimoto.org | GitHub: makimoto | Twitter: makimoto
+}}
+{{mail(kuni-ito@esm.co.jp,1386054000)
+伊藤です。
+
+参加します。
+gritを使ったgemを作ったので、それを公開できるようにしようと思います。
+
+2013年12月3日 14:59 Muro Kazuko <murokaco@gmail.com>:
+> むろです。
+>
+> 参加します(ruby出来ないのに毎回恐縮です)。。
+> みむらさんに先日ご相談いただいたRailsGirlsのcssのやつをやります。
+>
+> 2013年12月3日 10:20  <takkanm@gmail.com>:
+>> 今日は 239 回目のミートアップです。
+>>
+>> 今日はドアマンできるので、上野 E 和でやりたいと思います。
+>>
+>> だいぶ先なのですが、これのためのネタづくりをします http://www.adventar.org/calendars/198
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack239.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+===============================================
+株式会社　永和システムマネジメント
+サービスプロバイディング事業部　伊藤　邦彦
+E-mail: kunitoo@esm.co.jp
+TEL：03-5818-7400　 FAX：03-5818-7340
+===============================================
+}}
+{{mail(mrkn@mrkn.jp,1386058273)
+村田です。
+
+今日は、都合が合わないため不参加です。
+
+2013年12月3日 15:59 伊藤邦彦 <kuni-ito@esm.co.jp>:
+> 伊藤です。
+>
+> 参加します。
+> gritを使ったgemを作ったので、それを公開できるようにしようと思います。
+>
+> 2013年12月3日 14:59 Muro Kazuko <murokaco@gmail.com>:
+>> むろです。
+>>
+>> 参加します(ruby出来ないのに毎回恐縮です)。。
+>> みむらさんに先日ご相談いただいたRailsGirlsのcssのやつをやります。
+>>
+>> 2013年12月3日 10:20  <takkanm@gmail.com>:
+>>> 今日は 239 回目のミートアップです。
+>>>
+>>> 今日はドアマンできるので、上野 E 和でやりたいと思います。
+>>>
+>>> だいぶ先なのですが、これのためのネタづくりをします http://www.adventar.org/calendars/198
+>>>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack239.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> ===============================================
+> 株式会社　永和システムマネジメント
+> サービスプロバイディング事業部　伊藤　邦彦
+> E-mail: kunitoo@esm.co.jp
+> TEL：03-5818-7400　 FAX：03-5818-7340
+> ===============================================
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack239.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(shibata.hiroshi@gmail.com,1386058783)
+kaminari が ruby 1.8 compat じゃなくなっていた件とか、大江戸04の web サイトとか
+www.ruby-lang.org を travis でデプロイできるようにするとか、そういうのをやりに行きます。
+
+週末の準備...
+
+2013/12/3  <takkanm@gmail.com>:
+> 今日は 239 回目のミートアップです。
+>
+> 今日はドアマンできるので、上野 E 和でやりたいと思います。
+>
+> だいぶ先なのですが、これのためのネタづくりをします http://www.adventar.org/calendars/198
+>
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(kuni-ito@esm.co.jp,1386066274)
+伊藤です。
+参加するつもりでしたが、急遽予定が入ってしまい、今回はいけなくなりました。
+
+2013年12月3日 17:19 SHIBATA Hiroshi <hsbt@ruby-lang.org>:
+> kaminari が ruby 1.8 compat じゃなくなっていた件とか、大江戸04の web サイトとか
+> www.ruby-lang.org を travis でデプロイできるようにするとか、そういうのをやりに行きます。
+>
+> 週末の準備...
+>
+> 2013/12/3  <takkanm@gmail.com>:
+>> 今日は 239 回目のミートアップです。
+>>
+>> 今日はドアマンできるので、上野 E 和でやりたいと思います。
+>>
+>> だいぶ先なのですが、これのためのネタづくりをします http://www.adventar.org/calendars/198
+>>
+>
+>
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack239.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+===============================================
+株式会社　永和システムマネジメント
+サービスプロバイディング事業部　伊藤　邦彦
+E-mail: kunitoo@esm.co.jp
+TEL：03-5818-7400　 FAX：03-5818-7340
+===============================================
+}}

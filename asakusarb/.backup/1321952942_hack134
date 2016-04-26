@@ -1,0 +1,105 @@
+* 第134回Asakusa.rb (2011-11-22)
+{{mail(takkanm@gmail.com,1321871564)
+明日のこの時間ぐらいは134回目のMeetupです。
+
+明日も、上野E和にてドアマンできます。
+
+明日は、せっつき業やったり、もの書きかなぁ。
+}}
+{{mail(shibata.hiroshi@gmail.com,1321875992)
+柴田です。
+
+参加します。hikidoc に coderay を組み込む仕事か tDiary の sprockets 対応の続きを
+やろうと思います。
+}}
+{{mail(kazunori@itoyanagi.name,1321877489)
+糸柳です。
+
+参加させていただきます。
+他言語のライブラリを Ruby で使うために wrap するコードは
+どう書けばいいのか適当に自習します。
+
+-- 
+糸柳
+
+
+2011年11月21日20:46 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 柴田です。
+>
+> 参加します。hikidoc に coderay を組み込む仕事か tDiary の sprockets 対応の続きを
+> やろうと思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack134.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ronnie@dio.jp,1321905112)
+ARのwhereにnotとかlikeとかを追加するやつを書いてるんですが、
+仕様とか挙動について誰となく相談したいです。
+あと、Vim scriptに詳しい方が居たら、いろいろ教えてください。
+
+2011/11/21 Kazunori ITOYANAGI <kazunori@itoyanagi.name>:
+> 他言語のライブラリを Ruby で使うために wrap するコードは
+> どう書けばいいのか適当に自習します。
+
+おー、いきなりマニアックですね。
+CとかJava以外だと何かいい方法ってあるんでしょうか？
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(gunjisatoshi@gmail.com,1321912982)
+郡司です。
+
+るびまのインタビュー記事を手伝ってもらう相談をしたかったのですが、
+家族が風邪を引いてしまったので、今日はまっすぐ帰ります。残念。
+
+}}
+{{mail(sorah@tubusu.net,1321933244)
+On 11/21/11 9:11 PM, Kazunori ITOYANAGI wrote:
+> 参加させていただきます。
+> 他言語のライブラリを Ruby で使うために wrap するコードは
+> どう書けばいいのか適当に自習します。
+
+そういえば phuby なんてのもあったなあ
+
+https://github.com/tenderlove/phuby
+
+Ruby 拡張ライブラリとしての PHP
+
+--
+Shota Fukumori a.k.a. sora_h - http://sorah.jp/
+}}
+{{mail(shimura-hir@obun.jp,1321946598)
+参加します、宜しくお願いします。
+		志村 弘之
+
+In message "[asakusarb:2651] Re: 第134回Asakusa.rb (2011-11-22)", 
+<CA+aYBvHEc9Xsq9ksrr6U=Zrvt77wVWwHgH0rZcgUcH_FF8-SOQ@mail.gmail.com>, 
+ >ARのwhereにnotとかlikeとかを追加するやつを書いてるんですが、
+ >仕様とか挙動について誰となく相談したいです。
+ >あと、Vim scriptに詳しい方が居たら、いろいろ教えてください。
+ >> 他言語のライブラリを Ruby で使うために wrap するコードは
+ >> どう書けばいいのか適当に自習します。
+---------------------------------------+---------+---------+以上 2011/11/22
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}
+{{mail(ken97531@gmail.com,1321946706)
+ 西村です
+
+今日はインタビュー起こしと思ってましたが、
+ムスメが高熱を出したのでまっすぐ帰ります。
+}}
+{{mail(shintaro.kakutani@gmail.com,1321952704)
+かくたにです。いろいろ滞っているので、大人しくしてようと思います……。
+}}
+{{mail(takumi.aki@gmail.com,1321952903)
+秋田です。
+
+残業が入ったので不参加です～
+}}
+{{mail(nakahiro@gmail.com,1321952942)
+最近行けてない中、今日はチャンスと思ってたんですが、また風邪ひきました。。。
+}}

@@ -1,0 +1,17 @@
+* 「第0回」をまとめてみました
+{{mail(shintaro@kakutani.com,1216138521)
+かくたにです。
+
+「Asakusa.rbをやろう!」とa_matsudaが鼻息荒かったときに、
+ko1さんがSeattle.rbのdrbrainにチャットで「Seattle.rbってどんなふうにやってるの？」と
+聞いてくれたIRCのログを翻訳してまとめてみました。
+
+http://qwik.jp/asakusarb/000_Log.html
+
+Asakusa.rbがモデルにしようとしているSeattle.rbは、
+毎週あつまって何かhackしているらしい人たちです。
+http://www.zenspider.com/Languages/Ruby/Seattle/index.html
+-- 
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}

@@ -1,0 +1,197 @@
+* 第213回Asakusa.rb (2013-05-28)
+{{mail(paul@mobalean.com,1368597266)
+Paulです。
+
+再来週のAsakusa.rbはTokyo Rubyist Meetupと共同イベントをやります。
+
+イベント募集ページはこちらです。
+http://www.tokyorubyistmeetup.org/events/3954
+
+すべてスピーカーを誘いまして、19人も参加になったので、お早めに登録してください。
+
+よろしくお願いします。
+Paul
+}}
+{{mail(ko1@atdot.net,1368597988)
+あと、スピーカーじゃない、知り合いの方とかも誘うといいんでないかと思います。
+
+(2013/05/15 14:54), Paul McMahon wrote:
+> Paulです。
+> 
+> 再来週のAsakusa.rbはTokyo Rubyist Meetupと共同イベントをやります。
+> 
+> イベント募集ページはこちらです。
+> http://www.tokyorubyistmeetup.org/events/3954
+> 
+> すべてスピーカーを誘いまして、19人も参加になったので、お早めに登録してください。
+> 
+> よろしくお願いします。
+> Paul
+> 
+
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(mrkn@mrkn.jp,1368600543)
+昨日の話では最大人数を60人にするってことに
+なっていませんでした？
+
+いま見たら50人になっていたので気になりました。
+
+2013年5月15日 15:06 SASADA Koichi <ko1@atdot.net>:
+> あと、スピーカーじゃない、知り合いの方とかも誘うといいんでないかと思います。
+>
+> (2013/05/15 14:54), Paul McMahon wrote:
+>> Paulです。
+>>
+>> 再来週のAsakusa.rbはTokyo Rubyist Meetupと共同イベントをやります。
+>>
+>> イベント募集ページはこちらです。
+>> http://www.tokyorubyistmeetup.org/events/3954
+>>
+>> すべてスピーカーを誘いまして、19人も参加になったので、お早めに登録してください。
+>>
+>> よろしくお願いします。
+>> Paul
+>>
+>
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+> --
+> archive-> http://qwik.jp/asakusarb/298.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(paul@mobalean.com,1368601235)
+バッファーのため、50人に設定しました。あとで、60人に増やすつもりです。
+
+2013/5/15 Kenta Murata <mrkn@mrkn.jp>:
+> 昨日の話では最大人数を60人にするってことに
+> なっていませんでした？
+>
+> いま見たら50人になっていたので気になりました。
+>
+> 2013年5月15日 15:06 SASADA Koichi <ko1@atdot.net>:
+>> あと、スピーカーじゃない、知り合いの方とかも誘うといいんでないかと思います。
+>>
+>> (2013/05/15 14:54), Paul McMahon wrote:
+>>> Paulです。
+>>>
+>>> 再来週のAsakusa.rbはTokyo Rubyist Meetupと共同イベントをやります。
+>>>
+>>> イベント募集ページはこちらです。
+>>> http://www.tokyorubyistmeetup.org/events/3954
+>>>
+>>> すべてスピーカーを誘いまして、19人も参加になったので、お早めに登録してください。
+>>>
+>>> よろしくお願いします。
+>>> Paul
+>>>
+>>
+>>
+>> --
+>> // SASADA Koichi at atdot dot net
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/298.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> Kenta Murata
+> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>
+> 本を書きました!!
+> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>
+> E-mail: mrkn@mrkn.jp
+> http://mrkn.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/298.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(mrkn@mrkn.jp,1368601786)
+お、了解です～
+
+2013年5月15日 16:00 Paul McMahon <paul@mobalean.com>:
+> バッファーのため、50人に設定しました。あとで、60人に増やすつもりです。
+>
+> 2013/5/15 Kenta Murata <mrkn@mrkn.jp>:
+>> 昨日の話では最大人数を60人にするってことに
+>> なっていませんでした？
+>>
+>> いま見たら50人になっていたので気になりました。
+>>
+>> 2013年5月15日 15:06 SASADA Koichi <ko1@atdot.net>:
+>>> あと、スピーカーじゃない、知り合いの方とかも誘うといいんでないかと思います。
+>>>
+>>> (2013/05/15 14:54), Paul McMahon wrote:
+>>>> Paulです。
+>>>>
+>>>> 再来週のAsakusa.rbはTokyo Rubyist Meetupと共同イベントをやります。
+>>>>
+>>>> イベント募集ページはこちらです。
+>>>> http://www.tokyorubyistmeetup.org/events/3954
+>>>>
+>>>> すべてスピーカーを誘いまして、19人も参加になったので、お早めに登録してください。
+>>>>
+>>>> よろしくお願いします。
+>>>> Paul
+>>>>
+>>>
+>>>
+>>> --
+>>> // SASADA Koichi at atdot dot net
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/298.html
+>>> ML-> asakusarb@qwik.jp
+>>
+>>
+>>
+>> --
+>> Kenta Murata
+>> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>>
+>> 本を書きました!!
+>> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>>
+>> E-mail: mrkn@mrkn.jp
+>> http://mrkn.jp/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/298.html
+>> ML-> asakusarb@qwik.jp
+>
+> --
+> archive-> http://qwik.jp/asakusarb/298.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}

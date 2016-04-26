@@ -1,0 +1,227 @@
+* 第217回Asakusa.rb (2013-06-25)
+{{mail(takkanm@gmail.com,1372082168)
+明日は217回目のミートアップです。
+
+誰かがドアマンをしてくれれば、上野の E 和開催にしたいです。
+
+わたしは家の PC を MBA にしたので BOXEN と戯れたいと思います。
+}}
+{{mail(shintaro.kakutani@gmail.com,1372082423)
+途中で帰ってもいいですか…スマヌ…
+
+2013年6月24日月曜日 takkanm@gmail.com:
+
+> 明日は217回目のミートアップです。
+>
+> 誰かがドアマンをしてくれれば、上野の E 和開催にしたいです。
+>
+> わたしは家の PC を MBA にしたので BOXEN と戯れたいと思います。
+>
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(takkanm@gmail.com,1372089791)
+2013年6月24日 23:00 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 途中で帰ってもいいですか…スマヌ…
+
+ありがとうございます。8 時までには到着できるようにします。
+よろしくお願いします。
+}}
+{{mail(shibata.hiroshi@gmail.com,1372128125)
+www.ruby-lang.org や jenkins.rb の issue triage をしに行きます。
+
+2013年6月24日 22:55  <takkanm@gmail.com>:
+> 明日は217回目のミートアップです。
+>
+> 誰かがドアマンをしてくれれば、上野の E 和開催にしたいです。
+>
+> わたしは家の PC を MBA にしたので BOXEN と戯れたいと思います。
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(sorah@tubusu.net,1372129680)
+録画サーバ用の予約管理ツールの開発しにいきます。
+
+2013/6/24  <takkanm@gmail.com>:
+> 明日は217回目のミートアップです。
+>
+> 誰かがドアマンをしてくれれば、上野の E 和開催にしたいです。
+>
+> わたしは家の PC を MBA にしたので BOXEN と戯れたいと思います。
+
+
+
+--
+Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+}}
+{{mail(mrkn@mrkn.jp,1372141028)
+むらたです。
+
+午前中は「仕事が終わらない気がするので今日は休みます」と言うつもりだったんですが、
+もっと真剣に Rails の勉強をしないとダメだなぁと悟ったので Rails のコードを読みに行きます。
+梨ドリンクが楽しみです。
+
+2013年6月25日 12:07 Shota Fukumori (sora_h) <sorah@tubusu.net>:
+> 録画サーバ用の予約管理ツールの開発しにいきます。
+>
+> 2013/6/24  <takkanm@gmail.com>:
+>> 明日は217回目のミートアップです。
+>>
+>> 誰かがドアマンをしてくれれば、上野の E 和開催にしたいです。
+>>
+>> わたしは家の PC を MBA にしたので BOXEN と戯れたいと思います。
+>
+>
+>
+> --
+> Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack217.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(kuni-ito@esm.co.jp,1372144402)
+伊藤です。
+
+Google APIを使ったカレンダーアプリを作ろうと思います。
+
+2013年6月25日 15:16 Kenta Murata <mrkn@mrkn.jp>:
+> むらたです。
+>
+> 午前中は「仕事が終わらない気がするので今日は休みます」と言うつもりだったんですが、
+> もっと真剣に Rails の勉強をしないとダメだなぁと悟ったので Rails のコードを読みに行きます。
+> 梨ドリンクが楽しみです。
+>
+> 2013年6月25日 12:07 Shota Fukumori (sora_h) <sorah@tubusu.net>:
+>> 録画サーバ用の予約管理ツールの開発しにいきます。
+>>
+>> 2013/6/24  <takkanm@gmail.com>:
+>>> 明日は217回目のミートアップです。
+>>>
+>>> 誰かがドアマンをしてくれれば、上野の E 和開催にしたいです。
+>>>
+>>> わたしは家の PC を MBA にしたので BOXEN と戯れたいと思います。
+>>
+>>
+>>
+>> --
+>> Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack217.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> Kenta Murata
+> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>
+> 本を書きました!!
+> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>
+> E-mail: mrkn@mrkn.jp
+> http://mrkn.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack217.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+===============================================
+株式会社　永和システムマネジメント
+サービスプロバイディング事業部　伊藤　邦彦
+E-mail: kuni-ito@esm.co.jp
+TEL：03-5818-7400　 FAX：03-5818-7340
+===============================================
+}}
+{{mail(gunjisatoshi@gmail.com,1372153895)
+郡司です。
+
+会場提供いつもありがとうございます。
+EuRuKoが近いので欠席しようと思ったのですが、
+ちょっとだけ参加します。
+（でもすぐ帰ります）
+
+
+2013年6月25日 16:13 伊藤邦彦 <kuni-ito@esm.co.jp>:
+> 伊藤です。
+>
+> Google APIを使ったカレンダーアプリを作ろうと思います。
+>
+> 2013年6月25日 15:16 Kenta Murata <mrkn@mrkn.jp>:
+>> むらたです。
+>>
+>> 午前中は「仕事が終わらない気がするので今日は休みます」と言うつもりだったんですが、
+>> もっと真剣に Rails の勉強をしないとダメだなぁと悟ったので Rails のコードを読みに行きます。
+>> 梨ドリンクが楽しみです。
+>>
+>> 2013年6月25日 12:07 Shota Fukumori (sora_h) <sorah@tubusu.net>:
+>>> 録画サーバ用の予約管理ツールの開発しにいきます。
+>>>
+>>> 2013/6/24  <takkanm@gmail.com>:
+>>>> 明日は217回目のミートアップです。
+>>>>
+>>>> 誰かがドアマンをしてくれれば、上野の E 和開催にしたいです。
+>>>>
+>>>> わたしは家の PC を MBA にしたので BOXEN と戯れたいと思います。
+>>>
+>>>
+>>>
+>>> --
+>>> Shota Fukumori a.k.a. @sora_h - http://sorah.jp/
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/hack217.html
+>>> ML-> asakusarb@qwik.jp
+>>
+>>
+>>
+>> --
+>> Kenta Murata
+>> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>>
+>> 本を書きました!!
+>> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>>
+>> E-mail: mrkn@mrkn.jp
+>> http://mrkn.jp/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack217.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> ===============================================
+> 株式会社　永和システムマネジメント
+> サービスプロバイディング事業部　伊藤　邦彦
+> E-mail: kuni-ito@esm.co.jp
+> TEL：03-5818-7400　 FAX：03-5818-7340
+> ===============================================
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack217.html
+> ML-> asakusarb@qwik.jp
+}}

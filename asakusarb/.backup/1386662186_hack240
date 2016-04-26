@@ -1,0 +1,419 @@
+* 第240回Asakusa.rb (2013-12-10)
+{{mail(takkanm@gmail.com,1386562814)
+明日は 240 回目のミートアップです。
+
+明日も上野 E 和でドアマンできそうな気がするので、
+上野で開催したいと思います。
+}}
+{{mail(shibata.hiroshi@gmail.com,1386564434)
+参加しまーす。
+
+2.1.0 で動かない gem のデバッグなどをしようと思います。
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(murokaco@gmail.com,1386583536)
+いつもお世話になっております、むろです。
+
+参加させていただきます。
+railsgirlsのレスポンシブ対応の終わらせるのと
+デザインテロ作業の続きをします。
+
+むろ
+
+2013年12月9日 13:19  <takkanm@gmail.com>:
+> 明日は 240 回目のミートアップです。
+>
+> 明日も上野 E 和でドアマンできそうな気がするので、
+> 上野で開催したいと思います。
+>
+>
+}}
+{{mail(zeugschl@gmail.com,1386598625)
+てらじま(@trmmy)です
+
+とても久しぶりになりますが参加します
+
+まつださんがいらっしゃれば@shokolatedayのお使いがメインになります。
+個人的にはmrubyで作ったキーバインディングツールの中身を整理してると思います。
+
+
+
+2013/12/9 Muro Kazuko <murokaco@gmail.com>
+
+> いつもお世話になっております、むろです。
+>
+> 参加させていただきます。
+> railsgirlsのレスポンシブ対応の終わらせるのと
+> デザインテロ作業の続きをします。
+>
+> むろ
+>
+> 2013年12月9日 13:19  <takkanm@gmail.com>:
+> > 明日は 240 回目のミートアップです。
+> >
+> > 明日も上野 E 和でドアマンできそうな気がするので、
+> > 上野で開催したいと思います。
+> >
+> >
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack240.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(her@sorah.jp,1386600023)
+ちょっと体力的問題でおやすみしようかなあとなど考えていますが、
+@ryopeko に物かしたままで浅草で返したい～等といっていたきがするので、もし @ryopeko が来れそうなら行こうかなあと思います。
+
+2013/12/9  <takkanm@gmail.com>:
+> 明日も上野 E 和でドアマンできそうな気がするので、
+> 上野で開催したいと思います。
+
+-- 
+Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+}}
+{{mail(nekoget@gmail.com,1386632798)
+NEKOGETです。
+meetup初参加です。
+もくもく基礎の勉強ができればと思っています。
+よろしくお願いしますm(_ _)m
+
+
+2013年12月9日 23:40 Shota Fukumori (sora_h) <her@sorah.jp>:
+
+> ちょっと体力的問題でおやすみしようかなあとなど考えていますが、
+> @ryopeko に物かしたままで浅草で返したい～等といっていたきがするので、もし @ryopeko が来れそうなら行こうかなあと思います。
+>
+> 2013/12/9  <takkanm@gmail.com>:
+> > 明日も上野 E 和でドアマンできそうな気がするので、
+> > 上野で開催したいと思います。
+>
+> --
+> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack240.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(silentsilent433@gmail.com,1386635338)
+おはようございます。小林せかいです。
+雨ですねー。
+
+今日は奇しくも現職の最終出社日。
+PCは返却してしまうので本の持込だけですが、ぜひ参加させてください。
+
+郡司さんにRubimaのデザインについてなど相談したいと思っています（個人指名ですみませんｗ）
+
+
+小林せかい
+http://sekai-in-the-box.appspot.com/#links
+
+
+2013/12/10 宮川 貴子 <info@nekoget.net>:
+> NEKOGETです。
+> meetup初参加です。
+> もくもく基礎の勉強ができればと思っています。
+> よろしくお願いしますm(_ _)m
+>
+>
+> 2013年12月9日 23:40 Shota Fukumori (sora_h) <her@sorah.jp>:
+>
+>> ちょっと体力的問題でおやすみしようかなあとなど考えていますが、
+>> @ryopeko に物かしたままで浅草で返したい～等といっていたきがするので、もし @ryopeko が来れそうなら行こうかなあと思います。
+>>
+>> 2013/12/9  <takkanm@gmail.com>:
+>> > 明日も上野 E 和でドアマンできそうな気がするので、
+>> > 上野で開催したいと思います。
+>>
+>> --
+>> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack240.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack240.html
+> ML-> asakusarb@qwik.jp
+
+
+-- 
+小林せかい
+http://sekai-in-the-box.appspot.com/#links
+}}
+{{mail(gunjisatoshi@gmail.com,1386640808)
+郡司です。
+
+今日は別件（忘年会）のためお休みします！（ごめんなさい）
+
+デザインについては全くの素人なのでお役にたてず申し訳ありませんが、
+小林さん主体で自由にやっていただいて構わないと思います！
+（るびまに関して私はいち編集部員でしかないので、可能な限りアドバイスは
+しますが、私に対するお伺いをたてる必要はないですよ～）
+
+
+
+2013年12月10日 9:28 sekai kobayashi <silentsilent433@gmail.com>:
+
+> おはようございます。小林せかいです。
+> 雨ですねー。
+>
+> 今日は奇しくも現職の最終出社日。
+> PCは返却してしまうので本の持込だけですが、ぜひ参加させてください。
+>
+> 郡司さんにRubimaのデザインについてなど相談したいと思っています（個人指名ですみませんｗ）
+>
+>
+> 小林せかい
+> http://sekai-in-the-box.appspot.com/#links
+>
+>
+> 2013/12/10 宮川 貴子 <info@nekoget.net>:
+> > NEKOGETです。
+> > meetup初参加です。
+> > もくもく基礎の勉強ができればと思っています。
+> > よろしくお願いしますm(_ _)m
+> >
+> >
+> > 2013年12月9日 23:40 Shota Fukumori (sora_h) <her@sorah.jp>:
+> >
+> >> ちょっと体力的問題でおやすみしようかなあとなど考えていますが、
+> >> @ryopeko に物かしたままで浅草で返したい～等といっていたきがするので、もし @ryopeko が来れそうなら行こうかなあと思います。
+> >>
+> >> 2013/12/9  <takkanm@gmail.com>:
+> >> > 明日も上野 E 和でドアマンできそうな気がするので、
+> >> > 上野で開催したいと思います。
+> >>
+> >> --
+> >> Shota Fukumori a.k.a. @sora_h http://sorah.jp/
+> >>
+> >> --
+> >> archive-> http://qwik.jp/asakusarb/hack240.html
+> >> ML-> asakusarb@qwik.jp
+> >>
+> >
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack240.html
+> > ML-> asakusarb@qwik.jp
+>
+>
+> --
+> 小林せかい
+> http://sekai-in-the-box.appspot.com/#links
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack240.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(mayumi.emori@gmail.com,1386641405)
+emorimaです。
+
+いつも会場提供ありがとうございます。
+
+参加します。
+
+Logger で気になるところがあるので、
+そのあたりの検証用のコードを書いてみたりしたいと思います。
+}}
+{{mail(kakyoin.hierophant@gmail.com,1386648543)
+橋立です。
+
+参加します。
+自作のgemに機能追加するか、執筆業をします。
+
+
+2013年12月10日 11:10 mayumi emori <mayumi.emori@gmail.com>:
+
+> emorimaです。
+>
+> いつも会場提供ありがとうございます。
+>
+> 参加します。
+>
+> Logger で気になるところがあるので、
+> そのあたりの検証用のコードを書いてみたりしたいと思います。
+>
+>
+}}
+{{mail(mrkn@mrkn.jp,1386649196)
+村田です。
+
+雨が止んだので早く退社できたら行こうと思います。
+(また Mac を家に置いてきてしまった)
+
+2013年12月10日 13:09 橋立友宏 <kakyoin.hierophant@gmail.com>:
+> 橋立です。
+>
+> 参加します。
+> 自作のgemに機能追加するか、執筆業をします。
+>
+>
+> 2013年12月10日 11:10 mayumi emori <mayumi.emori@gmail.com>:
+>
+>> emorimaです。
+>>
+>> いつも会場提供ありがとうございます。
+>>
+>> 参加します。
+>>
+>> Logger で気になるところがあるので、
+>> そのあたりの検証用のコードを書いてみたりしたいと思います。
+>>
+>
+
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(matsumoto.katsuyoshi@gmail.com,1386653610)
+katsyoshiです．
+参加します．
+
+fluentdのプラグインとプロセス管理のいい方法を考えます
+
+
+2013年12月10日 13:19 Kenta Murata <mrkn@mrkn.jp>:
+
+> 村田です。
+>
+> 雨が止んだので早く退社できたら行こうと思います。
+> (また Mac を家に置いてきてしまった)
+>
+> 2013年12月10日 13:09 橋立友宏 <kakyoin.hierophant@gmail.com>:
+> > 橋立です。
+> >
+> > 参加します。
+> > 自作のgemに機能追加するか、執筆業をします。
+> >
+> >
+> > 2013年12月10日 11:10 mayumi emori <mayumi.emori@gmail.com>:
+> >
+> >> emorimaです。
+> >>
+> >> いつも会場提供ありがとうございます。
+> >>
+> >> 参加します。
+> >>
+> >> Logger で気になるところがあるので、
+> >> そのあたりの検証用のコードを書いてみたりしたいと思います。
+> >>
+> >
+>
+>
+>
+> --
+> Kenta Murata
+> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>
+> 本を書きました!!
+> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>
+> E-mail: mrkn@mrkn.jp
+> http://mrkn.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack240.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+松本 勝慶
+
+Matsumoto, Katsuyoshi
+
+matsumoto.katsuyoshi@gmail.com
+}}
+{{mail(kuni-ito@esm.co.jp,1386662185)
+伊藤です。
+参加します。
+
+自作のgemを(今日こそ)公開しようと思います
+
+2013年12月10日 14:33 松本勝慶 <matsumoto.katsuyoshi@gmail.com>:
+> katsyoshiです．
+> 参加します．
+>
+> fluentdのプラグインとプロセス管理のいい方法を考えます
+>
+>
+> 2013年12月10日 13:19 Kenta Murata <mrkn@mrkn.jp>:
+>
+>> 村田です。
+>>
+>> 雨が止んだので早く退社できたら行こうと思います。
+>> (また Mac を家に置いてきてしまった)
+>>
+>> 2013年12月10日 13:09 橋立友宏 <kakyoin.hierophant@gmail.com>:
+>> > 橋立です。
+>> >
+>> > 参加します。
+>> > 自作のgemに機能追加するか、執筆業をします。
+>> >
+>> >
+>> > 2013年12月10日 11:10 mayumi emori <mayumi.emori@gmail.com>:
+>> >
+>> >> emorimaです。
+>> >>
+>> >> いつも会場提供ありがとうございます。
+>> >>
+>> >> 参加します。
+>> >>
+>> >> Logger で気になるところがあるので、
+>> >> そのあたりの検証用のコードを書いてみたりしたいと思います。
+>> >>
+>> >
+>>
+>>
+>>
+>> --
+>> Kenta Murata
+>> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>>
+>> 本を書きました!!
+>> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>>
+>> E-mail: mrkn@mrkn.jp
+>> http://mrkn.jp/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack240.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+>
+> --
+> 松本 勝慶
+>
+> Matsumoto, Katsuyoshi
+>
+> matsumoto.katsuyoshi@gmail.com
+
+
+
+-- 
+===============================================
+株式会社　永和システムマネジメント
+サービスプロバイディング事業部　伊藤　邦彦
+E-mail: kunitoo@esm.co.jp
+TEL：03-5818-7400　 FAX：03-5818-7340
+===============================================
+}}

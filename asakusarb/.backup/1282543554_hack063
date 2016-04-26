@@ -1,0 +1,445 @@
+* 第63回Asakusa.rb(2010-08-24)
+{{mail(takkanm@gmail.com,1282286197)
+ひさしぶりのえむです。
+
+そろそろ来週がせまっているのですが、私は永和でドアボーイやれます。
+http://qwik.jp/asakusarb/esm_ueno.html
+
+
+そういや、再来週の(Rubykaigi直後の)Asakusa.rbはどうしましょうね。
+ちゃんと決めんと。
+}}
+{{mail(shintaro.kakutani@gmail.com,1282286487)
+かくたにです。
+
+2010/8/20  <takkanm@gmail.com>:
+> そろそろ来週がせまっているのですが、私は永和でドアボーイやれます。
+> http://qwik.jp/asakusarb/esm_ueno.html
+>
+>
+> そういや、再来週の(Rubykaigi直後の)Asakusa.rbはどうしましょうね。
+> ちゃんと決めんと。
+
+こんかい本命の @bitsweat は30日(月)に 松江に旅立ってしまうようです。
+あと、海外からくる人たちで、25か26に飲み会っぽいことをするみたいなので、
+#asakusarb からも誰かいってみませんか?
+http://qwik.atdot.net/rubykaigi2010overseas/14.html
+
+overseasのMLもいまいちみんな間合いを詰めきれてないようなので、
+絡んでいってもらえるとうれしいなあ。
+
+だらだら書いてますが、こないだ話をした感じだと、
+
+- 31(火) にふだんどおりやるけど、ちょっと早めに切り上げて、
+  上野でどっか飲みにいきますかねえ、というのが有力。
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(shintaro.kakutani@gmail.com,1282458123)
+かくたにです。
+
+@sarahmei がsentoに入ったっぽいので無事に日本にきたみたい。
+8/21 - 8/26 で何かないかなあ、といってるので、
+都合あうなら #asakusarb にきてもらえばいいんじゃないかなあ、と思いました。
+http://qwik.atdot.net/rubykaigi2010overseas/14.html
+
+ただ、今週わたしは詰んでるので、迎えにいくとかできるか不安だし、
+松田さんもお忙しそうなので、RubyKaigi前にスピーカーの大物Rubyistと絡みたい
+人がもしいるなら、声かけて御徒町あたりで待合せてattendantしてくれると
+うれしいなあ、と思ってるんだけど、どうですかねえ?
+
+永和のドアボーイズがちょっと勇気を出してがんばってみるとかでも
+いいと思うんですけどw
+
+2010/8/20 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> かくたにです。
+>
+> 2010/8/20  <takkanm@gmail.com>:
+>> そろそろ来週がせまっているのですが、私は永和でドアボーイやれます。
+>> http://qwik.jp/asakusarb/esm_ueno.html
+>>
+>>
+>> そういや、再来週の(Rubykaigi直後の)Asakusa.rbはどうしましょうね。
+>> ちゃんと決めんと。
+>
+> こんかい本命の @bitsweat は30日(月)に 松江に旅立ってしまうようです。
+> あと、海外からくる人たちで、25か26に飲み会っぽいことをするみたいなので、
+> #asakusarb からも誰かいってみませんか?
+> http://qwik.atdot.net/rubykaigi2010overseas/14.html
+>
+> overseasのMLもいまいちみんな間合いを詰めきれてないようなので、
+> 絡んでいってもらえるとうれしいなあ。
+>
+> だらだら書いてますが、こないだ話をした感じだと、
+>
+> - 31(火) にふだんどおりやるけど、ちょっと早めに切り上げて、
+>  上野でどっか飲みにいきますかねえ、というのが有力。
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(nakahiro@gmail.com,1282463169)
+行きます。もくもくとJRubyKaigiの準備をします。ちなみに翌朝（というか早朝3AM）は、JRubyOnRailsのwebinar視聴です。誰か見るひと？
+}}
+{{mail(shibata.hiroshi@gmail.com,1282473896)
+柴田です。
+
+突然足が痛くならない限りもくもくスライドを作る予定です。
+
+> ただ、今週わたしは詰んでるので、迎えにいくとかできるか不安だし、
+> 松田さんもお忙しそうなので、RubyKaigi前にスピーカーの大物Rubyistと絡みたい
+> 人がもしいるなら、声かけて御徒町あたりで待合せてattendantしてくれると
+> うれしいなあ、と思ってるんだけど、どうですかねえ?
+>
+> 永和のドアボーイズがちょっと勇気を出してがんばってみるとかでも
+> いいと思うんですけどw
+
+あー、Labsの中について色々聞いてみたいと思ったので頑張りたいです。
+Dすればいいんでしょうか。
+
+-- 
+SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+URL:http://www.hsbt.org/
+}}
+{{mail(igaiga@gmail.com,1282476650)
+いがいがです。
+
+sarahmeiさん浅草観光してるみたいですね。 :)
+http://twitpic.com/2h4otw
+
+＞柴田さん、角谷さん
+興味あるので私も1枚かませてください。
+
+sarahmeiさんは柴田さんにおまかせして、
+そのほかの方も釣れるかもしれないので、
+こんな感じでoverseas ML に投げようと思うのですが、
+集合場所はJR御徒町北口に19:30でいいでしょうか？
+私はこの時間なら集合できそうです。
+あと、asakusa.rb のセールスポイント他にあればアドバイスください。
+
+---
+
+Hi there,
+
+I'm Igaiga, working in Tokyo and a member in Asakusa.rb.
+We have Asakusa.rb event on every Tuesday.
+Of course there is an Asakusa.rb time in 24th(Tue) August,
+we're welecome to enter the event.
+Let's enjoy hacking and talking about Ruby time with us. :)
+http://qwik.jp/asakusarb/
+
+If you want, feel free to contact me via e-mail or twitter.
+
+---
+Asakusa.rb waiting time and place
+24th(Tue) August
+19:30
+at JR Okachimachi station, north ticket gate
+After that, we're moving to Eiwa system managiment meeting room.
+
+---
+
+以上です。
+
+
+2010年8月22日19:44 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 柴田です。
+>
+> 突然足が痛くならない限りもくもくスライドを作る予定です。
+>
+>> ただ、今週わたしは詰んでるので、迎えにいくとかできるか不安だし、
+>> 松田さんもお忙しそうなので、RubyKaigi前にスピーカーの大物Rubyistと絡みたい
+>> 人がもしいるなら、声かけて御徒町あたりで待合せてattendantしてくれると
+>> うれしいなあ、と思ってるんだけど、どうですかねえ?
+>>
+>> 永和のドアボーイズがちょっと勇気を出してがんばってみるとかでも
+>> いいと思うんですけどw
+>
+> あー、Labsの中について色々聞いてみたいと思ったので頑張りたいです。
+> Dすればいいんでしょうか。
+>
+> --
+> SHIBATA Hiroshi mailto:shibata.hiroshi@gmail.com
+> URL:http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack063.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(shintaro.kakutani@gmail.com,1282477290)
+igaigaさんどうもです。
+
+ただ、たとえばこれで3人と釣れたとしたら、
+ぜんぶ永和メンバーでお迎えを面倒見るんでしょうか……。
+
+Rubyistはどの国の人もRubyistなので収拾つかなくなったら先方に迷惑かなあ、と
+思ったり(まあ、そんなに来たい人もいないだろうけど。
+
+とりあえずはダメ元でsarahmeiに絡んでみて、まあ他に誰かいたらどうぞ的な
+感じがいいんじゃないかなあ、と思ってます。
+いうことでoverseasに入ってください > h-sbt
+
+で、気にしてるのはこれまでも「絶対いくよ!」って言ってた
+ガイジンが来なかったことも何回かあるし、
+海外らいらっしゃる人たちは現地で連絡取りづらそう。
+さらに、永和の入り方も外国の方には難易度高い。
+
+といったあたりで、来てもらいたいけど頑張りすぎられても困るなあというのが
+正直な気持ちです。
+
+2010/8/22 Kuniaki IGARASHI <igaiga@gmail.com>:
+> いがいがです。
+>
+> sarahmeiさん浅草観光してるみたいですね。 :)
+> http://twitpic.com/2h4otw
+>
+> ＞柴田さん、角谷さん
+> 興味あるので私も1枚かませてください。
+>
+> sarahmeiさんは柴田さんにおまかせして、
+> そのほかの方も釣れるかもしれないので、
+> こんな感じでoverseas ML に投げようと思うのですが、
+> 集合場所はJR御徒町北口に19:30でいいでしょうか？
+> 私はこの時間なら集合できそうです。
+> あと、asakusa.rb のセールスポイント他にあればアドバイスください。
+>
+> ---
+>
+> Hi there,
+>
+> I'm Igaiga, working in Tokyo and a member in Asakusa.rb.
+> We have Asakusa.rb event on every Tuesday.
+> Of course there is an Asakusa.rb time in 24th(Tue) August,
+> we're welecome to enter the event.
+> Let's enjoy hacking and talking about Ruby time with us. :)
+> http://qwik.jp/asakusarb/
+>
+> If you want, feel free to contact me via e-mail or twitter.
+>
+> ---
+> Asakusa.rb waiting time and place
+> 24th(Tue) August
+> 19:30
+> at JR Okachimachi station, north ticket gate
+> After that, we're moving to Eiwa system managiment meeting room.
+>
+> ---
+>
+> 以上です。
+>
+>
+> 2010年8月22日19:44 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>> 柴田です。
+>>
+>> 突然足が痛くならない限りもくもくスライドを作る予定です。
+>>
+>>> ただ、今週わたしは詰んでるので、迎えにいくとかできるか不安だし、
+>>> 松田さんもお忙しそうなので、RubyKaigi前にスピーカーの大物Rubyistと絡みたい
+>>> 人がもしいるなら、声かけて御徒町あたりで待合せてattendantしてくれると
+>>> うれしいなあ、と思ってるんだけど、どうですかねえ?
+>>>
+>>> 永和のドアボーイズがちょっと勇気を出してがんばってみるとかでも
+>>> いいと思うんですけどw
+>>
+>> あー、Labsの中について色々聞いてみたいと思ったので頑張りたいです。
+>> Dすればいいんでしょうか。
+>>
+>> --
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(igaiga@gmail.com,1282478407)
+角谷さん
+
+いがいがです。
+ご返答ありがとうございます。
+
+内容、了解です。
+なるほど、待ち合わせ難しいのですね・・・。
+↓の角谷さん案に賛成します。さきほどのメール案は取り下げます。
+> とりあえずはダメ元でsarahmeiに絡んでみて、まあ他に誰かいたらどうぞ的な
+> 感じがいいんじゃないかなあ、と思ってます。
+> いうことでoverseasに入ってください > h-sbt
+
+＞柴田さん
+送迎などでお手伝いできることあれば参じますのでご連絡ください。
+
+以上、よろしくお願いします。
+
+
+2010年8月22日20:41 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> igaigaさんどうもです。
+>
+> ただ、たとえばこれで3人と釣れたとしたら、
+> ぜんぶ永和メンバーでお迎えを面倒見るんでしょうか……。
+>
+> Rubyistはどの国の人もRubyistなので収拾つかなくなったら先方に迷惑かなあ、と
+> 思ったり(まあ、そんなに来たい人もいないだろうけど。
+>
+> とりあえずはダメ元でsarahmeiに絡んでみて、まあ他に誰かいたらどうぞ的な
+> 感じがいいんじゃないかなあ、と思ってます。
+> いうことでoverseasに入ってください > h-sbt
+>
+> で、気にしてるのはこれまでも「絶対いくよ!」って言ってた
+> ガイジンが来なかったことも何回かあるし、
+> 海外らいらっしゃる人たちは現地で連絡取りづらそう。
+> さらに、永和の入り方も外国の方には難易度高い。
+>
+> といったあたりで、来てもらいたいけど頑張りすぎられても困るなあというのが
+> 正直な気持ちです。
+>
+> 2010/8/22 Kuniaki IGARASHI <igaiga@gmail.com>:
+>> いがいがです。
+>>
+>> sarahmeiさん浅草観光してるみたいですね。 :)
+>> http://twitpic.com/2h4otw
+>>
+>> ＞柴田さん、角谷さん
+>> 興味あるので私も1枚かませてください。
+>>
+>> sarahmeiさんは柴田さんにおまかせして、
+>> そのほかの方も釣れるかもしれないので、
+>> こんな感じでoverseas ML に投げようと思うのですが、
+>> 集合場所はJR御徒町北口に19:30でいいでしょうか？
+>> 私はこの時間なら集合できそうです。
+>> あと、asakusa.rb のセールスポイント他にあればアドバイスください。
+>>
+>> ---
+>>
+>> Hi there,
+>>
+>> I'm Igaiga, working in Tokyo and a member in Asakusa.rb.
+>> We have Asakusa.rb event on every Tuesday.
+>> Of course there is an Asakusa.rb time in 24th(Tue) August,
+>> we're welecome to enter the event.
+>> Let's enjoy hacking and talking about Ruby time with us. :)
+>> http://qwik.jp/asakusarb/
+>>
+>> If you want, feel free to contact me via e-mail or twitter.
+>>
+>> ---
+>> Asakusa.rb waiting time and place
+>> 24th(Tue) August
+>> 19:30
+>> at JR Okachimachi station, north ticket gate
+>> After that, we're moving to Eiwa system managiment meeting room.
+>>
+>> ---
+>>
+>> 以上です。
+>>
+>>
+>> 2010年8月22日19:44 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>>> 柴田です。
+>>>
+>>> 突然足が痛くならない限りもくもくスライドを作る予定です。
+>>>
+>>>> ただ、今週わたしは詰んでるので、迎えにいくとかできるか不安だし、
+>>>> 松田さんもお忙しそうなので、RubyKaigi前にスピーカーの大物Rubyistと絡みたい
+>>>> 人がもしいるなら、声かけて御徒町あたりで待合せてattendantしてくれると
+>>>> うれしいなあ、と思ってるんだけど、どうですかねえ?
+>>>>
+>>>> 永和のドアボーイズがちょっと勇気を出してがんばってみるとかでも
+>>>> いいと思うんですけどw
+>>>
+>>> あー、Labsの中について色々聞いてみたいと思ったので頑張りたいです。
+>>> Dすればいいんでしょうか。
+>>>
+>>> --
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack063.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(shintaro.kakutani@gmail.com,1282478562)
+2010/8/22 Kuniaki IGARASHI <igaiga@gmail.com>:
+> なるほど、待ち合わせ難しいのですね・・・。
+
+もし複数の参加者がいたときに、全員が待ち合わせ時間どおりに待ち合わせ場所にきてくれれば
+いいんですけど、それに期待するのはちょっと怖いなと思いまして。
+外国のかただと、もし行き違いになったあとのフォローアップとかも気持ちが大変ですし。
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(shintaro.kakutani@gmail.com,1282537486)
+かくたにです。協力どうもです > igaiga
+h-sbtが頑張ってoverseasに絡んでくれたおかげで、明日はSarah MeiとSarah Allenが来てくれるっぽいです。
+http://twitter.com/sarahmei/statuses/21882685279
+なので早めに切りあげてごはんでも食べにいきますかねえ。
+それかペックでピザでも頼みます?
+
+来週は paolo と bovensiepen が遊びにきてくれるみたいです。
+こっちは宴会っぽくやります?
+}}
+{{mail(cesare@mayverse.jp,1282541208)
+久々に参加します。よろしくお願いします。
+rdebug (on Emacs) をいじりつつ、Zev さんから頼まれてる翻訳をもくもくと片付けるつもりです。
+あと、どうやら Sarah Mei さんが来るみたいなので、Pair Programming 企画の打合せも兼ねて。
+
+--
+SAWADA Tadashi a.k.a. cesare
+< cesare@mayverse.jp | http://twitter.com/cesare >
+}}
+{{mail(ronnie@dio.jp,1282542628)
+かくたにさん、しばたさん、いがいがさん、(それから、読んでないと思うけどkdmsnrさん)、色々とどうもありがとうございます。
+ていうか僕がなかなか動けてなくてすみません。
+
+早めに切り上げてメシにしたい、とは僕も思ってました。
+上野でどっかJapaneseな感じのメシ処ありますかねぇ？, :except => '大統領'
+else, ペックしかないかなぁ、と、これまた僕も思ってました。
+ただ、日本に来てまでピザかよ、っていう残念な感じはありますね。
+}}
+{{mail(takkanm@gmail.com,1282543228)
+メシじゃないけど、絵馬亭は割と日本的かなぁと。
+http://www.ematei.com/
+sakeもあるし。
+
+2010年8月23日14:50 Akira Matsuda <ronnie@dio.jp>:
+> かくたにさん、しばたさん、いがいがさん、(それから、読んでないと思うけどkdmsnrさん)、色々とどうもありがとうございます。
+> ていうか僕がなかなか動けてなくてすみません。
+> 早めに切り上げてメシにしたい、とは僕も思ってました。
+> 上野でどっかJapaneseな感じのメシ処ありますかねぇ？, :except => '大統領'
+> else, ペックしかないかなぁ、と、これまた僕も思ってました。
+> ただ、日本に来てまでピザかよ、っていう残念な感じはありますね。
+}}
+{{mail(l.g.chin@gmail.com,1282543250)
+食べないものがないか（菜食主義、vegan、など）も聞いておいたほうがいいよ。
+
+2010/8/23 Akira Matsuda <ronnie@dio.jp>:
+> かくたにさん、しばたさん、いがいがさん、(それから、読んでないと思うけどkdmsnrさん)、色々とどうもありがとうございます。
+> ていうか僕がなかなか動けてなくてすみません。
+> 早めに切り上げてメシにしたい、とは僕も思ってました。
+> 上野でどっかJapaneseな感じのメシ処ありますかねぇ？, :except => '大統領'
+> else, ペックしかないかなぁ、と、これまた僕も思ってました。
+> ただ、日本に来てまでピザかよ、っていう残念な感じはありますね。
+}}
+{{mail(shintaro.kakutani@gmail.com,1282543554)
+絵馬亭は悪くないかな。ちょっとお高い && 歩くのが難点だが。
+それかイードンマッコリ等でkoreanとか、あるいは yakiniku か……。
+まあ平日だし人数しれてるから当日でも大丈夫だと思うけど。
+
+2010/8/23 Leonard Chin <l.g.chin@gmail.com>:
+> 食べないものがないか（菜食主義、vegan、など）も聞いておいたほうがいいよ。
+
+そうですねえ。
+
+でさあ、明日誰くんのw
+}}

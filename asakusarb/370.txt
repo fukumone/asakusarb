@@ -1,0 +1,9 @@
+* Asakusa.rbに参加希望です
+{{mail(hellowien@gmail.com,1438239711)
+こんにちは。木澤と申します。
+元浅草に住んでいます。
+RubyとRailsの勉強のため、Asakusa.rbに参加希望です。
+よろしくお願いいたします。
+
+木澤
+}}

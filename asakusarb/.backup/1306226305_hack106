@@ -1,0 +1,167 @@
+* 第106回Asakusa.rb(2011-05-24)
+{{mail(shintaro.kakutani@gmail.com,1306119385)
+かくたにです。明日も上野の永和で開催、というのでいいのかな?
+
+RubyKaigi Advent Calendar 2011 にAsakusa.rbとして参加する旨を正式に申し込みたいです。
+http://rubykaigi.tdiary.net/20110512.html#p01
+細かいところはともかく、大枠は明日の晩に决めてしまって申し込んでしまいましょう!!
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(shintaro.kakutani@gmail.com,1306156703)
+そういえば、るびまへのodrk01レポートってどうなったんでしたっけ……。
+日記で書こうと思ってたけど、とほほ時間切れ、なのでるびまレポートに
+「大江戸Ruby会議01のコンセプトと感謝」を書こうかなあと思ったのでした。
+
+2011/5/23 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> かくたにです。明日も上野の永和で開催、というのでいいのかな?
+>
+> RubyKaigi Advent Calendar 2011 にAsakusa.rbとして参加する旨を正式に申し込みたいです。
+> http://rubykaigi.tdiary.net/20110512.html#p01
+> 細かいところはともかく、大枠は明日の晩に决めてしまって申し込んでしまいましょう!!
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(hokkai7go@gmail.com,1306159021)
+ほっかいです。
+
+odrk01レポートなのですが、一応書き上げました。
+しかし、こんなんでいいんだろうかと言ったところで宙ぶらりんになっています。
+レポートのurl(gunjiさんのとこ) http://j.mp/lKTTwn
+
+最終版にして出しましょうかね
+
+2011年5月23日22:18 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> そういえば、るびまへのodrk01レポートってどうなったんでしたっけ……。
+> 日記で書こうと思ってたけど、とほほ時間切れ、なのでるびまレポートに
+> 「大江戸Ruby会議01のコンセプトと感謝」を書こうかなあと思ったのでした。
+>
+> 2011/5/23 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>> かくたにです。明日も上野の永和で開催、というのでいいのかな?
+>>
+>> RubyKaigi Advent Calendar 2011 にAsakusa.rbとして参加する旨を正式に申し込みたいです。
+>> http://rubykaigi.tdiary.net/20110512.html#p01
+>> 細かいところはともかく、大枠は明日の晩に决めてしまって申し込んでしまいましょう!!
+>
+> --
+> Kakutani Shintaro
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack106.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+菅井祐太朗
+<hokkai7go@gmail.com>
+}}
+{{mail(gunjisatoshi@rikuga.me,1306161565)
+郡司です。
+
+るびまの件、放置状態ですみません。
+明日のmeetupに参加できたら、その場で仕上げちゃいましょう。
+
+＃微妙に忙しいので、行けなかったらすみません‥‥。
+}}
+{{mail(shibata.hiroshi@gmail.com,1306162606)
+柴田です。
+
+> かくたにです。明日も上野の永和で開催、というのでいいのかな?
+
+夕方以降にちょっと外に出てしまうので誰となく会場設営をお願いします!
+
+> RubyKaigi Advent Calendar 2011 にAsakusa.rbとして参加する旨を正式に申し込みたいです。
+> http://rubykaigi.tdiary.net/20110512.html#p01
+> 細かいところはともかく、大枠は明日の晩に决めてしまって申し込んでしまいましょう!!
+
+大江戸の御代も余っているので前後のイベントをそれとなく相談したいです。
+あとは warden を omniauth に置き換える仕事か何かかなあ。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(ronnie@dio.jp,1306223894)
+参加します。
+
+RailsConfのおみやげ、は特にGitHubのステッカーぐらいしかないんですが、
+おみやげ話ならできるかもしれません。
+
+RubyKaigi前後のイベントについてはぜひ話し合いたいです。
+
+とりあえず今ふと思ったことを言うと、(意味わかんないと思いますが)、
+なんかRubyの何かをやりたいです。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(nakahiro@gmail.com,1306224235)
+今日はJava hatを被っておりお休みです。なんか毎度、大事な時に行けないな。。。
+}}
+{{mail(masaki@hisme.net,1306225333)
+参加しますー
+
+githubステッカー...だと...
+
+2011年5月24日17:03 Hiroshi Nakamura <nakahiro@gmail.com>:
+> 今日はJava hatを被っておりお休みです。なんか毎度、大事な時に行けないな。。。
+}}
+{{mail(takuto.wada@gmail.com,1306225637)
+和田です
+今週も私用で参加できません。松田さんの RailsConf 土産話をお聞きしたかったです…
+
+2011/5/24 Akira Matsuda <ronnie@dio.jp>:
+> 参加します。
+>
+> RailsConfのおみやげ、は特にGitHubのステッカーぐらいしかないんですが、
+> おみやげ話ならできるかもしれません。
+>
+> RubyKaigi前後のイベントについてはぜひ話し合いたいです。
+>
+> とりあえず今ふと思ったことを言うと、(意味わかんないと思いますが)、
+> なんかRubyの何かをやりたいです。
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack106.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(hokkai7go@gmail.com,1306226305)
+hokkai7goです。
+
+大江戸のレポートをやっつけるために
+参加します。
+2011/05/24 17:27 "Takuto Wada" <takuto.wada@towersquest.jp>:
+> 和田です
+> 今週も私用で参加できません。松田さんの RailsConf 土産話をお聞きしたかったです…
+>
+> 2011/5/24 Akira Matsuda <ronnie@dio.jp>:
+>> 参加します。
+>>
+>> RailsConfのおみやげ、は特にGitHubのステッカーぐらいしかないんですが、
+>> おみやげ話ならできるかもしれません。
+>>
+>> RubyKaigi前後のイベントについてはぜひ話し合いたいです。
+>>
+>> とりあえず今ふと思ったことを言うと、(意味わかんないと思いますが)、
+>> なんかRubyの何かをやりたいです。
+>>
+>> --
+>> Akira Matsuda<ronnie@dio.jp>
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack106.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack106.html
+> ML-> asakusarb@qwik.jp
+}}

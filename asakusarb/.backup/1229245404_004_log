@@ -1,0 +1,277 @@
+* 第4回ログ
+
+* 日時
+2008年12月11日(Thu.) 19:00～23:00
+
+* 場所
+株式会社QUICK プレゼンルーム~
+http://corporate.quick.co.jp/corporate/honsha.html
+
+* 参加者
+- ささださん
+- 瀧内さん
+- 志村さん
+- 松田さん
+- レオさん
+- 川口さん(会場の中の人)
+- 郡司さん
+- おぐらさん
+- 舞波さん
+- ebackyさん(会場の中の人)
+- なかださん
+- ayuminさん
+- akrさん
+
+以上、13名(だったと思う)
+
+* ログ
+
+** Rubyのtrunkをインストール
+Rubyのビルド手順については[[第1回ログ参照|http://qwik.jp/asakusarb/001_log.html]]。
+
+今回はsvnの r20629 を使用。~
+が、いきなりmakeに失敗。
+
+revision.h が無いというエラーがおきるので、
+> % make up
+を実行する。
+
+bison2.4だと parse.c のmakeでこけるらしいので、MacPortsのbison 2.4が入ってたりする人は、
+> % make YACC=/usr/bin/bison parse.c
+> % make parse.o
+
+つぎに、parse.yを以下のように変更。
+{{{
+ -			$$ = in_single;
+ +			$<val>$ = in_single;
+}}}
+
+やっぱりRuby開発者の皆さんはMacでビルドなんかしてなくて、Macユーザーはtrunkなんか全然使ってない、ということなんでしょうかね。~
+
+ともあれ、なんとかインストール完了。
+
+{{{
+% ~/ruby/bin/ruby19 -v
+ruby 1.9.1 (2008-12-11 revision 20629) [i386-darwin9.5.0]
+}}}
+
+** railsのEdgeを取得
+{{{
+% git clone git://github.com/rails/rails.git rails
+}}}
+
+{{{
+% ruby19 ~/src/rails/railties/bin/rails -v
+Rails 2.3.0
+}}}
+
+以下が動作せず。
+{{{
+% ruby19 ~/src/rails/railties/bin/rails
+}}}
+
+{{{
+% ruby19 ~/src/rails/railties/bin/rails -h
+}}}
+
+-vつけてもこれだけ。
+{{{
+% ruby19 -v ~/src/rails/railties/bin/rails
+ruby 1.9.1 (2008-12-11 revision 20629) [i386-darwin9.5.0]
+}}}
+
+
+activesupport/lib/active_support/inflector.rb で死んでることがわかった。
+
+{{{
+% gdb -p 17279                                                                                                                                                                                                                                            [~]
+GNU gdb 6.3.50-20050815 (Apple version gdb-960) (Sun May 18 18:38:33 UTC 2008)
+Copyright 2004 Free Software Foundation, Inc.
+GDB is free software, covered by the GNU General Public License, and you are
+welcome to change it and/or distribute copies of it under certain conditions.
+Type "show copying" to see the conditions.
+There is absolutely no warranty for GDB.  Type "show warranty" for details.
+This GDB was configured as "i386-apple-darwin".
+/Users/matsuda/17279: No such file or directory.
+Attaching to process 17279.
+Reading symbols for shared libraries . done
+Reading symbols for shared libraries ............... done
+rb_type [inlined] () at ruby.h:1105
+1105	    if (IMMEDIATE_P(obj)) {
+(gdb) bt
+
+(中略)
+
+(gdb) finish
+Run till exit from #0  rb_type [inlined] () at ruby.h:1233
+rb_string_value (ptr=0xbfffa7ec) at string.c:1233
+1233	    if (TYPE(s) != T_STRING) {
+Value returned is $1 = 2062120
+(gdb) 
+Run till exit from #0  rb_string_value (ptr=0xbfffa7ec) at string.c:1233
+0x000c96f8 in rb_string_value_ptr (ptr=0xbfffa7ec) at string.c:1243
+1243	    return RSTRING_PTR(rb_string_value(ptr));
+Value returned is $2 = 2062120
+(gdb) 
+Run till exit from #0  0x000c96f8 in rb_string_value_ptr (ptr=0xbfffa7ec) at string.c:1243
+0x00031b04 in loaded_feature_path (name=0x80aa00 "/Users/matsuda/ruby/lib/ruby19/1.9.1/i386-darwin9.5.0/enc/trans/transdb.bundle", vlen=78, feature=0x25b740 "active_support/inflector", len=24, type=0, load_path=2090780) at load.c:62
+62		const char *s = StringValuePtr(p);
+Value returned is $3 = 0x23bd70 "/Users/matsuda/ruby/lib/ruby19/site_ruby/1.9.1"
+(gdb) 
+Run till exit from #0  0x00031b04 in loaded_feature_path (name=0x80aa00 "/Users/matsuda/ruby/lib/ruby19/1.9.1/i386-darwin9.5.0/enc/trans/transdb.bundle", vlen=78, feature=0x25b740 "active_support/inflector", len=24, type=0, load_path=2090780) at load.c:62
+0x00031ec0 in rb_feature_p (feature=0x25b740 "active_support/inflector", ext=0x0, rb=0, expanded=0, fn=0xbfffa9a8) at load.c:132
+132		    if (!(p = loaded_feature_path(f, n, feature, len, type, load_path)))
+Value returned is $4 = 0
+(gdb) 
+Run till exit from #0  0x00031ec0 in rb_feature_p (feature=0x25b740 "active_support/inflector", ext=0x0, rb=0, expanded=0, fn=0xbfffa9a8) at load.c:132
+0x00032a94 in rb_require_safe (fname=<value temporarily unavailable, due to optimizations>, safe=0) at load.c:478
+478	    else if ((ft = rb_feature_p(ftptr, 0, Qfalse, Qfalse, &loading)) == 'r') {
+Value returned is $5 = 0
+(gdb) 
+Run till exit from #0  0x00032a94 in rb_require_safe (fname=<value temporarily unavailable, due to optimizations>, safe=0) at load.c:478
+rb_const_get_0 (klass=4118700, id=12085, exclude=2, recurse=0) at variable.c:1471
+1471		while (RCLASS_IV_TBL(tmp) && st_lookup(RCLASS_IV_TBL(tmp),id,&value)) {
+Value returned is $6 = 0
+(gdb) 
+Run till exit from #0  rb_const_get_0 (klass=4118700, id=12085, exclude=2, recurse=0) at variable.c:1471
+}}}
+
+
+*** 最小ケース by 田中さん
+{{{
+% cat foo.rb
+class Foo
+end
+
+% cat test.rb
+autoload 'Foo', 'foo'
+class Foo
+end
+}}}
+
+とりあえずruby-devに報告して、ここで断念。
+
+** 1_9_1ブランチで実行してみたらどうか？ by ささださん
+ビルドに失敗して先に進めず。trunkと同様の変更を入れてみたけどビルドできず(謎)。
+
+** じゃあ YARV on Merbでもやるか
+{{{
+% gem19 i merb
+ERROR:  While executing gem ... (Gem::RemoteFetcher::FetchError)
+    bad response Internal Server Error 500 (http://rubyforge.iasi.roedu.net/gems/rake-0.8.3.gem)
+}}}
+rubyforgeが死んでてgemがインストールできず。
+
+** Ruby 1.9に期待できること by ささださん
+九州Ruby会議01を先取り！
+
+** Ruby 1.9.1 preview2 on Rails
+{{{
+% ruby19 ~/src/rails/railties/bin/rails asakusarb4
+}}}
+preview2ならふつうに動く。
+
+*** server起動
+{{{
+% ruby19 ./script/server
+=> Booting WEBrick
+=> Rails 2.3.0 application starting on http://0.0.0.0:3000
+/Users/matsuda/asakusarb4/vendor/rails/actionpack/lib/action_controller/routing/segments.rb:6: warning: encoding option is ignored - N
+=> Call with -d to detach
+=> Ctrl-C to shutdown server
+}}}
+
+警告が出る。
+Ruby 1.9では末尾のNが不要。かも。
+
+*** ブラウザでつつく
+{{{
+[2008-12-11 22:13:55] ERROR NoMethodError: undefined method `each' for "Thu, 11 Dec 2008 13:04:17 GMT":String
+	/Users/matsuda/ruby/lib/ruby19/gems/1.9.1/gems/rack-0.4.0/lib/rack/handler/webrick.rb:44:in `block in service'
+	/Users/matsuda/ruby/lib/ruby19/gems/1.9.1/gems/rack-0.4.0/lib/rack/handler/webrick.rb:43:in `each'
+	/Users/matsuda/ruby/lib/ruby19/gems/1.9.1/gems/rack-0.4.0/lib/rack/handler/webrick.rb:43:in `service'
+	/Users/matsuda/ruby/lib/ruby19/1.9.1/webrick/httpserver.rb:111:in `service'
+	/Users/matsuda/ruby/lib/ruby19/1.9.1/webrick/httpserver.rb:70:in `run'
+	/Users/matsuda/ruby/lib/ruby19/1.9.1/webrick/server.rb:183:in `block in start_thread'
+[2008-12-11 22:13:56] ERROR NoMethodError: undefined method `each' for "Thu, 11 Dec 2008 13:04:17 GMT":String
+	/Users/matsuda/ruby/lib/ruby19/gems/1.9.1/gems/rack-0.4.0/lib/rack/handler/webrick.rb:44:in `block in service'
+	/Users/matsuda/ruby/lib/ruby19/gems/1.9.1/gems/rack-0.4.0/lib/rack/handler/webrick.rb:43:in `each'
+	/Users/matsuda/ruby/lib/ruby19/gems/1.9.1/gems/rack-0.4.0/lib/rack/handler/webrick.rb:43:in `service'
+	/Users/matsuda/ruby/lib/ruby19/1.9.1/webrick/httpserver.rb:111:in `service'
+	/Users/matsuda/ruby/lib/ruby19/1.9.1/webrick/httpserver.rb:70:in `run'
+	/Users/matsuda/ruby/lib/ruby19/1.9.1/webrick/server.rb:183:in `block in start_thread'
+}}}
+Rackが落ちる。
+@see [[nariさんの対応|http://github.com/authorNari/rack/commit/f56069e66ef31fe49d23ee998b025facde52ef7c]]
+
+でも Ruby 1.9 のほうは each_lineだね(by ささださん)~
+ということで、以下のように修正。
+~/ruby/lib/ruby19/gems/1.9.1/gems/rack-0.4.0/lib/rack/handler/webrick.rb
+{{{
+ 44             if defined? vs.each
+ 45               vs.each { |v|
+ 46                 res[k] = v
+ 47               }
+ 48             else
+ 49               vs.each_line { |v|
+ 50                 res[k] = v
+ 51               }
+ 52             end
+}}}
+
+これで動いた。
+
+** rake test
+{{{
+% rake test
+}}}
+すると死ぬ。以下詳細。
+{{{
+% rake -t test
+(in /Users/matsuda/asakusarb4)
+** Invoke test (first_time)
+** Execute test
+** Invoke test:units (first_time)
+** Invoke db:test:prepare (first_time)
+** Invoke db:abort_if_pending_migrations (first_time)
+** Invoke environment (first_time)
+** Execute environment
+** Execute db:abort_if_pending_migrations
+** Execute db:test:prepare
+** Invoke db:test:load (first_time)
+** Invoke db:test:purge (first_time)
+** Invoke environment 
+** Execute db:test:purge
+** Execute db:test:load
+** Invoke db:schema:load (first_time)
+** Invoke environment 
+** Execute db:schema:load
+** Execute test:units
+/opt/local/bin/ruby -Ilib:test "/opt/local/lib/ruby/gems/1.8/gems/rake-0.8.3/lib/rake/rake_test_loader.rb"  
+** Invoke test:functionals (first_time)
+** Invoke db:test:prepare 
+** Execute test:functionals
+/opt/local/bin/ruby -Ilib:test "/opt/local/lib/ruby/gems/1.8/gems/rake-0.8.3/lib/rake/rake_test_loader.rb"  
+** Invoke test:integration (first_time)
+** Invoke db:test:prepare 
+** Execute test:integration
+/opt/local/bin/ruby -Ilib:test "/opt/local/lib/ruby/gems/1.8/gems/rake-0.8.3/lib/rake/rake_test_loader.rb"
+}}}
+
+この件に関しては[[Jeremy Kemperからチケット報告済み|http://redmine.ruby-lang.org/issues/show/771]]だったはず。~
+と思ったら、今日修正がコミットされてるじゃん！akrさん、ありがとうございます！~
+r20632以降なら動くようになってるのかも？
+
+* 今回のまとめ
+今のRubyのtrunkでRailsは''うごきません''。
+次回こそは！
+
+
+* 今回の成果
++ MacでMacPortsのbison 2.4が入ってたりする環境だとmakeに失敗するようになっていたことがわかった
++ autoloadが死ぬ件
+[[akrさんによる報告|http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/37388]]~
+[[翌朝には修正完了 by なかださん|http://redmine.ruby-lang.org/repositories/diff/ruby-19?rev=20655]]~
+仕事早すぎです。
+
+つづきはあとで書く

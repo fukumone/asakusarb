@@ -1,0 +1,126 @@
+* RubyのブロックとかOptionParserの話(was: 大江戸Ruby会議04のスレ)
+{{mail(shintaro.kakutani@gmail.com,1382458164)
+Subjectを変えてしまえば続けられるのではないでしょうか!
+
+2013/10/23 a a <silentsilent433@gmail.com>:
+> 皆様、本日もありがとうございました。
+>
+> ＞中田さん、須藤さん
+> コメントをいただけて感激です！
+> まさか作者からコメントを貰うとは思いもしませんでした。。
+> 須藤さんはメールでもサンプルコードをたくさん載せてくれるのですね。さすがです！
+>
+> 勉強会での内容も少し含めて、ブログを作成させていただきました。
+> http://sekai.hateblo.jp/entry/2013/10/23/003515
+>
+> あと、中田さんのるびまインタビュー記事も、たのしく拝見させていただきました。
+> http://magazine.rubyist.net/?0009-Hotlinks
+> 　（郡司さん情報ありがとうございました）
+>
+>
+> あまりこのスレ（大江戸会議）とは関係ない話題ともなりましたので、
+> 以降の返信は控えます。。すみません。
+}}
+{{mail(gunjisatoshi@gmail.com,1382566097)
+郡司です。
+
+思い出したのでついでに。
+
+昔、自分のブログ（黒歴史）に Ruby のブロックについてまとめたのでご参考までに。
+（ブロック、クロージャ、イテレータ）
+
+http://rubyist.g.hatena.ne.jp/muscovyduck/20060518/p1
+http://rubyist.g.hatena.ne.jp/muscovyduck/20060519/p1
+http://rubyist.g.hatena.ne.jp/muscovyduck/20060520/p1
+
+
+
+
+2013年10月23日 1:09 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+
+> Subjectを変えてしまえば続けられるのではないでしょうか!
+>
+> 2013/10/23 a a <silentsilent433@gmail.com>:
+> > 皆様、本日もありがとうございました。
+> >
+> > ＞中田さん、須藤さん
+> > コメントをいただけて感激です！
+> > まさか作者からコメントを貰うとは思いもしませんでした。。
+> > 須藤さんはメールでもサンプルコードをたくさん載せてくれるのですね。さすがです！
+> >
+> > 勉強会での内容も少し含めて、ブログを作成させていただきました。
+> > http://sekai.hateblo.jp/entry/2013/10/23/003515
+> >
+> > あと、中田さんのるびまインタビュー記事も、たのしく拝見させていただきました。
+> > http://magazine.rubyist.net/?0009-Hotlinks
+> >  （郡司さん情報ありがとうございました）
+> >
+> >
+> > あまりこのスレ（大江戸会議）とは関係ない話題ともなりましたので、
+> > 以降の返信は控えます。。すみません。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/309.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(silentsilent433@gmail.com,1382604889)
+郡司さん！！？？？！！！
+郡司さんってバリケンさんだったの？？？！！！マジで！
+Rubyで調べものしてたら大体バリケン日記に行き当たるから、いつも読んでる！
+
+ってすみませんまだ内容読まないのに衝撃のあまり返信してしまいました。。
+
+
+ちなみにバリケンさん=＝hp12cさん？
+
+
+
+2013/10/24 Satoshi GUNJI <gunjisatoshi@gmail.com>:
+> 郡司です。
+>
+> 思い出したのでついでに。
+>
+> 昔、自分のブログ（黒歴史）に Ruby のブロックについてまとめたのでご参考までに。
+> （ブロック、クロージャ、イテレータ）
+>
+> http://rubyist.g.hatena.ne.jp/muscovyduck/20060518/p1
+> http://rubyist.g.hatena.ne.jp/muscovyduck/20060519/p1
+> http://rubyist.g.hatena.ne.jp/muscovyduck/20060520/p1
+>
+>
+>
+>
+> 2013年10月23日 1:09 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+>
+>> Subjectを変えてしまえば続けられるのではないでしょうか!
+>>
+>> 2013/10/23 a a <silentsilent433@gmail.com>:
+>> > 皆様、本日もありがとうございました。
+>> >
+>> > ＞中田さん、須藤さん
+>> > コメントをいただけて感激です！
+>> > まさか作者からコメントを貰うとは思いもしませんでした。。
+>> > 須藤さんはメールでもサンプルコードをたくさん載せてくれるのですね。さすがです！
+>> >
+>> > 勉強会での内容も少し含めて、ブログを作成させていただきました。
+>> > http://sekai.hateblo.jp/entry/2013/10/23/003515
+>> >
+>> > あと、中田さんのるびまインタビュー記事も、たのしく拝見させていただきました。
+>> > http://magazine.rubyist.net/?0009-Hotlinks
+>> >  （郡司さん情報ありがとうございました）
+>> >
+>> >
+>> > あまりこのスレ（大江戸会議）とは関係ない話題ともなりましたので、
+>> > 以降の返信は控えます。。すみません。
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/309.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/309.html
+> ML-> asakusarb@qwik.jp
+}}

@@ -1,0 +1,188 @@
+* 第90回Asakusa.rb(2011-02-15)
+{{mail(takkanm@gmail.com,1297688687)
+さて明日火曜日は、いつものAsakusa.rbの火曜日ですね。
+明日は、まさかの90回のようです。
+
+会場は、いつもどおりE和でいいでしょうか?
+
+明日はAlexさんが来られるんでしたっけ?なんか、やったりするのかしら?
+
+何もやらないようであれば、わたしはHikiを静的なファイルにできないか、
+なやもうと思います。
+}}
+{{mail(ronnie@dio.jp,1297696008)
+> 会場は、いつもどおりE和でいいでしょうか?
+
+すみません。毎度よろしくお願いします。
+
+> 明日はAlexさんが来られるんでしたっけ?なんか、やったりするのかしら?
+
+はい。Alexくん来られるそうです。
+ただ、いま何故か鎌倉に泊まってるので、終電で帰れなかったらどうしよう、
+どっか泊まれるところあるか？って訊かれてます。
+いまいちノリがよくわかんないけど朝まで飲むとかでいいんかな？
+
+そんなわけで参加予定の皆さん、Juggernaut周りの予習を忘れずに！
+
+あと、(朝までかどうかは置いといて)、例によって早めに切り上げて
+どっか飲みに行けたりするといいなぁ、とか思ってます。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(sakuro@2238club.org,1297697379)
+さくです。
+
+明日は別の用があるので不参加です。
+
+2011/2/15 Akira Matsuda <ronnie@dio.jp>:
+
+> ただ、いま何故か鎌倉に泊まってるので、終電で帰れなかったらどうしよう、
+> どっか泊まれるところあるか？って訊かれてます。
+
+JR上野→鎌倉間23時40分くらいのがあるようですが、勝負を挑んでも仕方ないのでもっと
+早めに切り上げたほうがいいでしょうね。(23:12でも最終的に乗る便が同じ…)
+
+http://www.jorudan.co.jp/norikae/cgi/nori.cgi?eki1=%E4%B8%8A%E9%87%8E&eki2=%E9%8E%8C%E5%80%89&Cway=3&Csg=1&S=%E6%A4%9C%E7%B4%A2
+
+
+-- 
+OZAWA Sakuro
+
+"I think we can agree, the past is over." - George W. Bush
+}}
+{{mail(gunjisatoshi@rikuga.me,1297743176)
+郡司です。
+
+大変残念ですが。風邪なので一回休みです。
+
+> 何もやらないようであれば、わたしはHikiを静的なファイルにできないか、
+> なやもうと思います。
+
+wget使う‥‥というのは邪道ですかねえ。
+
+$ wget -r -np -m -k -p -erobots=off http://some.of.uri/
+}}
+{{mail(shibata.hiroshi@gmail.com,1297743632)
+柴田です。
+
+今日は tDiary 開発者会議なので一回休みです。
+
+> 何もやらないようであれば、わたしはHikiを静的なファイルにできないか、
+> なやもうと思います。
+
+tDiary には squeeze プラグインというものがあってだな(ry
+
+かずひこさんがHiki版に言及はしているみたいです。
+http://sourceforge.jp/projects/hiki/lists/archive/dev/2003-September/000410.html
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(ken97531@gmail.com,1297744296)
+西村です
+
+永和さん、会場いつもありがとうございます。
+Juggernautが何なのかよくわかってませんが、何となく興味を引かれつつ
+参加します。
+}}
+{{mail(shintaro.kakutani@gmail.com,1297744638)
+2011/2/15 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 今日は tDiary 開発者会議なので一回休みです。
+
+おなじく今日は欠席です。
+
+say hello to Alex.
+}}
+{{mail(genki@s21g.com,1297744708)
+瀧内です
+
+久々に参加したいです。
+何時にどこに行けばいいんでしたっけ？
+
+2011/2/15 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+> 2011/2/15 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>> 今日は tDiary 開発者会議なので一回休みです。
+>
+> おなじく今日は欠席です。
+>
+> say hello to Alex.
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack090.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ Genki Takiuchi  -  瀧内 元気
+   http://blog.s21g.com/genki
+   http://twitter.com/takiuchi
+
+ - CTO of LTE Inc. <takiuchi@lighttransport.com>
+ - Senior Partner of s21g LLC <genki@s21g.com>
+
+東京都世田谷区北沢1-45-38北沢セントラルハイツ402
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+}}
+{{mail(ronnie@dio.jp,1297746556)
+2011/2/15 Genki Takiuchi <genki@s21g.com>:
+> 久々に参加したいです。
+> 何時にどこに行けばいいんでしたっけ？
+
+19:30ぐらいにこちらにお越しください！
+http://qwik.jp/asakusarb/esm_ueno.html
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(nakahiro@gmail.com,1297746812)
+大江戸アジェンダ締め切りも近づいてきたし、顔を出したいんですが、微妙です。
+}}
+{{mail(junyaogura@gmail.com,1297751387)
+おぐらです
+
+参加させていただきます。
+Mongoid 2.0.0に備えたお勉強でもしようと思います。
+
+2011/2/14  <takkanm@gmail.com>:
+> さて明日火曜日は、いつものAsakusa.rbの火曜日ですね。
+> 明日は、まさかの90回のようです。
+>
+> 会場は、いつもどおりE和でいいでしょうか?
+>
+> 明日はAlexさんが来られるんでしたっけ?なんか、やったりするのかしら?
+>
+> 何もやらないようであれば、わたしはHikiを静的なファイルにできないか、
+> なやもうと思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack090.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+Junya Ogura <junyaogura@gmail.com>
+http://twitter.com/junya
+}}
+{{mail(kanasansoft@gmail.com,1297762815)
+kanasanです。
+
+ほとんど参加できていませんが、
+今日はリアルタイムなrubyとのことなので参加します。
+}}
+{{mail(shimura-hir@obun.jp,1297763416)
+		志村 弘之
+参加します。
+kaminari ちょっとさわったりしてます
+
+In message "[asakusarb:1762] Re: 第90回Asakusa.rb(2011-02-15)", <F07DD234-8B7C-4A2D-85B8-3574C0BECC5A@gmail.com>, 
+---------------------------------------+---------+---------+以上 2011/2/15
+
+志村弘之  mailto: shimura-hir@obun.jp
+}}

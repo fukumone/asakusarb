@@ -1,0 +1,261 @@
+* 第338回 Asakusa.rb (2015-12-22)
+{{mail(takkanm@gmail.com,1450671209)
+明日は 2015 最後のミートアップになるだろうと思います。
+いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行ないたいと思います。
+
+https://gist.github.com/takkanm/019f95fcf8a6251161a2
+
+とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと思ってます。
+あと、qwik のバックアップとりたい。
+}}
+{{mail(shibata.hiroshi@gmail.com,1450678673)
+柴田です。
+
+qwik どうしようの野次馬や ruby_2_3 のブランチが切られてなかったら
+typo fix の patch マージなどを頑張ろうと思います
+
+2015-12-21 13:13 GMT+09:00  <takkanm@gmail.com>:
+> 明日は 2015 最後のミートアップになるだろうと思います。
+> いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行ないたいと思います。
+>
+> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+>
+> とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと思ってます。
+> あと、qwik のバックアップとりたい。
+
+
+
+-- 
+SHIBATA Hiroshi hsbt@ruby-lang.org
+http://www.hsbt.org/
+}}
+{{mail(mrkn@mrkn.jp,1450679587)
+村田です。
+
+おひさしぶりに参加します。
+Python と Julia から色々盗む作業をやる予定です。
+
+よろしくお願いします。
+On Mon, Dec 21, 2015 at 15:17 SHIBATA Hiroshi <hsbt@ruby-lang.org> wrote:
+
+> 柴田です。
+>
+> qwik どうしようの野次馬や ruby_2_3 のブランチが切られてなかったら
+> typo fix の patch マージなどを頑張ろうと思います
+>
+> 2015-12-21 13:13 GMT+09:00  <takkanm@gmail.com>:
+> > 明日は 2015 最後のミートアップになるだろうと思います。
+> > いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行ないたいと思います。
+> >
+> > https://gist.github.com/takkanm/019f95fcf8a6251161a2
+> >
+> > とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと思ってます。
+> > あと、qwik のバックアップとりたい。
+>
+>
+>
+> --
+> SHIBATA Hiroshi hsbt@ruby-lang.org
+> http://www.hsbt.org/
+>
+}}
+{{mail(pref.myu@gmail.com,1450754159)
+内田です。
+参加します。
+HerokuのAdventCalendar書きに行きます。
+
+2015年12月21日 13:13 <takkanm@gmail.com>:
+
+> 明日は 2015 最後のミートアップになるだろうと思います。
+> いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行ないたいと思います。
+>
+> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+>
+> とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと思ってます。
+> あと、qwik のバックアップとりたい。
+>
+}}
+{{mail(katsyoshi@katsyoshi.org,1450757835)
+katsyoshiです。
+参加します。
+ちょっと遅くなると思います。
+
+2015年12月22日 12:15 Masayuki Uchida <pref.myu@gmail.com>:
+> 内田です。
+> 参加します。
+> HerokuのAdventCalendar書きに行きます。
+>
+> 2015年12月21日 13:13 <takkanm@gmail.com>:
+>
+>> 明日は 2015 最後のミートアップになるだろうと思います。
+>> いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行ないたいと思います。
+>>
+>> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+>>
+>> とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと思ってます。
+>> あと、qwik のバックアップとりたい。
+>
+>
+}}
+{{mail(youchan01@gmail.com,1450768187)
+参加します。
+Advent Calendar 書いたりします。
+
+2015年12月22日 13:17 松本勝慶 <matsumoto.katsuyoshi@gmail.com>:
+> katsyoshiです。
+> 参加します。
+> ちょっと遅くなると思います。
+>
+> 2015年12月22日 12:15 Masayuki Uchida <pref.myu@gmail.com>:
+>> 内田です。
+>> 参加します。
+>> HerokuのAdventCalendar書きに行きます。
+>>
+>> 2015年12月21日 13:13 <takkanm@gmail.com>:
+>>
+>>> 明日は 2015 最後のミートアップになるだろうと思います。
+>>> いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行ないたいと思います。
+>>>
+>>> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+>>>
+>>> とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと思ってます。
+>>> あと、qwik のバックアップとりたい。
+>>
+>>
+
+
+
+-- 
+大崎　瑶 <youchan01@gmail.com>
+}}
+{{mail(ko1@atdot.net,1450774380)
+On 2015/12/21 13:13, takkanm@gmail.com wrote:
+> 明日は 2015 最後のミートアップになるだろうと思います。
+> いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行な
+> いたいと思います。
+> 
+> https://gist.github.com/takkanm/019f95fcf8a6251161a2
+> 
+> とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと
+> 思ってます。
+> あと、qwik のバックアップとりたい。
+
+いつも会場ありがとうございます。
+2.3 の状況を注視しにいきます。
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(mail@yukinishijima.net,1450775564)
+参加します。2.3 に向けて did_you_mean gem を少しいじりにいきます。
+
+On Tuesday, December 22, 2015, SASADA Koichi <ko1@atdot.net> wrote:
+
+> On 2015/12/21 13:13, takkanm@gmail.com <javascript:;> wrote:
+> > 明日は 2015 最後のミートアップになるだろうと思います。
+> > いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行な
+> > いたいと思います。
+> >
+> > https://gist.github.com/takkanm/019f95fcf8a6251161a2
+> >
+> > とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと
+> > 思ってます。
+> > あと、qwik のバックアップとりたい。
+>
+> いつも会場ありがとうございます。
+> 2.3 の状況を注視しにいきます。
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+}}
+{{mail(hokupod1985@gmail.com,1450777796)
+武宮です。ご無沙汰しております。参加します。Railsチュートリアルの模写してます。よろしくお願いいたします。
+
+2015年12月22日(火) 18:12 Yuki Nishijima <mail@yukinishijima.net>:
+
+> 参加します。2.3 に向けて did_you_mean gem を少しいじりにいきます。
+>
+> On Tuesday, December 22, 2015, SASADA Koichi <ko1@atdot.net> wrote:
+>
+>> On 2015/12/21 13:13, takkanm@gmail.com wrote:
+>> > 明日は 2015 最後のミートアップになるだろうと思います。
+>> > いつも通り、ミートアップを神田の永和システムマネジメントのオフィスで行な
+>> > いたいと思います。
+>> >
+>> > https://gist.github.com/takkanm/019f95fcf8a6251161a2
+>> >
+>> > とりあえず、先週のミートアップであまった日本酒(4 合)をもっていこうかと
+>> > 思ってます。
+>> > あと、qwik のバックアップとりたい。
+>>
+>> いつも会場ありがとうございます。
+>> 2.3 の状況を注視しにいきます。
+>>
+>> --
+>> // SASADA Koichi at atdot dot net
+>>
+> --
+Hokuto Takemiya
+}}
+{{mail(ronnie@dio.jp,1450777881)
+明後日帰っちゃうzzakを連れていきます。
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(mayumi.emori@gmail.com,1450778823)
+emorimaです。
+
+いつも会場提供ありがとうございます！
+
+遅れに遅れた Advent Calendarを更新しに行きますー
+
+-- 
+Mayumi EMORI
+mayumi.emori@gmail.com
+}}
+{{mail(kakyoin.hierophant@gmail.com,1450781560)
+ちょっと遅くなっちゃいますが、参加予定です。
+20:30ぐらいに行きます。
+
+2015年12月22日 19:07 mayumi emori <mayumi.emori@gmail.com>:
+
+> emorimaです。
+>
+> いつも会場提供ありがとうございます！
+>
+> 遅れに遅れた Advent Calendarを更新しに行きますー
+>
+> --
+> Mayumi EMORI
+> mayumi.emori@gmail.com
+>
+}}
+{{mail(shintaro.kakutani@gmail.com,1450782373)
+かくたにです。2030ぐらいになりそうだけど、顔出しにいきます。
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(spiketeika@gmail.com,1450782448)
+金子です。
+
+遅くなりますが、20:30くらいに行きたいです。
+がんばります。
+
+2015年12月22日 20:06 Kakutani Shintaro <shintaro.kakutani@gmail.com>:
+
+> かくたにです。2030ぐらいになりそうだけど、顔出しにいきます。
+>
+>
+>
+> --
+> Kakutani Shintaro
+>
+>
+>
+>
+}}

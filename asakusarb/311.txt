@@ -1,0 +1,364 @@
+* 【大当たり？】You may have encountered a bug in the Ruby interpreter
+{{mail(silentsilent433@gmail.com,1382606304)
+浅草Rubyの皆様、
+本当にたびたび申し訳ありません。せかいです。
+想定外の出来事が発生しましたため、重ねてメールさせてください。
+
+サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+これはよくあることなのでしょうか？
+報告したほうがいいのかな？
+ちなみにsocketライブラリを使っていました。
+
+
+ってあまりの衝撃にメールを書いたものの、
+考えれば、火曜日に相談させてもらえば良い話ですよね。
+すみません。火曜のどこかで相談させてください。
+
+
+衝撃続きで心臓に悪い。。
+
+※１
+[NOTE]
+You may have encountered a bug in the Ruby interpreter or extension libraries.
+Bug reports are welcome.
+For details: http://www.ruby-lang.org/bugreport.html
+
+
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+}}
+{{mail(ko1@atdot.net,1382607642)
+よくあることです（少なくとも私の PC では）。
+
+再現出来る手順（このプログラムをこうやって動かす）をご連絡頂けると幸いです。
+
+
+(2013/10/24 18:18), a a wrote:
+> 浅草Rubyの皆様、
+> 本当にたびたび申し訳ありません。せかいです。
+> 想定外の出来事が発生しましたため、重ねてメールさせてください。
+> 
+> サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+> これはよくあることなのでしょうか？
+> 報告したほうがいいのかな？
+> ちなみにsocketライブラリを使っていました。
+> 
+> 
+> ってあまりの衝撃にメールを書いたものの、
+> 考えれば、火曜日に相談させてもらえば良い話ですよね。
+> すみません。火曜のどこかで相談させてください。
+> 
+> 
+> 衝撃続きで心臓に悪い。。
+> 
+> ※１
+> [NOTE]
+> You may have encountered a bug in the Ruby interpreter or extension libraries.
+> Bug reports are welcome.
+> For details: http://www.ruby-lang.org/bugreport.html
+> 
+> 
+> This application has requested the Runtime to terminate it in an unusual way.
+> Please contact the application's support team for more information.
+> 
+
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(silentsilent433@gmail.com,1382607891)
+ささださん、ご連絡ありがとうございます。
+
+よくあることなのですね。良かったです。
+それであれば（緊急ではなさそうなので）火曜日のmeetupにて
+バグレポートの書き方含め、勉強させて頂きます。
+
+助かりましたー。。
+
+2013/10/24 SASADA Koichi <ko1@atdot.net>:
+> よくあることです（少なくとも私の PC では）。
+>
+> 再現出来る手順（このプログラムをこうやって動かす）をご連絡頂けると幸いです。
+>
+>
+> (2013/10/24 18:18), a a wrote:
+>> 浅草Rubyの皆様、
+>> 本当にたびたび申し訳ありません。せかいです。
+>> 想定外の出来事が発生しましたため、重ねてメールさせてください。
+>>
+>> サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+>> これはよくあることなのでしょうか？
+>> 報告したほうがいいのかな？
+>> ちなみにsocketライブラリを使っていました。
+>>
+>>
+>> ってあまりの衝撃にメールを書いたものの、
+>> 考えれば、火曜日に相談させてもらえば良い話ですよね。
+>> すみません。火曜のどこかで相談させてください。
+>>
+>>
+>> 衝撃続きで心臓に悪い。。
+>>
+>> ※１
+>> [NOTE]
+>> You may have encountered a bug in the Ruby interpreter or extension
+>> libraries.
+>> Bug reports are welcome.
+>> For details: http://www.ruby-lang.org/bugreport.html
+>>
+>>
+>> This application has requested the Runtime to terminate it in an unusual
+>> way.
+>> Please contact the application's support team for more information.
+>>
+>
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+> --
+> archive-> http://qwik.jp/asakusarb/311.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(ko1@atdot.net,1382608038)
+(2013/10/24 18:44), a a wrote:
+> よくあることなのですね。良かったです。
+
+ああいや、私の PC で、なので、普通はあまりないような気がします。
+
+> それであれば（緊急ではなさそうなので）火曜日のmeetupにて
+> バグレポートの書き方含め、勉強させて頂きます。
+
+ここにこうやれば起きる、って書いて貰えれば足りると思いますよ。その上で必
+要なら火曜日にお話できるかと。
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(tarui@prx.jp,1382608063)
+ささださんの環境ではよくあることではあっても、
+ふつうに使ってる人の環境でよくあったらいけないような・・・
+
+他所から不安定な拡張ライブラリを持ってきてなければめったに見ないはずで、
+希少性があるのでこういう報告は喜ばれます。
+
+#緊急性はまぁそこまででは。たぶん。
+
+2013年10月24日 18:40 SASADA Koichi <ko1@atdot.net>:
+> よくあることです（少なくとも私の PC では）。
+>
+> 再現出来る手順（このプログラムをこうやって動かす）をご連絡頂けると幸いです。
+>
+>
+> (2013/10/24 18:18), a a wrote:
+>> 浅草Rubyの皆様、
+>> 本当にたびたび申し訳ありません。せかいです。
+>> 想定外の出来事が発生しましたため、重ねてメールさせてください。
+>>
+>> サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+>> これはよくあることなのでしょうか？
+>> 報告したほうがいいのかな？
+>> ちなみにsocketライブラリを使っていました。
+>>
+>>
+>> ってあまりの衝撃にメールを書いたものの、
+>> 考えれば、火曜日に相談させてもらえば良い話ですよね。
+>> すみません。火曜のどこかで相談させてください。
+>>
+>>
+>> 衝撃続きで心臓に悪い。。
+>>
+>> ※１
+>> [NOTE]
+>> You may have encountered a bug in the Ruby interpreter or extension libraries.
+>> Bug reports are welcome.
+>> For details: http://www.ruby-lang.org/bugreport.html
+>>
+>>
+>> This application has requested the Runtime to terminate it in an unusual way.
+>> Please contact the application's support team for more information.
+>>
+>
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+> --
+> archive-> http://qwik.jp/asakusarb/311.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+樽家昌也(Masaya TARUI)
+No Tool,No Life.
+}}
+{{mail(silentsilent433@gmail.com,1382614147)
+皆様、ご返信ありがとうございました。
+
+システムエラーが良くあるってどんな魔境PCなんだろう。。と思っていましたが、
+また全然違う箇所で発生してしまいました。
+
+魔境PC！
+
+ただ、
+１つ目はHTTPレスポンス書き出し、
+2つ目は並列処理で読み込んだファイル内容読み出し、
+なので、発生原因は同じかもしれないです。
+
+これはRubyの神様にバグレポートを早く書けと怒られているような気がします。
+ということで、これから記述いたします。
+皆様ありがとうございました。
+
+
+■蛇足
+問題のコード
+filename = File.dirname(__FILE__) + File::SEPARATOR+"data1.txt"
+p File.open(filename){|f| f.read}  #<= error
+
+発生エラー
+C:\Users\HOGE_ADMIN>ruby C:\Users\HOGE_ADMIN\Desktop\net\thread_file_read.rb
+"2013-10-14\n\x81yRuby\x81z\x95W\x8F\x80\x93\xFC\x97??????\x83t\x83@\x83C\x83\x8B\x93\xFC\x97????‡?\x97??????\
+ruby 2.0.0p247 (2013-06-27) [i386-mingw32]
+
+-- Control frame information -----------------------------------------------
+c:0003 p:---- s:0010 e:000009 CFUNC  :p
+c:0002 p:0052 s:0006 E:0019fc EVAL
+C:/Users/HOGE_ADMIN/Desktop/net/thread_file_read.rb:4 [FINISH]
+c:0001 p:0000 s:0002 E:001b94 TOP    [FINISH]
+
+C:/Users/HOGE_ADMIN/Desktop/net/thread_file_read.rb:4:in `<main>'
+C:/Users/HOGE_ADMIN/Desktop/net/thread_file_read.rb:4:in `p'
+
+-- C level backtrace information -------------------------------------------
+C:\Windows\SysWOW64\ntdll.dll(ZwWaitForSingleObject+0x15) [0x7797F8D1]
+C:\Windows\syswow64\kernel32.dll(WaitForSingleObjectEx+0x43) [0x75241194]
+C:\Windows\syswow64\kernel32.dll(WaitForSingleObject+0x12) [0x75241148]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_vm_bugreport+0xa7) [0x668F6B57]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_name_err_mesg_new+0x69d) [0x667BE2BD]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_bug+0x2e) [0x667BF0BE]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_syserr_new_str+0x178) [0x667C0968]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_sys_fail_str+0xe) [0x667C09EE]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_io_taint_check+0x1765) [0x667EE595]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_p+0xb4) [0x667F9084]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_p+0xf5) [0x667F90C5]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_ensure+0x9b) [0x667C734B]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_uninterruptible+0x5f) [0x66903DDF]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_call_inits+0xca5) [0x667E6E95]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_error_arity+0x129) [0x668E1FF9]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_each+0x448) [0x668F1A98]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_vm_localjump_error+0x25ad) [0x668E6A3D]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_vm_localjump_error+0x6ce4) [0x668EB174]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_iseq_eval_main+0x131) [0x668F3B21]
+C:\Ruby200\bin\msvcrt-ruby200.dll(rb_check_copyable+0x3721) [0x667C44F1]
+C:\Ruby200\bin\msvcrt-ruby200.dll(ruby_run_node+0x2d) [0x667C6A3D]
+ [0x0040287F]
+ [0x004013FA]
+C:\Windows\syswow64\kernel32.dll(BaseThreadInitThunk+0x12) [0x7524336A]
+C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x77999F72]
+
+-- Other runtime information -----------------------------------------------
+
+* Loaded script: C:/Users/HOGE_ADMIN/Desktop/net/thread_file_read.rb
+
+* Loaded features:
+
+    0 enumerator.so
+    1 C:/Ruby200/lib/ruby/2.0.0/i386-mingw32/enc/encdb.so
+    2 C:/Ruby200/lib/ruby/2.0.0/i386-mingw32/enc/windows_31j.so
+    3 C:/Ruby200/lib/ruby/2.0.0/i386-mingw32/enc/trans/transdb.so
+    4 C:/Ruby200/lib/ruby/2.0.0/i386-mingw32/rbconfig.rb
+    5 C:/Ruby200/lib/ruby/2.0.0/rubygems/compatibility.rb
+    6 C:/Ruby200/lib/ruby/2.0.0/rubygems/defaults.rb
+    7 C:/Ruby200/lib/ruby/2.0.0/rubygems/deprecate.rb
+    8 C:/Ruby200/lib/ruby/2.0.0/rubygems/errors.rb
+    9 C:/Ruby200/lib/ruby/2.0.0/rubygems/version.rb
+   10 C:/Ruby200/lib/ruby/2.0.0/rubygems/requirement.rb
+   11 C:/Ruby200/lib/ruby/2.0.0/rubygems/platform.rb
+   12 C:/Ruby200/lib/ruby/2.0.0/rubygems/specification.rb
+   13 C:/Ruby200/lib/ruby/2.0.0/rubygems/exceptions.rb
+   14 C:/Ruby200/lib/ruby/2.0.0/rubygems/defaults/operating_system.rb
+   15 C:/Ruby200/lib/ruby/2.0.0/i386-mingw32/enc/utf_16le.so
+   16 C:/Ruby200/lib/ruby/2.0.0/i386-mingw32/enc/trans/utf_16_32.so
+   17 C:/Ruby200/lib/ruby/2.0.0/rubygems/core_ext/kernel_gem.rb
+   18 C:/Ruby200/lib/ruby/2.0.0/rubygems/core_ext/kernel_require.rb
+   19 C:/Ruby200/lib/ruby/2.0.0/rubygems.rb
+
+[NOTE]
+You may have encountered a bug in the Ruby interpreter or extension libraries.
+Bug reports are welcome.
+For details: http://www.ruby-lang.org/bugreport.html
+
+
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+
+C:\Users\HOGE_ADMIN>
+
+
+2013/10/24 Masaya TARUI <tarui@prx.jp>:
+> ささださんの環境ではよくあることではあっても、
+> ふつうに使ってる人の環境でよくあったらいけないような・・・
+>
+> 他所から不安定な拡張ライブラリを持ってきてなければめったに見ないはずで、
+> 希少性があるのでこういう報告は喜ばれます。
+>
+> #緊急性はまぁそこまででは。たぶん。
+>
+> 2013年10月24日 18:40 SASADA Koichi <ko1@atdot.net>:
+>> よくあることです（少なくとも私の PC では）。
+>>
+>> 再現出来る手順（このプログラムをこうやって動かす）をご連絡頂けると幸いです。
+>>
+>>
+>> (2013/10/24 18:18), a a wrote:
+>>> 浅草Rubyの皆様、
+>>> 本当にたびたび申し訳ありません。せかいです。
+>>> 想定外の出来事が発生しましたため、重ねてメールさせてください。
+>>>
+>>> サンプルコードを書いていたらこんなエラーが出た（※１）のですが、
+>>> これはよくあることなのでしょうか？
+>>> 報告したほうがいいのかな？
+>>> ちなみにsocketライブラリを使っていました。
+>>>
+>>>
+>>> ってあまりの衝撃にメールを書いたものの、
+>>> 考えれば、火曜日に相談させてもらえば良い話ですよね。
+>>> すみません。火曜のどこかで相談させてください。
+>>>
+>>>
+>>> 衝撃続きで心臓に悪い。。
+>>>
+>>> ※１
+>>> [NOTE]
+>>> You may have encountered a bug in the Ruby interpreter or extension
+>>> libraries.
+>>> Bug reports are welcome.
+>>> For details: http://www.ruby-lang.org/bugreport.html
+>>>
+>>>
+>>> This application has requested the Runtime to terminate it in an unusual
+>>> way.
+>>> Please contact the application's support team for more information.
+>>>
+>>
+>>
+>> --
+>> // SASADA Koichi at atdot dot net
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/311.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> 樽家昌也(Masaya TARUI)
+> No Tool,No Life.
+>
+> --
+> archive-> http://qwik.jp/asakusarb/311.html
+> ML-> asakusarb@qwik.jp
+>
+}}

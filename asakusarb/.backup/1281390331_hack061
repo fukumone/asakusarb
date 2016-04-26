@@ -1,0 +1,16 @@
+* 第61回Asakusa.rb(2010-08-10)
+{{mail(shintaro.kakutani@gmail.com,1281099350)
+来週も上野の永和でいいんですかね?
+
+校了した松田さんがいらっしゃるなら、
+RubyKaigi後のAsakusa観光の実現可能性を検討してみたいです。
+
+他は 1.9.2 のリリース状況をヲチしたりするとか?
+}}
+{{mail(nakahiro@gmail.com,1281390331)
+打ち合わせ時間が微妙なんですが、行けたら、JRubyKaigiでしゃべるJRubyネタのpreview #2をやります。
+
+先週、トークショーイベント準備の合間に、preview #1として話した内容は、
+http://bit.ly/JRubyJITCompilerInANutshell
+としてまとめ、JRubyユーザ会でしゃべってきました。Prezi難しいけど楽しい。
+}}

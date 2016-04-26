@@ -1,0 +1,333 @@
+* 第14回 Asakusa.rb (2009-08-18)
+
+**日時
+2009/8/18(Tue) 19:30～22:00
+
+**場所
+永和システムマネジメント 東京支社~
+http://www.esm.co.jp/company/map_tokyo.html
+
+**内容
+[[前回|013_log]]のフィードバックをWycatsにしたところ、返ってきた返答のあれこれをまたまたそのまま卜部さんに訊いてみた。
+
+**参加者
+うらべさん~
+松田さん~
+ウラシマさん~
+郡司さん~
+
+**GCパッチについて
+***前回のおさらい
+Rubyは(少なくともMatzは)オプションや設定ファイルを好まない。~
+php.ini的ファイルとか .rubyrcとかコンパイルオプションとかに設定を盛り込むような案は過去に全て却下されている。
+***じゃあRubyをforkするしかないってこと？
+だって少なくともRailsユーザーに取ってはGCパッチを当てたRubyのほうが速いわけで。
+>Yehuda Katz: is this good reason to have fork?~
+>Yehuda Katz: :(~
+>Yehuda Katz: Reason not to pull in is performance?~
+>Yehuda Katz: I can show much greater performance at least in Rails with REE~
+>Yehuda Katz: raw performance~
+>Yehuda Katz: due to better GC I think
+***今のRubyのGCチューニングは「みんなにとって最適な設定」ではないので、それを探す必要がある
+(明らかに英語がおかしくてハズい)~
+>matsuda-akira: so we have to find the best config suitable for every Ruby users~
+>Yehuda Katz: "so we have to find the best config suitable for every Ruby users" -- maybe this is not possible?~
+>Yehuda Katz: for GC tuning, maybe we can change default setting closer to Twitter?~
+>Yehuda Katz: or maybe Ruby can figure it out?~
+>matsuda-akira: what do you mean by "Ruby can figure it out?"~
+>Yehuda Katz: maybe Ruby can update its own GC settings~
+>Yehuda Katz: for things like heap size~
+>Yehuda Katz: as it goes~
+>Yehuda Katz: instead of needing config option~
+>Yehuda Katz: that would be best~
+>卜部さん: そうですね。その方向性が良いと思う。
+
+**CoWパッチについて
+***前回のおさらい
+>卜部さん: もう一回送ったらacceptされるかもしれないから、是非再チャレンジしてください。
+とのことだったので、
+***再チャレンジしてください
+>matsuda-akira: that seems not bad~
+>matsuda-akira: please try proposing the patch again if you're really in need of it~
+>Yehuda Katz: we are badly in need of it :)~
+>matsuda-akira: the patch seems not bad at this moment~
+>matsuda-akira: so it could be acceptable
+***1.8 or 1.9?
+>Yehuda Katz: for 1.8 only or 1.9?~
+>卜部さん: どっちでも。~
+>松田: でもまぁ、まずは1.9のほうが受け入れられやすいんでしょうね。~
+>卜部さん: おそらく。
+
+**MBARIパッチについて
+***前回のおさらい
+卜部さん、なかださんによると「全部入り」すぎるのが問題。
+***そこで、
+>matsuda-akira: so, please split them into individual atomic patches.
+***現状でも既にけっこう取り込まれている件
+このページのリストを参照しつつ、
+http://wiki.github.com/FooBarWidget/rubyenterpriseedition/overview-of-branches-in-the-repository
+>matsuda-akira: "ruby_engine" is already included in current Ruby~
+>matsuda-akira: "railsbench" is about GC tuning?~
+>matsuda-akira: if so, it seems it's difficult to be accepted as we already discussed~
+>matsuda-akira: and "single_threading_fix" is also already included~
+>matsuda-akira: "zero_copy_context_switch" is unacceptable.~
+>matsuda-akira: mput said, it seems problematic in some cases.~
+>matsuda-akira: "caller_for_all_threads" seems like a good feature~
+>matsuda-akira: and harmless~
+>matsuda-akira: so please send the patch to ruby-core. it will be accepted.
+***"zero_copy_context_switch"パッチって何が問題なの？
+Amanさんに伝えとくよ！って言われた。作者かな？Aman Guptaさん？
+>matsuda-akira: "zero_copy_context_switch" is unacceptable.~
+>matsuda-akira: mput said, it seems problematic in some cases.~
+>matsuda-akira: if you want to know the detail, please ask me again.~
+>Yehuda Katz: can we get information?~
+>Yehuda Katz: so I can tell Aman~
+>Yehuda Katz: yes~
+>Yehuda Katz: I think Aman would want to know~
+>卜部さん: シグナルの問題がある。
+***ここでJeremy Kemper乱入
+MBARIはもう分かれてるよ！
+>Yehuda Katz: Jeremy Kemper says MBARI already is broken up into a patch series~
+>matsuda-akira: really? so probably Ruby-core team in Japan don't know that~
+>Yehuda Katz: probably~
+>卜部さん: 確かMBARI6だかMBARI7だかまでは見た記憶がある。でもまだなんかでかかった気がする。その後は知らない。
+まぁとにかく、最小のパッチがあって、それが有用だと思うなら改めて提案してください、ってことですかね。
+**思わぬお誘いが
+>Yehuda Katz: do you want guest access to Rails core room so you can discuss with him?~
+>Yehuda Katz: :)~
+>Yehuda Katz: I will invite~
+>Yehuda Katz: https://xxxxxxxx (伏せ字)~
+>Yehuda Katz: :)
+「Rails core room」とかいって怖すぎです＞＜
+**Jeremy asks:
+1.9.2の進捗はどうなってるん？
+>Yehuda Katz: Jeremy asks:~
+>Yehuda Katz: curious about progress on the 1.9.2 agenda here http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/23977~
+>dealing with BOM, including ruby-debug (do they know about 1.9 support?) and ruby-prof (do they know it's broken currently?)~
+>backporting Time to 1.8.8... :)
+***ということでこれ
+http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/23977
+>卜部さん: これは・・・。そろそろRuby開発者会議やりたいねぇ。~
+>卜部さん: yuguiさんどうよ~
+>yuguiさん: ほう。~
+>なかださん: 今月中?~
+>卜部さん: 今月中というかそれによると25日にPR2が出るらしいので、そのタイミングとか?
+***ちなみに現状は？
+-dealing with BOM
+BOMの件はdone.
+-including ruby-debug (do they know about 1.9 support?)
+ruby-debugの1.9 supportはまだ動かない。やりたいとはささださんは言ってた。
+-ruby-prof (do they know it's broken currently?)
+壊れていることは知っている。誰かが何かworkingかどうかは知らない。
+-backporting Time to 1.8.8...
+Time クラスの件？だとしたらよくわからない。1.9でTimeは相当いろいろ変わってるからどこらへんのことなんだろ？
+-1.8.8はいつ出るの？
+まだ。1.8.8の目的はRuby 1.9のスクリプトがパースできるようにすることなんだけど、そこらへんでまだまだやれることがあるので、現状ではまだ出せない。
+
+**ActiveSupport (extlib) and Ruby
+***class_inheritable_accessor
+>matsuda-akira: class_inheritable_accessor seems not bad. Please send a patch or request to ruby-core.~
+>Yehuda Katz: :)
+***Mash(HashWithIndifferentAccess)
+****前回のおさらい
+>Yehuda Katz: if it was just in C it would be almost as fast as Hash~
+>Yehuda Katz: because getting String from Symbol in C is very fast~
+>卜部さん: そんなことはないと思う。Cで書いてもRuby版とほとんど変わんないんじゃないか？試しにやってみなよ。
+****"numbers will not lie"
+またまた名言ktkr！やる気まんまんですね。
+>Yehuda Katz: ha~
+>Yehuda Katz: did he disagree it would be much faster than in Ruby?~
+>matsuda-akira: yes~
+>Yehuda Katz: really?~
+>matsuda-akira: he said so.~
+>Yehuda Katz: we can try and do bench~
+>Yehuda Katz: this is something to experiment then~
+>matsuda-akira: could you? that's what he said.~
+>Yehuda Katz: I believe mput~
+>Yehuda Katz: but I am surprised~
+>Yehuda Katz: so I will investigate further~
+>Yehuda Katz: obviously numbers will not lie
+****その後
+さっきのやりとりのわずか1.5日後に、
+>Yehuda Katz: hey man~
+>Yehuda Katz: we have an implementation of Mash in C almost done~
+>Yehuda Katz: http://github.com/methodmissing/hwia/tree/master~
+>Yehuda Katz: Urabe-san was wrong~
+>Yehuda Katz: :P~
+>Yehuda Katz:
+{{{
+                            ACTIVESUPPORT | METHODMISSING |
+-----------------------------------------------------------
+read nil symbol                     0.280 |         0.279 |
+write symbol                        0.314 |         0.290 |
+read present symbol                 0.278 |         0.033 |
+read nil string                     0.142 |         0.120 |
+write string                        0.254 |         0.278 |
+read present string                 0.045 |         0.044 |
+}}}
+>Yehuda Katz: there is significant gain for reading symbols~
+>Yehuda Katz: :)~
+>Yehuda Katz: we are still working out some kinks~
+>Yehuda Katz: but it is looking good~
+>Yehuda Katz: and I think some other parts can be faster as well
+ということで、まだ作業中ながら、とりあえずの成果は早くも出せてるらしい。
+なんというか、すごい馬力ですね。
+
+**Ruby 1.9 specについて
+***前回のおさらい
+>Yehuda Katz: many in community here think ruby-core does not care about ruby-spec~
+>卜部さん: いや、もちろんそんなことは全然なくて、協力する気は大いにあります。(ただちょっとリソースが足りてないだけ)~
+***お金があれば解決する？？
+>Yehuda Katz: hmmm~
+>Yehuda Katz: do not repeat this, but maybe EY can put some money in it~
+>Yehuda Katz: or maybe Rails can do a funding drive~
+ここで即座にこういう発想が出てくるのは文化の違いなんでしょうかねー。
+***前回のおさらい2
+trunkはMatzの遊び場
+>matsuda-akira: anyways, we know people like you are very much annoyed by CRuby spec's unstableness~
+>matsuda-akira: but, that's how Ruby is since its birth~
+>matsuda-akira: that's the way Ruby has been developed for 15years~
+>matsuda-akira: ruby trunk is Matz's sandbox~
+>Yehuda Katz: ha~
+>matsuda-akira: nobody knows what's really going on there~
+>Yehuda Katz: :(~
+>matsuda-akira: nobody can controll
+***最新のRailsは最新のRubyに対応させていきたいんだからそれじゃ困る
+>Yehuda Katz: this is problem sometimes~
+>matsuda-akira: yes~
+>Yehuda Katz: when we try to release Rails that target new Ruby :P~
+>Yehuda Katz: we want to know ahead of time what is going on~
+>matsuda-akira: I don't think it should be like that forever~
+>Yehuda Katz: I trust Matz~
+>matsuda-akira: but that's the way it goes currently
+***"liberate world from PHP"!!!
+Railsが流行してきたと言ってもRubyで作られたWEBサイトはまだ2%。
+>Yehuda Katz: Ruby is much bigger now than it was 15 years ago~
+>Yehuda Katz: but still 2% of websites use Ruby compare with 30% use PHP~
+>matsuda-akira: right~
+>Yehuda Katz: I want to liberate world from PHP :P~
+>matsuda-akira: 100% AGREE about that!
+***どうにかしていきたいものですね、と。
+>matsuda-akira: so, we have to keep on discussing about this~
+>matsuda-akira: Ruby needs a sandbox for Matz to play with, but we all want to know the language's spec
+
+**savepoints
+***前回のおさらい
+Railsのdevelopmentモードみたいな用途で、簡単にクラスをアンロードしたりできたらいいなぁ、ということで、wycatsがこんな提案をしています。
+http://blade.nagaokaut.ac.jp/cgi-bin/vframe.rb/ruby/ruby-core/24520?24448-24832+split-mode-vertical
+***やっぱいいや
+同僚のRuby処理系実装者たちに猛烈にdisられたからやっぱり取り下げようかと、って。
+>matsuda-akira: then next, we talked about the "savepoints" feature~
+>Yehuda Katz: Charlie and Evan hate hate hate it~
+>Yehuda Katz: So I will withdraw it I think
+***新たな提案
+メゲないというかなんというか。アイデアマンですねぇ。
+>Yehuda Katz: However~
+>Yehuda Katz: I have new proposal~
+>Yehuda Katz: extend autoload to take an object~
+>Yehuda Katz: this object will be .call'ed when constant is referenced~
+>Yehuda Katz: and must return the constant~
+>Yehuda Katz: you can then implement normal autoload on top, or autoload with different locking
+***こんな感じで使うものらしい
+>matsuda-akira: how the actual Ruby code will be?~
+>matsuda-akira: I mean, usage.~
+>Yehuda Katz: class Autoloader; def call(constant_name) magic end; end~
+>Yehuda Katz: autoload :SomeConstant, Autoloader.new~
+>Yehuda Katz: or~
+>Yehuda Katz: autoload :SomeConstant {|constant_name| magic }~
+>Yehuda Katz: probably should have different name than autoload~
+>matsuda-akira: does that solve your problem? I can't just imagin.~
+>Yehuda Katz: it would give us the tools to solve it in Rails~
+>Yehuda Katz: because we can then track dependencies~
+>Yehuda Katz: and load what we need~
+>Yehuda Katz: it exposes loading to us and then we can find ways~
+>Yehuda Katz: and it is very small change~
+>Yehuda Katz: it basically defers to object instead of hardcoding to internal C function~
+>Yehuda Katz: it can default to C function
+***パッチでくれ
+パッチができたらみんなで試してみたいですね。
+>matsuda-akira: can you make a brief patch for examining?~
+>matsuda-akira: so we can give it a try~
+>Yehuda Katz: yes~
+>Yehuda Katz: I can~
+>matsuda-akira: that would be exciting!
+***何故今のRubyではこれが実現できないのか？
+>Yehuda Katz: the important thing is that the autoload flag needs to remain until after the constant is returned by object~
+>Yehuda Katz: this is why it cannot be implemented today with const_missing~
+>Yehuda Katz: because what can happen is:~
+>Yehuda Katz: first thread starts to load~
+>Yehuda Katz: constant is partially defined~
+>Yehuda Katz: second thread hits constant name, but it is already partially loaded~
+>Yehuda Katz: boom~
+>Yehuda Katz: also helpful would be Class#defined_at~
+>Yehuda Katz: returns Array of files where class was opened
+***そういえばRailsのautoloadの濫用っぷりは過去のAsakusa.rbでも何度かダメ出しされてました
+>matsuda-akira: I see. I remember once Urabe-san seeing Rails' code and mentions to abuse of autoload~
+>matsuda-akira: that it may be danger in multithread~
+>Yehuda Katz: right~
+>Yehuda Katz: it is :(~
+>Yehuda Katz: we want to fix this~
+>Yehuda Katz: to make multithread work with autoload~
+>Yehuda Katz: this will help~
+>matsuda-akira: so it will be healthy~
+>Yehuda Katz: yes :)
+
+**Rails-coreチャット
+
+**Rails3 generator
+
+
+**次回
+2009/8/25(Tue) 19:30～
+
+{{mail(ursm@ursm.jp,1250433044)
+ウラシマです。
+そうか、告知がいるのですね。うっかりしてました。
+
+2009-08-18に第14回をやります。
+see also: http://qwik.jp/asakusarb/60.html
+ご参加の方はこのメールにご返信ください。
+
+当日は角谷が不在のため、私が代理となります。
+入口が閉まっていたら
+'42097213080'.reverse
+mms _at_ ursm.jp
+のいずれかまでご連絡ください。
+}}
+{{mail(gunjisatoshi@gmail.com,1250462267)
+郡司です。
+
+告知ありがとうございます！
+遅れるかもしれませんが、出席します。
+}}
+{{mail(ronnie@dio.jp,1250478599)
+松田です。
+
+On 2009/08/16, at 23:30, Keita Urashima wrote:
+
+> 2009-08-18に第14回をやります。
+> see also: http://qwik.jp/asakusarb/60.html
+
+参加しまーす。
+ウラシマさん、告知ありがとうございます。
+
+ところで、「何やんの？」ってたまに訊かれる
+んですが、例によっていつものとおり毎度
+集まるメンツ次第なので、明日何をやるのかは
+今のところ全然決まってません。
+というわけで、参加される方は喋りたいネタや
+聞きたいネタを持ち寄ってくださったりすると
+とっても助かります。
+
+個人的には、特に案がなければ、前回の話題の
+どれかについて(ActiveSupport周りとか)もう少し
+深堀りしてみるとか、RubyKaigiやRubyConfや
+Kaigi on Rails(？)に絡んだ何かか、prsnt.orgか、
+Ruby 1.9.2か、Rails3か、なんかそんなあたりで
+何かやれると良いんじゃないかなぁ、と思ってます。
+
+(参考) 前回ログ http://qwik.jp/asakusarb/013_log.html
+
+--
+Akira Matsuda<ronnie@dio.jp>
+}}

@@ -1,0 +1,545 @@
+* 第186回Asakusa.rb (2012-11-27)
+{{mail(takkanm@gmail.com,1353844866)
+明後日火曜は 186 回目の Meetup です。
+
+会場は上野 E 和で行ないたいと思います。
+}}
+{{mail(shibata.hiroshi@gmail.com,1353846376)
+参加します。
+
+フランスのお菓子を持って行きます。
+
+
+2012年11月25日 21:01 <takkanm@gmail.com>:
+
+> 明後日火曜は 186 回目の Meetup です。
+>
+> 会場は上野 E 和で行ないたいと思います。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack186.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(ronnie@dio.jp,1353939138)
+参加します。
+
+我らがActionArgsをRails 4のStrongParameters対応してみたんですが、
+こんな感じでよいかどうか、どなたか識者の方からご意見ほしい感じです。
+https://github.com/asakusarb/action_args/compare/v0.0.3...HEAD
+
+あと、フランスのお菓子を食べにいきます。
+
+ちなみに、前回行われたRubyの処理系のThreadとかGCとかを読んだりする会は、今週はお休みになりそうです。
+
+
+
+On Sun, Nov 25, 2012 at 9:25 PM, SHIBATA Hiroshi
+<shibata.hiroshi@gmail.com>wrote:
+
+> 参加します。
+>
+> フランスのお菓子を持って行きます。
+>
+>
+> 2012年11月25日 21:01 <takkanm@gmail.com>:
+>
+> 明後日火曜は 186 回目の Meetup です。
+>>
+>> 会場は上野 E 和で行ないたいと思います。
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack186.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+
+
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(igaiga@gmail.com,1353971805)
+五十嵐です。
+参加します。
+資料を作ったり、フランスのお菓子を食べたりします。
+
+
+2012年11月26日月曜日 Akira Matsuda ronnie@dio.jp:
+
+> 参加します。
+>
+> 我らがActionArgsをRails 4のStrongParameters対応してみたんですが、
+> こんな感じでよいかどうか、どなたか識者の方からご意見ほしい感じです。
+> https://github.com/asakusarb/action_args/compare/v0.0.3...HEAD
+>
+> あと、フランスのお菓子を食べにいきます。
+>
+> ちなみに、前回行われたRubyの処理系のThreadとかGCとかを読んだりする会は、今週はお休みになりそうです。
+>
+>
+>
+> On Sun, Nov 25, 2012 at 9:25 PM, SHIBATA Hiroshi <
+> shibata.hiroshi@gmail.com <javascript:_e({}, 'cvml',
+> 'shibata.hiroshi@gmail.com');>> wrote:
+>
+>> 参加します。
+>>
+>> フランスのお菓子を持って行きます。
+>>
+>>
+>> 2012年11月25日 21:01 <takkanm@gmail.com <javascript:_e({}, 'cvml',
+>> 'takkanm@gmail.com');>>:
+>>
+>> 明後日火曜は 186 回目の Meetup です。
+>>>
+>>> 会場は上野 E 和で行ないたいと思います。
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/hack186.html
+>>> ML-> asakusarb@qwik.jp <javascript:_e({}, 'cvml', 'asakusarb@qwik.jp');>
+>>>
+>>
+>>
+>>
+>> --
+>> SHIBATA Hiroshi shibata.hiroshi@gmail.com <javascript:_e({}, 'cvml',
+>> 'shibata.hiroshi@gmail.com');>
+>> http://www.hsbt.org/
+>>
+>
+>
+>
+> --
+> Akira Matsuda<ronnie@dio.jp <javascript:_e({}, 'cvml', 'ronnie@dio.jp');>>
+>
+>
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(yutaka@yanoh.mydns.jp,1353977147)
+矢野尾です。
+
+参加します。
+AdLint が ruby-2.0.0-preview1 で遅くなった件のベンチマーク作成します。
+
+> 五十嵐です。
+> 参加します。
+> 資料を作ったり、フランスのお菓子を食べたりします。
+>
+>
+> 2012年11月26日月曜日 Akira Matsuda ronnie@dio.jp:
+>
+>> 参加します。
+>>
+>> 我らがActionArgsをRails 4のStrongParameters対応してみたんですが、
+>> こんな感じでよいかどうか、どなたか識者の方からご意見ほしい感じです。
+>> https://github.com/asakusarb/action_args/compare/v0.0.3...HEAD
+>>
+>> あと、フランスのお菓子を食べにいきます。
+>>
+>> ちなみに、前回行われたRubyの処理系のThreadとかGCとかを読んだりする会は、今週はお休みになりそうです。
+>>
+>>
+>>
+>> On Sun, Nov 25, 2012 at 9:25 PM, SHIBATA Hiroshi <
+>> shibata.hiroshi@gmail.com <javascript:_e({}, 'cvml',
+>> 'shibata.hiroshi@gmail.com');>> wrote:
+>>
+>>> 参加します。
+>>>
+>>> フランスのお菓子を持って行きます。
+>>>
+>>>
+>>> 2012年11月25日 21:01 <takkanm@gmail.com <javascript:_e({}, 'cvml',
+>>> 'takkanm@gmail.com');>>:
+>>>
+>>> 明後日火曜は 186 回目の Meetup です。
+>>>>
+>>>> 会場は上野 E 和で行ないたいと思います。
+>>>>
+>>>> --
+>>>> archive-> http://qwik.jp/asakusarb/hack186.html
+>>>> ML-> asakusarb@qwik.jp <javascript:_e({}, 'cvml',
+>>>> 'asakusarb@qwik.jp');>
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>> SHIBATA Hiroshi shibata.hiroshi@gmail.com <javascript:_e({}, 'cvml',
+>>> 'shibata.hiroshi@gmail.com');>
+>>> http://www.hsbt.org/
+>>>
+>>
+>>
+>>
+>> --
+>> Akira Matsuda<ronnie@dio.jp <javascript:_e({}, 'cvml',
+>> 'ronnie@dio.jp');>>
+>>
+>>
+>
+> --
+> igaiga@gmail.com
+>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack186.html
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(ko1@atdot.net,1353981802)
+(2012/11/27 9:45), yutaka@yanoh.mydns.jp wrote:
+> AdLint が ruby-2.0.0-preview1 で遅くなった件のベンチマーク作成します。
+
+期待しています！
+あと，GC の時間を計って貰えるといいかも．
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(mrkn@mrkn.jp,1353981945)
+むらたです。
+
+今日は au ショップに用事があるため、
+終わりの時間によっては行かないかもしれません。
+
+2012年11月27日 11:03 SASADA Koichi <ko1@atdot.net>:
+> (2012/11/27 9:45), yutaka@yanoh.mydns.jp wrote:
+>> AdLint が ruby-2.0.0-preview1 で遅くなった件のベンチマーク作成します。
+>
+> 期待しています！
+> あと，GC の時間を計って貰えるといいかも．
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack186.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Kenta Murata
+OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+
+本を書きました!!
+『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+
+E-mail: mrkn@mrkn.jp
+http://mrkn.jp/
+}}
+{{mail(yuki.torii.23@gmail.com,1353986072)
+鳥井です
+
+久しぶりに参加させていただきます。
+アプリを作っているか、レポートを書いているか、フランスのお菓子を食べています。
+
+
+2012年11月27日 11:05 Kenta Murata <mrkn@mrkn.jp>:
+
+> むらたです。
+>
+> 今日は au ショップに用事があるため、
+> 終わりの時間によっては行かないかもしれません。
+>
+> 2012年11月27日 11:03 SASADA Koichi <ko1@atdot.net>:
+> > (2012/11/27 9:45), yutaka@yanoh.mydns.jp wrote:
+> >> AdLint が ruby-2.0.0-preview1 で遅くなった件のベンチマーク作成します。
+> >
+> > 期待しています！
+> > あと，GC の時間を計って貰えるといいかも．
+> >
+> > --
+> > // SASADA Koichi at atdot dot net
+> >
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack186.html
+> > ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> Kenta Murata
+> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>
+> 本を書きました!!
+> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>
+> E-mail: mrkn@mrkn.jp
+> http://mrkn.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack186.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+{{mail(kakyoin.hierophant@gmail.com,1353986489)
+橋立です。  
+
+参加予定です。
+20時前ぐらいには着くと思います。
+refinementで使っているgemを書き直してみるか、個人的なRailsアプリの改修をやるつもり。
+
+--
+Tomohiro Hashidate
+
+
+日付：2012年11月27日火曜日、時刻：12:14、差出人：鳥井雪：
+
+> 鳥井です
+>  
+> 久しぶりに参加させていただきます。
+> アプリを作っているか、レポートを書いているか、フランスのお菓子を食べています。
+>  
+>  
+> 2012年11月27日 11:05 Kenta Murata <mrkn@mrkn.jp (mailto:mrkn@mrkn.jp)>:
+> > むらたです。
+> >  
+> > 今日は au ショップに用事があるため、
+> > 終わりの時間によっては行かないかもしれません。
+> >  
+> > 2012年11月27日 11:03 SASADA Koichi <ko1@atdot.net (mailto:ko1@atdot.net)>:
+> > > (2012/11/27 9:45), yutaka@yanoh.mydns.jp (mailto:yutaka@yanoh.mydns.jp) wrote:
+> > >> AdLint が ruby-2.0.0-preview1 で遅くなった件のベンチマーク作成します。
+> > >
+> > > 期待しています！
+> > > あと，GC の時間を計って貰えるといいかも．
+> > >
+> > > --
+> > > // SASADA Koichi at atdot dot net
+> > >
+> > > --
+> > > archive-> http://qwik.jp/asakusarb/hack186.html
+> > > ML-> asakusarb@qwik.jp (mailto:asakusarb@qwik.jp)
+> >  
+> >  
+> >  
+> > --
+> > Kenta Murata
+> > OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+> >  
+> > 本を書きました!!
+> > 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+> >  
+> > E-mail: mrkn@mrkn.jp (mailto:mrkn@mrkn.jp)
+> > http://mrkn.jp/
+> >  
+> > --
+> > archive-> http://qwik.jp/asakusarb/hack186.html
+> > ML-> asakusarb@qwik.jp (mailto:asakusarb@qwik.jp)
+>  
+
+}}
+{{mail(matsumoto.katsuyoshi@gmail.com,1353988241)
+katsyoshiです。
+参加します。
+橋立さんにGentooTシャツ渡しに多分行きます。
+
+2012年11月27日 12:21 Tomohiro Hashidate <kakyoin.hierophant@gmail.com>:
+> 橋立です。
+>
+> 参加予定です。
+> 20時前ぐらいには着くと思います。
+> refinementで使っているgemを書き直してみるか、個人的なRailsアプリの改修をやるつもり。
+>
+> --
+> Tomohiro Hashidate
+>
+> 日付：2012年11月27日火曜日、時刻：12:14、差出人：鳥井雪：
+>
+> 鳥井です
+>
+> 久しぶりに参加させていただきます。
+> アプリを作っているか、レポートを書いているか、フランスのお菓子を食べています。
+>
+>
+> 2012年11月27日 11:05 Kenta Murata <mrkn@mrkn.jp>:
+>
+> むらたです。
+>
+> 今日は au ショップに用事があるため、
+> 終わりの時間によっては行かないかもしれません。
+>
+> 2012年11月27日 11:03 SASADA Koichi <ko1@atdot.net>:
+>> (2012/11/27 9:45), yutaka@yanoh.mydns.jp wrote:
+>>> AdLint が ruby-2.0.0-preview1 で遅くなった件のベンチマーク作成します。
+>>
+>> 期待しています！
+>> あと，GC の時間を計って貰えるといいかも．
+>>
+>> --
+>> // SASADA Koichi at atdot dot net
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack186.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> Kenta Murata
+> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>
+> 本を書きました!!
+> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>
+> E-mail: mrkn@mrkn.jp
+> http://mrkn.jp/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack186.html
+> ML-> asakusarb@qwik.jp
+>
+>
+>
+
+
+
+-- 
+松本 勝慶
+
+Matsumoto, Katsuyoshi
+
+matsumoto.katsuyoshi@gmail.com
+}}
+{{mail(digital.ipseity@gmail.com,1353988685)
+randymです。参加します。初参加のゲストも連れてきますので、よろしくお願いします。travis-ciのi18nの周りをいじります。
+
+Sent from my iPhone
+
+On 2012/11/27, at 12:50, 松本勝慶 <matsumoto.katsuyoshi@gmail.com> wrote:
+
+> katsyoshiです。
+> 参加します。
+> 橋立さんにGentooTシャツ渡しに多分行きます。
+> 
+> 2012年11月27日 12:21 Tomohiro Hashidate <kakyoin.hierophant@gmail.com>:
+>> 橋立です。
+>> 
+>> 参加予定です。
+>> 20時前ぐらいには着くと思います。
+>> refinementで使っているgemを書き直してみるか、個人的なRailsアプリの改修をやるつもり。
+>> 
+>> --
+>> Tomohiro Hashidate
+>> 
+>> 日付：2012年11月27日火曜日、時刻：12:14、差出人：鳥井雪：
+>> 
+>> 鳥井です
+>> 
+>> 久しぶりに参加させていただきます。
+>> アプリを作っているか、レポートを書いているか、フランスのお菓子を食べています。
+>> 
+>> 
+>> 2012年11月27日 11:05 Kenta Murata <mrkn@mrkn.jp>:
+>> 
+>> むらたです。
+>> 
+>> 今日は au ショップに用事があるため、
+>> 終わりの時間によっては行かないかもしれません。
+>> 
+>> 2012年11月27日 11:03 SASADA Koichi <ko1@atdot.net>:
+>>> (2012/11/27 9:45), yutaka@yanoh.mydns.jp wrote:
+>>>> AdLint が ruby-2.0.0-preview1 で遅くなった件のベンチマーク作成します。
+>>> 
+>>> 期待しています！
+>>> あと，GC の時間を計って貰えるといいかも．
+>>> 
+>>> --
+>>> // SASADA Koichi at atdot dot net
+>>> 
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/hack186.html
+>>> ML-> asakusarb@qwik.jp
+>> 
+>> 
+>> 
+>> --
+>> Kenta Murata
+>> OpenPGP FP = 1D69 ADDE 081C 9CC2 2E54  98C1 CEFE 8AFB 6081 B062
+>> 
+>> 本を書きました!!
+>> 『Ruby 逆引きレシピ』 http://www.amazon.co.jp/dp/4798119881/mrkn-22
+>> 
+>> E-mail: mrkn@mrkn.jp
+>> http://mrkn.jp/
+>> 
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack186.html
+>> ML-> asakusarb@qwik.jp
+>> 
+>> 
+>> 
+> 
+> 
+> 
+> -- 
+> 松本 勝慶
+> 
+> Matsumoto, Katsuyoshi
+> 
+> matsumoto.katsuyoshi@gmail.com
+> 
+> -- 
+> archive-> http://qwik.jp/asakusarb/hack186.html 
+> ML-> asakusarb@qwik.jp
+}}
+{{mail(shintaro.kakutani@gmail.com,1353988829)
+角谷です。行きたいなーと思ってるんですが、体調がまだ全快じゃないのと、人数が部屋に対して多すぎるようだったら帰るかも。福岡Ruby会議01の招待講演で話す内容を練らないとなー、と思っているのですがそろそろ大江戸Ruby会議03のことや、The
+RubyKaigiのことを進めていかないといけないのであった。
+}}
+{{mail(moronatural@gmail.com,1354005001)
+もろはしです。
+
+20:00くらいまで参加します。
+}}
+{{mail(kei.shiratsuchi@gmail.com,1354006599)
+kei-s です。
+
+ひさしぶりに参加します。
+(えむさんに借金の返済をします)
+あまり長いこと居られないかもしれません。
+
+On Tue, Nov 27, 2012 at 5:29 PM, MOROHASHI Kyosuke
+<moronatural@gmail.com> wrote:
+> もろはしです。
+>
+> 20:00くらいまで参加します。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack186.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+ 白土慧 <kei.shiratsuchi@gmail.com>
+ http:/tako3.com/http://twitter.com/kei_s
+ http://twitter.com/kei_s
+}}
+{{mail(takahashimm@gmail.com,1354009690)
+高橋征義です。
+
+本日参加します。rubyconf.twの準備をします。
+
+あと、温泉のお金を回収しつつささださんに支払いを…と思ったら
+ささださんは来られないのか。
+
+-- 
+高橋征義 (takahashimm@gmail.com)
+}}

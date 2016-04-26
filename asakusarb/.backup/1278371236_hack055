@@ -1,0 +1,113 @@
+* 第55回Asakusa.rb(2010-07-06)
+{{mail(shibata.hiroshi@gmail.com,1278043804)
+柴田です。
+
+いつも通りインターホン係可能です!
+色々やりたいことが増えてきました。
+
+- amazon-auth-proxy-heroku
+- testable tDiary
+- asakusa.rb の開催通知を半自動化する何か on heroku
+
+来週はひとまず amazon-auth-proxy かなあ。
+}}
+{{mail(takkanm@gmail.com,1278045072)
+takkanmです。
+
+たぶん、るびまのプレゼントの抽選とか、某レポートについてとか
+やらざるをえない状況だと思っているのでいきます。
+}}
+{{mail(nakahiro@gmail.com,1278322439)
+行きます。相変わらずJRubyやります。
+@unakさんが来るかもしれないらしいよ > http://twitter.com/unak/status/17778235572
+}}
+{{mail(shibata.hiroshi@gmail.com,1278329548)
+明日ですがいつもの場所のインターホンが故障してしまったので
+下に到着して扉が開きそうになかったら Twitter か電話でお知らせください。
+
+TEL:09062646694 (しばた宛)
+
+誰となく迎えに行きます。よろしくお願いします。
+}}
+{{mail(ronnie@dio.jp,1278331842)
+On 2010/07/05, at 18:33, NAKAMURA, Hiroshi wrote:
+
+> 行きます。相変わらずJRubyやります。
+> @unakさんが来るかもしれないらしいよ > http://twitter.com/unak/status/17778235572
+
+えええええー。
+いやもちろん、いらしてくださるのは大歓迎なんですが、
+取られちゃうのか。。。
+そうするとあさってからは「Asak.rb」になっちゃうってことですかね。
+あさっく.rb。
+
+--
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(nobu.nakada@gmail.com,1278338728)
+なかだです。
+
+At Mon, 5 Jul 2010 21:10:41 +0900,
+Akira Matsuda wrote in [asakusarb:1017]:
+> > @unakさんが来るかもしれないらしいよ > http://twitter.com/unak/status/17778235572
+> 
+> えええええー。
+> いやもちろん、いらしてくださるのは大歓迎なんですが、
+> 取られちゃうのか。。。
+
+返り討ちにすればいいのでは。
+
+> そうするとあさってからは「Asak.rb」になっちゃうってことですかね。
+> あさっく.rb。
+
+As soon as ... known?
+
+-- 
+--- 僕の前にBugはない。
+--- 僕の後ろにBugはできる。
+    中田 伸悦
+}}
+{{mail(igaiga@gmail.com,1278368527)
+いがいがです。
+
+参加予定です。
+RubyKaigi企画かOAuthやります。
+
+
+
+2010年7月5日23:05 Nobuyoshi Nakada <nobu@ruby-lang.org>:
+> なかだです。
+>
+> At Mon, 5 Jul 2010 21:10:41 +0900,
+> Akira Matsuda wrote in [asakusarb:1017]:
+>> > @unakさんが来るかもしれないらしいよ > http://twitter.com/unak/status/17778235572
+>>
+>> えええええー。
+>> いやもちろん、いらしてくださるのは大歓迎なんですが、
+>> 取られちゃうのか。。。
+>
+> 返り討ちにすればいいのでは。
+>
+>> そうするとあさってからは「Asak.rb」になっちゃうってことですかね。
+>> あさっく.rb。
+>
+> As soon as ... known?
+>
+> --
+> --- 僕の前にBugはない。
+> --- 僕の後ろにBugはできる。
+>    中田 伸悦
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack055.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+igaiga@gmail.com
+}}
+{{mail(ursm@ursm.jp,1278371236)
+須藤さんからパッチをいただいたので何とかしつつ色々投げ返します。あと rubykaigi.org。
+}}

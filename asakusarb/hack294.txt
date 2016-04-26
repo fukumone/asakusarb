@@ -1,0 +1,13 @@
+* 第294回Asakusa.rb (2015-02-03)
+{{mail(takkanm@gmail.com,1422867629)
+明日は 294 回目のミートアップです。
+
+明日も上野 E 和にてお待ちしています。
+ちょっとるびまに記事を書かないといけないので、その段取りします。
+
+http://qwik.jp/asakusarb/esm_ueno.html
+
+This week meetup is going to be held tommoro evening, at same place in Ueno
+
+http://www.esm.co.jp/company/outline/tokyo_map.html
+}}

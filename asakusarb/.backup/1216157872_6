@@ -1,0 +1,39 @@
+* 「第0回」をまとめてみました
+{{mail(shintaro@kakutani.com,1216138521)
+かくたにです。
+
+「Asakusa.rbをやろう!」とa_matsudaが鼻息荒かったときに、
+ko1さんがSeattle.rbのdrbrainにチャットで「Seattle.rbってどんなふうにやってるの？」と
+聞いてくれたIRCのログを翻訳してまとめてみました。
+
+http://qwik.jp/asakusarb/000_Log.html
+
+Asakusa.rbがモデルにしようとしているSeattle.rbは、
+毎週あつまって何かhackしているらしい人たちです。
+http://www.zenspider.com/Languages/Ruby/Seattle/index.html
+-- 
+{ :name: ["KAKUTANI", "Shintaro"],
+  :email: shintaro@kakutani.com, :website: http://kakutani.com/ }
+}}
+{{mail(gunjisatoshi@gmail.com,1216157872)
+郡司です。
+
+> かくたにです。
+>
+> 「Asakusa.rbをやろう!」とa_matsudaが鼻息荒かったときに、
+> ko1さんがSeattle.rbのdrbrainにチャットで「Seattle.rbってどんなふうにやってるの？」と
+> 聞いてくれたIRCのログを翻訳してまとめてみました。
+>
+> http://qwik.jp/asakusarb/000_Log.html
+
+なるほど、とても参考になります。
+全然イメージが湧いてなかったのですが、Seattle.rbの雰囲気ってこんな感じなのですね。
+
+「決まった時間に決まった場所」というのは、たしかに重要かもしれません。
+「あの時間のあの場所に行けば、誰かが何かやってるはず」という安心感が出ますね。
+
+あとは「無線LAN」ですね。第一回の「RUMOR CAFE＆BAR」もなかなか良かったの
+ですが、有線LANでしたね。
+
+＃みんなが使えるような無線ルータの設定が今のところ課題でしょうか。
+}}

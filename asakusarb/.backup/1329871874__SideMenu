@@ -1,0 +1,36 @@
+* Menu
+- [[FrontPage]]
+
+- [[HowToJoin]]
+- [[Contacts]]
+
+* Meetup
+- [[Meetup]]
+- [[History]]
+
+* Topics
+- [[OedoRubyKaigi03]]
+- [[OedoRubyKaigi02]]
+- [[StdlibGem]]
+- [[redmine_ruby_lang_org]]
+- [[OedoRubyKaigi01]]
+- [[RubySpec]]
+- [[rvm]]
+- [[m17n‚Ì‚±‚Æ|56]]
+- [[ruby192_on_rails]]
+
+* qwik
+- [[TitleList]]
+- [[RecentList]]
+- [[TextFormat]]
+- [[_SideMenu]]
+
+{{side_search_form}}
+
+#{{side_plan}}
+#{{plan}}
+
+{{side_recent(10)}}
+
+{{rss}}
+#{{atom}}

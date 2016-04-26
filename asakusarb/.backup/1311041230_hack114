@@ -1,0 +1,379 @@
+* 114th Asakusa.rb(2011-07-19)
+
+** Ruby Hacking Night w/ Asakusa.rb!
+
+*** The Event
+This event will be held at '''the 4th day''' of RubyKaigi.
+Firstly, some of our members in the Ruby Core will give short but '''super-deep''' presentations on their specialized fields, and then let's have some group discussions (or hack) on these topics.
+
+*** Speakers
+:ko1: ruby-1.9.4 and beyond
+:nahi: require, autoload, and thread
+:yhara: ruby-dev translation, http://ruby-dev.route477.net/ (tentative)
+:arton: NougakuDo(Windows Native HttpServer for Rails)
+:tsuyoshikawa: the light and forever darkness
+(and more! please drop your name if you'd love to give a talk!)
+
+*** Place
+
+Akihabara Daibiru Bldg. 13F(tentative)
+
+http://www.i.u-tokyo.ac.jp/map/index_e.shtml#aki 
+
+
+*** Time
+- 19:00 open
+- 19:30 start
+- 22:00 close (tentative)
+
+*** People
+
+~40 (tentative)
+
+{{mail(shibata.hiroshi@gmail.com,1309259202)
+こんにちは、柴田です。
+
+English announce:
+
+http://qwik.jp/asakusarb/hack114.html
+
+にほんご:
+asakusa.rb のRuby会議第4日目 の meetup のお知らせです。
+海外から来日する予定の皆さんもご都合がよろしければご参加ください!
+
+内容:
+ruby-core チームの方にRubyの内部の話をして頂き、後半はワークショップの
+ような形で交流を深めたいと考えています。
+
+日時:
+7/19(Tue) 19:00-22:00
+
+場所:
+秋葉原ダイビル13F(仮)
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(authornari@gmail.com,1309323616)
+nariです。
+
+海外から来日というわけではないのですが、参加させてください！
+はじめてのAsaksa.rb、楽しみです！！
+
+-- 
+Narihiro Nakamura (nari)
+}}
+{{mail(tomykaira@gmail.com,1309617163)
+とみた（@tomy_kaira）です。
+RubyKaigi の勢いで参加したいです。よろしくおねがいします。
+----
+東京大学理科一類2年30組
+冨田 寛
+
+
+
+
+2011/6/28 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> こんにちは、柴田です。
+>
+> English announce:
+>
+> http://qwik.jp/asakusarb/hack114.html
+>
+> にほんご:
+> asakusa.rb のRuby会議第4日目 の meetup のお知らせです。
+> 海外から来日する予定の皆さんもご都合がよろしければご参加ください!
+>
+> 内容:
+> ruby-core チームの方にRubyの内部の話をして頂き、後半はワークショップの
+> ような形で交流を深めたいと考えています。
+>
+> 日時:
+> 7/19(Tue) 19:00-22:00
+>
+> 場所:
+> 秋葉原ダイビル13F(仮)
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack114.html
+> ML-> asakusarb@qwik.jp
+>
+}}
+
+{{mail(shibata.hiroshi@gmail.com,1310743715)
+柴田です。
+
+今日の JRubyKaigi で takai さんから飲食関係の状況について質問されたので
+確認させてください。
+
+114th meetup は飲食は持ち寄りということでいいでしょうか?
+なお、この前の crusing の残りが1万円くらいあるのでそれで買い出しに
+行くというのもありだと思います。
+
+明日には決めてアナウンスしておこうと思いますので、誰となく返事をください。
+スライド作成が大変かと思いますが、よろしくお願いします。
+}}
+{{mail(shintaro.kakutani@gmail.com,1310744384)
+去年ほど盛大な宴会シフトにはしないほうがいいんじゃないかなあ、と思ってます。
+とりいそぎ。odrk資金で買い出しするのは賛成です。
+
+2011/7/16 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 柴田です。
+>
+> 今日の JRubyKaigi で takai さんから飲食関係の状況について質問されたので
+> 確認させてください。
+>
+> 114th meetup は飲食は持ち寄りということでいいでしょうか?
+> なお、この前の crusing の残りが1万円くらいあるのでそれで買い出しに
+> 行くというのもありだと思います。
+>
+> 明日には決めてアナウンスしておこうと思いますので、誰となく返事をください。
+> スライド作成が大変かと思いますが、よろしくお願いします。
+>
+> --
+> archive-> http://qwik.jp/asakusarb/187.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+Kakutani Shintaro
+}}
+{{mail(ko1@atdot.net,1310745262)
+部屋の掃除が大変そうな感じにはしないで頂けると助かります...．
+
+(2011/07/16 0:39), Kakutani Shintaro wrote:
+> 去年ほど盛大な宴会シフトにはしないほうがいいんじゃないかなあ、と思ってます。
+> とりいそぎ。odrk資金で買い出しするのは賛成です。
+> 
+> 2011/7/16 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>> 柴田です。
+>>
+>> 今日の JRubyKaigi で takai さんから飲食関係の状況について質問されたので
+>> 確認させてください。
+>>
+>> 114th meetup は飲食は持ち寄りということでいいでしょうか?
+>> なお、この前の crusing の残りが1万円くらいあるのでそれで買い出しに
+>> 行くというのもありだと思います。
+>>
+>> 明日には決めてアナウンスしておこうと思いますので、誰となく返事をください。
+>> スライド作成が大変かと思いますが、よろしくお願いします。
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/187.html
+>> ML-> asakusarb@qwik.jp
+>>
+> 
+> 
+> 
+
+
+-- 
+// SASADA Koichi at atdot dot net
+}}
+{{mail(hokkai7go@gmail.com,1310977621)
+ほっかいです。
+
+なんだかレポートでぐったりしていることが予想されるんですが、
+ぜひとも行ってみたいと思います。
+
+よろしくお願いします。
+
+2011年7月16日0:54 SASADA Koichi <ko1@atdot.net>:
+> 部屋の掃除が大変そうな感じにはしないで頂けると助かります...．
+>
+> (2011/07/16 0:39), Kakutani Shintaro wrote:
+>> 去年ほど盛大な宴会シフトにはしないほうがいいんじゃないかなあ、と思ってます。
+>> とりいそぎ。odrk資金で買い出しするのは賛成です。
+>>
+>> 2011/7/16 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>>> 柴田です。
+>>>
+>>> 今日の JRubyKaigi で takai さんから飲食関係の状況について質問されたので
+>>> 確認させてください。
+>>>
+>>> 114th meetup は飲食は持ち寄りということでいいでしょうか?
+>>> なお、この前の crusing の残りが1万円くらいあるのでそれで買い出しに
+>>> 行くというのもありだと思います。
+>>>
+>>> 明日には決めてアナウンスしておこうと思いますので、誰となく返事をください。
+>>> スライド作成が大変かと思いますが、よろしくお願いします。
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/187.html
+>>> ML-> asakusarb@qwik.jp
+>>>
+>>
+>>
+>>
+>
+>
+> --
+> // SASADA Koichi at atdot dot net
+>
+> --
+> archive-> http://qwik.jp/asakusarb/187.html
+> ML-> asakusarb@qwik.jp
+>
+
+
+
+-- 
+菅井祐太朗
+<hokkai7go@gmail.com>
+}}
+{{mail(hokkai7go@gmail.com,1311034901)
+ほっかいです。
+
+Rubykaigi のおかげで会社のことなど忘れていたのですが、
+会社関係で懇親する予定があったことを忘れていました。
+
+遅れて行くことになりそうです。
+料理などの頭数には入れなくて大丈夫です。
+
+お手数おかけしますが、よろしくお願いします
+2011/07/18 17:26 "Sugai Yutaro" <hokkai7go@gmail.com>:
+> ほっかいです。
+>
+> なんだかレポートでぐったりしていることが予想されるんですが、
+> ぜひとも行ってみたいと思います。
+>
+> よろしくお願いします。
+>
+> 2011年7月16日0:54 SASADA Koichi <ko1@atdot.net>:
+>> 部屋の掃除が大変そうな感じにはしないで頂けると助かります...．
+>>
+>> (2011/07/16 0:39), Kakutani Shintaro wrote:
+>>> 去年ほど盛大な宴会シフトにはしないほうがいいんじゃないかなあ、と思ってます。
+>>> とりいそぎ。odrk資金で買い出しするのは賛成です。
+>>>
+>>> 2011/7/16 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>>>> 柴田です。
+>>>>
+>>>> 今日の JRubyKaigi で takai さんから飲食関係の状況について質問されたので
+>>>> 確認させてください。
+>>>>
+>>>> 114th meetup は飲食は持ち寄りということでいいでしょうか?
+>>>> なお、この前の crusing の残りが1万円くらいあるのでそれで買い出しに
+>>>> 行くというのもありだと思います。
+>>>>
+>>>> 明日には決めてアナウンスしておこうと思いますので、誰となく返事をください。
+>>>> スライド作成が大変かと思いますが、よろしくお願いします。
+>>>>
+>>>> --
+>>>> archive-> http://qwik.jp/asakusarb/187.html
+>>>> ML-> asakusarb@qwik.jp
+>>>>
+>>>
+>>>
+>>>
+>>
+>>
+>> --
+>> // SASADA Koichi at atdot dot net
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/187.html
+>> ML-> asakusarb@qwik.jp
+>>
+>
+>
+>
+> --
+> 菅井祐太朗
+> <hokkai7go@gmail.com>
+}}
+{{mail(tsuyoshikawa@gmail.com,1311039387)
+tsuyoshikawaです。
+
+みなさま、RubyKaigiお疲れ様です。
+
+遅ればせながら参加いたします。
+
+枠が余っておりましたら、闇スピーカーさせていただきたいです。
+よろしくお願いいたします。
+
+
+2011年7月19日9:21 Sugai Yutaro <hokkai7go@gmail.com>:
+> ほっかいです。
+>
+> Rubykaigi のおかげで会社のことなど忘れていたのですが、
+> 会社関係で懇親する予定があったことを忘れていました。
+>
+> 遅れて行くことになりそうです。
+> 料理などの頭数には入れなくて大丈夫です。
+>
+> お手数おかけしますが、よろしくお願いします
+>
+> 2011/07/18 17:26 "Sugai Yutaro" <hokkai7go@gmail.com>:
+>> ほっかいです。
+>>
+>> なんだかレポートでぐったりしていることが予想されるんですが、
+>> ぜひとも行ってみたいと思います。
+>>
+>> よろしくお願いします。
+>>
+>> 2011年7月16日0:54 SASADA Koichi <ko1@atdot.net>:
+>>> 部屋の掃除が大変そうな感じにはしないで頂けると助かります...．
+>>>
+>>> (2011/07/16 0:39), Kakutani Shintaro wrote:
+>>>> 去年ほど盛大な宴会シフトにはしないほうがいいんじゃないかなあ、と思ってます。
+>>>> とりいそぎ。odrk資金で買い出しするのは賛成です。
+>>>>
+>>>> 2011/7/16 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>>>>> 柴田です。
+>>>>>
+>>>>> 今日の JRubyKaigi で takai さんから飲食関係の状況について質問されたので
+>>>>> 確認させてください。
+>>>>>
+>>>>> 114th meetup は飲食は持ち寄りということでいいでしょうか?
+>>>>> なお、この前の crusing の残りが1万円くらいあるのでそれで買い出しに
+>>>>> 行くというのもありだと思います。
+>>>>>
+>>>>> 明日には決めてアナウンスしておこうと思いますので、誰となく返事をください。
+>>>>> スライド作成が大変かと思いますが、よろしくお願いします。
+>>>>>
+>>>>> --
+>>>>> archive-> http://qwik.jp/asakusarb/187.html
+>>>>> ML-> asakusarb@qwik.jp
+>>>>>
+>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> // SASADA Koichi at atdot dot net
+>>>
+>>> --
+>>> archive-> http://qwik.jp/asakusarb/187.html
+>>> ML-> asakusarb@qwik.jp
+>>>
+>>
+>>
+>>
+>> --
+>> 菅井祐太朗
+>> <hokkai7go@gmail.com>
+>
+
+
+
+-- 
+吉川　毅<tsuyoshikawa@gmail.com>
+}}
+{{mail(shibata.hiroshi@gmail.com,1311040149)
+Permalink が揺れてしまったのでこっちに統一します。
+
+スピーカーに arton さんと tsuyoshikawa さんを追加しました。
+本日はよろしくお願いします。
+
+19:00 から会場設営、19:30くらいから開始予定なので時間に都合のつく方は
+手伝ってもらえると助かります。
+}}

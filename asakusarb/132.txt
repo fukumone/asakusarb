@@ -1,0 +1,13 @@
+* 「参加します」 とかそんな感じ
+{{mail(watarum2@gmail.com,1292925089)
+来年、南千住に引っ越しますwatarumと申します。
+秋葉原でRailsがらみの開発やってます。
+どうぞよろしくお願いいたします。
+
+-- 
+----
+above message was written by watarum.
+Twitter:@watarum Skype:watarum_skype
+Phone:080-4207-9428
+----
+}}

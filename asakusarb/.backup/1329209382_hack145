@@ -1,0 +1,119 @@
+* 第145回Asakusa.rb (2012-02-14)
+{{mail(shibata.hiroshi@gmail.com,1329182089)
+柴田です。
+
+今日は heroku meetup やバレンタインがあったりしますが、
+asakusa.rb はいつも通り開催予定です。
+
+来週のゲストの段取りをもう少し詳しくしたり、tDiary に Github Flavored Markdown を
+使えるようにするコミットが入ったのでその辺を追いかけたりしようかなあと思います。
+
+-- 
+SHIBATA Hiroshi shibata.hiroshi@gmail.com
+http://www.hsbt.org/
+}}
+{{mail(ronnie@dio.jp,1329184491)
+そうですね。来週のゲスト。ほんとに来週来ちゃのかー。うひょー
+(再掲) https://twitter.com/#!/pragdave/status/166002282494820352
+
+
+2012/2/14 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 柴田です。
+>
+> 今日は heroku meetup やバレンタインがあったりしますが、
+> asakusa.rb はいつも通り開催予定です。
+>
+> 来週のゲストの段取りをもう少し詳しくしたり、tDiary に Github Flavored Markdown を
+> 使えるようにするコミットが入ったのでその辺を追いかけたりしようかなあと思います。
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack145.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+Akira Matsuda<ronnie@dio.jp>
+}}
+{{mail(ogijun@gmail.com,1329188800)
+ひえええ
+
+2012/2/14 Akira Matsuda <ronnie@dio.jp>:
+> そうですね。来週のゲスト。ほんとに来週来ちゃのかー。うひょー
+> (再掲) https://twitter.com/#!/pragdave/status/166002282494820352
+>
+>
+> 2012/2/14 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+>> 柴田です。
+>>
+>> 今日は heroku meetup やバレンタインがあったりしますが、
+>> asakusa.rb はいつも通り開催予定です。
+>>
+>> 来週のゲストの段取りをもう少し詳しくしたり、tDiary に Github Flavored Markdown を
+>> 使えるようにするコミットが入ったのでその辺を追いかけたりしようかなあと思います。
+>>
+>> --
+>> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+>> http://www.hsbt.org/
+>>
+>> --
+>> archive-> http://qwik.jp/asakusarb/hack145.html
+>> ML-> asakusarb@qwik.jp
+>
+>
+>
+> --
+> Akira Matsuda<ronnie@dio.jp>
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack145.html
+> ML-> asakusarb@qwik.jp
+
+
+
+-- 
+ogijun
+}}
+{{mail(shyouhei@ruby-lang.org,1329188870)
+On 2012年02月14日 10:54, Akira Matsuda wrote:
+> そうですね。来週のゲスト。ほんとに来週来ちゃのかー。うひょー
+> (再掲) https://twitter.com/#!/pragdave/status/166002282494820352
+
+まじで。
+
+これ行けないの残念だなー
+}}
+{{mail(tad.a.digger@gmail.com,1329209381)
+斎藤と申します。
+
+Daveに会いたい！のですが、とりあえずその前に、レギュラーミーティングに
+初参加させていただこうと思います。
+
+会場はE和さんでよろしいんでしょうか？
+
+活動としては、まずは1.9.3をコンパイルするところから、かな……。
+
+2012年2月14日10:14 SHIBATA Hiroshi <shibata.hiroshi@gmail.com>:
+> 柴田です。
+>
+> 今日は heroku meetup やバレンタインがあったりしますが、
+> asakusa.rb はいつも通り開催予定です。
+>
+> 来週のゲストの段取りをもう少し詳しくしたり、tDiary に Github Flavored Markdown を
+> 使えるようにするコミットが入ったのでその辺を追いかけたりしようかなあと思います。
+>
+> --
+> SHIBATA Hiroshi shibata.hiroshi@gmail.com
+> http://www.hsbt.org/
+>
+> --
+> archive-> http://qwik.jp/asakusarb/hack145.html
+> ML-> asakusarb@qwik.jp
+
+-- 
+斎藤ただし
+}}
