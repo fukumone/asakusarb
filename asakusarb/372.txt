@@ -1,7 +1,0 @@
-* Asakusa.rbに参加したいです
-{{mail(ksk.i.530@gmail.com,1442994798)
-はじめまして。MoneyforwardでRailsエンジニアをやっている泉谷と申します。
-Ruby歴は3年ほどでまだまだ若輩者ですが、よろしくお願いします！
-
-twitter: https://twitter.com/syguer
-}}

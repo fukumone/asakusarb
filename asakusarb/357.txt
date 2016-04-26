@@ -1,8 +1,0 @@
-* Asakusa.rb参加します
-{{mail(treby006@gmail.com,1432705149)
-はじめまして、二宮ともうします。
-業務でRuby / Railsを使うようになったので是非勉強させていただきたいです。
-よろしくお願いします。
-
-ブログを書いています： http://blog.spacemarket.com/author/treby/
-}}

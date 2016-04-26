@@ -1,7 +1,0 @@
-* よろしくお願い致します！
-{{mail(seaforestmountain@gmail.com,1330880943)
-海山(@sea__mountain)こと山内と申します！
-今週より社会人になるため、上京しました。
-RubyとRailsが大好きです。
-よろしくお願い致します！
-}}

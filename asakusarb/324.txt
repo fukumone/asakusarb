@@ -1,6 +1,0 @@
-* asakusa.rb参加希望 福井透
-{{mail(fukuimone@gmail.com,1395054260)
-はじめまして、Rubyistになって一年未満ですが仕事でRubyとRailsを使っています。
-Rubyについてもっと知りたくまた、asakusa.rbに参加したくメールしました。
-よろしくお願いします！
-}}

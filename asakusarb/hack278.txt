@@ -1,9 +1,0 @@
-* 第278回Asakusa.rb (2014-09-16)
-{{mail(takkanm@gmail.com,1410841500)
-今日は 278 回目のミートアップこと
-Pre-RubyKaigi Welcome party ですね。
-
-http://asakusarb.doorkeeper.jp/events/13881
-
-参加される方は、会場でお会いしましょう
-}}

@@ -1,8 +1,0 @@
-* Asakusa.rb 参加希望
-{{mail(kenzy66@gmail.com,1294802792)
-初めまして。新宿区に住んでいるkenzy66と申します。
-プログラミングは大学でCを学びましたが完全に忘れ、会社ではExcelVBAを良く使っていました。今年の9月頃からRubyの勉強を始めました。専らProject
-Eulerを解くために使用しています。
-Head First RailsでRoRも勉強中です。
-よろしくお願いします。
-}}

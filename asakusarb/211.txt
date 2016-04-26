@@ -1,4 +1,0 @@
-* 
-{{mail(morimoto@make-install.com,1325911123)
-unsubscribe
-}}

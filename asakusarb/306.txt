@@ -1,8 +1,0 @@
-* Asakusa.rb参加希望
-{{mail(masa.sakagami@gmail.com,1381149261)
-Ruby歴はまだ浅いので、より深く勉強したく参加希望します。
-よろしくお願いします。
-
--- 
-坂上 真大<masa.sakagami@gmail.com>
-}}

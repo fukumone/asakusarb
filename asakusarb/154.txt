@@ -1,4 +1,0 @@
-* 東京電力 計画停電カレンダー
-{{mail(monjudoh@gmail.com,1300242075)
-https://sites.google.com/a/creco.net/teiden-calendar/
-}}
