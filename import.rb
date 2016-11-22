@@ -4,12 +4,11 @@ require 'pp'
 require 'pry'
 
 class Importer
-  def initialize(client, wiki_repo_url)
+  def initialize(client)
     @client = client
 
-    `git clone #{wiki_repo_url} wiki_data` unless File.exist? 'wiki_data'
-    Dir.chdir('wiki_data')
-    @file_names = Dir.glob('*.md')
+    Dir.chdir('asakusarb')
+    @file_names = Dir.glob("*.md").reject {|f| f.start_with?("_") }.sort
   end
   attr_accessor :client, :file_names
 
@@ -26,18 +25,25 @@ class Importer
 
       title = File.basename(file_name)
 
+      if title.start_with?("hack") && title != "hack000.md"
+        num, date = File.read(file_name).lines.first.scan(/第?(\d+)(?:回|th) *Asakusa\.rb *\((.*)\)/).first
+        binding.pry unless num || date
+        date = Date.parse(date)
+        hack_category = "/meetup/#{date.strftime("%Y/%m/%d")}"
+        title = "第#{num}回"
+      end
+
       params = {
         name:     title,
-        category: "Imports/GitHubWiki",
+        category: "Imports/Qwik#{hack_category}",
         body_md:  File.read(file_name),
         wip:      false,
-        message:  '[skip notice] Imported from GitHub Wiki',
+        message:  '[skip notice] Imported from Qwik Wiki',
         user:     'esa_bot' # 記事作成者上書き: owner権限が必要
       }
 
       if dry_run
-        pp params
-        puts
+        p({file_name: file_name, name: params[:name], category: params[:category]})
         next
       end
 
@@ -60,10 +66,10 @@ class Importer
 end
 
 client = Esa::Client.new(
-  access_token: 'xxxxx',
-  current_team: 'your-team-name' # 移行先のチーム名(サブドメイン)
+  access_token: ENV['ESA_API_TOKEN'],
+  current_team: ENV['ESA_TEAM'] # 移行先のチーム名(サブドメイン)
 )
-importer = Importer.new(client, 'https://github.com/[organization]/[repo].wiki.git')
+importer = Importer.new(client)
 
 # dry_run: trueで確認後に dry_run: falseで実際にimportを実行
 importer.import(dry_run: true)

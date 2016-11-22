@@ -1,0 +1,18 @@
+version: '2'
+services:
+  ruby:
+    image: ruby
+    command: bash
+    working_dir: /app
+    environment:
+      BUNDLE_PATH: /tmp/vendor/bundle
+      BUNDLE_JOBS: 4
+      LANG: C.UTF-8
+      LC_ALL: C.UTF-8
+      ESA_API_TOKEN: $ESA_API_TOKEN
+      ESA_TEAM: $ESA_TEAM
+    volumes:
+      - .:/app
+      - bundle:/tmp/vendor/bundle
+volumes:
+  bundle:
